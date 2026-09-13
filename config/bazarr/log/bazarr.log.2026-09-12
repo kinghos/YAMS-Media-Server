@@ -1,0 +1,179 @@
+2026-09-12 19:26:44|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 19:26:46|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 19:26:46|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 19:26:46|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 20:15:53|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 20:15:55|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 20:15:55|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 20:15:55|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 20:20:06|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 20:20:08|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 20:20:08|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 20:20:08|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 20:22:25|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 20:22:27|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 20:22:27|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 20:22:27|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 20:25:05|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 20:25:07|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 20:25:07|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 20:25:07|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 20:48:12|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 20:48:14|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 20:48:14|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 20:48:14|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 20:50:44|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 20:50:46|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 20:50:46|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 20:50:46|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 21:05:39|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 21:05:41|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 21:05:41|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 21:05:41|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 21:08:54|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 21:08:56|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 21:08:56|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 21:08:56|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 21:23:54|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 21:23:56|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 21:23:56|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 21:23:56|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 21:26:45|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 21:26:46|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 21:26:46|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 21:26:46|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 21:44:40|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 21:44:42|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 21:44:42|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 21:44:42|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 21:58:39|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 21:58:41|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 21:58:41|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 21:58:41|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 22:26:28|INFO    |root                            |BAZARR throttled providers have been reset (only AuthenticationError, ConfigurationError and PaymentRequired).|
+2026-09-12 22:26:28|INFO    |root                            |BAZARR throttled providers have been reset (only AuthenticationError, ConfigurationError and PaymentRequired).|
+2026-09-12 22:26:28|INFO    |root                            |BAZARR throttled providers have been reset (only AuthenticationError, ConfigurationError and PaymentRequired).|
+2026-09-12 22:29:37|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 22:30:43|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 22:30:43|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 22:31:12|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 22:31:12|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 22:41:33|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 22:41:59|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 22:42:01|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 22:42:01|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 22:42:01|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 22:42:01|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 22:42:01|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 22:42:01|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 22:42:01|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 22:48:06|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 22:48:06|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 22:51:42|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 22:51:44|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 22:51:44|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 22:51:44|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 22:51:44|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 22:51:44|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 22:51:44|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 22:51:44|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:03:27|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:03:29|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:03:29|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:03:29|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:03:29|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:03:29|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:03:29|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:03:29|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:04:11|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:04:13|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:04:13|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:04:13|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:04:13|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:04:13|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:04:13|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:04:13|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:08:51|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:08:53|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:08:53|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:08:53|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:08:53|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:08:53|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:08:53|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:08:53|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:17:13|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:17:13|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:18:08|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:18:10|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:18:10|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:18:10|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:18:10|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:18:10|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:18:10|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:18:11|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:21:31|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:21:31|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:22:17|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:22:19|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:22:19|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:22:19|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:22:19|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:22:19|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:22:19|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:22:19|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:27:29|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:27:31|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:27:31|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:27:31|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:27:31|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:27:31|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:27:31|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:27:31|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:35:21|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:35:21|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:42:01|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:42:03|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:42:03|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:42:03|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:42:03|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:42:03|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:42:03|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:42:03|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:46:34|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:46:36|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:46:36|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:46:36|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:46:36|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:46:36|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:46:36|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:46:36|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:50:31|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:50:31|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:51:42|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:51:44|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:51:44|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:51:44|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:51:44|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:51:44|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:51:44|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:51:44|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:51:54|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:51:54|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:52:35|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:52:37|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:52:37|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:52:37|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:52:37|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:52:37|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:52:37|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-12 23:52:37|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:52:57|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:52:57|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-12 23:53:30|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-12 23:53:31|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-12 23:53:31|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-12 23:53:31|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-12 23:53:31|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-12 23:53:31|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-12 23:53:31|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-12 23:53:31|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|

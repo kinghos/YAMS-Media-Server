@@ -1,0 +1,1091 @@
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release 'You and I Are Polar Opposites S02E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR, Seihantai na Kimi to Boku 2nd Season, You and I Are Polar Opposites Season 2)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string 'You and I Are Polar Opposites S02E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR, Seihantai na Kimi to Boku 2nd Season, You and I Are Polar Opposites Season 2)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. You and I Are Polar Opposites - S02E11 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for 'You and I Are Polar Opposites S02E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR, Seihantai na Kimi to Boku 2nd Season, You and I Are Polar Opposites Season 2)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Tsundere-Raws
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series You and I Are Polar Opposites
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release 'You and I Are Polar Opposites S02E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR, Seihantai na Kimi to Boku 2nd Season, You and I Are Polar Opposites Season 2)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[ToonsHub] You and I Are Polar Opposites S02E09 1080p CR WEB-DL DUAL AAC2.0 H.264 (Seihantai na Kimi to Boku, Dual-Audio, Multi-Subs)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[ToonsHub] You and I Are Polar Opposites S02E09 1080p CR WEB-DL DUAL AAC2.0 H.264 (Seihantai na Kimi to Boku, Dual-Audio, Multi-Subs)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. You and I Are Polar Opposites - S02E09 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[ToonsHub] You and I Are Polar Opposites S02E09 1080p CR WEB-DL DUAL AAC2.0 H.264 (Seihantai na Kimi to Boku, Dual-Audio, Multi-Subs)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: ToonsHub
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series You and I Are Polar Opposites
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[ToonsHub] You and I Are Polar Opposites S02E09 1080p CR WEB-DL DUAL AAC2.0 H.264 (Seihantai na Kimi to Boku, Dual-Audio, Multi-Subs)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Yameii] You and I Are Polar Opposites - S02E09 [English Dub] [CR WEB-DL 720p H264 AAC] [9E9DA5A1] (Seihantai na Kimi to Boku Season 2 | S2)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Yameii] You and I Are Polar Opposites - S02E09 [English Dub] [CR WEB-DL 720p H264 AAC] [9E9DA5A1] (Seihantai na Kimi to Boku Season 2 | S2)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. You and I Are Polar Opposites - S02E09 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: English
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Yameii] You and I Are Polar Opposites - S02E09 [English Dub] [CR WEB-DL 720p H264 AAC] [9E9DA5A1] (Seihantai na Kimi to Boku Season 2 | S2)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Yameii
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series You and I Are Polar Opposites
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Yameii] You and I Are Polar Opposites - S02E09 [English Dub] [CR WEB-DL 720p H264 AAC] [9E9DA5A1] (Seihantai na Kimi to Boku Season 2 | S2)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[ToonsHub] Lets go KAIKIGUMI S01E11 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[ToonsHub] Lets go KAIKIGUMI S01E11 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Lets go KAIKIGUMI - S01E11 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[ToonsHub] Lets go KAIKIGUMI S01E11 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: ToonsHub
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Lets go KAIKIGUMI
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[ToonsHub] Lets go KAIKIGUMI S01E11 1080p CR WEB-DL AAC2.0 H.264 (Multi-Subs)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[ToonsHub] You and I Are Polar Opposites S02E11 1080p NF WEB-DL AAC2.0 H.264 (Seihantai na Kimi to Boku, Multi-Subs)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[ToonsHub] You and I Are Polar Opposites S02E11 1080p NF WEB-DL AAC2.0 H.264 (Seihantai na Kimi to Boku, Multi-Subs)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. You and I Are Polar Opposites - S02E11 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[ToonsHub] You and I Are Polar Opposites S02E11 1080p NF WEB-DL AAC2.0 H.264 (Seihantai na Kimi to Boku, Multi-Subs)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: ToonsHub
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series You and I Are Polar Opposites
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[ToonsHub] You and I Are Polar Opposites S02E11 1080p NF WEB-DL AAC2.0 H.264 (Seihantai na Kimi to Boku, Multi-Subs)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku 2nd Season - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Erai-raws
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 9AA9A435
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku 2nd Season
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku 2nd Season matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Cattleya] Let's go KAIKIGUMI - S01E11 - Mystery 11 (CR WEB-DL 1080p AAC x264) [A4BB97BD]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Cattleya] Let's go KAIKIGUMI - S01E11 - Mystery 11 (CR WEB-DL 1080p AAC x264) [A4BB97BD]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Let's go KAIKIGUMI - S01E11 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Cattleya] Let's go KAIKIGUMI - S01E11 - Mystery 11 (CR WEB-DL 1080p AAC x264) [A4BB97BD]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Cattleya
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: A4BB97BD
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Let's go KAIKIGUMI
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Cattleya] Let's go KAIKIGUMI - S01E11 - Mystery 11 (CR WEB-DL 1080p AAC x264) [A4BB97BD]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku 2nd Season - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Erai-raws
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 65DFE4E9
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku 2nd Season
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku 2nd Season matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[SubsPlease] Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8].mkv' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - 023 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[SubsPlease] Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 4F6779F8
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[SubsPlease] Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8].mkv' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[SubsPlease] Seihantai na Kimi to Boku - 23 (720p) [5EF4C272].mkv' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (720p) [5EF4C272].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - 023 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[SubsPlease] Seihantai na Kimi to Boku - 23 (720p) [5EF4C272].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 5EF4C272
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (720p) [5EF4C272]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (720p) [5EF4C272]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[SubsPlease] Seihantai na Kimi to Boku - 23 (720p) [5EF4C272].mkv' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Erai-raws] Let's Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Let's Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Erai-raws] Let's Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Erai-raws
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 58E83305
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Erai-raws] Let's Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku 2nd Season - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Erai-raws
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 21C539A1
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku 2nd Season
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Erai-raws] Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku 2nd Season matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release 'Lets go KAIKIGUMI S01E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string 'Lets go KAIKIGUMI S01E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Lets go KAIKIGUMI - S01E11 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for 'Lets go KAIKIGUMI S01E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Tsundere-Raws
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Lets go KAIKIGUMI
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release 'Lets go KAIKIGUMI S01E11 SUBFRENCH 720p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Erai-raws] Let's Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Let's Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Erai-raws] Let's Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Erai-raws
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: 61C48F3F
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Erai-raws] Let's Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[SubsPlease] Seihantai na Kimi to Boku - 23 (480p) [E0D183F8].mkv' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (480p) [E0D183F8].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - 023 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[SubsPlease] Seihantai na Kimi to Boku - 23 (480p) [E0D183F8].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: E0D183F8
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (480p) [E0D183F8]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Seihantai na Kimi to Boku - 23 (480p) [E0D183F8]'
+2026-09-13 13:39:16.5|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[SubsPlease] Seihantai na Kimi to Boku - 23 (480p) [E0D183F8].mkv' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[Erai-raws] Let's Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[Erai-raws] Let's Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621]'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[Erai-raws] Let's Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Erai-raws
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: C73AD621
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[Erai-raws] Let's Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release 'Lets go KAIKIGUMI S01E11 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string 'Lets go KAIKIGUMI S01E11 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Lets go KAIKIGUMI - S01E11 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for 'Lets go KAIKIGUMI S01E11 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: Tsundere-Raws
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Lets go KAIKIGUMI
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release 'Lets go KAIKIGUMI S01E11 SUBFRENCH 1080p CR WEB-DL AAC2.0 x264-Tsundere-Raws (VOSTFR)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[SubsPlease] Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59].mkv' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[SubsPlease] Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[SubsPlease] Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59].mkv'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.5|Debug|Parser|Release Hash parsed: D3BABA59
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[SubsPlease] Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59].mkv' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Processing release '[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.5|Debug|Parser|Parsing string '[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
+2026-09-13 13:39:16.5|Debug|Parser|Substituted with [ANi] Seihantai na Kimi to Boku S02 - 23  [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]
+2026-09-13 13:39:16.5|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku S02 - 023 
+2026-09-13 13:39:16.5|Debug|Parser|Languages parsed: Chinese
+2026-09-13 13:39:16.5|Debug|QualityParser|Trying to parse quality for '[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
+2026-09-13 13:39:16.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.5|Debug|Parser|Release Group parsed: ANi
+2026-09-13 13:39:16.5|Debug|ParsingService|No matching series Seihantai na Kimi to Boku S02
+2026-09-13 13:39:16.5|Debug|DownloadDecisionMaker|Release '[ANi] Seihantai na Kimi to Boku S02 /  相反的你和我 第二季 - 23 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[ToonsHub] You and I Are Polar Opposites S02E11 1080p BILI WEB-DL AAC2.0 H.265 (Seihantai na Kimi to Boku, Multi-Subs)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[ToonsHub] You and I Are Polar Opposites S02E11 1080p BILI WEB-DL AAC2.0 H.265 (Seihantai na Kimi to Boku, Multi-Subs)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. You and I Are Polar Opposites - S02E11 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[ToonsHub] You and I Are Polar Opposites S02E11 1080p BILI WEB-DL AAC2.0 H.265 (Seihantai na Kimi to Boku, Multi-Subs)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: ToonsHub
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series You and I Are Polar Opposites
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[ToonsHub] You and I Are Polar Opposites S02E11 1080p BILI WEB-DL AAC2.0 H.265 (Seihantai na Kimi to Boku, Multi-Subs)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[SubsPlease] Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0].mkv' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[SubsPlease] Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0].mkv'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[SubsPlease] Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0].mkv'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Release Hash parsed: BD7C71C0
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[SubsPlease] Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0].mkv' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[SubsPlease] Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9].mkv' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[SubsPlease] Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9].mkv'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[SubsPlease] Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9].mkv'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Release Hash parsed: 4C46C9D9
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[SubsPlease] Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9].mkv' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[Doomdos] - 시광대리인 3기 Part1 - 05 [1080P LFTLNET WEB-DL]' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[Doomdos] - 시광대리인 3기 Part1 - 05 [1080P LFTLNET WEB-DL]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. - 시광대리인 3기 Part1 - 005 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[Doomdos] - 시광대리인 3기 Part1 - 05 [1080P LFTLNET WEB-DL]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: Doomdos
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series - 시광대리인 3기 Part1
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[Doomdos] - 시광대리인 3기 Part1 - 05 [1080P LFTLNET WEB-DL]' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[ToonsHub] Overgeared S01E01-02 1080p LFTLNET WEB-DL AAC2.0 H.264 (Temppal: Item no Chikara, Korean Premiere)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[ToonsHub] Overgeared S01E01-02 1080p LFTLNET WEB-DL AAC2.0 H.264 (Temppal: Item no Chikara, Korean Premiere)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Overgeared - S01E01 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Korean
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[ToonsHub] Overgeared S01E01-02 1080p LFTLNET WEB-DL AAC2.0 H.264 (Temppal: Item no Chikara, Korean Premiere)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: ToonsHub
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Overgeared
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[ToonsHub] Overgeared S01E01-02 1080p LFTLNET WEB-DL AAC2.0 H.264 (Temppal: Item no Chikara, Korean Premiere)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Tenmaku no Jaadugar S01E12 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Tenmaku no Jaadugar S01E12 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tenmaku no Jaadugar - S01E12 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Tenmaku no Jaadugar S01E12 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Tenmaku no Jaadugar S01E12 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tenmaku no Jaadugar. TVDB ID for mapping: 462561
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tenmaku no Jaadugar
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Tenmaku no Jaadugar S01E12 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tenmaku no Jaadugar. TVDB ID for mapping: 462561
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Tenmaku no Jaadugar S01E12 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Tenmaku no Jaadugar matches an alias for series with TVDB ID: 462561
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Sanjuushi - 23 (NHK BSP4K TV 2160p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Sanjuushi - 23 (NHK BSP4K TV 2160p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Sanjuushi - 023 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Sanjuushi - 23 (NHK BSP4K TV 2160p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-2160p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Sanjuushi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Sanjuushi - 23 (NHK BSP4K TV 2160p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Onegai AiPri S01E24 (TVA TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Onegai AiPri S01E24 (TVA TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Onegai AiPri - S01E24 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Onegai AiPri S01E24 (TVA TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Onegai AiPri
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Onegai AiPri S01E24 (TVA TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Mizuiro Jidai S01E02 (AT-X TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Mizuiro Jidai S01E02 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Mizuiro Jidai - S01E02 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Mizuiro Jidai S01E02 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Mizuiro Jidai
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Mizuiro Jidai S01E02 (AT-X TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Mizuiro Jidai S01E01 (AT-X TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Mizuiro Jidai S01E01 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Mizuiro Jidai - S01E01 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Mizuiro Jidai S01E01 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Mizuiro Jidai
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Mizuiro Jidai S01E01 (AT-X TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Meitantei Precure! S01E33 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Meitantei Precure! S01E33 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Meitantei Precure! - S01E33 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Meitantei Precure! S01E33 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Meitantei Precure! S01E33 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Meitantei Precure!
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Meitantei Precure! S01E33 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Meitantei Precure! S01E33 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure! matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Mao S01E24 (NHK-G TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Mao S01E24 (NHK-G TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Mao - S01E24 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Mao S01E24 (NHK-G TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Mao
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Mao S01E24 (NHK-G TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Mairimashita! Iruma-kun S04E22 (NHK-E TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Mairimashita! Iruma-kun S04E22 (NHK-E TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Mairimashita! Iruma-kun - S04E22 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Mairimashita! Iruma-kun S04E22 (NHK-E TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Mairimashita! Iruma-kun S04E22 (NHK-E TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Mairimashita! Iruma-kun. TVDB ID for mapping: 369144
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Mairimashita! Iruma-kun
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Mairimashita! Iruma-kun S04E22 (NHK-E TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Mairimashita! Iruma-kun. TVDB ID for mapping: 369144
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Mairimashita! Iruma-kun S04E22 (NHK-E TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Mairimashita! Iruma-kun matches an alias for series with TVDB ID: 369144
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Kimiai S01E11 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kimiai S01E11 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Kimiai - S01E11 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Kimiai S01E11 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kimiai S01E11 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Kimiai. TVDB ID for mapping: 474490
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Kimiai
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kimiai S01E11 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Kimiai. TVDB ID for mapping: 474490
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Kimiai S01E11 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Kimiai matches an alias for series with TVDB ID: 474490
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Kamen Rider My-th S01E02 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kamen Rider My-th S01E02 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Kamen Rider My-th - S01E02 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Kamen Rider My-th S01E02 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Kamen Rider My-th
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Kamen Rider My-th S01E02 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Kakusei Hunter Omegahorn S01E08 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kakusei Hunter Omegahorn S01E08 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Kakusei Hunter Omegahorn - S01E08 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Kakusei Hunter Omegahorn S01E08 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kakusei Hunter Omegahorn S01E08 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Kakusei Hunter Omegahorn. TVDB ID for mapping: 470817
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Kakusei Hunter Omegahorn
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kakusei Hunter Omegahorn S01E08 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Kakusei Hunter Omegahorn. TVDB ID for mapping: 470817
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Kakusei Hunter Omegahorn S01E08 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Kakusei Hunter Omegahorn matches an alias for series with TVDB ID: 470817
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Kabushikigaisha Magi-Lumiere S02E09 (AT-X TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kabushikigaisha Magi-Lumiere S02E09 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Kabushikigaisha Magi-Lumiere - S02E09 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Kabushikigaisha Magi-Lumiere S02E09 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kabushikigaisha Magi-Lumiere S02E09 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magi-Lumiere. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Kabushikigaisha Magi-Lumiere
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Kabushikigaisha Magi-Lumiere S02E09 (AT-X TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magi-Lumiere. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Kabushikigaisha Magi-Lumiere S02E09 (AT-X TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Kabushikigaisha Magi-Lumiere matches an alias for series with TVDB ID: 442767
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Honzuki no Gekokujou S04E21 (CTV TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Honzuki no Gekokujou S04E21 (CTV TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Honzuki no Gekokujou - S04E21 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Honzuki no Gekokujou S04E21 (CTV TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Honzuki no Gekokujou S04E21 (CTV TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Honzuki no Gekokujou. TVDB ID for mapping: 366263
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Honzuki no Gekokujou
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Honzuki no Gekokujou S04E21 (CTV TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Honzuki no Gekokujou. TVDB ID for mapping: 366263
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Honzuki no Gekokujou S04E21 (CTV TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Honzuki no Gekokujou matches an alias for series with TVDB ID: 366263
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Doraemon (2005) S01E933 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Doraemon (2005) S01E933 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Doraemon (2005) - S01E933 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Doraemon (2005) S01E933 (NBN TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Doraemon (2005)
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Doraemon (2005) S01E933 (NBN TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Digimon Beatbreak S01E47 (KTV TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Digimon Beatbreak S01E47 (KTV TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Digimon Beatbreak - S01E47 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Digimon Beatbreak S01E47 (KTV TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Digimon Beatbreak S01E47 (KTV TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] Bleach Sennen Kessen-hen S01E48 (TVA TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Bleach Sennen Kessen-hen S01E48 (TVA TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Bleach Sennen Kessen-hen - S01E48 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] Bleach Sennen Kessen-hen S01E48 (TVA TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Bleach Sennen Kessen-hen S01E48 (TVA TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Bleach Sennen Kessen-hen. TVDB ID for mapping: 74796
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Bleach Sennen Kessen-hen
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] Bleach Sennen Kessen-hen S01E48 (TVA TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Bleach Sennen Kessen-hen. TVDB ID for mapping: 74796
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] Bleach Sennen Kessen-hen S01E48 (TVA TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Bleach Sennen Kessen-hen matches an alias for series with TVDB ID: 74796
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] 21 Emon S01E18 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] 21 Emon S01E18 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. 21 Emon - S01E18 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] 21 Emon S01E18 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series 21 Emon
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] 21 Emon S01E18 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] 21 Emon S01E17 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] 21 Emon S01E17 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. 21 Emon - S01E17 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] 21 Emon S01E17 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series 21 Emon
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] 21 Emon S01E17 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] 21 Emon S01E16 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] 21 Emon S01E16 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. 21 Emon - S01E16 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] 21 Emon S01E16 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series 21 Emon
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] 21 Emon S01E16 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] 21 Emon S01E15 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] 21 Emon S01E15 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. 21 Emon - S01E15 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] 21 Emon S01E15 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series 21 Emon
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] 21 Emon S01E15 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] 21 Emon S01E14 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] 21 Emon S01E14 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. 21 Emon - S01E14 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] 21 Emon S01E14 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series 21 Emon
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] 21 Emon S01E14 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release '[NanakoRaws] 21 Emon S01E13 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string '[NanakoRaws] 21 Emon S01E13 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. 21 Emon - S01E13 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for '[NanakoRaws] 21 Emon S01E13 (EX-CS2 TV 1080p HEVC AAC)'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: NanakoRaws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series 21 Emon
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release '[NanakoRaws] 21 Emon S01E13 (EX-CS2 TV 1080p HEVC AAC)' from 'Nyaa.si (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Sekai Saikyou no Kouei - 11 (720p) [FC197E3D] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Sekai Saikyou no Kouei - 11 (720p) [FC197E3D] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Sekai Saikyou no Kouei - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Sekai Saikyou no Kouei - 11 (720p) [FC197E3D] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Sekai Saikyou no Kouei - 11 (720p) [FC197E3D] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Sekai Saikyou no Kouei. TVDB ID for mapping: 467882
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Sekai Saikyou no Kouei
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Sekai Saikyou no Kouei - 11 (720p) [FC197E3D] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Sekai Saikyou no Kouei. TVDB ID for mapping: 467882
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Sekai Saikyou no Kouei - 11 (720p) [FC197E3D] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Sekai Saikyou no Kouei matches an alias for series with TVDB ID: 467882
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Sekai Saikyou no Kouei - 11 (480p) [E2E1A1B1] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Sekai Saikyou no Kouei - 11 (480p) [E2E1A1B1] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Sekai Saikyou no Kouei - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Sekai Saikyou no Kouei - 11 (480p) [E2E1A1B1] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Sekai Saikyou no Kouei - 11 (480p) [E2E1A1B1] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Sekai Saikyou no Kouei. TVDB ID for mapping: 467882
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Sekai Saikyou no Kouei
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Sekai Saikyou no Kouei - 11 (480p) [E2E1A1B1] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Sekai Saikyou no Kouei. TVDB ID for mapping: 467882
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Sekai Saikyou no Kouei - 11 (480p) [E2E1A1B1] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Sekai Saikyou no Kouei matches an alias for series with TVDB ID: 467882
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'BLACK TORCH S01E11 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'BLACK TORCH S01E11 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. BLACK TORCH - S01E11 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'BLACK TORCH S01E11 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: LbE3L
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series BLACK TORCH
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'BLACK TORCH S01E11 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Hanaori-san Still Wants to Fight in the Next Life S01E07 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Hanaori-san Still Wants to Fight in the Next Life S01E07 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Hanaori-san Still Wants to Fight in the Next Life - S01E07 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Hanaori-san Still Wants to Fight in the Next Life S01E07 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: LbE3L
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Hanaori-san Still Wants to Fight in the Next Life
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Hanaori-san Still Wants to Fight in the Next Life S01E07 [1080p CR WEBRip AV1 Opus 2.0 Multi-Audio MSubs] [LbE3L]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Lets Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Lets Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Lets Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Lets Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Lets Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Lets Go Kaiki-gumi - 11 [1080p CR WEB-DL AVC AAC][MultiSub][C73AD621] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Lets Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Lets Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Lets Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Lets Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Lets Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Lets Go Kaiki-gumi - 11 [720p CR WEB-DL AVC AAC][MultiSub][61C48F3F] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku 2nd Season - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku 2nd Season
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku 2nd Season - 11 [1080p CR WEB-DL AVC AAC][MultiSub][21C539A1] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku 2nd Season matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Lets Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Lets Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Lets Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Lets Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Lets Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Lets Go Kaiki-gumi - 11 [480p CR WEB-DL AVC AAC][MultiSub][58E83305] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku 2nd Season - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku 2nd Season
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku 2nd Season - 11 [720p CR WEB-DL AVC AAC][MultiSub][65DFE4E9] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku 2nd Season matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku 2nd Season - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku 2nd Season
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku 2nd Season. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku 2nd Season - 11 [480p CR WEB-DL AVC AAC][MultiSub][9AA9A435] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku 2nd Season matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0F36DE54] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0F36DE54] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0F36DE54] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0F36DE54] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0F36DE54] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan - 11 [1080p CR WEB-DL AVC AAC][MultiSub][0F36DE54] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan - 11 [720p CR WEB-DL AVC AAC][MultiSub][8876D17A] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [720p CR WEB-DL AVC AAC][MultiSub][8876D17A] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan - 11 [720p CR WEB-DL AVC AAC][MultiSub][8876D17A] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [720p CR WEB-DL AVC AAC][MultiSub][8876D17A] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [720p CR WEB-DL AVC AAC][MultiSub][8876D17A] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan - 11 [720p CR WEB-DL AVC AAC][MultiSub][8876D17A] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan - 11 [480p CR WEB-DL AVC AAC][MultiSub][2889CE03] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [480p CR WEB-DL AVC AAC][MultiSub][2889CE03] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan - 11 [480p CR WEB-DL AVC AAC][MultiSub][2889CE03] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [480p CR WEB-DL AVC AAC][MultiSub][2889CE03] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - 11 [480p CR WEB-DL AVC AAC][MultiSub][2889CE03] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan - 11 [480p CR WEB-DL AVC AAC][MultiSub][2889CE03] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan - S01E11 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - S01E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan - S01E11 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan - S01E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: Onalrie
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - S01E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan - S01E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan - S01E11 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku - S02E11 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - S02E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - S02E11 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku - S02E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: Onalrie
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - S02E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - S02E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku - S02E11 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan! - 11 (1080p) [345069AA] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (1080p) [345069AA] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan! - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan! - 11 (1080p) [345069AA] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (1080p) [345069AA] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan!. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan!
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (1080p) [345069AA] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan!. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan! - 11 (1080p) [345069AA] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan! matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan! - 11 (480p) [003C640F] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (480p) [003C640F] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan! - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan! - 11 (480p) [003C640F] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (480p) [003C640F] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan!. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan!
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (480p) [003C640F] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan!. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan! - 11 (480p) [003C640F] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan! matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Tetsunabe no Jan! - 11 (720p) [2AAF8505] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (720p) [2AAF8505] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Tetsunabe no Jan! - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Tetsunabe no Jan! - 11 (720p) [2AAF8505] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (720p) [2AAF8505] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan!. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Tetsunabe no Jan!
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Tetsunabe no Jan! - 11 (720p) [2AAF8505] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Tetsunabe no Jan!. TVDB ID for mapping: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Tetsunabe no Jan! - 11 (720p) [2AAF8505] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Tetsunabe no Jan! matches an alias for series with TVDB ID: 471657
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Let's Go Kaiki-gumi - S01E11 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Let's Go Kaiki-gumi - S01E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - S01E11 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Let's Go Kaiki-gumi - S01E11 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: Onalrie
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Let's Go Kaiki-gumi - S01E11 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - 023 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku - 23 (1080p) [4F6779F8] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku - 23 (720p) [5EF4C272] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (720p) [5EF4C272] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - 023 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku - 23 (720p) [5EF4C272] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (720p) [5EF4C272] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (720p) [5EF4C272] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku - 23 (720p) [5EF4C272] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Seihantai na Kimi to Boku - 23 (480p) [E0D183F8] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (480p) [E0D183F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Seihantai na Kimi to Boku - 023 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Seihantai na Kimi to Boku - 23 (480p) [E0D183F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (480p) [E0D183F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Seihantai na Kimi to Boku
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Seihantai na Kimi to Boku - 23 (480p) [E0D183F8] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Seihantai na Kimi to Boku. TVDB ID for mapping: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Seihantai na Kimi to Boku - 23 (480p) [E0D183F8] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Seihantai na Kimi to Boku matches an alias for series with TVDB ID: 457078
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Let's Go Kaiki-gumi - 11 (1080p) [D3BABA59] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Let's Go Kaiki-gumi - 11 (720p) [BD7C71C0] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Let's Go Kaiki-gumi - 011 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9] [SubsPlease]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Let's Go Kaiki-gumi
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Let's Go Kaiki-gumi - 11 (480p) [4C46C9D9] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Meitantei Precure - 33 [1080p CR WEB-DL AVC AAC][721EEE8D] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [1080p CR WEB-DL AVC AAC][721EEE8D] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Meitantei Precure - 033 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Meitantei Precure - 33 [1080p CR WEB-DL AVC AAC][721EEE8D] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [1080p CR WEB-DL AVC AAC][721EEE8D] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Meitantei Precure
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [1080p CR WEB-DL AVC AAC][721EEE8D] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Meitantei Precure - 33 [1080p CR WEB-DL AVC AAC][721EEE8D] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Meitantei Precure - 33 [720p CR WEB-DL AVC AAC][37566799] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [720p CR WEB-DL AVC AAC][37566799] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Meitantei Precure - 033 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Meitantei Precure - 33 [720p CR WEB-DL AVC AAC][37566799] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [720p CR WEB-DL AVC AAC][37566799] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Meitantei Precure
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [720p CR WEB-DL AVC AAC][37566799] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Meitantei Precure - 33 [720p CR WEB-DL AVC AAC][37566799] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Meitantei Precure - 33 [480p CR WEB-DL AVC AAC][CBD2DFED] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [480p CR WEB-DL AVC AAC][CBD2DFED] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Meitantei Precure - 033 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Meitantei Precure - 33 [480p CR WEB-DL AVC AAC][CBD2DFED] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [480p CR WEB-DL AVC AAC][CBD2DFED] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|ParsingService|No matching series Meitantei Precure
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Meitantei Precure - 33 [480p CR WEB-DL AVC AAC][CBD2DFED] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Release 'Meitantei Precure - 33 [480p CR WEB-DL AVC AAC][CBD2DFED] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.6|Debug|DownloadDecisionMaker|Processing release 'Digimon Beatbreak - 47 [1080p CR WEB-DL AVC AAC][670FF7E5] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.6|Debug|Parser|Parsing string 'Digimon Beatbreak - 47 [1080p CR WEB-DL AVC AAC][670FF7E5] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Episode Parsed. Digimon Beatbreak - 047 
+2026-09-13 13:39:16.6|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.6|Debug|QualityParser|Trying to parse quality for 'Digimon Beatbreak - 47 [1080p CR WEB-DL AVC AAC][670FF7E5] [Erai-raws]'
+2026-09-13 13:39:16.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.6|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Digimon Beatbreak - 47 [1080p CR WEB-DL AVC AAC][670FF7E5] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Digimon Beatbreak - 47 [720p CR WEB-DL AVC AAC][CDCFFFC7] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Digimon Beatbreak - 47 [720p CR WEB-DL AVC AAC][CDCFFFC7] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Digimon Beatbreak - 047 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Digimon Beatbreak - 47 [720p CR WEB-DL AVC AAC][CDCFFFC7] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Digimon Beatbreak - 47 [720p CR WEB-DL AVC AAC][CDCFFFC7] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Digimon Beatbreak - 47 [480p CR WEB-DL AVC AAC][48611D5C] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Digimon Beatbreak - 47 [480p CR WEB-DL AVC AAC][48611D5C] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Digimon Beatbreak - 047 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Digimon Beatbreak - 47 [480p CR WEB-DL AVC AAC][48611D5C] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Digimon Beatbreak - 47 [480p CR WEB-DL AVC AAC][48611D5C] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Kuuchuu Buranko [BD 1080p x264 FLAC] [Insanity]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kuuchuu Buranko [BD 1080p x264 FLAC] [Insanity]'
+2026-09-13 13:39:16.7|Debug|Parser|Unable to parse Kuuchuu Buranko [BD 1080p x264 FLAC] [Insanity]
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kuuchuu Buranko [BD 1080p x264 FLAC] [Insanity]'
+2026-09-13 13:39:16.7|Debug|Parser|Unable to parse Kuuchuu Buranko [BD 1080p x264 FLAC] [Insanity]
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Kuuchuu Buranko [BD 1080p x264 FLAC] [Insanity]
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Digimon Beatbreak - 47 (1080p) [57813B6D] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Digimon Beatbreak - 47 (1080p) [57813B6D] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Digimon Beatbreak - 047 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Digimon Beatbreak - 47 (1080p) [57813B6D] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Digimon Beatbreak - 47 (1080p) [57813B6D] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Digimon Beatbreak - 47 (720p) [A1067AFB] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Digimon Beatbreak - 47 (720p) [A1067AFB] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Digimon Beatbreak - 047 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Digimon Beatbreak - 47 (720p) [A1067AFB] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Digimon Beatbreak - 47 (720p) [A1067AFB] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Digimon Beatbreak - 47 (480p) [A7385DD4] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Digimon Beatbreak - 47 (480p) [A7385DD4] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Digimon Beatbreak - 047 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Digimon Beatbreak - 47 (480p) [A7385DD4] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Digimon Beatbreak
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Digimon Beatbreak - 47 (480p) [A7385DD4] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Meitantei Precure! - 33 (1080p) [0E250568] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (1080p) [0E250568] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Meitantei Precure! - 033 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Meitantei Precure! - 33 (1080p) [0E250568] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (1080p) [0E250568] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Meitantei Precure!
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (1080p) [0E250568] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Meitantei Precure! - 33 (1080p) [0E250568] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure! matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Meitantei Precure! - 33 (720p) [54B3C28E] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (720p) [54B3C28E] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Meitantei Precure! - 033 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Meitantei Precure! - 33 (720p) [54B3C28E] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (720p) [54B3C28E] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Meitantei Precure!
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (720p) [54B3C28E] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Meitantei Precure! - 33 (720p) [54B3C28E] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure! matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Meitantei Precure! - 33 (480p) [1E79C2E7] [SubsPlease]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (480p) [1E79C2E7] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Meitantei Precure! - 033 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Meitantei Precure! - 33 (480p) [1E79C2E7] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: SDTV v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: SubsPlease
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (480p) [1E79C2E7] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Meitantei Precure!
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Meitantei Precure! - 33 (480p) [1E79C2E7] [SubsPlease]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Meitantei Precure!. TVDB ID for mapping: 470961
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Meitantei Precure! - 33 (480p) [1E79C2E7] [SubsPlease]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Meitantei Precure! matches an alias for series with TVDB ID: 470961
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Mao - 24 [480p DSNP WEB-DL AVC AAC][MultiSub][30D9CEAC] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Mao - 24 [480p DSNP WEB-DL AVC AAC][MultiSub][30D9CEAC] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Mao - 024 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Mao - 24 [480p DSNP WEB-DL AVC AAC][MultiSub][30D9CEAC] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Mao
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Mao - 24 [480p DSNP WEB-DL AVC AAC][MultiSub][30D9CEAC] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Mao - 24 [720p DSNP WEB-DL AVC AAC][MultiSub][117717D4] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Mao - 24 [720p DSNP WEB-DL AVC AAC][MultiSub][117717D4] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Mao - 024 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Mao - 24 [720p DSNP WEB-DL AVC AAC][MultiSub][117717D4] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Mao
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Mao - 24 [720p DSNP WEB-DL AVC AAC][MultiSub][117717D4] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Mao - 24 [1080p DSNP WEB-DL AVC AAC][MultiSub][EF600643] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Mao - 24 [1080p DSNP WEB-DL AVC AAC][MultiSub][EF600643] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Mao - 024 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Mao - 24 [1080p DSNP WEB-DL AVC AAC][MultiSub][EF600643] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Mao
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Mao - 24 [1080p DSNP WEB-DL AVC AAC][MultiSub][EF600643] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Mao - S01E24 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Mao - S01E24 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Mao - S01E24 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Mao - S01E24 [1080p WEBRip AV1] [Onalrie]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: Onalrie
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Mao
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Mao - S01E24 [1080p WEBRip AV1] [Onalrie]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][F6B80A58] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][F6B80A58] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 010 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][F6B80A58] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][F6B80A58] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Hanaori-san wa Tensei Shite mo Kenka ga Shitai. TVDB ID for mapping: 468399
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][F6B80A58] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Hanaori-san wa Tensei Shite mo Kenka ga Shitai. TVDB ID for mapping: 468399
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][F6B80A58] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Hanaori-san wa Tensei Shite mo Kenka ga Shitai matches an alias for series with TVDB ID: 468399
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [720p CR WEB-DL AVC AAC][MultiSub][BE67A12A] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [720p CR WEB-DL AVC AAC][MultiSub][BE67A12A] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 010 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [720p CR WEB-DL AVC AAC][MultiSub][BE67A12A] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [720p CR WEB-DL AVC AAC][MultiSub][BE67A12A] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Hanaori-san wa Tensei Shite mo Kenka ga Shitai. TVDB ID for mapping: 468399
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [720p CR WEB-DL AVC AAC][MultiSub][BE67A12A] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Hanaori-san wa Tensei Shite mo Kenka ga Shitai. TVDB ID for mapping: 468399
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [720p CR WEB-DL AVC AAC][MultiSub][BE67A12A] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Hanaori-san wa Tensei Shite mo Kenka ga Shitai matches an alias for series with TVDB ID: 468399
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [480p CR WEB-DL AVC AAC][MultiSub][05CA7832] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [480p CR WEB-DL AVC AAC][MultiSub][05CA7832] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 010 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [480p CR WEB-DL AVC AAC][MultiSub][05CA7832] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [480p CR WEB-DL AVC AAC][MultiSub][05CA7832] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Hanaori-san wa Tensei Shite mo Kenka ga Shitai. TVDB ID for mapping: 468399
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [480p CR WEB-DL AVC AAC][MultiSub][05CA7832] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Hanaori-san wa Tensei Shite mo Kenka ga Shitai. TVDB ID for mapping: 468399
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Hanaori-san wa Tensei Shite mo Kenka ga Shitai - 10 [480p CR WEB-DL AVC AAC][MultiSub][05CA7832] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Hanaori-san wa Tensei Shite mo Kenka ga Shitai matches an alias for series with TVDB ID: 468399
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Kabushikigaisha Magilumiere 2nd Season - 10 [1080p AMZN WEB-DL AVC EAC3][MultiSub][D371C9A1] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [1080p AMZN WEB-DL AVC EAC3][MultiSub][D371C9A1] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Kabushikigaisha Magilumiere 2nd Season - 010 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Kabushikigaisha Magilumiere 2nd Season - 10 [1080p AMZN WEB-DL AVC EAC3][MultiSub][D371C9A1] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [1080p AMZN WEB-DL AVC EAC3][MultiSub][D371C9A1] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magilumiere 2nd Season. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Kabushikigaisha Magilumiere 2nd Season
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [1080p AMZN WEB-DL AVC EAC3][MultiSub][D371C9A1] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magilumiere 2nd Season. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Kabushikigaisha Magilumiere 2nd Season - 10 [1080p AMZN WEB-DL AVC EAC3][MultiSub][D371C9A1] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Kabushikigaisha Magilumiere 2nd Season matches an alias for series with TVDB ID: 442767
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Kabushikigaisha Magilumiere 2nd Season - 10 [540p AMZN WEB-DL AVC EAC3][MultiSub][5324FC46] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [540p AMZN WEB-DL AVC EAC3][MultiSub][5324FC46] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Kabushikigaisha Magilumiere 2nd Season - 010 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Kabushikigaisha Magilumiere 2nd Season - 10 [540p AMZN WEB-DL AVC EAC3][MultiSub][5324FC46] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [540p AMZN WEB-DL AVC EAC3][MultiSub][5324FC46] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magilumiere 2nd Season. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Kabushikigaisha Magilumiere 2nd Season
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [540p AMZN WEB-DL AVC EAC3][MultiSub][5324FC46] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magilumiere 2nd Season. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Kabushikigaisha Magilumiere 2nd Season - 10 [540p AMZN WEB-DL AVC EAC3][MultiSub][5324FC46] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Kabushikigaisha Magilumiere 2nd Season matches an alias for series with TVDB ID: 442767
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Kabushikigaisha Magilumiere 2nd Season - 10 [720p AMZN WEB-DL AVC EAC3][MultiSub][BB5CDD36] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [720p AMZN WEB-DL AVC EAC3][MultiSub][BB5CDD36] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Kabushikigaisha Magilumiere 2nd Season - 010 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Kabushikigaisha Magilumiere 2nd Season - 10 [720p AMZN WEB-DL AVC EAC3][MultiSub][BB5CDD36] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [720p AMZN WEB-DL AVC EAC3][MultiSub][BB5CDD36] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magilumiere 2nd Season. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Kabushikigaisha Magilumiere 2nd Season
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Kabushikigaisha Magilumiere 2nd Season - 10 [720p AMZN WEB-DL AVC EAC3][MultiSub][BB5CDD36] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Kabushikigaisha Magilumiere 2nd Season. TVDB ID for mapping: 442767
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Kabushikigaisha Magilumiere 2nd Season - 10 [720p AMZN WEB-DL AVC EAC3][MultiSub][BB5CDD36] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Kabushikigaisha Magilumiere 2nd Season matches an alias for series with TVDB ID: 442767
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Saijo no Osewa - 11 [1080p CR WEB-DL AVC AAC][MultiSub][4F4FC1AB] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Saijo no Osewa - 11 [1080p CR WEB-DL AVC AAC][MultiSub][4F4FC1AB] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Saijo no Osewa - 011 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Saijo no Osewa - 11 [1080p CR WEB-DL AVC AAC][MultiSub][4F4FC1AB] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Saijo no Osewa - 11 [1080p CR WEB-DL AVC AAC][MultiSub][4F4FC1AB] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Saijo no Osewa. TVDB ID for mapping: 470406
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Saijo no Osewa
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Saijo no Osewa - 11 [1080p CR WEB-DL AVC AAC][MultiSub][4F4FC1AB] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Saijo no Osewa. TVDB ID for mapping: 470406
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Saijo no Osewa - 11 [1080p CR WEB-DL AVC AAC][MultiSub][4F4FC1AB] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Saijo no Osewa matches an alias for series with TVDB ID: 470406
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Processing release 'Saijo no Osewa - 11 [720p CR WEB-DL AVC AAC][MultiSub][74FD3655] [Erai-raws]' from 'Shana Project (Prowlarr)'
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Saijo no Osewa - 11 [720p CR WEB-DL AVC AAC][MultiSub][74FD3655] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Episode Parsed. Saijo no Osewa - 011 
+2026-09-13 13:39:16.7|Debug|Parser|Languages parsed: Unknown
+2026-09-13 13:39:16.7|Debug|QualityParser|Trying to parse quality for 'Saijo no Osewa - 11 [720p CR WEB-DL AVC AAC][MultiSub][74FD3655] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-09-13 13:39:16.7|Debug|Parser|Release Group parsed: raws
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Saijo no Osewa - 11 [720p CR WEB-DL AVC AAC][MultiSub][74FD3655] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Saijo no Osewa. TVDB ID for mapping: 470406
+2026-09-13 13:39:16.7|Debug|ParsingService|No matching series Saijo no Osewa
+2026-09-13 13:39:16.7|Debug|Parser|Parsing string 'Saijo no Osewa - 11 [720p CR WEB-DL AVC AAC][MultiSub][74FD3655] [Erai-raws]'
+2026-09-13 13:39:16.7|Debug|SceneMappingService|Found scene mapping for: Saijo no Osewa. TVDB ID for mapping: 470406
+2026-09-13 13:39:16.7|Debug|DownloadDecisionMaker|Release 'Saijo no Osewa - 11 [720p CR WEB-DL AVC AAC][MultiSub][74FD3655] [Erai-raws]' from 'Shana Project (Prowlarr)' rejected for the following reasons: [Permanent] Saijo no Osewa matches an alias for series with TVDB ID: 470406
+2026-09-13 13:39:16.7|Info|RssSyncService|RSS Sync Completed. Reports found: 309, Reports grabbed: 0
+2026-09-13 13:39:16.7|Debug|PendingReleaseService|Removing failed releases from pending
+2026-09-13 13:40:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:40:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2026-09-13 13:40:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:40:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:41:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:41:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2026-09-13 13:41:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:41:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:42:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:42:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2026-09-13 13:42:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:42:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:43:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:43:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2026-09-13 13:43:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:43:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:43:07.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-09-13 13:44:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:44:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2026-09-13 13:44:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:44:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:45:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:45:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2026-09-13 13:45:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:45:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:46:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:46:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2026-09-13 13:46:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:46:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:47:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:47:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2026-09-13 13:47:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:47:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2026-09-13 13:48:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:48:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2026-09-13 13:48:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-13 13:48:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2026-09-13 13:48:07.7|Debug|ImportListSyncService|No import lists with automatic add enabled
