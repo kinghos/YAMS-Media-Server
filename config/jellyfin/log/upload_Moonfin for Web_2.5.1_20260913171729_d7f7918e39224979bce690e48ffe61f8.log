@@ -1,0 +1,57 @@
+Moonfin diagnostic report
+Generated: 2026-09-13T18:17:28.851
+App: Moonfin for Web 2.5.1
+Device: Moonfin for Web (7acfa8dd-aa60-45ec-b664-6f31e51a3fa0)
+Entries: 2
+Platform: linux
+============================================================
+2026-09-13T18:17:28.791 ERROR [general] Uncaught: MissingPluginException(No implementation found for method listen on channel moonfin/media3_video_events)
+    └─ MissingPluginException(No implementation found for method listen on channel moonfin/media3_video_events)
+t@http://[REDACTED]/Moonfin/Web/main.dart.js:4927:20
+d1_/$async$ef<@http://[REDACTED]/Moonfin/Web/main.dart.js:164412:15
+d/s@http://[REDACTED]/Moonfin/Web/main.dart.js:6387:64
+$2@http://[REDACTED]/Moonfin/Web/main.dart.js:101763:14
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:101757:21
+ajS@http://[REDACTED]/Moonfin/Web/main.dart.js:103343:34
+$0@http://[REDACTED]/Moonfin/Web/main.dart.js:102327:11
+VI@http://[REDACTED]/Moonfin/Web/main.dart.js:6560:40
+ahs@http://[REDACTED]/Moonfin/Web/main.dart.js:102233:3
+$0@http://[REDACTED]/Moonfin/Web/main.dart.js:102290:13
+fmR@http://[REDACTED]/Moonfin/Web/main.dart.js:6592:5
+fog@http://[REDACTED]/Moonfin/Web/main.dart.js:6594:7
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:101702:3
+
+2026-09-13T18:17:28.851 ERROR [general] Uncaught: Bad state: RenderBox was not laid out: minified:aR5#e8f85
+    └─ Bad state: RenderBox was not laid out: minified:aR5#e8f85
+ae@http://[REDACTED]/Moonfin/Web/main.dart.js:4936:30
+gU@http://[REDACTED]/Moonfin/Web/main.dart.js:153109:18
+ga7U@http://[REDACTED]/Moonfin/Web/main.dart.js:153110:19
+gKn@http://[REDACTED]/Moonfin/Web/main.dart.js:171151:45
+ew9@http://[REDACTED]/Moonfin/Web/main.dart.js:34288:5
+aEj@http://[REDACTED]/Moonfin/Web/main.dart.js:171950:19
+euA@http://[REDACTED]/Moonfin/Web/main.dart.js:34253:19
+bhN@http://[REDACTED]/Moonfin/Web/main.dart.js:171622:11
+bJL@http://[REDACTED]/Moonfin/Web/main.dart.js:171626:22
+c5_@http://[REDACTED]/Moonfin/Web/main.dart.js:187117:45
+btO@http://[REDACTED]/Moonfin/Web/main.dart.js:168246:7
+f1K/<@http://[REDACTED]/Moonfin/Web/main.dart.js:5081:65
+HX@http://[REDACTED]/Moonfin/Web/main.dart.js:1334:15
+dOA@http://[REDACTED]/Moonfin/Web/main.dart.js:91634:10
+f1K/<@http://[REDACTED]/Moonfin/Web/main.dart.js:5081:65
+bMa@http://[REDACTED]/Moonfin/Web/main.dart.js:92110:5
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:92126:14
+ajS@http://[REDACTED]/Moonfin/Web/main.dart.js:103343:34
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:103360:12
+ePk@http://[REDACTED]/Moonfin/Web/main.dart.js:9618:29
+fx/s@http://[REDACTED]/Moonfin/Web/main.dart.js:9594:43
+c3j@http://[REDACTED]/Moonfin/Web/main.dart.js:92079:77
+dnh@http://[REDACTED]/Moonfin/Web/main.dart.js:187109:10
+f1K/<@http://[REDACTED]/Moonfin/Web/main.dart.js:5080:79
+R@http://[REDACTED]/Moonfin/Web/main.dart.js:126130:14
+bl9@http://[REDACTED]/Moonfin/Web/main.dart.js:171231:3
+c2e@http://[REDACTED]/Moonfin/Web/main.dart.js:171344:99
+f1K/<@http://[REDACTED]/Moonfin/Web/main.dart.js:5080:79
+fmR@http://[REDACTED]/Moonfin/Web/main.dart.js:6592:5
+fog@http://[REDACTED]/Moonfin/Web/main.dart.js:6594:7
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:101702:3
+

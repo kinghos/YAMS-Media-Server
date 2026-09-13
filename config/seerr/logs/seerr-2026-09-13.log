@@ -1110,3 +1110,883 @@
 2026-09-13T14:40:00.061Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
 2026-09-13T14:40:04.065Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
 2026-09-13T14:40:04.077Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:41:04.502Z [info]: Commit Tag: 69f73a6f1486fdb51b8ddae9a94a8dfb629f461c 
+2026-09-13T14:41:05.722Z [info]: Starting Seerr version 3.4.1 
+2026-09-13T14:41:11.493Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-09-13T14:41:11.495Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-09-13T14:41:11.497Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-09-13T14:41:11.499Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-09-13T14:41:11.500Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-09-13T14:41:11.503Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-09-13T14:41:11.504Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-09-13T14:41:11.508Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-09-13T14:41:11.530Z [info][Notifications]: Registered notification agents 
+2026-09-13T14:41:11.567Z [info][Jobs]: Scheduled jobs loaded 
+2026-09-13T14:41:11.732Z [info][Server]: Server ready on port 5055 
+2026-09-13T14:42:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:43:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:44:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:45:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:45:00.014Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T14:45:00.015Z [info][Jellyfin Sync]: Scan starting {"sessionId":"d7e18c61-20e5-4253-a089-8801c4f61cb9"}
+2026-09-13T14:45:00.026Z [info][Anime-List Sync]: Loading mapping file 
+2026-09-13T14:45:00.376Z [info][Anime-List Sync]: Loaded 10736 AniDB items from mapping file 
+2026-09-13T14:45:00.376Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T14:45:01.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T14:45:05.055Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T14:45:05.134Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:46:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:47:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:48:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:49:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:50:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:50:00.022Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T14:50:00.022Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b7824cbb-8892-4974-ac4e-32b2f799fba3"}
+2026-09-13T14:50:00.029Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T14:50:00.097Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T14:50:04.102Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T14:50:04.113Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:51:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:52:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:53:00.019Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:54:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:55:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:55:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T14:55:00.019Z [info][Jellyfin Sync]: Scan starting {"sessionId":"09139480-9367-42d7-93b4-aa1f2e45cc0b"}
+2026-09-13T14:55:00.025Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T14:55:00.087Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T14:55:04.091Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T14:55:04.102Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:56:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:57:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:58:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:59:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:00:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:00:00.021Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:00:00.022Z [info][Jellyfin Sync]: Scan starting {"sessionId":"85ef0805-1560-4d95-b701-567e482d5220"}
+2026-09-13T15:00:00.032Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:00:00.069Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:00:04.071Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:00:04.082Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:01:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:02:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:03:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:04:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:05:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:05:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:05:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"a0896951-70eb-4152-ba7b-dd96a607255c"}
+2026-09-13T15:05:00.025Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:05:00.062Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:05:04.063Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:05:04.073Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:06:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:07:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:08:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:09:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:10:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:10:00.015Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:10:00.015Z [info][Jellyfin Sync]: Scan starting {"sessionId":"75882eda-dc27-4693-bc2e-3f797a31e875"}
+2026-09-13T15:10:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:10:00.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:10:04.058Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:10:04.070Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:11:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:12:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:13:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:14:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:15:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:15:00.014Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:15:00.014Z [info][Jellyfin Sync]: Scan starting {"sessionId":"c1d16627-1a0a-4d87-9f51-31c277290d18"}
+2026-09-13T15:15:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:15:00.048Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:15:04.050Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:15:04.063Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:16:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:17:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:18:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:19:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:20:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:20:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:20:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f70af7e8-ab6e-4952-82aa-f165d2f06443"}
+2026-09-13T15:20:00.025Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:20:00.059Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:20:04.062Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:20:04.073Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:21:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:22:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:23:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:24:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:25:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:25:00.014Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:25:00.014Z [info][Jellyfin Sync]: Scan starting {"sessionId":"e26eefdd-ecaf-4630-a968-0819e863cab2"}
+2026-09-13T15:25:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:25:00.063Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:25:04.066Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:25:04.077Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:26:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:27:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:28:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:29:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:30:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:30:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:30:00.012Z [info][Jellyfin Sync]: Scan starting {"sessionId":"9829b8a2-878f-4f3a-bff1-aafaa9d13d95"}
+2026-09-13T15:30:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:30:00.051Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:30:04.055Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:30:04.069Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:31:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:32:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:33:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:34:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:35:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:35:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:35:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"59eb7d5f-045e-4193-aa84-111190fa1c63"}
+2026-09-13T15:35:00.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:35:00.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:35:04.060Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:35:04.070Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:36:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:37:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:37:55.728Z [info][API]: Found matching Jellyfin user; updating user with Jellyfin {"ip":"::ffff:192.168.0.49","jellyfinUsername":"admin"}
+2026-09-13T15:38:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:39:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:40:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:40:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:40:00.015Z [info][Jellyfin Sync]: Scan starting {"sessionId":"e89e4424-4578-4952-bf74-a048b7c78add"}
+2026-09-13T15:40:00.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:40:00.064Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:40:04.067Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:40:04.079Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:41:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:42:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:43:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:44:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:45:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:45:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:45:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"e9d71d72-04c3-40f6-84aa-65568c35c142"}
+2026-09-13T15:45:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:45:00.050Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:45:04.054Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:45:04.063Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:46:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:47:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:48:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:49:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:50:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:50:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:50:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"0d57996a-f453-4903-85e6-ef7af24d7bf2"}
+2026-09-13T15:50:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:50:00.051Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:50:04.055Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:50:04.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:51:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:52:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:53:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:54:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:55:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:55:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T15:55:00.006Z [info][Jellyfin Sync]: Scan starting {"sessionId":"352c2100-1a71-4c9f-9216-8c5fb74d123d"}
+2026-09-13T15:55:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T15:55:00.040Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T15:55:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T15:55:04.053Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T15:56:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:57:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:58:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T15:59:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:00:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:00:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:00:00.007Z [info][Jellyfin Sync]: Scan starting {"sessionId":"76a8285b-8bfd-45e1-b64b-1993c200c06e"}
+2026-09-13T16:00:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:00:00.046Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:00:04.050Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:00:04.059Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:01:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:02:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:03:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:04:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:05:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:05:00.004Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:05:00.004Z [info][Jellyfin Sync]: Scan starting {"sessionId":"e5744b03-754d-4d6c-ac2a-03cd17f158bc"}
+2026-09-13T16:05:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:05:00.043Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:05:04.046Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:05:04.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:06:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:07:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:08:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:09:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:10:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:10:00.018Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:10:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f4c8085b-f7ea-4e5a-84e7-ed45a6aba169"}
+2026-09-13T16:10:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:10:00.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:10:04.059Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:10:04.068Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:11:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:12:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:13:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:14:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:15:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:15:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:15:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ba0d885f-89b8-410c-8156-64aefe5409fd"}
+2026-09-13T16:15:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:15:00.083Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:15:04.085Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:15:04.096Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:16:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:17:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:18:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:19:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:20:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:20:00.015Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:20:00.015Z [info][Jellyfin Sync]: Scan starting {"sessionId":"de0a0723-2ced-43d8-b212-afe2f5dc5377"}
+2026-09-13T16:20:00.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:20:00.202Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:20:04.204Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:20:04.219Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:21:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:22:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:23:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:24:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:25:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:25:00.015Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:25:00.015Z [info][Jellyfin Sync]: Scan starting {"sessionId":"87f64cae-7bc2-4b3b-aa87-f84866dbd57e"}
+2026-09-13T16:25:00.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:25:00.083Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:25:04.084Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:25:04.095Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:26:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:26:01.587Z [info][API]: Found matching Jellyfin user; updating user with Jellyfin {"ip":"::ffff:192.168.0.43","jellyfinUsername":"admin"}
+2026-09-13T16:27:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:27:34.094Z [info][API]: Quick Connect sign-in from existing user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"admin","userId":1}
+2026-09-13T16:28:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:29:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:30:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:30:00.013Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:30:00.014Z [info][Jellyfin Sync]: Scan starting {"sessionId":"11b6b711-fbe6-459d-ac9a-27b38346060e"}
+2026-09-13T16:30:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:30:00.048Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:30:04.052Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:30:04.062Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:31:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:32:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:33:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:34:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:35:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:35:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:35:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"1e66ccee-51b9-42fe-82c7-39546b784d17"}
+2026-09-13T16:35:00.017Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:35:00.051Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:35:04.055Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:35:04.069Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:36:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:36:07.612Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kakali"}
+2026-09-13T16:37:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:38:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:38:48.186Z [info][Notifications]: Sending notification(s) for MEDIA_PENDING {"subject":"Meghe Dhaka Tara (2013)"}
+2026-09-13T16:39:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:39:13.146Z [info][Media Request]: Sent request to Radarr {"requestId":6,"mediaId":6}
+2026-09-13T16:39:13.148Z [info][Notifications]: Sending notification(s) for MEDIA_APPROVED {"subject":"Meghe Dhaka Tara (2013)"}
+2026-09-13T16:39:13.468Z [info][Radarr]: Radarr accepted request 
+2026-09-13T16:39:13.468Z [debug][Radarr]: Radarr add details {"movie":{"title":"Meghe Dhaka Tara","originalTitle":"মেঘে ঢাকা তারা","originalLanguage":{"id":34,"name":"Bengali"},"alternateTitles":[],"secondaryYearSourceId":0,"sortTitle":"meghe dhaka tara","sizeOnDisk":0,"status":"released","overview":"Nilkantha, an artist, is admitted in a mental asylum but even while undergoing treatment, he manages to write a play.","inCinemas":"2013-06-14T00:00:00Z","releaseDate":"2013-09-12T00:00:00Z","images":[{"coverType":"poster","url":"/MediaCover/5/poster.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/1oftM3FelslyYenutcwd4u5lcLE.jpg"},{"coverType":"fanart","url":"/MediaCover/5/fanart.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/eOoTnpcrxVaGKbQRGy0fDMXfIC0.jpg"}],"website":"https://svf.in/movie/meghe-dhaka-tara/","year":2013,"youTubeTrailerId":"ZT5UEzQeDGg","studio":"SVF Entertainment","path":"/data/movies/Meghe Dhaka Tara (2013)","qualityProfileId":1,"hasFile":false,"movieFileId":0,"monitored":true,"minimumAvailability":"released","isAvailable":true,"folderName":"/data/movies/Meghe Dhaka Tara (2013)","runtime":118,"cleanTitle":"meghedhakatara","imdbId":"tt3051894","tmdbId":245684,"titleSlug":"245684","rootFolderPath":"/data/movies","genres":["Drama"],"keywords":[],"tags":[],"added":"2026-09-13T16:39:13Z","addOptions":{"searchForMovie":true,"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly"},"ratings":{"imdb":{"votes":776,"value":8.1,"type":"user"},"tmdb":{"votes":8,"value":5.25,"type":"user"},"trakt":{"votes":11,"value":6.81818,"type":"user"}},"popularity":0.6947,"statistics":{"movieFileCount":0,"sizeOnDisk":0,"releaseGroups":[]},"id":5}}
+2026-09-13T16:40:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:40:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:40:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2811606d-d019-4a8f-beb6-c082a16c2141"}
+2026-09-13T16:40:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:40:00.042Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:40:04.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:40:04.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:41:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:42:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:43:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:44:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:45:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:45:00.014Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:45:00.014Z [info][Jellyfin Sync]: Scan starting {"sessionId":"58ec312f-fb7a-4b25-9b76-205193c0be7b"}
+2026-09-13T16:45:00.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:45:00.084Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:45:04.087Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:45:04.104Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:46:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:47:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:48:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:49:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:50:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:50:00.004Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:50:00.005Z [info][Jellyfin Sync]: Scan starting {"sessionId":"9a7e710d-2d0a-46fc-9037-0d55dfc7dceb"}
+2026-09-13T16:50:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:50:00.038Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:50:04.040Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:50:04.049Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:50:16.381Z [info][Notifications]: Sending notification(s) for MEDIA_PENDING {"subject":"The Cloud-Capped Star (1960)"}
+2026-09-13T16:50:39.238Z [info][Notifications]: Sending notification(s) for MEDIA_APPROVED {"subject":"The Cloud-Capped Star (1960)"}
+2026-09-13T16:50:39.239Z [info][Media Request]: Sent request to Radarr {"requestId":7,"mediaId":7}
+2026-09-13T16:50:39.446Z [info][Radarr]: Radarr accepted request 
+2026-09-13T16:50:39.447Z [debug][Radarr]: Radarr add details {"movie":{"title":"The Cloud-Capped Star","originalTitle":"মেঘে ঢাকা তারা","originalLanguage":{"id":34,"name":"Bengali"},"alternateTitles":[],"secondaryYearSourceId":0,"sortTitle":"cloudcapped star","sizeOnDisk":0,"status":"released","overview":"A selfless young woman, the daughter of a middle-class refugee family from East Pakistan, sacrifices her own happiness for her unappreciative family.","inCinemas":"1960-04-13T00:00:00Z","digitalRelease":"2005-04-03T00:00:00Z","releaseDate":"2005-04-03T00:00:00Z","images":[{"coverType":"poster","url":"/MediaCover/6/poster.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/uIlt1x2eBMzuQHwyU54CNPTSK6A.jpg"},{"coverType":"fanart","url":"/MediaCover/6/fanart.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/oAox7z3d94YqwRHTrQOyEZooK94.jpg"}],"website":"","year":1960,"youTubeTrailerId":"ZAAv6fBh8q8","studio":"Chitrakalpa","path":"/data/movies/The Cloud-Capped Star (1960)","qualityProfileId":1,"hasFile":false,"movieFileId":0,"monitored":true,"minimumAvailability":"released","isAvailable":true,"folderName":"/data/movies/The Cloud-Capped Star (1960)","runtime":127,"cleanTitle":"thecloudcappedstar","imdbId":"tt0054073","tmdbId":59239,"titleSlug":"59239","rootFolderPath":"/data/movies","genres":["Drama"],"keywords":["calcutta","poverty","refugee","self sacrifice"],"tags":[],"added":"2026-09-13T16:50:39Z","addOptions":{"searchForMovie":true,"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly"},"ratings":{"imdb":{"votes":3720,"value":7.8,"type":"user"},"tmdb":{"votes":57,"value":7.2,"type":"user"},"trakt":{"votes":68,"value":7.22059,"type":"user"}},"popularity":1.154,"statistics":{"movieFileCount":0,"sizeOnDisk":0,"releaseGroups":[]},"id":6}}
+2026-09-13T16:51:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:51:00.028Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:52:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:52:00.025Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:53:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:53:00.025Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:54:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:54:00.022Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:54:54.467Z [debug][API]: Failed to retrieve request. {"errorMessage":"Could not find any entity of type \"MediaRequest\" matching: {\n    \"where\": {\n        \"id\": 7\n    },\n    \"relations\": {\n        \"requestedBy\": true,\n        \"modifiedBy\": true\n    }\n}"}
+2026-09-13T16:55:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:55:00.004Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T16:55:00.004Z [info][Jellyfin Sync]: Scan starting {"sessionId":"259f85cf-1221-4626-9263-44d8d3d56232"}
+2026-09-13T16:55:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T16:55:00.019Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:55:00.040Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T16:55:04.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T16:55:04.055Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T16:56:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:56:00.025Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:57:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:57:00.026Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:58:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:58:00.018Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T16:59:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T16:59:00.018Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:00:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:00:00.012Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:00:00.012Z [info][Jellyfin Sync]: Scan starting {"sessionId":"71a83a84-2d4e-43d0-bb4a-b73ce2a70c78"}
+2026-09-13T17:00:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:00:00.055Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:00:00.074Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:00:04.077Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:00:04.092Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:01:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:01:00.017Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:02:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:02:00.022Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:03:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:03:00.024Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:04:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:04:00.035Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:05:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:05:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:05:00.007Z [info][Jellyfin Sync]: Scan starting {"sessionId":"c280dd09-a12d-4f77-a2c9-fa15d36e808c"}
+2026-09-13T17:05:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:05:00.039Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:05:04.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:05:04.052Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:06:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:07:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:08:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:09:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:09:47.373Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:09:47.377Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:09:50.585Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:09:50.587Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:09:56.814Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:09:56.816Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:10:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:10:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:10:00.006Z [info][Jellyfin Sync]: Scan starting {"sessionId":"25a9fe1d-55a8-4f1c-8442-ab8c6c530407"}
+2026-09-13T17:10:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:10:00.042Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:10:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:10:04.053Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:10:07.039Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:10:07.041Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:10:16.007Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:10:16.008Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:10:20.639Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.3"}
+2026-09-13T17:10:20.640Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.3","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:10:23.237Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:10:23.239Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:11:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:11:03.283Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:11:03.285Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:11:06.351Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.3"}
+2026-09-13T17:11:06.351Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.3","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:11:13.743Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:11:13.746Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:12:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:12:23.742Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:12:23.744Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:12:26.763Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.3"}
+2026-09-13T17:12:26.763Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.3","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:13:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:14:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:14:12.563Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.3"}
+2026-09-13T17:14:12.563Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.3","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:14:38.803Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:14:38.806Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:14:42.114Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:14:42.116Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:14:47.568Z [warn][API]: Failed sign-in attempt using invalid Seerr password {"ip":"::ffff:172.60.0.3","email":"kingshukhossain@outlook.com","userId":1}
+2026-09-13T17:14:48.316Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:14:48.318Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:14:51.050Z [warn][API]: Failed sign-in attempt using invalid Seerr password {"ip":"::ffff:172.60.0.3","email":"kingshukhossain@outlook.com","userId":1}
+2026-09-13T17:15:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:15:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:15:00.005Z [info][Jellyfin Sync]: Scan starting {"sessionId":"d79c8fa4-87ee-48e7-9985-83c7f8b60e08"}
+2026-09-13T17:15:00.017Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:15:00.043Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:15:00.319Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:15:00.320Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.3"}
+2026-09-13T17:15:04.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:15:04.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:15:05.686Z [warn][API]: Failed sign-in attempt using invalid Seerr password {"ip":"::ffff:172.60.0.3","email":"kingshukhossain@outlook.com","userId":1}
+2026-09-13T17:15:08.564Z [warn][API]: Failed sign-in attempt using invalid Seerr password {"ip":"::ffff:172.60.0.3","email":"kingshukhossain@outlook.com","userId":1}
+2026-09-13T17:15:12.668Z [warn][API]: Failed sign-in attempt using invalid Seerr password {"ip":"::ffff:172.60.0.3","email":"kingshukhossain@outlook.com","userId":1}
+2026-09-13T17:15:33.299Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.3"}
+2026-09-13T17:15:33.300Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.3","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:15:48.532Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.3"}
+2026-09-13T17:15:48.532Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.3","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:15:51.816Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.3","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:15:52.063Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:16:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:17:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:17:23.802Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:17:24.046Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:17:39.129Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:17:39.371Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:18:02.434Z [info]: Commit Tag: 69f73a6f1486fdb51b8ddae9a94a8dfb629f461c 
+2026-09-13T17:18:04.298Z [info]: Starting Seerr version 3.4.1 
+2026-09-13T17:18:11.720Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-09-13T17:18:11.722Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-09-13T17:18:11.727Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-09-13T17:18:11.728Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-09-13T17:18:11.730Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-09-13T17:18:11.731Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-09-13T17:18:11.732Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-09-13T17:18:11.734Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-09-13T17:18:11.761Z [info][Notifications]: Registered notification agents 
+2026-09-13T17:18:11.809Z [info][Jobs]: Scheduled jobs loaded 
+2026-09-13T17:18:12.101Z [info][Server]: Server ready on port 5055 
+2026-09-13T17:19:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:20:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:20:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:20:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"c62b36ed-8d35-4855-9022-000ff391e409"}
+2026-09-13T17:20:00.018Z [info][Anime-List Sync]: Loading mapping file 
+2026-09-13T17:20:00.305Z [info][Anime-List Sync]: Loaded 10736 AniDB items from mapping file 
+2026-09-13T17:20:00.305Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:20:00.544Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:20:04.545Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:20:04.558Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:20:17.670Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:20:17.918Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T17:21:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:21:12.842Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:21:12.844Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.1"}
+2026-09-13T17:21:15.965Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:21:15.967Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.1"}
+2026-09-13T17:21:22.136Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:21:22.137Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.1"}
+2026-09-13T17:21:32.255Z [info][API]: Quick Connect sign-in from new Jellyfin user; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T17:21:32.256Z [error][Auth]: Quick Connect authentication failed {"error":"SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email","ip":"::ffff:172.60.0.1"}
+2026-09-13T17:21:48.043Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.1"}
+2026-09-13T17:21:48.044Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.1","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:21:53.801Z [debug][Jellyfin API]: Failed to authenticate with headers {"error":"Unauthorized","ip":"172.60.0.1"}
+2026-09-13T17:21:53.801Z [warn][Auth]: Failed sign-in attempt from user with incorrect Jellyfin credentials {"account":{"ip":"::ffff:172.60.0.1","email":"Kingshuk","password":"__REDACTED__"}}
+2026-09-13T17:22:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:23:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:24:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:25:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:25:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:25:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"fedaa103-e8a3-46af-8c4e-87cdd413f3b7"}
+2026-09-13T17:25:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:25:00.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:25:04.057Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:25:04.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:26:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:27:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:28:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:29:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:29:52.964Z [info][API]: Found matching Jellyfin user; updating user with Jellyfin {"ip":"::ffff:192.168.0.27","jellyfinUsername":"Kakali"}
+2026-09-13T17:29:53.123Z [info][API]: Found matching Jellyfin user; updating user with Jellyfin {"ip":"::ffff:192.168.0.27","jellyfinUsername":"Kakali"}
+2026-09-13T17:30:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:30:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:30:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"43056438-201f-4afe-b7a6-ce0369eac57c"}
+2026-09-13T17:30:00.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:30:00.066Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:30:04.067Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:30:04.076Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:30:33.453Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Shrek (2001)"}
+2026-09-13T17:30:33.457Z [info][Media Request]: Sent request to Radarr {"requestId":8,"mediaId":8}
+2026-09-13T17:30:33.903Z [info][Radarr]: Radarr accepted request 
+2026-09-13T17:30:33.903Z [debug][Radarr]: Radarr add details {"movie":{"title":"Shrek","originalTitle":"Shrek","originalLanguage":{"id":1,"name":"English"},"alternateTitles":[],"secondaryYearSourceId":0,"sortTitle":"shrek","sizeOnDisk":0,"status":"released","overview":"It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.","inCinemas":"2001-05-18T00:00:00Z","physicalRelease":"2001-11-02T00:00:00Z","digitalRelease":"2004-05-27T00:00:00Z","releaseDate":"2001-11-02T00:00:00Z","images":[{"coverType":"poster","url":"/MediaCover/7/poster.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"},{"coverType":"fanart","url":"/MediaCover/7/fanart.jpg","remoteUrl":"https://image.tmdb.org/t/p/original/w0eKUOEog2ImtktCHAMUZws8qif.jpg"}],"website":"http://www.dreamworksanimation.com/shrek/","year":2001,"youTubeTrailerId":"ppDwfm6e498","studio":"Pacific Data Images","path":"/data/movies/Shrek (2001)","qualityProfileId":1,"hasFile":false,"movieFileId":0,"monitored":true,"minimumAvailability":"released","isAvailable":true,"folderName":"/data/movies/Shrek (2001)","runtime":90,"cleanTitle":"shrek","imdbId":"tt0126029","tmdbId":808,"titleSlug":"808","rootFolderPath":"/data/movies","certification":"PG","genres":["Animation","Comedy","Fantasy","Adventure","Family"],"keywords":["3d animation","admiring","anthropomorphism","appreciative","based on novel or book","bold","cartoon donkey","castle","donkey","dragon","enchantment","fairy tale","grand","liberation","lordship","magic","ogre","parody","prince","princess","robin hood","romantic","satirical","swamp","villain","witty","woman director","wonder"],"tags":[],"added":"2026-09-13T17:30:33Z","addOptions":{"searchForMovie":true,"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly"},"ratings":{"imdb":{"votes":820601,"value":7.9,"type":"user"},"tmdb":{"votes":19284,"value":7.778,"type":"user"},"metacritic":{"votes":0,"value":84,"type":"user"},"rottenTomatoes":{"votes":0,"value":89,"type":"user"},"trakt":{"votes":30592,"value":8.14517,"type":"user"}},"collection":{"title":"Shrek Collection","tmdbId":2150},"popularity":30.1517,"statistics":{"movieFileCount":0,"sizeOnDisk":0,"releaseGroups":[]},"id":7}}
+2026-09-13T17:31:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:31:00.029Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:32:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:32:00.025Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:33:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:33:00.026Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:34:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:34:10.696Z [debug][API]: Failed to retrieve request. {"errorMessage":"Could not find any entity of type \"MediaRequest\" matching: {\n    \"where\": {\n        \"id\": 8\n    },\n    \"relations\": {\n        \"requestedBy\": true,\n        \"modifiedBy\": true\n    }\n}"}
+2026-09-13T17:34:19.513Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Shrek (2001)"}
+2026-09-13T17:34:19.515Z [info][Media Request]: Sent request to Radarr {"requestId":9,"mediaId":9}
+2026-09-13T17:34:19.627Z [info][Radarr]: Movie is already monitored in Radarr. {"movieId":7,"movieTitle":"Shrek"}
+2026-09-13T17:34:19.628Z [info][Radarr]: Triggering search for existing monitored movie without file {"movieId":7,"movieTitle":"Shrek"}
+2026-09-13T17:34:19.628Z [info][Radarr API]: Executing movie search command {"movieId":7}
+2026-09-13T17:35:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:35:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:35:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"cf1941d9-7899-45eb-8a88-e2b04c1fffb8"}
+2026-09-13T17:35:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:35:00.032Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:35:00.053Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:35:04.055Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:35:04.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:36:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:36:00.033Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:36:58.075Z [debug][API]: Failed to retrieve request. {"errorMessage":"Could not find any entity of type \"MediaRequest\" matching: {\n    \"where\": {\n        \"id\": 8\n    },\n    \"relations\": {\n        \"requestedBy\": true,\n        \"modifiedBy\": true\n    }\n}"}
+2026-09-13T17:37:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:37:00.029Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:37:15.119Z [info][Media Request]: Request has an override quality profile ID: 3 {"requestId":10,"mediaId":10}
+2026-09-13T17:37:15.126Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Shrek (2001)"}
+2026-09-13T17:37:15.127Z [info][Media Request]: Sent request to Radarr {"requestId":10,"mediaId":10}
+2026-09-13T17:37:15.296Z [info][Radarr]: Movie is already monitored in Radarr. {"movieId":7,"movieTitle":"Shrek"}
+2026-09-13T17:37:15.296Z [info][Radarr]: Triggering search for existing monitored movie without file {"movieId":7,"movieTitle":"Shrek"}
+2026-09-13T17:37:15.297Z [info][Radarr API]: Executing movie search command {"movieId":7}
+2026-09-13T17:38:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:38:00.034Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:39:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:40:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:40:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:40:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"66be3121-db8a-42f3-b3b1-dc4a02643547"}
+2026-09-13T17:40:00.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:40:00.042Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:40:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:40:04.054Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:41:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:42:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:42:00.020Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:43:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:43:00.029Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:44:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:45:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:45:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:45:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2a2ae8d5-e41d-4d68-b15e-45fbbcabcc0c"}
+2026-09-13T17:45:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:45:00.057Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:45:04.058Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:45:04.069Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:46:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:47:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:47:56.691Z [info][Media Request]: Sent request to Radarr {"requestId":11,"mediaId":11}
+2026-09-13T17:47:56.696Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Shrek (2001)"}
+2026-09-13T17:47:56.879Z [info][Radarr]: Movie is already monitored in Radarr. {"movieId":8,"movieTitle":"Shrek"}
+2026-09-13T17:47:56.879Z [info][Radarr]: Triggering search for existing monitored movie without file {"movieId":8,"movieTitle":"Shrek"}
+2026-09-13T17:47:56.879Z [info][Radarr API]: Executing movie search command {"movieId":8}
+2026-09-13T17:48:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:49:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:49:00.034Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:50:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:50:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:50:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"8233ac93-5869-4324-beba-69d16547058e"}
+2026-09-13T17:50:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:50:00.037Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T17:50:00.053Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:50:04.054Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:50:04.063Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:51:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:52:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:53:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:54:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:55:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:55:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T17:55:00.007Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f7800948-7f20-4d8c-8313-56007b3f984b"}
+2026-09-13T17:55:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T17:55:00.048Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T17:55:04.050Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T17:55:04.061Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T17:56:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:57:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:58:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:59:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T17:59:48.472Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Shrek (2001)"}
+2026-09-13T17:59:48.473Z [info][Media Request]: Sent request to Radarr {"requestId":12,"mediaId":12}
+2026-09-13T17:59:48.656Z [info][Radarr]: Movie is already monitored in Radarr. {"movieId":8,"movieTitle":"Shrek"}
+2026-09-13T17:59:48.656Z [info][Radarr]: Triggering search for existing monitored movie without file {"movieId":8,"movieTitle":"Shrek"}
+2026-09-13T17:59:48.657Z [info][Radarr API]: Executing movie search command {"movieId":8}
+2026-09-13T18:00:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:00:00.018Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:00:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"faefe058-92bd-49a6-9768-0d74047265d8"}
+2026-09-13T18:00:00.024Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:00:00.093Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:00:04.094Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:00:04.107Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:01:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:01:00.020Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T18:02:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:02:00.024Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T18:03:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:03:00.089Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T18:04:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:04:00.046Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T18:05:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:05:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:05:00.005Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ef731b8d-5b18-4302-a4f1-dc05919e4f9d"}
+2026-09-13T18:05:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:05:00.038Z [debug][Download Tracker]: Found 1 item(s) in progress on Radarr server: Radarr 
+2026-09-13T18:05:00.050Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:05:04.051Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:05:04.061Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:05:24.326Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Adventure Time (2010)"}
+2026-09-13T18:05:24.329Z [info][Media Request]: Sent request to Sonarr {"requestId":13,"mediaId":13}
+2026-09-13T18:05:24.841Z [info][Sonarr]: Sonarr accepted request 
+2026-09-13T18:05:24.841Z [debug][Sonarr]: Sonarr add details {"series":{"title":"Adventure Time","alternateTitles":[{"title":"Adventure Time With Finn and Jake","seasonNumber":-1},{"title":"Hora de aventuras","seasonNumber":-1},{"title":"Adventure Time 2008","seasonNumber":-1},{"title":"Adventure Time","seasonNumber":-1}],"sortTitle":"adventure time","status":"ended","ended":true,"overview":"Adventure Time follows two best friends: Finn (a 12-year old boy) and Jake (a wise 28-year-old dog with magical powers), and the surreal adventures undertaken by the duo as they traverse the mystical Land of Ooo. A world built for adventure, Ooo is filled to the brim with various landscapes for the two buddies to explore and bizarre characters to assist.","network":"Cartoon Network","airTime":"03:00","images":[{"coverType":"banner","url":"/MediaCover/2/banner.jpg","remoteUrl":"https://artworks.thetvdb.com/banners/graphical/152831-g2.jpg"},{"coverType":"poster","url":"/MediaCover/2/poster.jpg","remoteUrl":"https://artworks.thetvdb.com/banners/posters/152831-2.jpg"},{"coverType":"fanart","url":"/MediaCover/2/fanart.jpg","remoteUrl":"https://artworks.thetvdb.com/banners/fanart/original/152831-3.jpg"},{"coverType":"clearlogo","url":"/MediaCover/2/clearlogo.png","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/152831/clearlogo/611b64b8e859a.png"}],"originalLanguage":{"id":1,"name":"English"},"seasons":[{"seasonNumber":0,"monitored":false},{"seasonNumber":1,"monitored":true},{"seasonNumber":2,"monitored":true},{"seasonNumber":3,"monitored":true},{"seasonNumber":4,"monitored":false},{"seasonNumber":5,"monitored":false},{"seasonNumber":6,"monitored":false},{"seasonNumber":7,"monitored":false},{"seasonNumber":8,"monitored":false},{"seasonNumber":9,"monitored":false},{"seasonNumber":10,"monitored":false}],"year":2010,"path":"/data/tvshows/Adventure Time (2010)","qualityProfileId":6,"seasonFolder":true,"monitored":true,"monitorNewItems":"all","useSceneNumbering":false,"runtime":10,"tvdbId":152831,"tvRageId":23369,"tvMazeId":290,"tmdbId":15260,"firstAired":"2010-04-05T00:00:00Z","lastAired":"2018-09-03T00:00:00Z","seriesType":"standard","cleanTitle":"adventuretime","imdbId":"tt1305826","titleSlug":"adventure-time","rootFolderPath":"/data/tvshows","certification":"TV-PG","genres":["Action","Adventure","Animation","Children","Comedy","Family","Fantasy","Science Fiction"],"tags":[],"added":"2026-09-13T18:05:24Z","addOptions":{"searchForMissingEpisodes":true,"searchForCutoffUnmetEpisodes":false,"ignoreEpisodesWithFiles":true,"ignoreEpisodesWithoutFiles":false,"monitor":"unknown"},"ratings":{"votes":136342,"value":8.7},"statistics":{"seasonCount":10,"episodeFileCount":0,"episodeCount":0,"totalEpisodeCount":0,"sizeOnDisk":0,"percentOfEpisodes":0},"languageProfileId":1,"id":2}}
+2026-09-13T18:06:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:07:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:08:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:08:00.096Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:09:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:09:00.124Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:10:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:10:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:10:00.007Z [info][Jellyfin Sync]: Scan starting {"sessionId":"5d413be0-5cfd-4ea4-9c70-bf3c32a8a9ed"}
+2026-09-13T18:10:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:10:00.068Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:10:00.102Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:10:04.104Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:10:04.125Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:11:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:11:00.078Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:12:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:12:00.096Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:13:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:13:00.117Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:13:39.679Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:13:39.943Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:13:43.222Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:13:43.469Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:13:49.747Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:13:49.994Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:14:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:14:00.080Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:14:00.393Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:14:00.646Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:14:05.507Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:14:05.752Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:14:16.266Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:14:16.514Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:15:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:15:00.004Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:15:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"31043761-54e4-442a-9aee-076ea3949b91"}
+2026-09-13T18:15:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:15:00.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:15:00.074Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:15:04.056Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:15:04.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:16:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:16:00.063Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:17:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:17:00.019Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:18:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:18:00.018Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:18:48.913Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:18:49.165Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:19:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:19:00.018Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:20:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:20:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:20:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"a4fa3a49-3abb-4f31-9487-5478ff73264d"}
+2026-09-13T18:20:00.017Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:20:00.034Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:20:00.055Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:20:04.056Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:20:04.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:21:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:21:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:21:09.508Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating new Seerr user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk"}
+2026-09-13T18:21:09.771Z [error][Auth]: SQLITE_CONSTRAINT: UNIQUE constraint failed: user.email 
+2026-09-13T18:22:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:22:00.028Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:23:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:23:00.032Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:24:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:24:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:25:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:25:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:25:00.007Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b553eb76-35cd-43e6-91d9-5ca16ca122ac"}
+2026-09-13T18:25:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:25:00.059Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:25:00.065Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:25:04.067Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:25:04.078Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:26:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:26:00.021Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:27:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:27:00.017Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:28:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:28:00.033Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:28:01.284Z [info][API]: Quick Connect sign-in from existing user {"ip":"::ffff:172.60.0.1","jellyfinUsername":"Kingshuk","userId":5}
+2026-09-13T18:29:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:29:00.041Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:30:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:30:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:30:00.006Z [info][Jellyfin Sync]: Scan starting {"sessionId":"85f0c9fb-9735-4867-82cb-2269870ccfa1"}
+2026-09-13T18:30:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:30:00.027Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:30:00.046Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:30:04.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:30:04.058Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:31:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:31:00.024Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:32:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:32:00.074Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:33:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:33:00.047Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:34:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:34:00.026Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:35:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:35:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:35:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"8c754c5b-0268-4047-800a-60db6aaaa2d1"}
+2026-09-13T18:35:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:35:00.036Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:35:00.059Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:35:04.060Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:35:04.069Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:36:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:36:00.036Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:37:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:37:00.041Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:38:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:38:00.058Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:39:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:39:00.042Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:40:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:40:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:40:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"58837810-5aa3-4bd5-a4e8-50265c5af4fa"}
+2026-09-13T18:40:00.036Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:40:00.059Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:40:00.104Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:40:04.108Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:40:04.120Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:41:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:41:00.027Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:42:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:42:00.026Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:43:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:43:00.031Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:44:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:44:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:45:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:45:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:45:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2e494f0a-d9b0-4b79-a380-f97852f83ba7"}
+2026-09-13T18:45:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:45:00.034Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:45:00.100Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:45:04.101Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:45:04.131Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:46:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:46:00.020Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:47:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:47:00.019Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:48:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:48:00.025Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:49:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:49:00.020Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:50:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:50:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:50:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"65b1fda0-7bf4-4979-882e-ff47bb33c034"}
+2026-09-13T18:50:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:50:00.026Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:50:00.044Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:50:04.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:50:04.061Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:51:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:51:00.029Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:52:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:52:00.021Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:53:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:53:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:54:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:54:00.021Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:55:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:55:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T18:55:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"629a42d7-d844-4564-bf7d-6c7f48544006"}
+2026-09-13T18:55:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T18:55:00.026Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:55:00.046Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T18:55:04.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T18:55:04.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T18:56:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:56:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:57:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:57:00.020Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:58:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:58:00.031Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T18:59:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T18:59:00.016Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:00:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:00:00.004Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T19:00:00.004Z [info][Jellyfin Sync]: Scan starting {"sessionId":"fc6d4d20-136c-4897-afa4-34a783b9b480"}
+2026-09-13T19:00:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T19:00:00.029Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:00:00.046Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T19:00:04.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T19:00:04.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T19:01:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:01:00.026Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:02:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:02:00.020Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:03:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:03:00.025Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:04:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:04:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:05:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:05:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T19:05:00.005Z [info][Jellyfin Sync]: Scan starting {"sessionId":"9109709d-7316-4571-9b73-006d66ffc7b8"}
+2026-09-13T19:05:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T19:05:00.037Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:05:00.044Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T19:05:04.046Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T19:05:04.057Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T19:06:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:06:00.028Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:07:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:07:00.016Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:08:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:08:00.033Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:09:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:09:00.020Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:10:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:10:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T19:10:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"97734ce4-4b9d-41d8-943c-5b8d735f34fd"}
+2026-09-13T19:10:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T19:10:00.024Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:10:00.044Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T19:10:04.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T19:10:04.057Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T19:11:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:11:00.022Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:12:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:12:00.018Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:13:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:13:00.019Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:14:22.396Z [info]: Commit Tag: 69f73a6f1486fdb51b8ddae9a94a8dfb629f461c 
+2026-09-13T19:14:24.172Z [info]: Starting Seerr version 3.4.1 
+2026-09-13T19:14:32.252Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-09-13T19:14:32.254Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-09-13T19:14:32.256Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-09-13T19:14:32.257Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-09-13T19:14:32.258Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-09-13T19:14:32.259Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-09-13T19:14:32.260Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-09-13T19:14:32.262Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-09-13T19:14:32.283Z [info][Notifications]: Registered notification agents 
+2026-09-13T19:14:32.351Z [info][Jobs]: Scheduled jobs loaded 
+2026-09-13T19:14:32.467Z [info][Server]: Server ready on port 5055 
+2026-09-13T19:15:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:15:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T19:15:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"d617c8b3-8b2f-46fe-884a-524cdc857cfb"}
+2026-09-13T19:15:00.024Z [info][Anime-List Sync]: Loading mapping file 
+2026-09-13T19:15:00.438Z [info][Anime-List Sync]: Loaded 10736 AniDB items from mapping file 
+2026-09-13T19:15:00.439Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T19:15:00.535Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:15:01.034Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T19:15:05.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T19:15:05.126Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T19:16:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:16:00.074Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:17:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:17:00.037Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:18:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:18:00.053Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 
+2026-09-13T19:19:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T19:19:00.052Z [debug][Download Tracker]: Found 10 item(s) in progress on Sonarr server: Sonarr 

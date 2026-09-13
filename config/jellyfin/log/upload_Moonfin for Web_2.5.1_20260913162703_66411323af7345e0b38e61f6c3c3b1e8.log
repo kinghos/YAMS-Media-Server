@@ -1,0 +1,23 @@
+Moonfin diagnostic report
+Generated: 2026-09-13T17:27:02.516
+App: Moonfin for Web 2.5.1
+Device: Moonfin for Web (7acfa8dd-aa60-45ec-b664-6f31e51a3fa0)
+Entries: 1
+Platform: linux
+============================================================
+2026-09-13T17:27:02.515 ERROR [general] Uncaught: MissingPluginException(No implementation found for method listen on channel moonfin/media3_video_events)
+    └─ MissingPluginException(No implementation found for method listen on channel moonfin/media3_video_events)
+t@http://[REDACTED]/Moonfin/Web/main.dart.js:4927:20
+d1_/$async$ef<@http://[REDACTED]/Moonfin/Web/main.dart.js:164412:15
+d/s@http://[REDACTED]/Moonfin/Web/main.dart.js:6387:64
+$2@http://[REDACTED]/Moonfin/Web/main.dart.js:101763:14
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:101757:21
+ajS@http://[REDACTED]/Moonfin/Web/main.dart.js:103343:34
+$0@http://[REDACTED]/Moonfin/Web/main.dart.js:102327:11
+VI@http://[REDACTED]/Moonfin/Web/main.dart.js:6560:40
+ahs@http://[REDACTED]/Moonfin/Web/main.dart.js:102233:3
+$0@http://[REDACTED]/Moonfin/Web/main.dart.js:102290:13
+fmR@http://[REDACTED]/Moonfin/Web/main.dart.js:6592:5
+fog@http://[REDACTED]/Moonfin/Web/main.dart.js:6594:7
+$1@http://[REDACTED]/Moonfin/Web/main.dart.js:101702:3
+

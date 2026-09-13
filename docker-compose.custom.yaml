@@ -45,3 +45,37 @@ services:
   prowlarr:
     volumes:
       - /opt/yams/config/prowlarr/custom-cont-init.d:/custom-cont-init.d:ro
+
+  nginx-proxy-manager:
+    image: 'jc21/nginx-proxy-manager:latest'
+    container_name: npm
+    restart: unless-stopped
+    ports:
+      - 80:80
+      - 81:81
+      - 443:443
+    volumes:
+      - ${INSTALL_DIRECTORY}/config/npm/data:/data
+      - ${INSTALL_DIRECTORY}/config/npm/letsencrypt:/etc/letsencrypt
+
+  cleanuparr:
+    image: ghcr.io/cleanuparr/cleanuparr:latest
+    container_name: cleanuparr
+    restart: unless-stopped
+    ports:
+      - "11011:11011"
+    volumes:
+      - ${INSTALL_DIRECTORY}/config/cleanuparr:/config
+    environment:
+      - PORT=11011
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - UMASK=022
+      - TZ=${TZ}
+    # Health check configuration
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11011/health"]
+      interval: 30s        # Check every 30 seconds
+      timeout: 10s         # Allow up to 10 seconds for response
+      start_period: 30s    # Wait 30 seconds before first check
+      retries: 3           # Mark unhealthy after 3 consecutive failures

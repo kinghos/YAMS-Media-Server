@@ -13,3 +13,4 @@ Media server configured using YAMS
 | Seerr       | 5055      |
 | Portainer   | 9000      |
 | SABnzbd     | 8080      |
+| Cleanuparr  | 11011     |

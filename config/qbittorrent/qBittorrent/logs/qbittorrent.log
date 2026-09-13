@@ -143,3 +143,93 @@
 (I) 2026-09-13T14:23:57 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
 (N) 2026-09-13T14:24:00 - WebAPI login success. IP: ::ffff:172.60.0.1
 (N) 2026-09-13T14:24:06 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:40:50 - qBittorrent termination initiated
+(N) 2026-09-13T14:40:50 - qBittorrent is now ready to exit
+(N) 2026-09-13T14:41:00 - qBittorrent v4.6.3 started
+(N) 2026-09-13T14:41:00 - Using config directory: /config/qBittorrent
+(N) 2026-09-13T14:41:00 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T14:41:00 - Peer ID: "-qB4630-"
+(I) 2026-09-13T14:41:00 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T14:41:00 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T14:41:00 - Local Peer Discovery support: ON
+(I) 2026-09-13T14:41:00 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T14:41:00 - Anonymous mode: OFF
+(I) 2026-09-13T14:41:00 - Encryption support: ON
+(I) 2026-09-13T14:41:00 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T14:41:00 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(I) 2026-09-13T14:41:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T14:41:00 - Using built-in WebUI.
+(N) 2026-09-13T14:41:00 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T14:41:00 - WebUI: Now listening on IP: *, port: 8081
+(N) 2026-09-13T14:41:07 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:41:08 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T16:50:42 - Added new torrent. Torrent: "The Cloud-Capped Star (1960) [BluRay] [1080p] [YTS.LT]"
+(N) 2026-09-13T17:03:54 - Removed torrent. Torrent: "The Cloud-Capped Star (1960) [BluRay] [1080p] [YTS.LT]"
+(N) 2026-09-13T17:17:44 - qBittorrent termination initiated
+(N) 2026-09-13T17:17:44 - qBittorrent is now ready to exit
+(N) 2026-09-13T17:18:01 - qBittorrent v4.6.3 started
+(N) 2026-09-13T17:18:01 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T17:18:01 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T17:18:01 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T17:18:01 - Peer ID: "-qB4630-"
+(I) 2026-09-13T17:18:01 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T17:18:01 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T17:18:01 - Local Peer Discovery support: ON
+(I) 2026-09-13T17:18:01 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T17:18:01 - Anonymous mode: OFF
+(I) 2026-09-13T17:18:01 - Encryption support: ON
+(I) 2026-09-13T17:18:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T17:18:01 - Using built-in WebUI.
+(N) 2026-09-13T17:18:01 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T17:18:01 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T17:18:02 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T17:18:02 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(N) 2026-09-13T17:18:07 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T17:18:10 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T17:30:36 - Added new torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:32:09 - Removed torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:34:22 - Added new torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:36:24 - Removed torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:37:17 - Added new torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:37:30 - Removed torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:41:44 - Added new torrent. Torrent: "Shrek (2001) [1080p]"
+(N) 2026-09-13T17:42:01 - Removed torrent. Torrent: "Shrek (2001) [1080p]"
+(N) 2026-09-13T17:47:58 - Added new torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T17:49:15 - Removed torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T18:00:39 - Added new torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T18:04:09 - Removed torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T18:07:08 - Added new torrent. Torrent: "be3f8b12cce0c3522684f47bdd7865bde2518a1f"
+(I) 2026-09-13T18:07:44 - Detected external IP. IP: "169.150.196.26"
+(N) 2026-09-13T18:08:07 - Added new torrent. Torrent: "aca1b5c7b25ed0ff2a12026ccf68a2d97f69bf3a"
+(N) 2026-09-13T18:10:27 - Added new torrent. Torrent: "9f835d70fdcfbd7cd7a7f0f5044145ad10487aa1"
+(N) 2026-09-13T18:12:52 - Torrent download finished. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T18:17:25 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-13T18:17:25 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-13T18:17:25 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(I) 2026-09-13T18:17:48 - Detected external IP. IP: "169.150.196.26"
+(N) 2026-09-13T18:41:37 - Torrent download finished. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-13T19:13:49 - qBittorrent termination initiated
+(N) 2026-09-13T19:13:51 - qBittorrent is now ready to exit
+(N) 2026-09-13T19:14:12 - qBittorrent v4.6.3 started
+(N) 2026-09-13T19:14:12 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T19:14:12 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T19:14:12 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-13T19:14:12 - Peer ID: "-qB4630-"
+(I) 2026-09-13T19:14:12 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T19:14:12 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T19:14:12 - Local Peer Discovery support: ON
+(I) 2026-09-13T19:14:12 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T19:14:12 - Anonymous mode: OFF
+(I) 2026-09-13T19:14:12 - Encryption support: ON
+(N) 2026-09-13T19:14:12 - Restored torrent. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-13T19:14:12 - Restored torrent. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T19:14:12 - Restored torrent. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(I) 2026-09-13T19:14:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T19:14:12 - Using built-in WebUI.
+(N) 2026-09-13T19:14:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T19:14:12 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T19:14:14 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-13T19:14:14 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(N) 2026-09-13T19:14:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T19:14:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(I) 2026-09-13T19:16:35 - Detected external IP. IP: "92.60.40.214"

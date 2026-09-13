@@ -5716,3 +5716,398 @@ UNIQUE constraint failed: Indexers.Name
 2026-09-13 14:38:37.2|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 12:52:16 and 09/13/2026 13:52:31 UTC. Search may be required.
 2026-09-13 14:38:37.5|Info|DownloadDecisionMaker|Processing 345 releases
 2026-09-13 14:38:38.5|Info|RssSyncService|RSS Sync Completed. Reports found: 345, Reports grabbed: 0
+2026-09-13 14:40:50.6|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 14:40:50.9|Info|ConsoleApp|Exiting main.
+2026-09-13 14:41:01.7|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 6.3.0.10514
+2026-09-13 14:41:02.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:41:02.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:41:03.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:41:03.9|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 14:41:04.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:41:04.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:41:04.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:41:04.5|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:41:04.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1854112s
+2026-09-13 14:41:04.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:41:04.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1966957s
+2026-09-13 14:41:04.6|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 14:41:04.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:41:04.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:41:04.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:41:04.7|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:41:04.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0220952s
+2026-09-13 14:41:04.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:41:04.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0223421s
+2026-09-13 14:41:06.6|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2026-09-13 14:41:07.4|Info|CommandExecutor|Starting 2 threads for tasks.
+2026-09-13 14:41:07.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 14:41:07.7|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 14:41:07.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2026-09-13 14:41:07.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 15:09:07.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 15:10:09.3|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 14:21:03 and 09/13/2026 14:38:15 UTC. Search may be required.
+2026-09-13 15:10:09.4|Info|DownloadDecisionMaker|Processing 345 releases
+2026-09-13 15:10:10.4|Info|RssSyncService|RSS Sync Completed. Reports found: 345, Reports grabbed: 0
+2026-09-13 15:40:37.7|Info|RssSyncService|Starting RSS Sync
+2026-09-13 15:41:02.5|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 14:59:26 and 09/13/2026 15:07:25 UTC. Search may be required.
+2026-09-13 15:41:02.5|Info|DownloadDecisionMaker|Processing 350 releases
+2026-09-13 15:41:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 350, Reports grabbed: 0
+2026-09-13 16:11:07.8|Info|RssSyncService|Starting RSS Sync
+2026-09-13 16:11:07.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/4/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 16:12:15 due to recent failures." />
+2026-09-13 16:11:07.9|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:01:08
+2026-09-13 16:11:10.1|Info|DownloadDecisionMaker|Processing 248 releases
+2026-09-13 16:11:10.4|Info|RssSyncService|RSS Sync Completed. Reports found: 248, Reports grabbed: 0
+2026-09-13 16:39:13.4|Info|AddMovieService|Adding Movie [Meghe Dhaka Tara (2013)][tt3051894, 245684] Path: [/data/movies/Meghe Dhaka Tara (2013)]
+2026-09-13 16:39:13.4|Info|RefreshMovieService|Updating info for Meghe Dhaka Tara
+2026-09-13 16:39:13.5|Info|MediaCoverService|Downloading Poster for [Meghe Dhaka Tara (2013)][tt3051894, 245684] https://image.tmdb.org/t/p/original/1oftM3FelslyYenutcwd4u5lcLE.jpg
+2026-09-13 16:39:13.5|Info|DiskScanService|Scanning disk for Meghe Dhaka Tara
+2026-09-13 16:39:13.5|Info|DiskScanService|Completed scanning disk for Meghe Dhaka Tara
+2026-09-13 16:39:13.5|Info|MovieScannedHandler|[Meghe Dhaka Tara] was recently added, performing post-add actions
+2026-09-13 16:39:13.5|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 16:39:13.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-09-13 16:39:13.5|Info|ReleaseSearchService|Searching indexers for [Meghe Dhaka Tara]. 3 active indexers
+2026-09-13 16:39:13.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-09-13 16:39:13.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-09-13 16:39:13.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-09-13 16:39:13.5|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-09-13 16:39:13.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/4/api?t=search&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100&q=Meghe%20Dhaka%20Tara%202013: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 16:39:15 due to recent failures." />
+2026-09-13 16:39:13.6|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:00:02
+2026-09-13 16:39:13.7|Warn|MediaCoverMapper|File /config/MediaCover/5/poster.jpg not found
+2026-09-13 16:39:13.7|Info|MediaCoverService|Downloading Fanart for [Meghe Dhaka Tara (2013)][tt3051894, 245684] https://image.tmdb.org/t/p/original/eOoTnpcrxVaGKbQRGy0fDMXfIC0.jpg
+2026-09-13 16:39:15.3|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-09-13 16:39:18.9|Info|DownloadDecisionMaker|No results found
+2026-09-13 16:39:18.9|Info|MovieSearchService|Completed search for 1 movies. 0 reports downloaded.
+2026-09-13 16:40:21.3|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 16:40:23.3|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 16:41:37.9|Info|RssSyncService|Starting RSS Sync
+2026-09-13 16:41:40.2|Info|DownloadDecisionMaker|Processing 251 releases
+2026-09-13 16:41:40.6|Info|RssSyncService|RSS Sync Completed. Reports found: 251, Reports grabbed: 0
+2026-09-13 16:50:39.4|Info|AddMovieService|Adding Movie [The Cloud-Capped Star (1960)][tt0054073, 59239] Path: [/data/movies/The Cloud-Capped Star (1960)]
+2026-09-13 16:50:39.4|Info|RefreshMovieService|Updating info for The Cloud-Capped Star
+2026-09-13 16:50:39.4|Info|MediaCoverService|Downloading Poster for [The Cloud-Capped Star (1960)][tt0054073, 59239] https://image.tmdb.org/t/p/original/uIlt1x2eBMzuQHwyU54CNPTSK6A.jpg
+2026-09-13 16:50:39.4|Info|DiskScanService|Scanning disk for The Cloud-Capped Star
+2026-09-13 16:50:39.4|Info|DiskScanService|Completed scanning disk for The Cloud-Capped Star
+2026-09-13 16:50:39.4|Info|MovieScannedHandler|[The Cloud-Capped Star] was recently added, performing post-add actions
+2026-09-13 16:50:39.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-09-13 16:50:39.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-09-13 16:50:39.5|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-09-13 16:50:39.5|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-09-13 16:50:39.5|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-09-13 16:50:39.5|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 16:50:39.5|Info|ReleaseSearchService|Searching indexers for [The Cloud-Capped Star]. 2 active indexers
+2026-09-13 16:50:39.6|Info|MediaCoverService|Downloading Fanart for [The Cloud-Capped Star (1960)][tt0054073, 59239] https://image.tmdb.org/t/p/original/oAox7z3d94YqwRHTrQOyEZooK94.jpg
+2026-09-13 16:50:39.9|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-09-13 16:50:41.7|Info|DownloadDecisionMaker|Processing 2 releases
+2026-09-13 16:50:42.3|Info|DownloadService|Report for The Cloud-Capped Star (1960) sent to qBittorrent from indexer YTS (Prowlarr). Meghe Dhaka Tara (1960) 1080p BRRip x264 -YTS
+2026-09-13 16:50:42.3|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-09-13 17:08:06.3|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 17:08:08.3|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 17:12:08.0|Info|RssSyncService|Starting RSS Sync
+2026-09-13 17:13:48.0|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 17:13:48.0|Info|DownloadDecisionMaker|Processing 341 releases
+2026-09-13 17:13:48.6|Info|RssSyncService|RSS Sync Completed. Reports found: 341, Reports grabbed: 0
+2026-09-13 17:17:44.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 17:17:45.2|Info|ConsoleApp|Exiting main.
+2026-09-13 17:17:58.9|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 6.3.0.10514
+2026-09-13 17:17:59.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 17:17:59.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 17:18:01.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 17:18:02.3|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 17:18:02.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 17:18:02.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 17:18:02.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 17:18:02.9|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 17:18:02.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1133764s
+2026-09-13 17:18:02.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 17:18:02.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1218167s
+2026-09-13 17:18:03.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 17:18:03.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 17:18:03.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 17:18:03.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 17:18:03.1|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 17:18:03.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0225275s
+2026-09-13 17:18:03.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 17:18:03.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0229668s
+2026-09-13 17:18:04.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2026-09-13 17:18:06.4|Info|CommandExecutor|Starting 2 threads for tasks.
+2026-09-13 17:18:06.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 17:18:06.7|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 17:18:06.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2026-09-13 17:18:06.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 17:30:33.8|Info|AddMovieService|Adding Movie [Shrek (2001)][tt0126029, 808] Path: [/data/movies/Shrek (2001)]
+2026-09-13 17:30:33.9|Info|RefreshMovieService|Updating info for Shrek
+2026-09-13 17:30:34.0|Info|AddMovieCollectionService|Adding Collection Shrek Collection[2150]
+2026-09-13 17:30:34.0|Info|RefreshCollectionService|Updating info for Shrek Collection
+2026-09-13 17:30:34.1|Info|DiskScanService|Scanning disk for Shrek
+2026-09-13 17:30:34.1|Info|MediaCoverService|Downloading Poster for [Shrek (2001)][tt0126029, 808] https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
+2026-09-13 17:30:34.1|Info|DiskScanService|Completed scanning disk for Shrek
+2026-09-13 17:30:34.1|Info|MovieScannedHandler|[Shrek] was recently added, performing post-add actions
+2026-09-13 17:30:34.1|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:30:34.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-09-13 17:30:34.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-09-13 17:30:34.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-09-13 17:30:34.1|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-09-13 17:30:34.1|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-09-13 17:30:34.1|Info|ReleaseSearchService|Searching indexers for [Shrek]. 6 active indexers
+2026-09-13 17:30:34.1|Warn|MediaCoverMapper|File /config/MediaCover/7/poster.jpg not found
+2026-09-13 17:30:34.2|Info|MediaCoverService|Downloading Fanart for [Shrek (2001)][tt0126029, 808] https://image.tmdb.org/t/p/original/w0eKUOEog2ImtktCHAMUZws8qif.jpg
+2026-09-13 17:30:34.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=search&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:31:34 due to recent failures." />
+2026-09-13 17:30:34.6|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:01:00
+2026-09-13 17:30:34.8|Info|DownloadDecisionMaker|Processing 16 releases
+2026-09-13 17:30:35.4|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-09-13 17:30:36.9|Info|DownloadService|Report for Shrek (2001) sent to qBittorrent from indexer YTS (Prowlarr). Shrek (2001) 2160p BRRip 5.1 10Bit x265 -YTS
+2026-09-13 17:30:36.9|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-09-13 17:34:19.6|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:34:19.6|Info|ReleaseSearchService|Searching indexers for [Shrek]. 6 active indexers
+2026-09-13 17:34:19.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=search&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:39:19 due to recent failures." />
+2026-09-13 17:34:19.9|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:05:00
+2026-09-13 17:34:20.1|Info|DownloadDecisionMaker|Processing 16 releases
+2026-09-13 17:34:22.0|Info|DownloadService|Report for Shrek (2001) sent to qBittorrent from indexer YTS (Prowlarr). Shrek (2001) 2160p BRRip 5.1 10Bit x265 -YTS
+2026-09-13 17:34:22.0|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-09-13 17:37:15.3|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:37:15.3|Info|ReleaseSearchService|Searching indexers for [Shrek]. 5 active indexers
+2026-09-13 17:37:15.7|Info|DownloadDecisionMaker|Processing 16 releases
+2026-09-13 17:37:17.8|Info|DownloadService|Report for Shrek (2001) sent to qBittorrent from indexer YTS (Prowlarr). Shrek (2001) 2160p BRRip 5.1 10Bit x265 -YTS
+2026-09-13 17:37:17.8|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-09-13 17:38:32.4|Info|MovieService|Deleted movie [Shrek (2001)][tt0126029, 808]
+2026-09-13 17:39:28.4|Info|AddMovieService|Adding Movie [Shrek (2001)][tt0126029, 808] Path: [/data/movies/Shrek (2001)]
+2026-09-13 17:39:28.4|Info|RefreshMovieService|Updating info for Shrek
+2026-09-13 17:39:28.6|Info|AddMovieCollectionService|Adding Collection Shrek Collection[2150]
+2026-09-13 17:39:28.6|Info|RefreshCollectionService|Updating info for Shrek Collection
+2026-09-13 17:39:28.6|Info|MediaCoverService|Downloading Poster for [Shrek (2001)][tt0126029, 808] https://image.tmdb.org/t/p/original/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg
+2026-09-13 17:39:28.6|Info|DiskScanService|Scanning disk for Shrek
+2026-09-13 17:39:28.6|Info|DiskScanService|Completed scanning disk for Shrek
+2026-09-13 17:39:28.6|Info|MovieScannedHandler|[Shrek] was recently added, performing post-add actions
+2026-09-13 17:39:28.6|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:39:28.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-09-13 17:39:28.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-09-13 17:39:28.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-09-13 17:39:28.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-09-13 17:39:28.6|Info|ReleaseSearchService|Searching indexers for [Shrek]. 5 active indexers
+2026-09-13 17:39:28.6|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-09-13 17:39:28.7|Info|MediaCoverService|Downloading Fanart for [Shrek (2001)][tt0126029, 808] https://image.tmdb.org/t/p/original/w0eKUOEog2ImtktCHAMUZws8qif.jpg
+2026-09-13 17:39:29.0|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-09-13 17:39:29.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=search&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:54:29 due to recent failures." />
+2026-09-13 17:39:29.0|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:15:00
+2026-09-13 17:39:29.1|Info|DownloadDecisionMaker|Processing 13 releases
+2026-09-13 17:39:29.1|Info|MovieSearchService|Completed search for 1 movies. 0 reports downloaded.
+2026-09-13 17:40:50.0|Info|RefreshMovieService|Updating info for Shrek
+2026-09-13 17:40:50.1|Info|DiskScanService|Scanning disk for Shrek
+2026-09-13 17:40:50.1|Info|DiskScanService|Completed scanning disk for Shrek
+2026-09-13 17:40:50.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-09-13 17:40:50.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-09-13 17:40:50.1|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-09-13 17:40:50.1|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-09-13 17:40:50.1|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-09-13 17:40:51.4|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:40:51.4|Info|ReleaseSearchService|Searching indexers for [Shrek]. 4 active indexers
+2026-09-13 17:40:51.8|Info|DownloadDecisionMaker|Processing 13 releases
+2026-09-13 17:40:51.9|Info|MovieSearchService|Completed search for 1 movies. 0 reports downloaded.
+2026-09-13 17:40:55.3|Info|ReleaseSearchService|Searching indexers for [Shrek]. 4 active indexers
+2026-09-13 17:40:55.6|Info|DownloadDecisionMaker|Processing 13 releases
+2026-09-13 17:41:24.4|Info|ReleaseSearchService|Searching indexers for [Shrek]. 5 active indexers
+2026-09-13 17:41:26.3|Info|DownloadDecisionMaker|Processing 16 releases
+2026-09-13 17:41:42.0|Info|ReleaseSearchService|Searching indexers for [Shrek]. 5 active indexers
+2026-09-13 17:41:42.4|Info|DownloadDecisionMaker|Processing 16 releases
+2026-09-13 17:41:44.4|Info|DownloadService|Report for Shrek (2001) sent to qBittorrent from indexer YTS (Prowlarr). Shrek (2001) 1080p BRRip x264 -YTS
+2026-09-13 17:44:06.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 17:44:06.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:13:48 due to recent failures." />
+2026-09-13 17:44:06.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:13:48 due to recent failures." />
+2026-09-13 17:44:06.8|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:29:41
+2026-09-13 17:44:07.1|Warn|Torznab|Indexer BigFANGroup (Prowlarr) rss sync didn't cover the period between 09/11/2026 12:50:00 and 09/11/2026 12:50:00 UTC. Search may be required.
+2026-09-13 17:44:07.2|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:12:08 and 09/13/2026 17:44:07 UTC. Search may be required.
+2026-09-13 17:44:09.0|Info|DownloadDecisionMaker|Processing 291 releases
+2026-09-13 17:44:09.5|Info|RssSyncService|RSS Sync Completed. Reports found: 291, Reports grabbed: 0
+2026-09-13 17:47:56.8|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:47:56.8|Info|ReleaseSearchService|Searching indexers for [Shrek]. 6 active indexers
+2026-09-13 17:47:57.3|Info|DownloadDecisionMaker|Processing 65 releases
+2026-09-13 17:47:58.9|Info|DownloadService|Report for Shrek (2001) sent to qBittorrent from indexer Knaben (Prowlarr). Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst
+2026-09-13 17:47:58.9|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-09-13 17:48:35.3|Info|RefreshMovieService|Updating info for Shrek
+2026-09-13 17:48:35.8|Info|DiskScanService|Scanning disk for Shrek
+2026-09-13 17:48:35.8|Info|DiskScanService|Completed scanning disk for Shrek
+2026-09-13 17:48:35.8|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-09-13 17:48:35.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-09-13 17:48:35.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-09-13 17:48:35.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-09-13 17:48:35.8|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-09-13 17:48:36.8|Info|ReleaseSearchService|Searching indexers for [Shrek]. 6 active indexers
+2026-09-13 17:48:37.2|Info|DownloadDecisionMaker|Processing 65 releases
+2026-09-13 17:56:00.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+2026-09-13 17:56:00.5|Warn|Torznab|Unable to connect to indexer
+
+[v6.3.0.10514] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./NzbDrone.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 332
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 305
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 359
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+
+
+2026-09-13 17:56:00.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+2026-09-13 17:56:00.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+2026-09-13 17:56:00.7|Warn|Torznab|Unable to connect to indexer
+
+[v6.3.0.10514] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./NzbDrone.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 332
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 305
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 359
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+
+
+2026-09-13 17:56:00.7|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+2026-09-13 17:59:05.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 17:59:48.6|Info|MovieSearchService|Performing search for 1 movies
+2026-09-13 17:59:48.6|Info|ReleaseSearchService|Searching indexers for [Shrek]. 15 active indexers
+2026-09-13 17:59:48.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=search&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:28:41 due to recent failures." />
+2026-09-13 17:59:48.8|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:28:53
+2026-09-13 18:00:37.6|Info|ReleaseSearchService|Searching indexers for [Shrek]. 15 active indexers
+2026-09-13 18:00:37.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/15/api?t=search&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:01:37 due to recent failures." />
+2026-09-13 18:00:37.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/15/api?t=search&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:01:37 due to recent failures." />
+2026-09-13 18:00:37.8|Warn|Torznab|API Request Limit reached for TorrentByte (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:00:37.8|Info|DownloadDecisionMaker|Processing 419 releases
+2026-09-13 18:00:37.8|Warn|Torznab|API Request Limit reached for TorrentByte (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:00:37.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/12/api?t=search&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:01:21 due to recent failures." />
+2026-09-13 18:00:37.8|Warn|Torznab|API Request Limit reached for DaMagNet (Prowlarr). Disabled for 00:00:43
+2026-09-13 18:00:37.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/13/api?t=search&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Shrek%202001: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:01:08 due to recent failures." />
+2026-09-13 18:00:37.8|Warn|Torznab|API Request Limit reached for FileMood (Prowlarr). Disabled for 00:00:31
+2026-09-13 18:00:39.8|Info|DownloadService|Report for Shrek (2001) sent to qBittorrent from indexer Knaben (Prowlarr). Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst
+2026-09-13 18:00:39.8|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-09-13 18:01:17.2|Info|DownloadDecisionMaker|Processing 299 releases
+2026-09-13 18:02:39.4|Info|ReleaseSearchService|Searching indexers for [Shrek]. 14 active indexers
+2026-09-13 18:02:57.8|Info|DownloadDecisionMaker|Processing 419 releases
+2026-09-13 18:14:36.7|Info|RssSyncService|Starting RSS Sync
+2026-09-13 18:14:36.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/15/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:22:47 due to recent failures." />
+2026-09-13 18:14:36.9|Warn|Torznab|API Request Limit reached for TorrentByte (Prowlarr). Disabled for 00:08:11
+2026-09-13 18:14:37.4|Warn|Torznab|Indexer BigFANGroup (Prowlarr) rss sync didn't cover the period between 09/11/2026 12:50:00 and 09/11/2026 12:50:00 UTC. Search may be required.
+2026-09-13 18:14:37.6|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:44:07 and 09/13/2026 18:14:37 UTC. Search may be required.
+2026-09-13 18:14:50.5|Info|DownloadDecisionMaker|Processing 673 releases
+2026-09-13 18:14:51.6|Info|RssSyncService|RSS Sync Completed. Reports found: 673, Reports grabbed: 0
+2026-09-13 18:45:06.7|Info|RssSyncService|Starting RSS Sync
+2026-09-13 18:45:07.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:30:28 due to recent failures." />
+2026-09-13 18:45:07.2|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:45:21
+2026-09-13 18:45:07.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/15/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:47:48 due to recent failures." />
+2026-09-13 18:45:07.2|Warn|Torznab|API Request Limit reached for TorrentByte (Prowlarr). Disabled for 00:02:41
+2026-09-13 18:45:07.7|Warn|Torznab|Indexer BigFANGroup (Prowlarr) rss sync didn't cover the period between 09/11/2026 12:50:00 and 09/11/2026 12:50:00 UTC. Search may be required.
+2026-09-13 18:45:07.8|Warn|Torznab|Indexer FileMood (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:14:37 and 09/13/2026 18:45:07 UTC. Search may be required.
+2026-09-13 18:45:07.9|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:14:37 and 09/13/2026 18:45:07 UTC. Search may be required.
+2026-09-13 18:45:15.4|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 15:30:54 and 09/13/2026 18:06:10 UTC. Search may be required.
+2026-09-13 18:45:18.5|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:14:50 and 09/13/2026 18:45:18 UTC. Search may be required.
+2026-09-13 18:45:22.4|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:09:55 and 09/13/2026 18:33:04 UTC. Search may be required.
+2026-09-13 18:45:22.4|Info|DownloadDecisionMaker|Processing 788 releases
+2026-09-13 18:45:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 788, Reports grabbed: 0
+2026-09-13 19:06:54.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+2026-09-13 19:06:54.7|Warn|Torznab|Unable to connect to indexer
+
+[v6.3.0.10514] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./NzbDrone.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 332
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 305
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 359
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+
+
+2026-09-13 19:06:54.7|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+2026-09-13 19:06:56.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+2026-09-13 19:06:56.5|Warn|Torznab|Unable to connect to indexer
+
+[v6.3.0.10514] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./NzbDrone.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 332
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 305
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 359
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+
+
+2026-09-13 19:06:56.5|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer, check the log above the ValidationFailure for more details. HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=movie&cat=2000,8000&extended=1&apikey=(removed)&offset=0&limit=100]
+2026-09-13 19:07:14.9|Warn|RadarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 19:13:49.6|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 19:13:50.1|Info|ConsoleApp|Exiting main.
+2026-09-13 19:14:12.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 6.3.0.10514
+2026-09-13 19:14:13.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 19:14:13.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 19:14:14.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 19:14:15.2|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 19:14:16.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 19:14:16.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 19:14:16.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 19:14:16.3|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 19:14:16.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.135146s
+2026-09-13 19:14:16.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 19:14:16.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1478844s
+2026-09-13 19:14:16.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 19:14:16.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 19:14:16.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 19:14:16.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 19:14:16.5|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 19:14:16.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0279964s
+2026-09-13 19:14:16.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 19:14:16.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0283433s
+2026-09-13 19:14:19.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2026-09-13 19:14:20.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2026-09-13 19:14:21.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 19:14:21.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 19:14:21.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2026-09-13 19:14:22.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 19:15:50.4|Info|RssSyncService|Starting RSS Sync
+2026-09-13 19:15:51.9|Warn|Torznab|Indexer BigFANGroup (Prowlarr) rss sync didn't cover the period between 09/11/2026 12:50:00 and 09/11/2026 12:50:00 UTC. Search may be required.
+2026-09-13 19:15:52.0|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:45:07 and 09/13/2026 19:15:51 UTC. Search may be required.
+2026-09-13 19:15:52.2|Warn|Torznab|Indexer FileMood (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:45:07 and 09/13/2026 19:15:52 UTC. Search may be required.
+2026-09-13 19:16:04.2|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:28:55 and 09/13/2026 18:53:24 UTC. Search may be required.
+2026-09-13 19:16:11.5|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:40:08 and 09/13/2026 19:06:18 UTC. Search may be required.
+2026-09-13 19:16:12.5|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:45:18 and 09/13/2026 19:16:12 UTC. Search may be required.
+2026-09-13 19:16:12.5|Info|DownloadDecisionMaker|Processing 818 releases
+2026-09-13 19:16:14.6|Info|RssSyncService|RSS Sync Completed. Reports found: 818, Reports grabbed: 0

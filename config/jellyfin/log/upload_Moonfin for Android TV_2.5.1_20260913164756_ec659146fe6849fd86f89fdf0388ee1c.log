@@ -1,0 +1,23 @@
+Moonfin diagnostic report
+Generated: 2026-09-13T10:47:51.337040
+App: Moonfin for Android TV 2.5.1
+Device: askey HY300Pro (7b9205f2-d06a-41ab-9fb0-60a3788e0377)
+Entries: 1
+Platform: android
+============================================================
+2026-09-13T10:47:51.336903 ERROR [general] Uncaught: PlatformException(recognizerNotAvailable, Speech recognition not available on this device, , null)
+    └─ PlatformException(recognizerNotAvailable, Speech recognition not available on this device, , null)
+#0      StandardMethodCodec.decodeEnvelope (package:flutter/src/services/message_codecs.dart:653)
+#1      MethodChannel._invokeMethod (package:flutter/src/services/platform_channel.dart:366)
+<asynchronous suspension>
+#2      MethodChannelSpeechToText.initialize (package:speech_to_text_platform_interface/method_channel_speech_to_text.dart:39)
+<asynchronous suspension>
+#3      SpeechToText.initialize (package:speech_to_text/speech_to_text.dart:324)
+<asynchronous suspension>
+#4      VoiceSearchController._ensureReady (package:moonfin/data/services/voice_search_controller.dart:148)
+<asynchronous suspension>
+#5      VoiceSearchController.startListening (package:moonfin/data/services/voice_search_controller.dart:68)
+<asynchronous suspension>
+#6      _SearchScreenState._toggleVoiceSearch (package:moonfin/ui/screens/search/search_screen.dart:496)
+<asynchronous suspension>
+

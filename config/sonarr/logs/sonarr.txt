@@ -6656,3 +6656,436 @@
 2026-09-13 14:28:38.2|Info|DownloadDecisionMaker|Processing 207 releases
 2026-09-13 14:28:40.3|Info|RssSyncService|RSS Sync Completed. Reports found: 207, Reports grabbed: 0
 2026-09-13 14:36:28.0|Info|SceneMappingService|Updating Scene mappings
+2026-09-13 14:40:50.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 14:40:50.8|Info|ConsoleApp|Exiting main.
+2026-09-13 14:40:59.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.19.2979
+2026-09-13 14:40:59.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:40:59.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:41:00.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:41:01.6|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 14:41:01.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:41:02.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:41:02.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:41:02.1|Info|DatabaseEngineVersionCheck|SQLite 3.53.4
+2026-09-13 14:41:02.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1155995s
+2026-09-13 14:41:02.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:41:02.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1220541s
+2026-09-13 14:41:02.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 14:41:02.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:41:02.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:41:02.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:41:02.2|Info|DatabaseEngineVersionCheck|SQLite 3.53.4
+2026-09-13 14:41:02.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0019375s
+2026-09-13 14:41:02.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:41:02.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0023327s
+2026-09-13 14:41:03.7|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2026-09-13 14:41:05.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 14:41:05.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 14:41:05.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2026-09-13 14:41:05.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 14:44:05.2|Info|RssSyncService|Starting RSS Sync
+2026-09-13 14:44:56.7|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 13:36:16 and 09/13/2026 13:59:43 UTC. Search may be required.
+2026-09-13 14:44:56.7|Info|DownloadDecisionMaker|Processing 315 releases
+2026-09-13 14:44:59.0|Info|RssSyncService|RSS Sync Completed. Reports found: 315, Reports grabbed: 0
+2026-09-13 15:00:05.2|Info|RssSyncService|Starting RSS Sync
+2026-09-13 15:00:25.1|Info|DownloadDecisionMaker|Processing 324 releases
+2026-09-13 15:00:25.7|Info|RssSyncService|RSS Sync Completed. Reports found: 324, Reports grabbed: 0
+2026-09-13 15:15:35.3|Info|RssSyncService|Starting RSS Sync
+2026-09-13 15:17:15.3|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 15:17:15.3|Info|DownloadDecisionMaker|Processing 236 releases
+2026-09-13 15:17:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 236, Reports grabbed: 0
+2026-09-13 15:32:35.3|Info|RssSyncService|Starting RSS Sync
+2026-09-13 15:33:33.8|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 14:44:40 and 09/13/2026 15:07:25 UTC. Search may be required.
+2026-09-13 15:33:33.9|Info|DownloadDecisionMaker|Processing 339 releases
+2026-09-13 15:33:34.5|Info|RssSyncService|RSS Sync Completed. Reports found: 339, Reports grabbed: 0
+2026-09-13 15:48:35.4|Info|RssSyncService|Starting RSS Sync
+2026-09-13 15:50:15.4|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 15:50:15.4|Info|DownloadDecisionMaker|Processing 243 releases
+2026-09-13 15:50:15.9|Info|RssSyncService|RSS Sync Completed. Reports found: 243, Reports grabbed: 0
+2026-09-13 16:05:35.4|Info|RssSyncService|Starting RSS Sync
+2026-09-13 16:07:15.5|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 16:07:15.5|Info|DownloadDecisionMaker|Processing 253 releases
+2026-09-13 16:07:15.9|Info|RssSyncService|RSS Sync Completed. Reports found: 253, Reports grabbed: 0
+2026-09-13 16:22:35.5|Info|RssSyncService|Starting RSS Sync
+2026-09-13 16:24:15.5|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 16:24:15.5|Info|DownloadDecisionMaker|Processing 259 releases
+2026-09-13 16:24:16.0|Info|RssSyncService|RSS Sync Completed. Reports found: 259, Reports grabbed: 0
+2026-09-13 16:39:35.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 16:39:47.0|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 15:30:54 and 09/13/2026 16:03:42 UTC. Search may be required.
+2026-09-13 16:39:47.0|Info|DownloadDecisionMaker|Processing 360 releases
+2026-09-13 16:39:47.7|Info|RssSyncService|RSS Sync Completed. Reports found: 360, Reports grabbed: 0
+2026-09-13 16:55:05.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 16:56:45.6|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 16:56:45.6|Info|DownloadDecisionMaker|Processing 234 releases
+2026-09-13 16:56:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 234, Reports grabbed: 0
+2026-09-13 17:12:05.7|Info|RssSyncService|Starting RSS Sync
+2026-09-13 17:13:45.7|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 17:13:45.7|Info|DownloadDecisionMaker|Processing 348 releases
+2026-09-13 17:13:46.4|Info|RssSyncService|RSS Sync Completed. Reports found: 348, Reports grabbed: 0
+2026-09-13 17:17:44.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 17:17:44.9|Info|ConsoleApp|Exiting main.
+2026-09-13 17:18:00.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.19.2979
+2026-09-13 17:18:01.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 17:18:01.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 17:18:03.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 17:18:04.7|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 17:18:05.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 17:18:05.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 17:18:05.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 17:18:05.1|Info|DatabaseEngineVersionCheck|SQLite 3.53.4
+2026-09-13 17:18:05.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1225887s
+2026-09-13 17:18:05.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 17:18:05.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.125938s
+2026-09-13 17:18:05.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 17:18:05.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 17:18:05.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 17:18:05.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 17:18:05.2|Info|DatabaseEngineVersionCheck|SQLite 3.53.4
+2026-09-13 17:18:05.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0014125s
+2026-09-13 17:18:05.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 17:18:05.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0016547s
+2026-09-13 17:18:07.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2026-09-13 17:18:08.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 17:18:08.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 17:18:08.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2026-09-13 17:18:08.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 17:29:07.9|Info|RssSyncService|Starting RSS Sync
+2026-09-13 17:29:08.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:30:08 due to recent failures." />
+2026-09-13 17:29:08.6|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:01:00
+2026-09-13 17:29:09.2|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:12:06 and 09/13/2026 17:29:09 UTC. Search may be required.
+2026-09-13 17:29:10.6|Info|DownloadDecisionMaker|Processing 301 releases
+2026-09-13 17:29:12.9|Info|RssSyncService|RSS Sync Completed. Reports found: 301, Reports grabbed: 0
+2026-09-13 17:36:37.9|Info|SceneMappingService|Updating Scene mappings
+2026-09-13 17:44:37.9|Info|RssSyncService|Starting RSS Sync
+2026-09-13 17:44:38.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:13:48 due to recent failures." />
+2026-09-13 17:44:38.0|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/4/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:13:48 due to recent failures." />
+2026-09-13 17:44:38.0|Warn|Torznab|API Request Limit reached for Internet Archive (Prowlarr). Disabled for 00:29:10
+2026-09-13 17:44:38.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:54:29 due to recent failures." />
+2026-09-13 17:44:38.1|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:09:51
+2026-09-13 17:44:38.5|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:29:09 and 09/13/2026 17:44:38 UTC. Search may be required.
+2026-09-13 17:44:40.3|Info|DownloadDecisionMaker|Processing 396 releases
+2026-09-13 17:44:41.1|Info|RssSyncService|RSS Sync Completed. Reports found: 396, Reports grabbed: 0
+2026-09-13 17:56:00.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+2026-09-13 17:56:00.8|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+2026-09-13 17:56:00.8|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.19.2979] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 199
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 376
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+
+2026-09-13 17:56:00.8|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) Check the log surrounding this error for details
+2026-09-13 17:56:00.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+2026-09-13 17:56:00.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+2026-09-13 17:56:00.9|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.19.2979] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 58
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.<>c__DisplayClass4_0.<GetCapabilities>b__0() in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 35
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 199
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 376
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 17:57:00 due to recent failures." />
+
+2026-09-13 17:56:00.9|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) Check the log surrounding this error for details
+2026-09-13 17:59:05.7|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 18:00:08.0|Info|RssSyncService|Starting RSS Sync
+2026-09-13 18:00:08.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:28:41 due to recent failures." />
+2026-09-13 18:00:08.2|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 00:28:33
+2026-09-13 18:00:08.6|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:44:38 and 09/13/2026 18:00:08 UTC. Search may be required.
+2026-09-13 18:00:08.7|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/13/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:01:08 due to recent failures." />
+2026-09-13 18:00:08.7|Warn|Torznab|API Request Limit reached for FileMood (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:01:04.5|Info|DownloadDecisionMaker|Processing 748 releases
+2026-09-13 18:01:06.3|Info|RssSyncService|RSS Sync Completed. Reports found: 748, Reports grabbed: 0
+2026-09-13 18:05:24.7|Info|AddSeriesService|Adding Series [152831][Adventure Time] Path: [/data/tvshows/Adventure Time (2010)]
+2026-09-13 18:05:24.8|Info|RefreshSeriesService|Updating Adventure Time
+2026-09-13 18:05:24.9|Info|RefreshEpisodeService|Starting episode info refresh for: [152831][Adventure Time]
+2026-09-13 18:05:24.9|Info|RefreshEpisodeService|Finished episode refresh for series: [152831][Adventure Time].
+2026-09-13 18:05:25.0|Info|MediaCoverService|Downloading Banner for [152831][Adventure Time] https://artworks.thetvdb.com/banners/graphical/152831-g2.jpg
+2026-09-13 18:05:25.0|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2026-09-13 18:05:25.0|Info|SeriesScannedHandler|[Adventure Time] was recently added, performing post-add actions
+2026-09-13 18:05:25.1|Warn|MediaCoverMapper|File /config/MediaCover/2/poster.jpg not found
+2026-09-13 18:05:25.1|Info|MediaCoverService|Downloading Poster for [152831][Adventure Time] https://artworks.thetvdb.com/banners/posters/152831-2.jpg
+2026-09-13 18:05:25.2|Info|MediaCoverService|Downloading Fanart for [152831][Adventure Time] https://artworks.thetvdb.com/banners/fanart/original/152831-3.jpg
+2026-09-13 18:05:25.2|Info|MediaCoverService|Downloading Clearlogo for [152831][Adventure Time] https://artworks.thetvdb.com/banners/v4/series/152831/clearlogo/611b64b8e859a.png
+2026-09-13 18:05:25.8|Info|EpisodeSearchService|Performing search for 78 episodes
+2026-09-13 18:05:25.8|Info|MetadataService|Series folder does not exist, skipping metadata image creation
+2026-09-13 18:05:25.8|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S01]. 15 active indexers
+2026-09-13 18:05:30.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/13/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Hora%20de%20aventuras&season=1: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:06:30 due to recent failures." />
+2026-09-13 18:05:30.5|Warn|Torznab|API Request Limit reached for FileMood (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:05:53.9|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S01]. 14 active indexers
+2026-09-13 18:07:05.8|Warn|Torznab|TorrentByte (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/15/api?t=tvsearch&cat=5000,8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=1 Http request timed out
+2026-09-13 18:07:05.9|Info|DownloadDecisionMaker|Processing 403 releases
+2026-09-13 18:07:08.2|Info|DownloadService|Report sent to qBittorrent. Indexer TorrentDownload (Prowlarr). Adventure Time With Finn And Jake S01 1080p BluRay x264 DEiMOS[rartv]
+2026-09-13 18:07:08.5|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S02]. 13 active indexers
+2026-09-13 18:07:33.9|Warn|Torznab|TorrentByte (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/15/api?t=tvsearch&cat=5000,8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=1 Http request timed out
+2026-09-13 18:07:50.2|Info|SceneMappingService|Updating Scene mappings
+2026-09-13 18:07:51.6|Info|RefreshSeriesService|Updating Adventure Time
+2026-09-13 18:07:51.7|Info|RefreshEpisodeService|Starting episode info refresh for: [152831][Adventure Time]
+2026-09-13 18:07:52.7|Info|RefreshEpisodeService|Finished episode refresh for series: [152831][Adventure Time].
+2026-09-13 18:07:52.7|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2026-09-13 18:08:00.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/11/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=2: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:09:00 due to recent failures." />
+2026-09-13 18:08:00.9|Warn|Torznab|API Request Limit reached for BTdirectory (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:08:06.2|Info|DownloadDecisionMaker|Processing 303 releases
+2026-09-13 18:08:07.6|Info|DownloadService|Report sent to qBittorrent. Indexer TorrentDownload (Prowlarr). Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]
+2026-09-13 18:08:07.7|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S03]. 12 active indexers
+2026-09-13 18:08:15.2|Info|DownloadDecisionMaker|Processing 383 releases
+2026-09-13 18:08:16.8|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S02]. 13 active indexers
+2026-09-13 18:09:33.9|Info|DownloadDecisionMaker|Processing 330 releases
+2026-09-13 18:09:35.4|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S03]. 13 active indexers
+2026-09-13 18:10:19.9|Warn|Torznab|DaMagNet (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/12/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time%202008&season=3 Http request timed out
+2026-09-13 18:10:19.9|Info|DownloadDecisionMaker|Processing 178 releases
+2026-09-13 18:10:21.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D: 500.InternalServerError (221 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+2026-09-13 18:10:21.2|Info|QBittorrent|Request for qBittorrent failed with exception 'HTTP request failed: [500:InternalServerError] [GET] at [http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D]'. Retrying in 4.0133845s.
+
+[v4.0.19.2979] NzbDrone.Common.Http.HttpException: HTTP request failed: [500:InternalServerError] [GET] at [http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Download.TorrentClientBase`1.<>c.<<DownloadFromWebUrl>b__11_0>d.MoveNext() in ./Sonarr.Core/Download/TorrentClientBase.cs:line 143
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+
+2026-09-13 18:10:25.4|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D: 500.InternalServerError (221 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+2026-09-13 18:10:25.4|Info|QBittorrent|Request for qBittorrent failed with exception 'HTTP request failed: [500:InternalServerError] [GET] at [http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D]'. Retrying in 0.8016913s.
+
+[v4.0.19.2979] NzbDrone.Common.Http.HttpException: HTTP request failed: [500:InternalServerError] [GET] at [http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Download.TorrentClientBase`1.<>c.<<DownloadFromWebUrl>b__11_0>d.MoveNext() in ./Sonarr.Core/Download/TorrentClientBase.cs:line 143
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+
+2026-09-13 18:10:27.3|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D: 500.InternalServerError (221 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+2026-09-13 18:10:27.4|Error|QBittorrent|Downloading torrent file for episode 'Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS[rartv]' failed (http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D)
+
+[v4.0.19.2979] NzbDrone.Common.Http.HttpException: HTTP request failed: [500:InternalServerError] [GET] at [http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Download.TorrentClientBase`1.<>c.<<DownloadFromWebUrl>b__11_0>d.MoveNext() in ./Sonarr.Core/Download/TorrentClientBase.cs:line 143
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Download.TorrentClientBase`1.DownloadFromWebUrl(RemoteEpisode remoteEpisode, IIndexer indexer, String torrentUrl) in ./Sonarr.Core/Download/TorrentClientBase.cs:line 142
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+
+2026-09-13 18:10:27.5|Warn|ProcessDownloadDecisions|Couldn't add release 'Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS[rartv]' from Indexer TorrentProject2 (Prowlarr) to download queue.
+
+[v4.0.19.2979] NzbDrone.Core.Exceptions.ReleaseDownloadException: Downloading torrent failed
+ ---> NzbDrone.Common.Http.HttpException: HTTP request failed: [500:InternalServerError] [GET] at [http://192.168.0.65:9696/18/download?apikey=(removed)&link=eElOUENPMmFENmtMUkZ5Q1F3eWRsQ2pqeDRQdzhtOFFxWGRIVGpuNTFoa2ZCbUFWQjNWY0s5T0VScDM5N3VHaHM4RSt1UmY0bllWU0x5bmJIMmhKRE42TVdVcE9NcDJhcnlaQ3prN2hOdlJ0ZG1XRWlkUlhKRjZIekRBU2JUenp5bVdXbFV5L2lnakZYMzdmN1lqQWt4SEQyMEJoc1JTcXNja0E0cUdCeENvPQ&file=Adventure.Time.With.Finn.And.Jake.S03.1080p.BluRay.x264-DEiMOS%5Brartv%5D]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 119
+   at NzbDrone.Core.Download.TorrentClientBase`1.<>c.<<DownloadFromWebUrl>b__11_0>d.MoveNext() in ./Sonarr.Core/Download/TorrentClientBase.cs:line 143
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Download.TorrentClientBase`1.DownloadFromWebUrl(RemoteEpisode remoteEpisode, IIndexer indexer, String torrentUrl) in ./Sonarr.Core/Download/TorrentClientBase.cs:line 142
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="500" description="Download selectors didn't match for https://torrentproject2.net/t4/Adventure-Time-With-Finn-And-Jake-S03-1080p-BluRay-x264-DEiMOSrartv-torrent.html" />
+   --- End of inner exception stack trace ---
+   at NzbDrone.Core.Download.TorrentClientBase`1.DownloadFromWebUrl(RemoteEpisode remoteEpisode, IIndexer indexer, String torrentUrl) in ./Sonarr.Core/Download/TorrentClientBase.cs:line 190
+   at NzbDrone.Core.Download.TorrentClientBase`1.Download(RemoteEpisode remoteEpisode, IIndexer indexer) in ./Sonarr.Core/Download/TorrentClientBase.cs:line 124
+   at NzbDrone.Core.Download.DownloadService.DownloadReport(RemoteEpisode remoteEpisode, IDownloadClient downloadClient) in ./Sonarr.Core/Download/DownloadService.cs:line 98
+   at NzbDrone.Core.Download.DownloadService.DownloadReport(RemoteEpisode remoteEpisode, Nullable`1 downloadClientId) in ./Sonarr.Core/Download/DownloadService.cs:line 63
+   at NzbDrone.Core.Download.ProcessDownloadDecisions.ProcessDecisionInternal(DownloadDecision decision, Nullable`1 downloadClientId) in ./Sonarr.Core/Download/ProcessDownloadDecisions.cs:line 204
+
+2026-09-13 18:10:27.8|Info|DownloadService|Report sent to qBittorrent. Indexer TorrentDownload (Prowlarr). Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]
+2026-09-13 18:10:27.9|Info|EpisodeSearchService|Completed search for 78 episodes. 3 reports downloaded.
+2026-09-13 18:11:19.4|Info|DownloadDecisionMaker|Processing 200 releases
+2026-09-13 18:11:20.6|Info|SeriesSearchService|Series search completed. 0 reports downloaded.
+2026-09-13 18:16:08.1|Info|RssSyncService|Starting RSS Sync
+2026-09-13 18:16:08.2|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/15/api?t=tvsearch&cat=5000,8000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:22:47 due to recent failures." />
+2026-09-13 18:16:08.2|Warn|Torznab|API Request Limit reached for TorrentByte (Prowlarr). Disabled for 00:06:40
+2026-09-13 18:16:08.9|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:00:08 and 09/13/2026 18:16:08 UTC. Search may be required.
+2026-09-13 18:16:19.3|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:01:04 and 09/13/2026 18:16:19 UTC. Search may be required.
+2026-09-13 18:16:20.2|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:49:41 and 09/13/2026 18:05:49 UTC. Search may be required.
+2026-09-13 18:16:20.2|Info|DownloadDecisionMaker|Processing 753 releases
+2026-09-13 18:16:21.8|Info|RssSyncService|RSS Sync Completed. Reports found: 753, Reports grabbed: 0
+2026-09-13 18:28:47.2|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S01]. 14 active indexers
+2026-09-13 18:28:49.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/13/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Hora%20de%20aventuras&season=1: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:29:49 due to recent failures." />
+2026-09-13 18:28:49.9|Warn|Torznab|API Request Limit reached for FileMood (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:30:27.3|Warn|Torznab|DaMagNet (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/12/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=1 Http request timed out
+2026-09-13 18:30:27.3|Info|DownloadDecisionMaker|Processing 301 releases
+2026-09-13 18:30:28.2|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S02]. 13 active indexers
+2026-09-13 18:30:28.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/7/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=2: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:30:28 due to recent failures." />
+2026-09-13 18:30:28.5|Warn|Torznab|API Request Limit reached for NoNaMe Club (Prowlarr). Disabled for 01:00:00
+2026-09-13 18:31:29.0|Info|DownloadDecisionMaker|Processing 254 releases
+2026-09-13 18:31:30.0|Info|ReleaseSearchService|Searching indexers for [Adventure Time : S03]. 14 active indexers
+2026-09-13 18:31:38.1|Info|RssSyncService|Starting RSS Sync
+2026-09-13 18:31:40.5|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:16:08 and 09/13/2026 18:31:40 UTC. Search may be required.
+2026-09-13 18:31:59.1|Warn|Torznab|Indexer TorrentByte (Prowlarr) rss sync didn't cover the period between 09/13/2026 17:55:02 and 09/13/2026 18:26:44 UTC. Search may be required.
+2026-09-13 18:31:59.2|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:16:19 and 09/13/2026 18:31:59 UTC. Search may be required.
+2026-09-13 18:32:20.4|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:09:55 and 09/13/2026 18:26:25 UTC. Search may be required.
+2026-09-13 18:32:20.4|Info|DownloadDecisionMaker|Processing 742 releases
+2026-09-13 18:32:22.5|Info|RssSyncService|RSS Sync Completed. Reports found: 742, Reports grabbed: 0
+2026-09-13 18:32:26.4|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/11/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=3: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:33:26 due to recent failures." />
+2026-09-13 18:32:26.4|Warn|Torznab|API Request Limit reached for BTdirectory (Prowlarr). Disabled for 00:01:00
+2026-09-13 18:32:48.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/15/api?t=tvsearch&cat=5000,8000&extended=1&apikey=(removed)&offset=0&limit=100&q=Adventure%20Time&season=3: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 18:47:48 due to recent failures." />
+2026-09-13 18:32:48.1|Warn|Torznab|API Request Limit reached for TorrentByte (Prowlarr). Disabled for 00:15:00
+2026-09-13 18:32:48.1|Info|DownloadDecisionMaker|Processing 178 releases
+2026-09-13 18:32:49.3|Info|SeriesSearchService|Series search completed. 0 reports downloaded.
+2026-09-13 18:47:38.2|Info|RssSyncService|Starting RSS Sync
+2026-09-13 18:47:39.1|Warn|Torznab|Indexer FileMood (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:16:08 and 09/13/2026 18:47:39 UTC. Search may be required.
+2026-09-13 18:47:39.2|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:31:40 and 09/13/2026 18:47:39 UTC. Search may be required.
+2026-09-13 18:47:42.4|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 16:29:52 and 09/13/2026 18:06:10 UTC. Search may be required.
+2026-09-13 18:47:50.7|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:31:59 and 09/13/2026 18:47:50 UTC. Search may be required.
+2026-09-13 18:47:51.1|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:30:28 and 09/13/2026 18:33:04 UTC. Search may be required.
+2026-09-13 18:47:51.1|Info|DownloadDecisionMaker|Processing 844 releases
+2026-09-13 18:47:52.8|Info|RssSyncService|RSS Sync Completed. Reports found: 844, Reports grabbed: 0
+2026-09-13 19:03:08.2|Info|RssSyncService|Starting RSS Sync
+2026-09-13 19:03:09.0|Warn|Torznab|Indexer FileMood (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:47:39 and 09/13/2026 19:03:08 UTC. Search may be required.
+2026-09-13 19:03:09.2|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:47:39 and 09/13/2026 19:03:09 UTC. Search may be required.
+2026-09-13 19:03:21.6|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:40:08 and 09/13/2026 18:57:41 UTC. Search may be required.
+2026-09-13 19:03:23.4|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:47:50 and 09/13/2026 19:03:23 UTC. Search may be required.
+2026-09-13 19:03:24.5|Warn|Torznab|Indexer TorrentByte (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:27:00 and 09/13/2026 18:58:47 UTC. Search may be required.
+2026-09-13 19:03:42.6|Info|DownloadDecisionMaker|Processing 862 releases
+2026-09-13 19:03:44.3|Info|RssSyncService|RSS Sync Completed. Reports found: 862, Reports grabbed: 0
+2026-09-13 19:06:33.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/11/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:33 due to recent failures." />
+2026-09-13 19:06:33.5|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.19.2979] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/11/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100]
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 363
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 347
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 482
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:33 due to recent failures." />
+
+2026-09-13 19:06:33.5|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/11/api?t=tvsearch&cat=8000&extended=1&apikey=(removed)&offset=0&limit=100]. Check the log surrounding this error for details
+2026-09-13 19:07:02.4|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+2026-09-13 19:07:02.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+2026-09-13 19:07:02.5|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.19.2979] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 91
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 197
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 482
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+
+2026-09-13 19:07:02.5|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) Check the log surrounding this error for details
+2026-09-13 19:07:02.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+2026-09-13 19:07:02.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+2026-09-13 19:07:02.6|Warn|Torznab|Unable to connect to indexer
+
+[v4.0.19.2979] NzbDrone.Common.Http.TooManyRequestsException: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed)   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 115
+   at NzbDrone.Common.Http.HttpClient.Get(HttpRequest request) in ./Sonarr.Common/Http/HttpClient.cs:line 327
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.FetchCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 91
+   at NzbDrone.Common.Cache.Cached`1.Get(String key, Func`1 function, Nullable`1 lifeTime) in ./Sonarr.Common/Cache/Cached.cs:line 99
+   at NzbDrone.Core.Indexers.Newznab.NewznabCapabilitiesProvider.GetCapabilities(NewznabSettings indexerSettings) in ./Sonarr.Core/Indexers/Newznab/NewznabCapabilitiesProvider.cs:line 37
+   at NzbDrone.Core.Indexers.Newznab.NewznabRequestGenerator.GetRecentRequests() in ./Sonarr.Core/Indexers/Newznab/NewznabRequestGenerator.cs:line 197
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.TestConnection() in ./Sonarr.Core/Indexers/HttpIndexerBase.cs:line 482
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/13/2026 19:07:54 due to recent failures." />
+
+2026-09-13 19:07:02.6|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Unable to connect to indexer: HTTP request failed: [429:TooManyRequests] [GET] at [http://192.168.0.65:9696/14/api?t=caps&apikey=(removed) Check the log surrounding this error for details
+2026-09-13 19:07:18.9|Warn|SonarrErrorPipeline|Invalid request Validation failed: 
+ -- : Query successful, but no results in the configured categories were returned from your indexer. This may be an issue with the indexer or your indexer category settings.
+2026-09-13 19:13:49.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 19:13:49.9|Info|ConsoleApp|Exiting main.
+2026-09-13 19:14:15.3|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.19.2979
+2026-09-13 19:14:15.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 19:14:15.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 19:14:18.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 19:14:19.1|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 19:14:19.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 19:14:19.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 19:14:19.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 19:14:19.9|Info|DatabaseEngineVersionCheck|SQLite 3.53.4
+2026-09-13 19:14:19.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1979779s
+2026-09-13 19:14:19.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 19:14:19.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2462721s
+2026-09-13 19:14:20.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 19:14:20.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 19:14:20.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 19:14:20.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 19:14:20.3|Info|DatabaseEngineVersionCheck|SQLite 3.53.4
+2026-09-13 19:14:20.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0015103s
+2026-09-13 19:14:20.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 19:14:20.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0035142s
+2026-09-13 19:14:22.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2026-09-13 19:14:25.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 19:14:25.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 19:14:25.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2026-09-13 19:14:25.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 19:18:54.9|Info|RssSyncService|Starting RSS Sync
+2026-09-13 19:18:55.9|Warn|Torznab|Indexer FileMood (Prowlarr) rss sync didn't cover the period between 09/13/2026 19:03:08 and 09/13/2026 19:18:55 UTC. Search may be required.
+2026-09-13 19:18:56.0|Warn|Torznab|Indexer Torrent9 (Prowlarr) rss sync didn't cover the period between 09/13/2026 19:03:09 and 09/13/2026 19:18:55 UTC. Search may be required.
+2026-09-13 19:19:09.0|Warn|Torznab|Indexer BTdirectory (Prowlarr) rss sync didn't cover the period between 09/13/2026 19:01:08 and 09/13/2026 19:06:18 UTC. Search may be required.
+2026-09-13 19:19:11.1|Warn|Torznab|Indexer DaMagNet (Prowlarr) rss sync didn't cover the period between 09/13/2026 19:03:23 and 09/13/2026 19:19:11 UTC. Search may be required.
+2026-09-13 19:19:11.2|Warn|Torznab|Indexer TorrentByte (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:59:06 and 09/13/2026 19:13:43 UTC. Search may be required.
+2026-09-13 19:19:28.0|Warn|Torznab|Indexer Internet Archive (Prowlarr) rss sync didn't cover the period between 09/13/2026 18:46:52 and 09/13/2026 18:53:24 UTC. Search may be required.
+2026-09-13 19:19:28.0|Info|DownloadDecisionMaker|Processing 855 releases
+2026-09-13 19:19:30.1|Info|RssSyncService|RSS Sync Completed. Reports found: 855, Reports grabbed: 0

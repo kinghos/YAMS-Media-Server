@@ -1,0 +1,14 @@
+{
+  "jellyfinUserId": "c5c0ff36-f63f-4aca-8042-ecf46a092055",
+  "notifyOnNewRequests": true,
+  "notifyOnLibraryAdded": true,
+  "notifyOnIssues": true,
+  "notifyOnNewMedia": true,
+  "devices": [
+    {
+      "token": "fITBpjhGTeitoQi4WdfBCy:APA91bH8SlCrAHzXWTYh0_lqaSICsJ30jfaKnG8cLlIZyZizoE4zaN6QAjXuufPqU-T-Z53GEPq26fMJI2uiyWEtlc-9kyQR5ghTPQVncx9kJQJQHdqQ3js",
+      "platform": "android",
+      "deviceId": "0c88bfb8-fa68-4780-921a-73241ca58100"
+    }
+  ]
+}
