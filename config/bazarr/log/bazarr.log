@@ -182,3 +182,19 @@
 2026-09-13 12:32:29|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
 2026-09-13 14:11:44|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
 2026-09-13 14:11:44|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-13 14:17:01|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-13 14:17:03|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-13 14:17:03|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-13 14:17:03|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-13 14:17:03|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-13 14:17:03|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-13 14:17:03|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-13 14:17:03|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-13 14:24:21|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-13 14:24:22|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-13 14:24:22|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-13 14:24:22|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-13 14:24:22|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-13 14:24:22|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-13 14:24:22|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-13 14:24:23|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|

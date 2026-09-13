@@ -1,7 +1,7 @@
 # Pi-hole configuration file (v6.7)
 # Encoding: UTF-8
 # This file is managed by pihole-FTL
-# Last updated on 2026-09-13 15:32:56 BST
+# Last updated on 2026-09-13 15:16:27 BST
 
 [dns]
   # Upstream DNS Servers to be used by Pi-hole. If this is not set, Pi-hole will not
@@ -11,10 +11,7 @@
   #
   # Allowed values are:
   #     Array of IP addresses and/or hostnames, optionally with a port (#...)
-  upstreams = [
-    "8.8.8.8",
-    "8.8.4.4"
-  ] ### CHANGED, default = []
+  upstreams = []
 
   # Use this option to control deep CNAME inspection. Disabling it might be beneficial
   # for very low-end devices
@@ -131,9 +128,7 @@
   #
   # Allowed values are:
   #     Array of custom DNS records each one in HOSTS form: "IP HOSTNAME [HOSTNAME ...]"
-  hosts = [
-    "192.168.0.65 jellyfin.coral.io"
-  ] ### CHANGED, default = []
+  hosts = []
 
   # If set, queries for plain names, without dots or domain parts, are never forwarded to
   # upstream nameservers
@@ -1149,7 +1144,7 @@
     #
     # Allowed values are:
     #     A valid Pi-hole password hash
-    pwhash = "$BALLOON-SHA256$v=1$s=1024,t=32$saeQaSNLobwQt2e7TRCY7A==$C+Q3JsHvMDMiC4mExFMBoQ+4iv4g2C6PKqcxwXK7B1k=" ### CHANGED, default = ""
+    pwhash = ""
 
     # Pi-hole 2FA TOTP secret. When set to something different than an empty string, 2FA
     # authentication will be enforced for the API and the web interface. This setting is
@@ -1741,6 +1736,6 @@
   all = false
 
 # Configuration statistics:
-# 167 total entries out of which 163 entries are default
-# --> 4 entries are modified
+# 167 total entries out of which 166 entries are default
+# --> 1 entry is modified
 

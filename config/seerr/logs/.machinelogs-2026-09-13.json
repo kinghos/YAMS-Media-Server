@@ -1040,3 +1040,73 @@
 {"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2026-09-13T14:16:45.539Z"}
 {"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2026-09-13T14:16:45.604Z"}
 {"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2026-09-13T14:16:45.846Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:17:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:18:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:19:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:20:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-09-13T14:20:00.022Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"734bd4d0-734a-4b67-a637-e22c0d2193a5","timestamp":"2026-09-13T14:20:00.026Z"}
+{"label":"Anime-List Sync","level":"info","message":"Loading mapping file","timestamp":"2026-09-13T14:20:00.048Z"}
+{"label":"Anime-List Sync","level":"info","message":"Loaded 10736 AniDB items from mapping file","timestamp":"2026-09-13T14:20:00.409Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-09-13T14:20:00.410Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Nirvanna the Band the Show the Movie","timestamp":"2026-09-13T14:20:01.105Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-09-13T14:20:05.106Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-13T14:20:05.199Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:21:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:22:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:23:00.012Z"}
+{"level":"info","message":"Commit Tag: 69f73a6f1486fdb51b8ddae9a94a8dfb629f461c","timestamp":"2026-09-13T14:23:54.997Z"}
+{"level":"info","message":"Starting Seerr version 3.4.1","timestamp":"2026-09-13T14:23:56.099Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0001_migrate_hostname.js'...","timestamp":"2026-09-13T14:24:03.993Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0002_migrate_apitokens.js'...","timestamp":"2026-09-13T14:24:03.996Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0003_emby_media_server_type.js'...","timestamp":"2026-09-13T14:24:03.998Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0004_migrate_region_setting.js'...","timestamp":"2026-09-13T14:24:03.999Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0005_migrate_network_settings.js'...","timestamp":"2026-09-13T14:24:04.000Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0006_remove_lunasea.js'...","timestamp":"2026-09-13T14:24:04.001Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0007_migrate_arr_tags.js'...","timestamp":"2026-09-13T14:24:04.002Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0008_migrate_blacklist_to_blocklist.js'...","timestamp":"2026-09-13T14:24:04.008Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2026-09-13T14:24:04.021Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2026-09-13T14:24:04.086Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2026-09-13T14:24:04.370Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:25:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-09-13T14:25:00.020Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"97a3f4c0-a888-4ad0-b304-0b44ed2e845e","timestamp":"2026-09-13T14:25:00.021Z"}
+{"label":"Anime-List Sync","level":"info","message":"Loading mapping file","timestamp":"2026-09-13T14:25:00.030Z"}
+{"label":"Anime-List Sync","level":"info","message":"Loaded 10736 AniDB items from mapping file","timestamp":"2026-09-13T14:25:00.449Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-09-13T14:25:00.452Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Nirvanna the Band the Show the Movie","timestamp":"2026-09-13T14:25:01.177Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-09-13T14:25:05.179Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-13T14:25:05.291Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:26:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:27:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:28:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:29:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:30:00.006Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-09-13T14:30:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"ad8009e5-d934-41f8-a5ce-7095f14f8278","timestamp":"2026-09-13T14:30:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-09-13T14:30:00.019Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Nirvanna the Band the Show the Movie","timestamp":"2026-09-13T14:30:00.059Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-09-13T14:30:04.063Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-13T14:30:04.076Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:31:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:32:00.006Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:33:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:34:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:35:00.007Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-09-13T14:35:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"342f53ab-9cb3-4792-a56e-0212864a1d1b","timestamp":"2026-09-13T14:35:00.013Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-09-13T14:35:00.018Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Nirvanna the Band the Show the Movie","timestamp":"2026-09-13T14:35:00.060Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-09-13T14:35:04.065Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-13T14:35:04.076Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:36:00.006Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:37:00.006Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:38:00.006Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:39:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-13T14:40:00.005Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-09-13T14:40:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"1ffb3bd7-36a7-4c39-ab33-d20c2eb28214","timestamp":"2026-09-13T14:40:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-09-13T14:40:00.015Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Nirvanna the Band the Show the Movie","timestamp":"2026-09-13T14:40:00.061Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-09-13T14:40:04.065Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-13T14:40:04.077Z"}
