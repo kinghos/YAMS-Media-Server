@@ -974,3 +974,69 @@
 2026-09-13T13:46:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2026-09-13T13:47:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2026-09-13T13:48:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:49:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:50:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:50:00.012Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T13:50:00.012Z [info][Jellyfin Sync]: Scan starting {"sessionId":"dad00d75-8069-4d05-9429-60791db98030"}
+2026-09-13T13:50:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T13:50:00.048Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T13:50:04.051Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T13:50:04.062Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T13:51:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:52:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:53:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:54:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:55:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:55:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T13:55:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"caf76b36-5f81-4db7-a960-4e248b73e21e"}
+2026-09-13T13:55:00.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T13:55:00.051Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T13:55:04.056Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T13:55:04.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T13:56:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:57:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:58:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T13:59:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:00:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:00:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T14:00:00.006Z [info][Jellyfin Sync]: Scan starting {"sessionId":"8f97a52f-f26c-4262-add1-98915701970d"}
+2026-09-13T14:00:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T14:00:00.039Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T14:00:04.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T14:00:04.054Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:01:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:02:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:03:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:04:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:05:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:05:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T14:05:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"86cb1673-0d07-4226-9f58-bf5c0255fb15"}
+2026-09-13T14:05:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T14:05:00.044Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T14:05:04.048Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T14:05:04.057Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:06:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:07:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:08:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:09:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:10:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:10:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-13T14:10:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"fec421fd-781d-4521-89ea-f8fa5fadcb61"}
+2026-09-13T14:10:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-13T14:10:00.051Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Nirvanna the Band the Show the Movie 
+2026-09-13T14:10:04.057Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-13T14:10:04.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-13T14:11:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-13T14:16:33.116Z [info]: Commit Tag: 69f73a6f1486fdb51b8ddae9a94a8dfb629f461c 
+2026-09-13T14:16:35.774Z [info]: Starting Seerr version 3.4.1 
+2026-09-13T14:16:45.469Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-09-13T14:16:45.471Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-09-13T14:16:45.477Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-09-13T14:16:45.478Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-09-13T14:16:45.493Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-09-13T14:16:45.494Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-09-13T14:16:45.498Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-09-13T14:16:45.500Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-09-13T14:16:45.539Z [info][Notifications]: Registered notification agents 
+2026-09-13T14:16:45.604Z [info][Jobs]: Scheduled jobs loaded 
+2026-09-13T14:16:45.846Z [info][Server]: Server ready on port 5055 

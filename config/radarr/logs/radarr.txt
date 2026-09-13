@@ -5652,3 +5652,35 @@ UNIQUE constraint failed: Indexers.Name
 2026-09-13 13:36:23.0|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
 2026-09-13 13:36:23.0|Info|DownloadDecisionMaker|Processing 241 releases
 2026-09-13 13:36:23.4|Info|RssSyncService|RSS Sync Completed. Reports found: 241, Reports grabbed: 0
+2026-09-13 14:06:43.0|Info|RssSyncService|Starting RSS Sync
+2026-09-13 14:08:23.1|Warn|Torznab|Internet Archive (Prowlarr) server is currently unavailable. http://192.168.0.65:9696/4/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100 Http request timed out
+2026-09-13 14:08:23.1|Info|DownloadDecisionMaker|Processing 244 releases
+2026-09-13 14:08:23.4|Info|RssSyncService|RSS Sync Completed. Reports found: 244, Reports grabbed: 0
+2026-09-13 14:11:43.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 14:11:44.3|Info|ConsoleApp|Exiting main.
+2026-09-13 14:16:36.2|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 6.3.0.10514
+2026-09-13 14:16:36.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:16:36.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:16:38.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:16:39.0|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 14:16:39.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:16:39.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:16:39.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:16:39.7|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:16:39.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2324733s
+2026-09-13 14:16:39.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:16:39.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2515648s
+2026-09-13 14:16:39.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 14:16:40.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:16:40.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:16:40.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:16:40.1|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:16:40.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0354565s
+2026-09-13 14:16:40.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:16:40.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.035721s
+2026-09-13 14:16:41.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2026-09-13 14:16:43.2|Info|CommandExecutor|Starting 2 threads for tasks.
+2026-09-13 14:16:43.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 14:16:43.7|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 14:16:43.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2026-09-13 14:16:43.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled

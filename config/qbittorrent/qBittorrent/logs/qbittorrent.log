@@ -101,3 +101,24 @@
 (I) 2026-09-13T12:52:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
 (N) 2026-09-13T12:53:00 - WebAPI login success. IP: ::ffff:172.60.0.1
 (N) 2026-09-13T12:53:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:11:43 - qBittorrent termination initiated
+(N) 2026-09-13T14:11:43 - qBittorrent is now ready to exit
+(N) 2026-09-13T14:16:34 - qBittorrent v4.6.3 started
+(N) 2026-09-13T14:16:34 - Using config directory: /config/qBittorrent
+(N) 2026-09-13T14:16:34 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T14:16:34 - Peer ID: "-qB4630-"
+(I) 2026-09-13T14:16:34 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T14:16:34 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T14:16:34 - Local Peer Discovery support: ON
+(I) 2026-09-13T14:16:34 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T14:16:34 - Anonymous mode: OFF
+(I) 2026-09-13T14:16:34 - Encryption support: ON
+(I) 2026-09-13T14:16:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T14:16:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(I) 2026-09-13T14:16:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T14:16:34 - Using built-in WebUI.
+(N) 2026-09-13T14:16:34 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T14:16:34 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T14:16:34 - Detected external IP. IP: "138.199.6.205"
+(N) 2026-09-13T14:16:38 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:16:44 - WebAPI login success. IP: ::ffff:172.60.0.1

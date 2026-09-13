@@ -1901,3 +1901,122 @@ TRAWL proxy error: Tier 3 failed (goto: NS_ERROR_NET_RESET). Set RESIDENTIAL_PRO
 2026-09-13 13:37:37.7|Info|ReleaseSearchService|Searching indexer(s): [Nyaa.si] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
 2026-09-13 13:37:37.7|Info|ReleaseSearchService|Searching indexer(s): [LimeTorrents] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
 2026-09-13 13:39:16.1|Info|ReleaseSearchService|Searching indexer(s): [Internet Archive] for Term: [] for Season / Episode:[], Offset: 100, Limit: 100, Categories: [5000]
+2026-09-13 13:54:37.8|Info|ReleaseSearchService|Searching indexer(s): [Shana Project] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-13 13:54:37.8|Info|ReleaseSearchService|Searching indexer(s): [Internet Archive] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2026-09-13 13:54:37.8|Info|ReleaseSearchService|Searching indexer(s): [Nyaa.si] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-13 13:54:37.8|Info|ReleaseSearchService|Searching indexer(s): [LimeTorrents] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-13 13:56:17.8|Warn|Cardigann|Internet Archive server is currently unavailable. https://archive.org/advancedsearch.php?q=format%3A(%22Archive+BitTorrent%22)+AND+mediatype%3A(movies)&fl[]=identifier%2Ctitle%2Cmediatype%2Citem_size%2Cdownloads%2Cbtih%2Cpublicdate&sort=-publicdate&rows=100&output=json Http request timed out
+
+[v2.5.2.5491] System.Net.WebException: Http request timed out
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+   at System.Net.Http.Http2Connection.Http2Stream.<>c.<WaitForDataAsync>b__88_0(Object s, CancellationToken cancellationToken)
+   at System.Threading.CancellationTokenSource.ExecuteCallbackHandlers(Boolean throwOnFirstException)
+   at System.Threading.CancellationTokenSource.ExecuteCallbackHandlers(Boolean throwOnFirstException)
+   at System.Threading.TimerQueueTimer.Fire(Boolean isThreadPool)
+   at System.Threading.TimerQueue.FireNextTimers()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+   at System.Net.Http.Http2Connection.Http2Stream.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.Http2Connection.Http2Stream.ReadResponseHeadersAsync(CancellationToken cancellationToken)
+   at System.Net.Http.Http2Connection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./NzbDrone.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 113
+   --- End of inner exception stack trace ---
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./NzbDrone.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 163
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./NzbDrone.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./NzbDrone.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./NzbDrone.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 665
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 664
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 587
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 428
+
+
+2026-09-13 14:06:43.1|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2026-09-13 14:06:43.1|Info|ReleaseSearchService|Searching indexer(s): [Internet Archive] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2026-09-13 14:06:43.2|Info|ReleaseSearchService|Searching indexer(s): [Nyaa.si] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020]
+2026-09-13 14:08:23.2|Warn|Cardigann|Internet Archive server is currently unavailable. https://archive.org/advancedsearch.php?q=format%3A(%22Archive+BitTorrent%22)+AND+mediatype%3A(movies)&fl[]=identifier%2Ctitle%2Cmediatype%2Citem_size%2Cdownloads%2Cbtih%2Cpublicdate&sort=-publicdate&rows=100&output=json Http request timed out
+
+[v2.5.2.5491] System.Net.WebException: Http request timed out
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+   at System.Net.Http.Http2Connection.Http2Stream.<>c.<WaitForDataAsync>b__88_0(Object s, CancellationToken cancellationToken)
+   at System.Threading.CancellationTokenSource.ExecuteCallbackHandlers(Boolean throwOnFirstException)
+   at System.Threading.CancellationTokenSource.ExecuteCallbackHandlers(Boolean throwOnFirstException)
+   at System.Threading.TimerQueueTimer.Fire(Boolean isThreadPool)
+   at System.Threading.TimerQueue.FireNextTimers()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+   at System.Net.Http.Http2Connection.Http2Stream.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.Http2Connection.Http2Stream.ReadResponseHeadersAsync(CancellationToken cancellationToken)
+   at System.Net.Http.Http2Connection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./NzbDrone.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 113
+   --- End of inner exception stack trace ---
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./NzbDrone.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 163
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./NzbDrone.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./NzbDrone.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./NzbDrone.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 665
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 664
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 587
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./NzbDrone.Core/Indexers/HttpIndexerBase.cs:line 428
+
+
+2026-09-13 14:11:37.8|Info|ReleaseSearchService|Searching indexer(s): [Nyaa.si] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-13 14:11:37.8|Info|ReleaseSearchService|Searching indexer(s): [LimeTorrents] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-13 14:11:37.9|Info|ReleaseSearchService|Searching indexer(s): [Shana Project] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-13 14:11:43.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 14:11:44.0|Info|ConsoleApp|Exiting main.
+2026-09-13 14:16:32.8|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 2.5.2.5491
+2026-09-13 14:16:33.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:16:33.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:16:35.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 14:16:36.1|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 14:16:36.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:16:36.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:16:36.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:16:36.8|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:16:36.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.15939s
+2026-09-13 14:16:36.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:16:36.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1765273s
+2026-09-13 14:16:37.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=1000 ***
+2026-09-13 14:16:37.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:16:37.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:16:37.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:16:37.1|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:16:37.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0214059s
+2026-09-13 14:16:37.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:16:37.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0236414s
+2026-09-13 14:16:38.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2026-09-13 14:16:39.0|Info|CommandExecutor|Starting 3 threads for tasks.
+2026-09-13 14:16:41.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 14:16:41.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 14:16:41.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin

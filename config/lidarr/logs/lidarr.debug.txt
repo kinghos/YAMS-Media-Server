@@ -2492,3 +2492,47 @@
 2026-09-13 13:47:38.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
 2026-09-13 13:47:38.9|Debug|PendingReleaseService|Removing failed releases from pending
 2026-09-13 13:48:08.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-09-13 13:53:09.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-09-13 13:58:09.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-09-13 14:02:39.0|Info|RssSyncService|Starting RSS Sync
+2026-09-13 14:02:39.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 14:02:39.0|Info|DownloadDecisionMaker|No results found
+2026-09-13 14:02:39.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 14:02:39.0|Debug|PendingReleaseService|Removing failed releases from pending
+2026-09-13 14:03:09.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-09-13 14:08:09.1|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-09-13 14:11:43.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 14:11:44.3|Info|ConsoleApp|Exiting main.
+2026-09-13 14:16:35.6|Debug|ProcessProvider|Found 0 processes with the name: Lidarr.Console
+2026-09-13 14:16:35.7|Debug|ProcessProvider|Found 1 processes with the name: Lidarr
+2026-09-13 14:16:35.7|Debug|ProcessProvider| - [147] Lidarr
+2026-09-13 14:16:35.9|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 14:16:36.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:16:36.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:16:36.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:16:36.4|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:16:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2109372s
+2026-09-13 14:16:36.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:16:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2287137s
+2026-09-13 14:16:36.6|Debug|MigrationController|Took: 00:00:00.6848651
+2026-09-13 14:16:36.6|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 14:16:36.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 14:16:36.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 14:16:36.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 14:16:36.8|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 14:16:36.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0295809s
+2026-09-13 14:16:36.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 14:16:36.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.033845s
+2026-09-13 14:16:36.8|Debug|MigrationController|Took: 00:00:00.1822052
+2026-09-13 14:16:37.3|Debug|FingerprintingService|fpcalc version: 1.5.1
+2026-09-13 14:16:38.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-13 14:16:38.9|Debug|QualityDefinitionService|Setting up default quality config
+2026-09-13 14:16:40.1|Debug|NotificationFactory|Initializing Providers. Count 25
+2026-09-13 14:16:40.3|Debug|IndexerFactory|Initializing Providers. Count 10
+2026-09-13 14:16:40.3|Debug|ImportListFactory|Initializing Providers. Count 10
+2026-09-13 14:16:40.3|Debug|MetadataFactory|Initializing Providers. Count 3
+2026-09-13 14:16:40.3|Debug|DownloadClientFactory|Initializing Providers. Count 18
+2026-09-13 14:16:40.3|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 14:16:40.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 14:16:40.3|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-13 14:16:40.6|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled

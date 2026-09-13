@@ -45,3 +45,30 @@ services:
   prowlarr:
     volumes:
       - /opt/yams/config/prowlarr/custom-cont-init.d:/custom-cont-init.d:ro
+
+  nginx-proxy-manager:
+    image: 'jc21/nginx-proxy-manager:latest'
+    container_name: npm
+    restart: unless-stopped
+    ports:
+      - '80:80'
+      - '81:81'
+      - '443:443'
+    volumes:
+      - ${INSTALL_DIRECTORY}/config/npm/data:/data
+      - ${INSTALL_DIRECTORY}/config/npm/etc/letsencrypt:/etc/letsencrypt
+
+  pihole:
+    image: docker.io/pihole/pihole:latest
+    container_name: pihole
+    restart: unless-stopped
+    ports:
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "8082:80/tcp"
+    environment:
+      TZ: ${TZ}
+      FTLCONF_webserver_api_password: ${PIHOLE_PASSWORD}
+    volumes:
+      - ${INSTALL_DIRECTORY}/config/pihole/etc-pihole:/etc/pihole
+      - ${INSTALL_DIRECTORY}/config/pihole/etc-dnsmasq.d:/etc/dnsmasq.d
