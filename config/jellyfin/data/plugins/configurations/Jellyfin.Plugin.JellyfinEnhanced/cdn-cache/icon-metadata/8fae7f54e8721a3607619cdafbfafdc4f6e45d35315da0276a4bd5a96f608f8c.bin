@@ -1,0 +1,1303 @@
+.itemExternalLinks a[href*="hikka.io"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="hikka.io"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/hikka/hikka.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="hikka.io"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="hikka.io"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="hikka.io"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="hikka.io"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="bgm.tv"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="bgm.tv"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/bgm_tv.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="bgm.tv"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="bgm.tv"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="bgm.tv"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="bgm.tv"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anidb.net"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="anidb.net"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/anidb/anidb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anidb.net"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anidb.net"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anidb.net"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="anidb.net"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anilist.co"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="anilist.co"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/anilist/anilist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anilist.co"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anilist.co"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anilist.co"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="anilist.co"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="anisearch.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="anisearch.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 30px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/anisearch/anisearch.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anisearch.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anisearch.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="anisearch.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="anisearch.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="books.google.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="books.google.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/googlebooks/googlebooks.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="books.google.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="books.google.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="books.google.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="books.google.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="comicvine.gamespot.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="comicvine.gamespot.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/comicvine/comicvine.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="comicvine.gamespot.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="comicvine.gamespot.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="comicvine.gamespot.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="comicvine.gamespot.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/discogs/discogs-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/release"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/release"]::before {
+	content: "";
+	display: inline-block;
+	width: 55px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/discogs/discogs-release.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/release"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/release"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/release"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/release"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/master"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/master"]::before {
+	content: "";
+	display: inline-block;
+	width: 55px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/discogs/discogs-master.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/master"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/master"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.discogs.com/master"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.discogs.com/master"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://movie.douban.com/subject"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://movie.douban.com/subject"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/douban/douban2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://movie.douban.com/subject"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://movie.douban.com/subject"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://movie.douban.com/subject"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://movie.douban.com/subject"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.douban.com/personage"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.douban.com/personage"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/douban/douban2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.douban.com/personage"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.douban.com/personage"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.douban.com/personage"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.douban.com/personage"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="imdb.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="imdb.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/imdb/imdb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="imdb.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="imdb.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="imdb.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="imdb.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://imvdb.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://imvdb.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/imvdb/imvdb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://imvdb.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://imvdb.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://imvdb.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://imvdb.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="kinopoisk.ru"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="kinopoisk.ru"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/kinopoisk/kinopoisk.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kinopoisk.ru"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kinopoisk.ru"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kinopoisk.ru"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="kinopoisk.ru"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="kitsu.app"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="kitsu.app"]::before {
+	content: "";
+	display: inline-block;
+	width: 70px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/kitsu/kitsu.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kitsu.app"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kitsu.app"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="kitsu.app"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="kitsu.app"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://music.apple.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://music.apple.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/applemusic/applemusic.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://music.apple.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://music.apple.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://music.apple.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://music.apple.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/musicbrainz/musicbrainz-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/musicbrainz/musicbrainz-release-group.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release-group/"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release-group/"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release-group/"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release-group/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"]::before {
+	content: "";
+	display: inline-block;
+	width: 70px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/musicbrainz/musicbrainz-release.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release/"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release/"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://musicbrainz.org/release/"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://musicbrainz.org/release/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="myanimelist.net"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="myanimelist.net"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/myanimelist/myanimelist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="myanimelist.net"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="myanimelist.net"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="myanimelist.net"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="myanimelist.net"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://search.worldcat.org"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://search.worldcat.org"]::before {
+	content: "";
+	display: inline-block;
+	width: 70px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/worldcat/worldcat.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://search.worldcat.org"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://search.worldcat.org"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://search.worldcat.org"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://search.worldcat.org"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="shikimori.one"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="shikimori.one"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/shikimori/shikimori.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="shikimori.one"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="shikimori.one"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/theaudiodb/theaudiodb-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"]::before {
+	content: "";
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/theaudiodb/theaudiodb-album.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/album"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/album"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://www.theaudiodb.com/album"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://www.theaudiodb.com/album"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="themoviedb.org"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="themoviedb.org"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/themoviedb/themoviedb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="themoviedb.org"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="themoviedb.org/collection"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="themoviedb.org/collection"]::before {
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/themoviedb/themoviedb-collection.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org/collection"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org/collection"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="themoviedb.org/collection"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="themoviedb.org/collection"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://theporndb.net"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://theporndb.net"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/theporndb/theporndb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://theporndb.net"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://theporndb.net"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://theporndb.net"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://theporndb.net"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="thetvdb.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="thetvdb.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 50px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/thetvdb/thetvdb.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="thetvdb.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="thetvdb.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="thetvdb.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="thetvdb.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="trakt.tv"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="trakt.tv"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/trakt/trakt.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="trakt.tv"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="trakt.tv"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="trakt.tv"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="trakt.tv"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="api.simkl"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="api.simkl"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/simkl/simkl.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="api.simkl"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="api.simkl"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="tvlistings.zap2it.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="tvlistings.zap2it.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/zap2it/zap2it.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvlistings.zap2it.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvlistings.zap2it.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvlistings.zap2it.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="tvlistings.zap2it.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="tvmaze.com"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="tvmaze.com"]::before {
+	content: "";
+	display: inline-block;
+	width: 80px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/tvmaze/tvmaze.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvmaze.com"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvmaze.com"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="tvmaze.com"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="tvmaze.com"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/artist"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/artist"]::before {
+	content: "";
+	display: inline-block;
+	width: 75px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/vgmdb/vgmdb-artist.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/artist"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/artist"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/artist"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/artist"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/album"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/album"]::before {
+	content: "";
+	display: inline-block;
+	width: 75px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/vgmdb/vgmdb-album.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/album"]:hover,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/album"]:focus,
+.layout-desktop .itemExternalLinks.focuscontainer-x > a[href*="https://vgmdb.net/album"]:active {
+    background: none !important;
+	background-color: transparent !important;
+    background-image: none !important;
+    filter: none !important;
+    border-color: transparent !important;
+}
+
+.itemExternalLinks a[href*="https://vgmdb.net/album"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"]) {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"])::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/scenes/"]:not([href*="theporndb.net"]):hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/scenes/"]:not([href*="theporndb.net"]):focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/scenes/"]:not([href*="theporndb.net"]):active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/scenes/"]:not([href*="theporndb.net"]) {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/studios/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/studios/"]::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/studios/"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/studios/"]:focus,
+.itemExternalLinks.focuscontainer-x > [href*="/studios/"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/studios/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/performers/"]:not([href*="theporndb.net"]) {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/performers/"]:not([href*="theporndb.net"])::before {
+	content: "";
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	background-image: url('https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/icons/stash/stash.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/performers/"]:not([href*="theporndb.net"]):hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/performers/"]:not([href*="theporndb.net"]):focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/performers/"]:not([href*="theporndb.net"]):active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/performers/"]:not([href*="theporndb.net"]) {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/webui/collection/series/"] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/webui/collection/series/"]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-series.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/webui/collection/series/"]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/webui/collection/series/"]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/webui/collection/series/"]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/webui/collection/series/"] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/episodes?episodeId="] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/episodes?episodeId="]::before {
+	content: "";
+	display: inline-block;
+	width: 65px;
+	height: 25px;
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-episode.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/episodes?episodeId="]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/episodes?episodeId="]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/episodes?episodeId="]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/episodes?episodeId="] {
+	font-size: 0;
+}
+
+.itemExternalLinks a[href*="/files?fileId="] {
+    background: none !important;
+    color: transparent !important;
+    padding: 0 !important;
+}
+
+.itemExternalLinks a[href*="/files?fileId="]::before {
+	content: "";
+	display: inline-block;
+	width: 60px;
+	height: 25px;
+	background-image: url('https://raw.githubusercontent.com/Druidblack/jellyfin-icon-metadata/refs/heads/main/icons/shoko/shoko-file.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+.itemExternalLinks.focuscontainer-x > a[href*="/files?fileId="]:hover,
+.itemExternalLinks.focuscontainer-x > a[href*="/files?fileId="]:focus,
+.itemExternalLinks.focuscontainer-x > a[href*="/files?fileId="]:active {
+    background: none !important;
+    filter: none !important;
+    border: none !important;
+}
+
+.itemExternalLinks a[href*="/files?fileId="] {
+	font-size: 0;
+}
+
+.itemExternalLinks.focuscontainer-x {
+	color: #000a;
+}

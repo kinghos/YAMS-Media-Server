@@ -1,0 +1,49 @@
+2026-09-15 01:30:14|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-15 02:44:44|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-15 02:44:44|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-15 04:00:00|INFO    |root                            |BAZARR All existing movie subtitles indexed from disk.|
+2026-09-15 04:00:01|INFO    |root                            |BAZARR All existing episode subtitles indexed from disk.|
+2026-09-15 06:37:20|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-15 07:30:13|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-15 08:44:44|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-15 08:44:44|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-15 08:48:11|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-15 08:48:13|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-15 08:48:13|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-15 08:48:13|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-15 08:48:13|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-15 08:48:13|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-15 08:48:13|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-15 08:48:13|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-15 13:51:03|INFO    |root                            |Using opensubtitlescom again after 12 hours, (disabled because: AuthenticationError)|
+2026-09-15 13:51:05|INFO    |root                            |Throttling opensubtitlescom for 12 hours, until 26/09/16 01:51, because of: AuthenticationError. Exception info: "'Login failed' ~ opensubtitlescom.py@560"|
+2026-09-15 13:51:05|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-15 13:51:05|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-15 14:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-15 18:12:55|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-15 19:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-15 19:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-15 20:25:30|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:25:42|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:25:51|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:27:20|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: Invalid URL 'jellyfin/System/Info': No scheme supplied. Perhaps you meant https://jellyfin/System/Info?|
+2026-09-15 20:27:20|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: Invalid URL 'jellyfin/System/Info': No scheme supplied. Perhaps you meant https://jellyfin/System/Info?|
+2026-09-15 20:27:28|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: No connection adapters were found for 'jellyfin:8096/System/Info'|
+2026-09-15 20:27:37|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:38|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:38|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:38|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:38|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:39|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:39|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:27:39|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:29:18|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://jellyfin:8096/System/Info|
+2026-09-15 20:29:25|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:29:26|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:29:27|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:29:27|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:29:27|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:29:27|ERROR   |jellyfin.operations             |Failed to connect to Jellyfin server: 503 Server Error: Service Unavailable for url: http://***.***.***.***:8096/System/Info|
+2026-09-15 20:36:01|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-15 20:41:42|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-15 20:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|

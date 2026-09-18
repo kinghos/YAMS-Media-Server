@@ -46,24 +46,13 @@ services:
     volumes:
       - /opt/yams/config/prowlarr/custom-cont-init.d:/custom-cont-init.d:ro
 
-  nginx-proxy-manager:
-    image: 'jc21/nginx-proxy-manager:latest'
-    container_name: npm
-    restart: unless-stopped
-    ports:
-      - 80:80
-      - 81:81
-      - 443:443
-    volumes:
-      - ${INSTALL_DIRECTORY}/config/npm/data:/data
-      - ${INSTALL_DIRECTORY}/config/npm/letsencrypt:/etc/letsencrypt
 
   cleanuparr:
     image: ghcr.io/cleanuparr/cleanuparr:latest
     container_name: cleanuparr
     restart: unless-stopped
     ports:
-      - "11011:11011"
+     - "11011:11011"
     volumes:
       - ${INSTALL_DIRECTORY}/config/cleanuparr:/config
     environment:
@@ -79,3 +68,27 @@ services:
       timeout: 10s         # Allow up to 10 seconds for response
       start_period: 30s    # Wait 30 seconds before first check
       retries: 3           # Mark unhealthy after 3 consecutive failures
+
+  tailscale:
+    image: tailscale/tailscale:latest
+    container_name: tailscale
+    hostname: tailscale-nginx
+    network_mode: host
+    environment:
+      - TS_AUTHKEY=tskey-auth-khwiZ29bF221CNTRL-mndGBpTYYTHr7CdH4VUuTHrpsiadCJe4
+      - TS_STATE_DIR=/var/lib/tailscale
+    volumes:
+      - ./tailscale-state:/var/lib/tailscale
+    cap_add:
+      - net_admin
+      - net_raw
+    restart: unless-stopped
+    
+  nginx:
+    image: nginx:latest
+    container_name: nginx_server
+    ports:
+      - "8082:80"
+    depends_on:
+      - tailscale
+    restart: unless-stopped

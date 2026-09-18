@@ -1,0 +1,16 @@
+[2026-09-18 03:00:00] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-18 03:00:00] [INFO] [TagCache] Reconciling changes since 2026-09-17T02:58:00.0181852Z
+[2026-09-18 03:00:00] [INFO] [Seerr→Jellyfin Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-09-18 03:00:00] [INFO] [TagCache] Saved 125 entries to disk
+[2026-09-18 03:00:00] [INFO] [TagCache] Reconciliation complete: 1 changed items, 1 entries checked
+[2026-09-18 03:30:00] [INFO] [Jellyfin→Seerr Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-09-18 03:43:44] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-18 03:43:44] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-18 03:43:45] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-18 09:44:45] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-18 09:44:45] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-18 09:44:45] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-18 15:07:25] [INFO] Proxying Seerr request for user Konka (29758f1a-d0e3-4cd4-9ad8-a789f81860e2) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-18 15:45:46] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-18 15:45:46] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-18 15:45:47] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0

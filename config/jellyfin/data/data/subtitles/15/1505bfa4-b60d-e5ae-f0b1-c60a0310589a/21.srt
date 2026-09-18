@@ -1,0 +1,4122 @@
+1
+00:00:15,516 --> 00:00:17,266
+Nākamreiz informē nodaļas vadītāju,
+
+2
+00:00:17,267 --> 00:00:18,351
+pirms sākas jezga.
+
+3
+00:00:18,352 --> 00:00:19,644
+Grasījos pateikt.
+
+4
+00:00:19,645 --> 00:00:20,770
+ASTOTĀ STUNDA
+14.00-15.00
+
+5
+00:00:20,771 --> 00:00:23,022
+- Prasi visu, ko vajag.
+- Pie darba!
+
+6
+00:00:23,023 --> 00:00:26,275
+IT nodaļa izsauca, jo esmu apmācīta
+darbā ar kiberuzbrukumiem.
+
+7
+00:00:26,276 --> 00:00:27,860
+Tad saki visiem, ko darīt.
+
+8
+00:00:27,861 --> 00:00:30,321
+Nē, labāk, lai to pasaka nodaļas…
+
+9
+00:00:30,322 --> 00:00:31,323
+Domā?
+
+10
+00:00:34,368 --> 00:00:36,035
+Visi, sanāciet!
+
+11
+00:00:36,036 --> 00:00:37,286
+Kas, pie velna?
+
+12
+00:00:37,287 --> 00:00:39,247
+Iespējams, bija kiberuzbrukums.
+
+13
+00:00:39,248 --> 00:00:41,416
+Nē, izslēdzām,
+lai novērstu kiberuzbrukumu.
+
+14
+00:00:43,252 --> 00:00:45,336
+Nomierinieties un klausieties.
+
+15
+00:00:45,337 --> 00:00:47,672
+Kā redzat, mēs nedaudz pārveidojam
+
+16
+00:00:47,673 --> 00:00:48,674
+centrālo darba zonu.
+
+17
+00:00:49,383 --> 00:00:52,134
+Mūsu slimnīcas datoriem
+draud kiberuzbrukums.
+
+18
+00:00:52,135 --> 00:00:54,262
+Strādāsim kā senajos laikos, analogi.
+
+19
+00:00:54,263 --> 00:00:55,513
+- Cik ilgi?
+- Nezinu.
+
+20
+00:00:55,514 --> 00:00:57,557
+Mūsu IT nodaļa ir visu atslēgusi,
+
+21
+00:00:57,558 --> 00:00:59,892
+lai būtu laiks stiprināt
+mūsu kiberaizsardzību.
+
+22
+00:00:59,893 --> 00:01:01,811
+Jautājums bija - cik ilgi?
+
+23
+00:01:01,812 --> 00:01:04,314
+Grūti pateikt. Varētu būt līdz 24 stundām.
+
+24
+00:01:05,190 --> 00:01:07,650
+- Jēziņ.
+- Tātad pirmais uzdevums
+
+25
+00:01:07,651 --> 00:01:10,027
+ir pārrakstīt pacientus
+no elektroniskās tāfeles
+
+26
+00:01:10,028 --> 00:01:11,445
+uz parastās tāfeles.
+
+27
+00:01:11,446 --> 00:01:13,573
+Sakiet, ka nobildējāt sarakstu.
+
+28
+00:01:13,574 --> 00:01:14,657
+Jā. Te būs.
+
+29
+00:01:14,658 --> 00:01:15,492
+Labi.
+
+30
+00:01:18,954 --> 00:01:21,080
+Nedaudz miglains.
+
+31
+00:01:21,081 --> 00:01:23,083
+Maigi teikts.
+
+32
+00:01:23,792 --> 00:01:25,836
+- Piedodiet.
+- Ak Dievs.
+
+33
+00:01:26,753 --> 00:01:27,837
+Es atceros.
+
+34
+00:01:27,838 --> 00:01:30,089
+Ja arī pārējie atceras pacientu vārdus
+
+35
+00:01:30,090 --> 00:01:32,049
+un palātu numurus - lieliski!
+
+36
+00:01:32,050 --> 00:01:33,801
+Nē, es atceros visu.
+
+37
+00:01:33,802 --> 00:01:36,346
+- Ko visu?
+- Vārdus, ārstus, palātu numurus.
+
+38
+00:01:37,097 --> 00:01:39,348
+Man ir fotogrāfiskā atmiņa.
+
+39
+00:01:39,349 --> 00:01:41,058
+Nopietni? Visu sarakstu?
+
+40
+00:01:41,059 --> 00:01:43,227
+12. centrālā, Hārlova Grēma,
+
+41
+00:01:43,228 --> 00:01:46,272
+galvas un vēdera sāpes,
+tikai zīmju valoda.
+
+42
+00:01:46,273 --> 00:01:48,608
+Sasodīts! Mani gaida tulks.
+
+43
+00:01:48,609 --> 00:01:50,776
+- Tagad.
+- Pacientu privātuma dēļ
+
+44
+00:01:50,777 --> 00:01:52,612
+saīsināsim viņu sūdzības.
+
+45
+00:01:52,613 --> 00:01:56,032
+"GS" nozīmēs galvassāpes.
+"VS" nozīmēs vēdersāpes.
+
+46
+00:01:56,033 --> 00:01:58,909
+10. centrālā, Džeksons Deiviss,
+jauns psihozes gadījums.
+
+47
+00:01:58,910 --> 00:02:00,661
+Džavadi, uzņemt psihiatrijā.
+
+48
+00:02:00,662 --> 00:02:02,455
+Grieķu burts "Psi" - psihiatrija.
+
+49
+00:02:02,456 --> 00:02:05,709
+Pediatrijā bēbis bez vārda, drudzis,
+Dr. Mohana, gaida uzņemšanu.
+
+50
+00:02:06,251 --> 00:02:08,044
+Medmāsām jāsadalās pa zonām.
+
+51
+00:02:08,045 --> 00:02:10,087
+- Ziemeļi, centrāle, dienvidi, trauma.
+- Dana?
+
+52
+00:02:10,088 --> 00:02:11,631
+Ar seksuālās vardarbības upuri.
+
+53
+00:02:11,632 --> 00:02:13,341
+Jāpaliek līdz pārbaudes beigām.
+
+54
+00:02:13,342 --> 00:02:16,052
+- Aizņems laiku.
+- Princesei ir virsmāsas pieredze.
+
+55
+00:02:16,053 --> 00:02:17,511
+- Ne gluži.
+- Lieliska ideja.
+
+56
+00:02:17,512 --> 00:02:19,639
+Princese, dalīsi medmāsām pienākumus.
+
+57
+00:02:19,640 --> 00:02:21,724
+- Nākamais.
+- 9. centrālā. Roksija Hemlere.
+
+58
+00:02:21,725 --> 00:02:23,059
+Plaušu vēzis, 4. stadija.
+
+59
+00:02:23,060 --> 00:02:25,394
+Mums jāgaida, kamēr pierakstīs pacientus?
+
+60
+00:02:25,395 --> 00:02:28,648
+Nē, ejiet pie saviem pacientiem,
+tad nāciet atpakaļ.
+
+61
+00:02:28,649 --> 00:02:29,940
+Paldies.
+
+62
+00:02:29,941 --> 00:02:31,610
+Cik stundu dienā
+pavadāt pie datora?
+
+63
+00:02:34,905 --> 00:02:37,490
+Vismaz astoņas. Strādāju no mājām.
+
+64
+00:02:37,491 --> 00:02:39,034
+Visu dienu pie galda?
+
+65
+00:02:41,578 --> 00:02:46,332
+Nē, vai nu sēžu uz dīvāna vai gultā.
+
+66
+00:02:46,333 --> 00:02:50,002
+Sēžu ar datoru klēpī.
+
+67
+00:02:50,003 --> 00:02:51,922
+Vienmēr skatāties lejā uz datoru?
+
+68
+00:02:52,881 --> 00:02:53,798
+Jā.
+
+69
+00:02:53,799 --> 00:02:56,677
+Pārbaudīšu kakla muskuļus.
+
+70
+00:03:04,476 --> 00:03:05,394
+Sāp.
+
+71
+00:03:06,937 --> 00:03:08,814
+Domāju, ka varam palīdzēt.
+
+72
+00:03:09,398 --> 00:03:10,774
+Panāciet!
+
+73
+00:03:11,817 --> 00:03:13,109
+Sapulcējamies.
+
+74
+00:03:13,110 --> 00:03:15,486
+Klausieties! Šajā plauktā
+ir pacientu saraksts.
+
+75
+00:03:15,487 --> 00:03:18,572
+Uz katra nodalījuma un planšetes
+ir telpas cipars.
+
+76
+00:03:18,573 --> 00:03:22,326
+Kad jums ir jauns pacients,
+paņemiet jaunu kartīti no sistēmas.
+
+77
+00:03:22,327 --> 00:03:27,415
+Izvēlieties sadaļu pēc galvenās sūdzības,
+izmantojiet bildīti, lai to atrastu.
+
+78
+00:03:27,416 --> 00:03:29,041
+Kāpēc ir divi nodalījumi?
+
+79
+00:03:29,042 --> 00:03:31,210
+Traumas pacienti pa kreisi,
+pārējie - pa labi.
+
+80
+00:03:31,211 --> 00:03:34,088
+Galvas traumas - pa kreisi,
+galvassāpes - pa labi.
+
+81
+00:03:34,089 --> 00:03:36,716
+- Tās ir zivis, kas peld jūraszālēs?
+- Nē.
+
+82
+00:03:36,717 --> 00:03:38,008
+Tās ir bites un zāle.
+
+83
+00:03:38,009 --> 00:03:40,845
+Kukaiņu kodumu,
+izsitumu, alerģiju sadaļa.
+
+84
+00:03:40,846 --> 00:03:42,179
+Piemēram,
+
+85
+00:03:42,180 --> 00:03:44,432
+Dr. Alas-Hašimi jaunajam pacientam
+sāp vēders.
+
+86
+00:03:44,433 --> 00:03:49,228
+Lai zinātu, kas bijis, apvelciet esošās
+pazīmes, piemēram, vemšanu un caureju.
+
+87
+00:03:49,229 --> 00:03:50,521
+Pārsvītrojiet to, kā nav,
+
+88
+00:03:50,522 --> 00:03:53,357
+piemēram, ceļoja,
+kontakts ar slimajiem, drudzis.
+
+89
+00:03:53,358 --> 00:03:57,278
+Fiziskā pārbaude. Atzīmējiet
+normālos rādītājus kreisajā pusē.
+
+90
+00:03:57,279 --> 00:04:00,239
+Apvelciet patoloģiskus rādītājus labajā.
+Jautājumi?
+
+91
+00:04:00,240 --> 00:04:02,743
+Vai jūsu ģeneratīvais MI joprojām strādās?
+
+92
+00:04:04,453 --> 00:04:05,494
+Kādu laiku ne.
+
+93
+00:04:05,495 --> 00:04:08,790
+Nelietojiet <i>Spectralink</i> telefonus.
+Tie izmanto balss pārraidi internetā.
+
+94
+00:04:11,877 --> 00:04:14,086
+PTMC NMP. Sakiet ārsta norādes.
+
+95
+00:04:14,087 --> 00:04:16,213
+Tā uzzināsim par jaunajiem pacientiem.
+
+96
+00:04:16,214 --> 00:04:18,841
+Paldies. Divas minūtes.
+Pacients ar vēdersāpēm, drudzi.
+
+97
+00:04:18,842 --> 00:04:20,342
+Visiem tiktāl skaidrs?
+
+98
+00:04:20,343 --> 00:04:21,969
+Kā pierakstīt, ko nozīmējam?
+
+99
+00:04:21,970 --> 00:04:26,515
+Ārsta norāžu veidlapa trīs eksemplāros,
+analīzes, rentgens, IV un medikamenti.
+
+100
+00:04:26,516 --> 00:04:28,601
+Laboratorija veiks asinsanalīzes?
+
+101
+00:04:28,602 --> 00:04:30,603
+- Jā.
+- DT joprojām strādā?
+
+102
+00:04:30,604 --> 00:04:34,231
+Jā, bet rezultātus radiologi rakstīs
+uz papīra.
+
+103
+00:04:34,232 --> 00:04:35,441
+Tas ir vecmodīgi.
+
+104
+00:04:35,442 --> 00:04:39,904
+Ja jums vajag rentgenu,
+nosūtījums jāievieto šeit.
+
+105
+00:04:39,905 --> 00:04:42,281
+Viņi parakstīs,
+pievienos dīkstāves veidlapu.
+
+106
+00:04:42,282 --> 00:04:43,950
+Izvēlēsies pareizo nodaļu.
+
+107
+00:04:44,075 --> 00:04:46,202
+- Kurš pildīs sekretāru lomu?
+- Jūsu rīcībā.
+
+108
+00:04:46,203 --> 00:04:48,621
+Lerijs un Antuāns, līdz uzradīsies palīgi.
+
+109
+00:04:48,622 --> 00:04:51,332
+- Tiksim galā.
+- Pēc sekretāru rīkojuma kartes pārvietos
+
+110
+00:04:51,333 --> 00:04:54,794
+uz medmāsu plauktu, kur veiks IV,
+izsniegs zāles, veiks procedūras.
+
+111
+00:04:54,795 --> 00:04:57,171
+Zāles atrodas aiz slēgtām durvīm.
+
+112
+00:04:57,172 --> 00:05:00,800
+Klīniskā farmaceite Dr. Megana Norda
+tām sniegs piekļuvi.
+
+113
+00:05:00,801 --> 00:05:02,384
+- Palīdzēsim.
+- Daudz informācijas.
+
+114
+00:05:02,385 --> 00:05:03,720
+Jautājumi? Jā.
+
+115
+00:05:05,013 --> 00:05:05,930
+Nē.
+
+116
+00:05:05,931 --> 00:05:07,223
+Un trešais plaukts?
+
+117
+00:05:07,224 --> 00:05:09,099
+Kad pacientu var izrakstīt,
+
+118
+00:05:09,100 --> 00:05:10,226
+kartīte nonāk te.
+
+119
+00:05:10,227 --> 00:05:12,478
+Zināsim, ka drīz atbrīvosies vieta.
+
+120
+00:05:12,479 --> 00:05:14,189
+- Vai, ka viss ir pakaļā.
+- Džesij?
+
+121
+00:05:16,817 --> 00:05:19,026
+- Kas tas?
+- Kas tas?
+
+122
+00:05:19,027 --> 00:05:22,112
+- Tas ir faksa aparāts.
+- Tādus vēl ražo?
+
+123
+00:05:22,113 --> 00:05:23,739
+Saziņa ar laboratoriju un RTG.
+
+124
+00:05:23,740 --> 00:05:26,033
+Kad rezultāti būs gatavi,
+mums atsūtīs faksu,
+
+125
+00:05:26,034 --> 00:05:28,244
+un sekretāri to ierakstīs kartēs, ja?
+
+126
+00:05:28,245 --> 00:05:30,162
+- Kā teiksi.
+- Ved iekšā!
+
+127
+00:05:30,163 --> 00:05:33,999
+Dr. Makija, Dr. Vitaker, Ogilvij,
+nāciet līdzi.
+
+128
+00:05:34,000 --> 00:05:35,961
+Pārējie, rakstiet pacienta kartes!
+
+129
+00:05:39,172 --> 00:05:40,381
+Hauards Nokss, 52,
+
+130
+00:05:40,382 --> 00:05:43,175
+sāpes vēderā un drudzis, 152 uz 90.
+
+131
+00:05:43,176 --> 00:05:46,387
+- Tahikardija pie 120, nevarēja ievadīt IV.
+- Nez kāpēc.
+
+132
+00:05:46,388 --> 00:05:49,014
+- Sveiki! Esmu Dr. Robijs.
+- Hauards.
+
+133
+00:05:49,015 --> 00:05:50,182
+Šī ir mācību slimnīca.
+
+134
+00:05:50,183 --> 00:05:52,434
+Uzraudzīšu Dr. Makiju, Dr. Vitakeru,
+
+135
+00:05:52,435 --> 00:05:53,644
+rezidentu Dr. Ogilviju.
+
+136
+00:05:53,645 --> 00:05:54,854
+- Sveiki!
+- Kā jūtaties?
+
+137
+00:05:54,855 --> 00:05:56,146
+- Ne pārāk.
+- Skaidrs.
+
+138
+00:05:56,147 --> 00:05:58,358
+- Princese, kur brīvs?
+- 1. traumu. Perla!
+
+139
+00:06:01,987 --> 00:06:05,114
+Jāizraksta milantu un bupivakaīnu
+12. centrālajai.
+
+140
+00:06:05,115 --> 00:06:08,243
+Sākam ārstēt, Dr. Santosa,
+un tev vajag uzlīmi.
+
+141
+00:06:09,619 --> 00:06:11,537
+- Forši.
+- Liec medmāsu rīkojumu plauktā,
+
+142
+00:06:11,538 --> 00:06:13,038
+un tiekamies pie zāļu plaukta.
+
+143
+00:06:13,039 --> 00:06:14,415
+Vai nav draņķīgi?
+
+144
+00:06:14,416 --> 00:06:16,208
+Nelikās, ka šodiena kļūs sliktāka?
+
+145
+00:06:16,209 --> 00:06:18,460
+Tā strādājām, kad es biju rezidents.
+
+146
+00:06:18,461 --> 00:06:19,879
+Tas bija 1900. gados?
+
+147
+00:06:19,880 --> 00:06:21,631
+Jā, kad tabulas rakstīja sveču gaismā.
+
+148
+00:06:22,382 --> 00:06:24,133
+Šodiena būs piedzīvojums.
+
+149
+00:06:24,134 --> 00:06:25,969
+Domājiet, ka esat <i>Atpakaļ nākotnē.</i>
+
+150
+00:06:29,055 --> 00:06:30,931
+Iespējams, ka <i>Titānikā.</i>
+
+151
+00:06:30,932 --> 00:06:33,393
+Te būs antacīdais līdzeklis. Priekā!
+
+152
+00:06:34,102 --> 00:06:37,479
+Atzīmēju kritisko punktu,
+kas jums izraisa galvassāpes.
+
+153
+00:06:37,480 --> 00:06:41,109
+Un lokālā anestēzija šajā zonā
+varētu tiešām palīdzēt.
+
+154
+00:06:42,569 --> 00:06:44,112
+- Jā, labi.
+- Lieliski.
+
+155
+00:06:45,947 --> 00:06:50,160
+Sajutīsiet nelielu dūrienu
+un dedzinošu sajūtu.
+
+156
+00:06:58,668 --> 00:07:00,127
+Ļoti sāp.
+
+157
+00:07:00,128 --> 00:07:03,213
+Temperatūra 38,5, tahikardija 128.
+
+158
+00:07:03,214 --> 00:07:04,632
+Skābeklis divos litros 92.
+
+159
+00:07:04,633 --> 00:07:05,841
+Kad sāka sāpēt?
+
+160
+00:07:05,842 --> 00:07:08,427
+- Pirms nedēļas, ik pa laikam.
+- Kur tieši sāp?
+
+161
+00:07:08,428 --> 00:07:09,345
+Visur.
+
+162
+00:07:09,346 --> 00:07:11,680
+Sākās kreisajā,
+tad nedaudz arī labajā pusē.
+
+163
+00:07:11,681 --> 00:07:14,266
+- Un drudzis?
+- Kopš pagājušās nakts.
+
+164
+00:07:14,267 --> 00:07:17,478
+Degu kā ugunī,
+tad man bija izteikti drebuļi.
+
+165
+00:07:17,479 --> 00:07:18,479
+Nevaru atrast vēnu.
+
+166
+00:07:18,480 --> 00:07:20,607
+- Mēģināsim perifēro katetru.
+- Sakiet, ja sāp.
+
+167
+00:07:21,983 --> 00:07:23,984
+- Piedodiet.
+- Un šajā pusē?
+
+168
+00:07:23,985 --> 00:07:25,402
+- Jā.
+- Piedodiet.
+
+169
+00:07:25,403 --> 00:07:28,656
+Sāpju dēļ aizsargājas, bez rigiditātes.
+Fentanilu 100, muskulī.
+
+170
+00:07:28,657 --> 00:07:33,077
+- Kāds ir plāns, Dr. Vitaker?
+- Asins kultūras, laktāta analīzes, <i>Zosyn.</i>
+
+171
+00:07:33,078 --> 00:07:35,246
+Vajadzēs DT, lai saprastu, kas notiek.
+
+172
+00:07:36,873 --> 00:07:38,916
+- Jā, nestrādās.
+- Jā.
+
+173
+00:07:38,917 --> 00:07:41,335
+- Raksti kārtīgi.
+- Hauard, lai pārbaudītu,
+
+174
+00:07:41,336 --> 00:07:43,921
+jums būs jāatguļas uz muguras. Varēsiet?
+
+175
+00:07:43,922 --> 00:07:47,132
+Pirms desmit gadiem varēju.
+Tagad ir grūti elpot.
+
+176
+00:07:47,133 --> 00:07:49,218
+Ja nevarēsiet, ievietosim caurulīti
+
+177
+00:07:49,219 --> 00:07:51,470
+trahejā, lai elpotu. Neiebilstat?
+
+178
+00:07:51,471 --> 00:07:54,264
+- Intubācija ar ātro indukciju?
+- Nē, nevaram noguldīt.
+
+179
+00:07:54,265 --> 00:07:56,600
+Caurulīte tiks ievadīta caur degunu,
+esot nomodā.
+
+180
+00:07:56,601 --> 00:07:57,643
+Labi.
+
+181
+00:07:57,644 --> 00:07:59,853
+- Tas ir sāpīgi?
+- Jums būs pilnīga sedācija.
+
+182
+00:07:59,854 --> 00:08:01,563
+Nejutīsiet diskomfortu.
+
+183
+00:08:01,564 --> 00:08:03,858
+Vai zināt savu svaru?
+
+184
+00:08:04,734 --> 00:08:06,110
+Nedaudz virs 181 kg.
+
+185
+00:08:06,111 --> 00:08:08,654
+- Kad pēdējo reizi svērāties?
+- Pasen.
+
+186
+00:08:08,655 --> 00:08:11,240
+Vai iespējams, ka sverat virs 204?
+
+187
+00:08:11,241 --> 00:08:12,158
+Iespējams.
+
+188
+00:08:13,493 --> 00:08:15,577
+Perla, nodrošini pacēlāju.
+
+189
+00:08:15,578 --> 00:08:18,872
+Mēs ievietosim caurulīti
+un sagatavosim skenēšanai.
+
+190
+00:08:18,873 --> 00:08:20,290
+Tas ir kas nopietns?
+
+191
+00:08:20,291 --> 00:08:22,084
+Grūti pateikt bez DT.
+
+192
+00:08:22,085 --> 00:08:25,587
+Varbūt palīdzēs antibiotikas,
+varbūt vajadzēs operēt.
+
+193
+00:08:25,588 --> 00:08:27,006
+Ja vajadzēs operāciju,
+
+194
+00:08:27,007 --> 00:08:29,174
+jūsu svars varētu visu sarežģīt.
+
+195
+00:08:29,175 --> 00:08:30,217
+Zinu. Piedodiet.
+
+196
+00:08:30,218 --> 00:08:33,388
+Neraizējieties. Mēs par jums parūpēsimies.
+Komanda!
+
+197
+00:08:34,848 --> 00:08:36,432
+Atsāpinošos, labi?
+
+198
+00:08:36,433 --> 00:08:40,519
+Pamēģināsim ar ultraskaņu atrast
+bazālo vēnu.
+
+199
+00:08:40,520 --> 00:08:41,895
+Ultraskaņu apendicītam?
+
+200
+00:08:41,896 --> 00:08:43,647
+Par lielu ultraskaņai.
+
+201
+00:08:43,648 --> 00:08:46,108
+Mūsu DT var izturēt tikai 204 kg.
+
+202
+00:08:46,109 --> 00:08:48,445
+Ja viņš sver vairāk, sūtīsim uz zoo?
+
+203
+00:08:49,696 --> 00:08:50,822
+Viņš tevi dzird.
+
+204
+00:08:53,450 --> 00:08:56,285
+Dzirdēju, ka zoo ir liels
+dzīvnieku datortomogrāfs.
+
+205
+00:08:56,286 --> 00:09:00,415
+- Presbijā DT iztur 343 kg slodzi.
+- Ja tā vēl darbojas.
+
+206
+00:09:01,708 --> 00:09:03,208
+Es nepiesaucu nelaimi…
+
+207
+00:09:03,209 --> 00:09:06,546
+Kāds ir intubējis caur degunu,
+cilvēkam esot nomodā?
+
+208
+00:09:07,005 --> 00:09:07,921
+Labi.
+
+209
+00:09:07,922 --> 00:09:10,090
+Perla, pasauksi Dr. Alu-Hašimi?
+
+210
+00:09:10,091 --> 00:09:11,341
+Vajadzēs asistēt.
+
+211
+00:09:11,342 --> 00:09:12,343
+Labi, tūlīt.
+
+212
+00:09:13,303 --> 00:09:14,512
+Piedod. Parakstīts.
+
+213
+00:09:15,597 --> 00:09:17,139
+- Paldies.
+- Gulta F gaitenī.
+
+214
+00:09:17,140 --> 00:09:18,307
+Džordžs Frensiss.
+
+215
+00:09:18,308 --> 00:09:21,435
+Elpas trūkums, Dr. Mohana,
+gaida D-dimēra analīzes.
+
+216
+00:09:21,436 --> 00:09:23,312
+Viņa vēl spēj atcerēties?
+
+217
+00:09:23,313 --> 00:09:25,064
+Jā, tiešām apbrīnojami.
+
+218
+00:09:25,065 --> 00:09:27,024
+Dr. Ala, Robijs lūdz atnākt.
+
+219
+00:09:27,025 --> 00:09:28,025
+Labi.
+
+220
+00:09:28,026 --> 00:09:30,236
+- Princese, ja vajadzēs, būšu traumu zālē.
+- Labi.
+
+221
+00:09:32,614 --> 00:09:34,948
+Kas nes dīkstāves veidlapas
+RTG un laboratorijai?
+
+222
+00:09:34,949 --> 00:09:36,409
+Virsmāsa.
+
+223
+00:09:37,827 --> 00:09:38,828
+Uz mani neskaties.
+
+224
+00:09:39,579 --> 00:09:40,455
+Esmu aizņemts.
+
+225
+00:09:43,500 --> 00:09:46,960
+- Roksijas Hemleres vecāki.
+- 9. centrālā.
+
+226
+00:09:46,961 --> 00:09:48,128
+Tikšu galā, Donij.
+
+227
+00:09:48,129 --> 00:09:51,006
+Sveiki! Esmu Viktorija Džavadi, studente.
+
+228
+00:09:51,007 --> 00:09:52,966
+Palīdzu Roksijas aprūpē.
+
+229
+00:09:52,967 --> 00:09:56,136
+- Liels paldies. Esmu Loids.
+- Kora.
+
+230
+00:09:56,137 --> 00:09:57,429
+Priecājos iepazīties.
+
+231
+00:09:57,430 --> 00:09:58,348
+Viņa salauza kāju?
+
+232
+00:09:58,932 --> 00:10:01,141
+Jā, lūzums ir pie potītes.
+
+233
+00:10:01,142 --> 00:10:04,144
+Uzlikta ortoze, tāpēc tik ļoti nesāp.
+
+234
+00:10:04,145 --> 00:10:05,897
+Es jūs aizvedīšu, viņa ir 9.
+
+235
+00:10:11,861 --> 00:10:13,237
+Slimnīcas Wi-Fi nestrādā.
+
+236
+00:10:13,238 --> 00:10:15,573
+Tas kādu laiku nestrādās. Piedodiet.
+
+237
+00:10:16,533 --> 00:10:18,034
+Opi, mamma salauza kāju.
+
+238
+00:10:18,952 --> 00:10:19,953
+Dzirdējām.
+
+239
+00:10:21,329 --> 00:10:22,288
+Kā jūties, mīļā?
+
+240
+00:10:25,166 --> 00:10:26,668
+Tu tiksi galā, mazā.
+
+241
+00:10:27,418 --> 00:10:28,294
+Jā.
+
+242
+00:10:29,838 --> 00:10:31,673
+Cik ilgi paliks NMP nodaļā?
+
+243
+00:10:32,298 --> 00:10:34,592
+Līdz augšstāvā atbrīvosies palāta.
+
+244
+00:10:35,677 --> 00:10:36,845
+Varētu būt kāds laiciņš.
+
+245
+00:10:42,350 --> 00:10:43,851
+Te par daudz cilvēku.
+
+246
+00:10:43,852 --> 00:10:45,894
+Iesim Takeram un Šeinam
+nopirkt saldējumu.
+
+247
+00:10:45,895 --> 00:10:48,523
+- Jā, lūdzu.
+- Nē, es negribu.
+
+248
+00:10:49,607 --> 00:10:51,901
+Mamma gribētu atpūsties.
+
+249
+00:10:52,569 --> 00:10:54,404
+Jā, ejiet.
+
+250
+00:10:56,656 --> 00:10:57,866
+Viņa drīkst saldējumu?
+
+251
+00:10:58,700 --> 00:11:00,326
+Drīkst visu, ko vien vēlas.
+
+252
+00:11:02,162 --> 00:11:03,246
+Ejam!
+
+253
+00:11:14,340 --> 00:11:15,465
+Jā.
+
+254
+00:11:15,466 --> 00:11:16,342
+Klausieties!
+
+255
+00:11:17,218 --> 00:11:20,013
+Šis ir oksimetazolīns, tas atvērs eju.
+
+256
+00:11:20,972 --> 00:11:22,681
+Kādas zāles lietojat?
+
+257
+00:11:22,682 --> 00:11:24,601
+Lizinoprilu un metformīnu.
+
+258
+00:11:25,351 --> 00:11:27,060
+Semaglutīdu? <i>Wegovy?</i>
+
+259
+00:11:27,061 --> 00:11:28,979
+Nē, tie ir dārgi.
+
+260
+00:11:28,980 --> 00:11:30,939
+Ievadīšu degunā anestēzijas līdzekli.
+
+261
+00:11:30,940 --> 00:11:33,318
+Ja iepilēs kaklā, tas nekas.
+
+262
+00:11:34,652 --> 00:11:36,070
+Lūdzu, ja nu vajadzēs.
+
+263
+00:11:36,738 --> 00:11:39,990
+Vai pīpējat? Lietojat alkoholu?
+
+264
+00:11:39,991 --> 00:11:41,742
+- Nekad.
+- Vingrojat?
+
+265
+00:11:41,743 --> 00:11:43,703
+Pārvietojos no guļamistabas uz virtuvi.
+
+266
+00:11:44,787 --> 00:11:45,913
+Nē, staigātu vairāk,
+
+267
+00:11:45,914 --> 00:11:48,540
+bet katrā kvartālā vajadzētu soliņu,
+kur atpūsties.
+
+268
+00:11:48,541 --> 00:11:50,083
+Kā ar ūdens aerobiku?
+
+269
+00:11:50,084 --> 00:11:52,336
+Koncentrēsimies uz palīdzības sniegšanu.
+
+270
+00:11:52,337 --> 00:11:53,754
+Piekrītu.
+
+271
+00:11:53,755 --> 00:11:55,881
+Es šāds kļuvu 25 gadu laikā.
+
+272
+00:11:55,882 --> 00:12:00,637
+Autoavārija, apdegumu nodaļa,
+četras kājas operācijas desmit gadu laikā.
+
+273
+00:12:01,387 --> 00:12:03,555
+Tā novājināja, ka zaudēju darbu.
+
+274
+00:12:03,556 --> 00:12:05,224
+Mēles aizmugure jāpadara nejūtīga.
+
+275
+00:12:05,225 --> 00:12:06,391
+Negaršos labi.
+
+276
+00:12:06,392 --> 00:12:08,228
+Vēlaties, lai kādam piezvanām?
+
+277
+00:12:09,562 --> 00:12:10,897
+Radiem?
+
+278
+00:12:12,065 --> 00:12:13,524
+Vecāki ir miruši.
+
+279
+00:12:14,025 --> 00:12:17,027
+- Esmu neprecēts. Neticami, ne?
+- Māsas vai brāļi?
+
+280
+00:12:17,028 --> 00:12:18,321
+Māsa dzīvo Arizonā.
+
+281
+00:12:19,447 --> 00:12:20,865
+Mēs īsti nesarunājamies.
+
+282
+00:12:21,491 --> 00:12:23,492
+Padarot mēles aizmuguri nejūtīgu,
+
+283
+00:12:23,493 --> 00:12:25,370
+varam anestezēt nedaudz dziļāk.
+
+284
+00:12:26,913 --> 00:12:27,829
+Piedodiet.
+
+285
+00:12:27,830 --> 00:12:30,540
+Pusmūža sieviete
+ar pēkšņi iestājušos aklumu.
+
+286
+00:12:30,541 --> 00:12:32,251
+- Varu aiziet.
+- Labi.
+
+287
+00:12:32,252 --> 00:12:33,252
+Pasauc Ebotu.
+
+288
+00:12:33,253 --> 00:12:34,169
+- Labi.
+- Paldies.
+
+289
+00:12:34,170 --> 00:12:37,631
+- Kā sauc māsu?
+- Lorēna Milforda.
+
+290
+00:12:37,632 --> 00:12:38,549
+Kur tieši Arizonā?
+
+291
+00:12:39,050 --> 00:12:40,550
+Šķiet, ka Flagstāfā.
+
+292
+00:12:40,551 --> 00:12:43,388
+Pārlikšu pāri mēlei
+un anestezēšu balss saites.
+
+293
+00:12:46,432 --> 00:12:48,977
+- Cik pirkstu?
+- Es neredzu pirkstus.
+
+294
+00:12:49,936 --> 00:12:50,812
+Un tagad?
+
+295
+00:12:51,938 --> 00:12:53,189
+Redzu nedaudz gaismas.
+
+296
+00:12:54,774 --> 00:12:56,275
+Brūka, jūs satikāt Dr. Kingu.
+
+297
+00:12:56,276 --> 00:12:58,193
+- Šī ir Dr. Ala-Hašimi.
+- Priecājos.
+
+298
+00:12:58,194 --> 00:12:59,111
+Sieva Vendija.
+
+299
+00:12:59,112 --> 00:13:00,237
+- Sveiki!
+- Sveiki!
+
+300
+00:13:00,238 --> 00:13:02,072
+Nekas, ja apspriedīsim jūsu simptomus?
+
+301
+00:13:02,073 --> 00:13:04,324
+Ja drīkstēšu labot jūsu kļūdas.
+
+302
+00:13:04,325 --> 00:13:05,534
+Viņa tā arī darīs.
+
+303
+00:13:05,535 --> 00:13:09,079
+Stundu ilgs pēkšņs,
+nesāpīgs redzes zudums kreisajā acī.
+
+304
+00:13:09,080 --> 00:13:12,040
+Nav bijusi hipokoagulācija
+vai asinsvadu slimību.
+
+305
+00:13:12,041 --> 00:13:13,625
+Skatieties uz priekšu.
+
+306
+00:13:13,626 --> 00:13:15,712
+Centrālās tīklenes artērijas obstrukcija.
+
+307
+00:13:16,421 --> 00:13:17,713
+Un saprotamā valodā?
+
+308
+00:13:17,714 --> 00:13:21,341
+Neliels asins receklis,
+kas aizsprosto artēriju acs aizmugurē
+
+309
+00:13:21,342 --> 00:13:22,592
+un vājina redzi.
+
+310
+00:13:22,593 --> 00:13:24,094
+Dažreiz sauc par acs trieku.
+
+311
+00:13:24,095 --> 00:13:26,221
+Trieka? Viņu varētu paralizēt?
+
+312
+00:13:26,222 --> 00:13:28,557
+Nē, tas attiektos tikai uz aci.
+
+313
+00:13:28,558 --> 00:13:31,269
+- Neatgriezeniski?
+- Vispirms jānosaka diagnoze.
+
+314
+00:13:31,853 --> 00:13:32,769
+Tīklenes pārbaude?
+
+315
+00:13:32,770 --> 00:13:34,229
+Grūti saredzēt.
+
+316
+00:13:34,230 --> 00:13:35,606
+Mums vajag FOP kameru.
+
+317
+00:13:36,149 --> 00:13:37,358
+Ko?
+
+318
+00:13:39,902 --> 00:13:43,447
+Princese, vajag pacientu uzlīmes
+uz katras norīkojuma lapas.
+
+319
+00:13:43,448 --> 00:13:45,741
+Citādi farmācija nezinās,
+kam izsniegt zāles.
+
+320
+00:13:45,742 --> 00:13:46,783
+Izdarīsim!
+
+321
+00:13:46,784 --> 00:13:48,619
+Princese, viedtālruņa oftalmoskopu!
+
+322
+00:13:49,245 --> 00:13:51,121
+- Ierīces, koridors, grozs.
+- Paldies.
+
+323
+00:13:51,122 --> 00:13:53,249
+Izskaties nedaudz apjukusi.
+
+324
+00:13:53,750 --> 00:13:55,709
+Kuru jauno pacientu drīkst ņemt?
+
+325
+00:13:55,710 --> 00:13:58,086
+No augšas. Uzskaitīti tādā secībā,
+kādā ieradušies.
+
+326
+00:13:58,087 --> 00:14:01,089
+Izdzēs pirmo
+un ieraksti iniciāļus MD lodziņā.
+
+327
+00:14:01,090 --> 00:14:03,008
+- Labi, paldies.
+- Kaleb!
+
+328
+00:14:03,009 --> 00:14:05,093
+Maikl, vai tiec galā ar šo haosu?
+
+329
+00:14:05,094 --> 00:14:07,805
+Diezgan viegli, jo drīz beigšu darbu.
+
+330
+00:14:08,348 --> 00:14:10,641
+Ir vēl kādi pacienti komā,
+ar kuriem man parunāt?
+
+331
+00:14:12,518 --> 00:14:13,435
+Es jokoju.
+
+332
+00:14:13,436 --> 00:14:17,314
+- Labi.
+- Viktorija, šī ir Nikola Stedmene.
+
+333
+00:14:17,315 --> 00:14:19,941
+Vadu vecāku atbalsta grupu
+psihiatrijas centrā.
+
+334
+00:14:19,942 --> 00:14:23,195
+Jā. Nikolas meitai noteica diagnozi
+otrajā koledžas gadā.
+
+335
+00:14:23,196 --> 00:14:25,907
+Džeksona vecāki varētu ar viņu aprunāties?
+
+336
+00:14:26,657 --> 00:14:27,742
+Varam pajautāt.
+
+337
+00:14:28,368 --> 00:14:31,662
+Tagad varam redzēt visu tīkleni,
+nepaplašinot zīlīti.
+
+338
+00:14:32,705 --> 00:14:36,459
+- Tā nav īstā acs.
+- Sākumā pārbaudām veselo aci.
+
+339
+00:14:38,711 --> 00:14:40,879
+- Tīklene izskatās lieliski.
+- Tagad neveselo?
+
+340
+00:14:40,880 --> 00:14:42,215
+Acis plaši vaļā.
+
+341
+00:14:44,509 --> 00:14:45,468
+Kā izskatās?
+
+342
+00:14:46,260 --> 00:14:47,552
+Bāls. Nav asinsplūsmas.
+
+343
+00:14:47,553 --> 00:14:49,846
+Digitālā masāža,
+10 sek. ar 5 sek. intervālu.
+
+344
+00:14:49,847 --> 00:14:51,140
+Galvas DT bez kontrastvielas.
+
+345
+00:14:54,936 --> 00:14:55,853
+Ienāciet.
+
+346
+00:14:57,188 --> 00:14:58,940
+Čau! Dzirdēju, ka paciente notinās.
+
+347
+00:14:59,649 --> 00:15:01,984
+- Paņēma pauzīti.
+- Cik ilgi tu gaidīsi?
+
+348
+00:15:03,569 --> 00:15:05,320
+Zini par kiberdrošības lietu?
+
+349
+00:15:05,321 --> 00:15:07,030
+Jā, kaut varētu palīdzēt,
+
+350
+00:15:07,031 --> 00:15:09,616
+bet palikšu, līdz savākšu pierādījumus…
+
+351
+00:15:09,617 --> 00:15:11,243
+Tur valda juceklis.
+
+352
+00:15:11,244 --> 00:15:12,578
+Visa diena ir juceklis.
+
+353
+00:15:14,288 --> 00:15:15,623
+Piedod, jau eju prom.
+
+354
+00:15:16,290 --> 00:15:17,208
+Viss kārtībā?
+
+355
+00:15:18,376 --> 00:15:19,210
+Viss labi.
+
+356
+00:15:20,044 --> 00:15:22,671
+Prieks to dzirdēt. Vai paēdāt?
+
+357
+00:15:22,672 --> 00:15:23,589
+Nē.
+
+358
+00:15:25,675 --> 00:15:27,009
+Turpināsim.
+
+359
+00:15:27,844 --> 00:15:29,971
+Labi. Jā.
+
+360
+00:15:37,395 --> 00:15:38,896
+- Labi.
+- Paldies.
+
+361
+00:15:40,731 --> 00:15:42,400
+Kāpēc tādas nav NMP nodaļā?
+
+362
+00:15:43,192 --> 00:15:45,528
+Jo intubētie pacienti parasti ir sedācijā.
+
+363
+00:15:46,946 --> 00:15:48,071
+Skaidrs.
+
+364
+00:15:48,072 --> 00:15:51,576
+Tev nevajadzētu
+tik daudz komentēt viņa svaru.
+
+365
+00:15:52,994 --> 00:15:56,204
+Interesēja, kā kļuva tik liels,
+un kā varam palīdzēt.
+
+366
+00:15:56,205 --> 00:15:59,332
+Palīdzēsim, noskaidrojot, kas viņam kaiš,
+un ārstējot cieņpilni.
+
+367
+00:15:59,333 --> 00:16:01,835
+- Kā jūtas vēders?
+- Otrā pretsāpju injekcija palīdzēja.
+
+368
+00:16:01,836 --> 00:16:03,545
+Iedosim vēl, ja vajag.
+
+369
+00:16:03,546 --> 00:16:06,631
+- Gausa zarnu darbība.
+- Pamācoša saruna ar intensīvo nodaļu.
+
+370
+00:16:06,632 --> 00:16:09,176
+Lieliski. Hauard, tagad jāatver vaļā eja
+
+371
+00:16:09,177 --> 00:16:10,343
+caurulītes ielikšanai.
+
+372
+00:16:10,344 --> 00:16:12,179
+Mazo pirkstiņu dažu minūšu laikā
+
+373
+00:16:12,180 --> 00:16:14,639
+ievadīšu līdz pat pirksta locītavai.
+
+374
+00:16:14,640 --> 00:16:17,726
+Kad caurulīte tiks caur balss saitēm,
+vairs nevarēsiet runāt.
+
+375
+00:16:17,727 --> 00:16:19,478
+Bet šī ir saziņas ierīce.
+
+376
+00:16:19,479 --> 00:16:22,481
+Pārvelciet pāri ekrānam,
+ja vēlaties ko pateikt.
+
+377
+00:16:22,482 --> 00:16:24,983
+Nospiediet uz ikonas, un tā to atskaņos.
+
+378
+00:16:24,984 --> 00:16:26,569
+<i>Lūdzu, pretsāpju līdzekli.</i>
+
+379
+00:16:27,403 --> 00:16:29,029
+<i>Sāpju skalā no 10, man ir deviņi.</i>
+
+380
+00:16:29,030 --> 00:16:30,531
+Vai ar to var pasūtīt picu?
+
+381
+00:16:32,366 --> 00:16:34,784
+Ātrās palīdzības zonā
+ir mobilo sakaru pārklājums.
+
+382
+00:16:34,785 --> 00:16:36,995
+Atradu māsas numuru
+un ierunāju balss ziņu.
+
+383
+00:16:36,996 --> 00:16:38,538
+Labi, es sākšu.
+
+384
+00:16:38,539 --> 00:16:39,915
+Gatavs?
+
+385
+00:16:39,916 --> 00:16:40,833
+Ne gluži.
+
+386
+00:16:41,459 --> 00:16:42,375
+Bet dariet vien.
+
+387
+00:16:42,376 --> 00:16:44,462
+- Robij, šurp.
+- Atlieciet galvu.
+
+388
+00:16:47,048 --> 00:16:48,173
+Domā jāoperē?
+
+389
+00:16:48,174 --> 00:16:49,841
+Ceru, ka nav plīsis apendikss.
+
+390
+00:16:49,842 --> 00:16:50,967
+Laparoskopija?
+
+391
+00:16:50,968 --> 00:16:53,512
+Iespējams, bet varētu ārstēt
+tikai ar antibiotikām.
+
+392
+00:16:53,513 --> 00:16:55,347
+Ja viņam vajag operāciju?
+
+393
+00:16:55,348 --> 00:16:58,433
+Ņemot vērā izmēru, neatliekamās
+atvērtās laparotomijas gadījumā
+
+394
+00:16:58,434 --> 00:17:00,519
+mirstības rādītājs ir tuvu 50 %.
+
+395
+00:17:00,520 --> 00:17:01,937
+Visu pēc kārtas.
+
+396
+00:17:01,938 --> 00:17:04,814
+Jāzvana viņa māsai ik pēc 15 minūtēm.
+
+397
+00:17:04,815 --> 00:17:05,733
+Atbildēs.
+
+398
+00:17:09,987 --> 00:17:11,531
+Puse dīkstāves veidlapu tukšas.
+
+399
+00:17:12,573 --> 00:17:13,950
+Par ko tu runā?
+
+400
+00:17:15,117 --> 00:17:16,452
+Šeit un šeit.
+
+401
+00:17:17,411 --> 00:17:19,247
+Lerij, tu izmanto flomāsteri?
+
+402
+00:17:19,830 --> 00:17:20,748
+Varbūt.
+
+403
+00:17:21,749 --> 00:17:24,168
+Tas neaizpilda kopijas.
+
+404
+00:17:25,086 --> 00:17:26,629
+Tikai lodīšu pildspalvu.
+
+405
+00:17:27,255 --> 00:17:28,172
+Labi.
+
+406
+00:17:30,633 --> 00:17:31,883
+Digbijs vēl nav atradies?
+
+407
+00:17:31,884 --> 00:17:33,301
+Tas bezpajumtnieks?
+
+408
+00:17:33,302 --> 00:17:34,804
+Ja aizmucis, jāatbrīvo gulta.
+
+409
+00:17:36,514 --> 00:17:38,431
+- Ko tev vajag?
+- Ārstu?
+
+410
+00:17:38,432 --> 00:17:40,016
+- Vecāko rezidentu?
+- Nē, būs labi.
+
+411
+00:17:40,017 --> 00:17:42,310
+- Dr. Ala-Hašimi, drīkst?
+- Jā.
+
+412
+00:17:42,311 --> 00:17:44,938
+32 gadus veca
+nedzirdīga sieviete ar galvassāpēm.
+
+413
+00:17:44,939 --> 00:17:46,356
+Ibuprofēns izraisīja gastrītu,
+
+414
+00:17:46,357 --> 00:17:48,149
+sāpes epigastrijā un ģīboni.
+
+415
+00:17:48,150 --> 00:17:51,528
+Pēc <i>Mylanta</i> lietošanas un injekcijas
+kritiskajā punktā vairs nesāp.
+
+416
+00:17:51,529 --> 00:17:54,239
+Lieliski. Tas mazinās sāpes
+vairākus mēnešus.
+
+417
+00:17:54,240 --> 00:17:56,825
+Neatkārtosies, ja ekrāns būs acu līmenī.
+
+418
+00:17:56,826 --> 00:17:59,536
+Tulks ieradās ar nokavēšanos,
+
+419
+00:17:59,537 --> 00:18:03,415
+un es gandrīz nozīmēju
+nevajadzīgu galvas un vēdera DT.
+
+420
+00:18:03,416 --> 00:18:05,960
+- Labi, ka neizdarīji.
+- Dr. Ala-Hašimi, jūs.
+
+421
+00:18:07,169 --> 00:18:08,588
+Malacis ar kritisko punktu.
+
+422
+00:18:09,422 --> 00:18:11,132
+- Jā, zinu.
+- Kā ar T-sistēmu?
+
+423
+00:18:11,716 --> 00:18:13,592
+Ātri un vienkārši.
+
+424
+00:18:13,593 --> 00:18:16,052
+Jā, un šie MDM,
+ne tikai apvelc diagnozi,
+
+425
+00:18:16,053 --> 00:18:18,805
+bet nosvītro to, kā pacientam nav.
+
+426
+00:18:18,806 --> 00:18:20,850
+- Jā, protams.
+- Liels paldies.
+
+427
+00:18:21,434 --> 00:18:24,019
+Princese, pārvirzi 13. centrālo
+uz DT kā pirmo.
+
+428
+00:18:24,020 --> 00:18:24,936
+Kas notika?
+
+429
+00:18:24,937 --> 00:18:27,689
+Pacientei ar pēkšņu aklumu
+tīklenē ir nosprostojums.
+
+430
+00:18:27,690 --> 00:18:29,816
+Runāju ar VA oftalmologu.
+
+431
+00:18:29,817 --> 00:18:32,944
+Galveno pētnieku
+trombolītisko līdzekļu jomā.
+
+432
+00:18:32,945 --> 00:18:34,863
+Nav standarta aprūpe, riskanti.
+
+433
+00:18:34,864 --> 00:18:36,406
+Dabūsim piekrišanu.
+
+434
+00:18:36,407 --> 00:18:38,408
+Vismaz daļēji glābsim redzi.
+
+435
+00:18:38,409 --> 00:18:39,826
+Tavs pacients, tavs lēmums.
+
+436
+00:18:39,827 --> 00:18:42,371
+Nebūšu te tik ilgi, ja nu būs sarežģījumi.
+
+437
+00:18:45,041 --> 00:18:47,084
+Paņemšu divus paraugus no maksts,
+
+438
+00:18:48,669 --> 00:18:50,463
+divus no dzemdes kakla.
+
+439
+00:18:54,133 --> 00:18:56,093
+Sakiet, ja jūtat diskomfortu.
+
+440
+00:18:57,053 --> 00:18:57,928
+Labi.
+
+441
+00:18:59,180 --> 00:19:00,680
+Katra uztriepe jāmarķē.
+
+442
+00:19:00,681 --> 00:19:03,224
+Pirmā maksts, otrā maksts uztriepe.
+
+443
+00:19:03,225 --> 00:19:05,393
+Uzklāj uz priekšmetstikliņa un ļauj nožūt.
+
+444
+00:19:05,394 --> 00:19:06,645
+Tāpat ar dzemdes kaklu?
+
+445
+00:19:06,646 --> 00:19:08,773
+Jā, bet neliec uz stikla.
+
+446
+00:19:10,524 --> 00:19:11,567
+Kā jūtaties?
+
+447
+00:19:12,902 --> 00:19:14,111
+Turos.
+
+448
+00:19:16,489 --> 00:19:17,406
+Gandrīz galā.
+
+449
+00:19:20,493 --> 00:19:23,453
+Visus paraugus jāliek
+vaginālā kontakta aploksnē.
+
+450
+00:19:23,454 --> 00:19:25,706
+- Varu palīdzēt?
+- Nē, tas jādara man.
+
+451
+00:19:26,540 --> 00:19:27,750
+Izvilkšu laukā.
+
+452
+00:19:29,835 --> 00:19:30,753
+Labi.
+
+453
+00:19:32,046 --> 00:19:33,923
+Viss kārtībā. Varat nolaist kājas.
+
+454
+00:19:38,052 --> 00:19:39,136
+Esam beiguši?
+
+455
+00:19:39,970 --> 00:19:42,515
+Vēl pēdējā lieta.
+Četras uztriepes no mutes.
+
+456
+00:19:43,724 --> 00:19:44,809
+Jau to izdarījāt.
+
+457
+00:19:45,393 --> 00:19:48,561
+Šīs ir citādas.
+Vaiga iekšpusē jūsu DNS pārbaudei.
+
+458
+00:19:48,562 --> 00:19:49,814
+Ne viņa.
+
+459
+00:19:52,817 --> 00:19:58,071
+Tātad, tie varētu būt
+bipolāri traucējumi vai šizofrēnija.
+
+460
+00:19:58,072 --> 00:20:00,365
+Tās ir divas visticamākās iespējas.
+
+461
+00:20:00,366 --> 00:20:01,908
+Kā viņi zina, kura?
+
+462
+00:20:01,909 --> 00:20:03,993
+To nosaka pēc reakcijas uz zālēm.
+
+463
+00:20:03,994 --> 00:20:06,663
+Arī ar terapijas un novērošanas metodi.
+
+464
+00:20:06,664 --> 00:20:09,500
+Uzraudzīs garastāvokli
+un saskarsmi ar citiem.
+
+465
+00:20:12,002 --> 00:20:16,589
+Vai ir asinsanalīzes vai galvas rentgens,
+kas atklās konkrēti?
+
+466
+00:20:16,590 --> 00:20:17,799
+Diemžēl nav.
+
+467
+00:20:17,800 --> 00:20:19,342
+Pareizi izvēloties zāles,
+
+468
+00:20:19,343 --> 00:20:22,638
+cilvēkiem ar bipolāriem traucējumiem
+var būt veiksmīga karjera.
+
+469
+00:20:23,639 --> 00:20:24,890
+Jācer, ka bipolāra problēma.
+
+470
+00:20:25,474 --> 00:20:27,600
+Varat cerēt, ka dēls būs laimīgs.
+
+471
+00:20:27,601 --> 00:20:31,271
+Uzsākot agrīnu ārstēšanu,
+20 % cilvēku ar šizofrēniju
+
+472
+00:20:31,272 --> 00:20:33,398
+pilnībā atveseļojas.
+
+473
+00:20:33,399 --> 00:20:34,733
+Tātad 80 % neatveseļojas.
+
+474
+00:20:34,734 --> 00:20:36,861
+Šī ir jauna Džeksona versija.
+
+475
+00:20:39,864 --> 00:20:41,490
+- Cik gadu bija jūsu meitai…
+- 20.
+
+476
+00:20:42,867 --> 00:20:45,619
+Studēja arhitektūru Džordžtaunā.
+
+477
+00:20:46,454 --> 00:20:47,371
+Šizofrēnija.
+
+478
+00:20:48,122 --> 00:20:50,165
+Jūtu līdzi.
+
+479
+00:20:50,166 --> 00:20:51,708
+Viņai klājas labi.
+
+480
+00:20:51,709 --> 00:20:55,296
+Dzīvo mājās,
+strādā par kasieri veikalā <i>Giant Eagle.</i>
+
+481
+00:20:56,881 --> 00:20:58,174
+Mēneša darbiniece.
+
+482
+00:20:59,300 --> 00:21:00,718
+Joprojām ir grūtības.
+
+483
+00:21:01,510 --> 00:21:03,929
+Bet mēs arī priecājamies
+un valda mīlestība.
+
+484
+00:21:11,854 --> 00:21:13,104
+Gatavs.
+
+485
+00:21:13,105 --> 00:21:15,648
+- Kāda bija sajūta?
+- Dīvaina.
+
+486
+00:21:15,649 --> 00:21:17,609
+Nesāpēja, bet likās dīvaini.
+
+487
+00:21:17,610 --> 00:21:20,111
+Tālāk paņemsim šo caurulīti
+
+488
+00:21:20,112 --> 00:21:24,532
+un izvadīsim caur degunu,
+apstājoties pie mēles saknes.
+
+489
+00:21:24,533 --> 00:21:25,950
+Labāk nerunāt.
+
+490
+00:21:25,951 --> 00:21:28,537
+Iemērcām caurulīti siltā ūdenī,
+lai kļūtu elastīgāka.
+
+491
+00:21:30,206 --> 00:21:31,624
+Gribat izmēģināt?
+
+492
+00:21:32,917 --> 00:21:34,626
+<i>Kāda diena, cik pulkstenis?</i>
+
+493
+00:21:34,627 --> 00:21:36,212
+Ceturtais jūlijs, 14.31.
+
+494
+00:21:37,087 --> 00:21:38,922
+<i>Kad caurulīti izņems laukā?</i>
+
+495
+00:21:38,923 --> 00:21:41,717
+Sākumā tā ir jāievieto.
+
+496
+00:21:42,301 --> 00:21:43,844
+<i>Zinu. Tikai trenējos.</i>
+
+497
+00:21:44,804 --> 00:21:46,806
+Izklausās, ka jau esat eksperts.
+
+498
+00:21:47,973 --> 00:21:49,225
+Kamēr vēl varu runāt,
+
+499
+00:21:51,185 --> 00:21:52,520
+gribu pateikt…
+
+500
+00:21:53,646 --> 00:21:54,605
+Paldies.
+
+501
+00:21:55,356 --> 00:21:56,273
+Par visu.
+
+502
+00:21:57,691 --> 00:21:58,692
+Lūdzu.
+
+503
+00:22:05,157 --> 00:22:05,991
+Sākam.
+
+504
+00:22:11,080 --> 00:22:12,413
+STI profilakse.
+
+505
+00:22:12,414 --> 00:22:16,417
+Viena injekcija ārstē gonoreju,
+tabletes pret hlamīdijām, trihomonām.
+
+506
+00:22:16,418 --> 00:22:17,544
+Paldies.
+
+507
+00:22:17,545 --> 00:22:19,754
+Mums ir arī avārijas kontracepcija.
+
+508
+00:22:19,755 --> 00:22:20,797
+Viņai ir spirāle.
+
+509
+00:22:20,798 --> 00:22:23,466
+Efektīva 99 % gadījumu, ne 100 %.
+
+510
+00:22:23,467 --> 00:22:24,385
+Tāpat piedāvājam.
+
+511
+00:22:25,094 --> 00:22:26,386
+Nevajag.
+
+512
+00:22:26,387 --> 00:22:27,971
+HIV gadījumā ir PEP zāles.
+
+513
+00:22:27,972 --> 00:22:29,765
+Profilakse pēc inficēšanās.
+
+514
+00:22:30,307 --> 00:22:33,269
+28 dienas. Jo ātrāk sāksiet, jo efektīvāk.
+
+515
+00:22:34,854 --> 00:22:38,274
+Emma, esmu droša,
+ka viņi novērtētu tavu palīdzību.
+
+516
+00:22:39,817 --> 00:22:41,277
+Bija prieks iepazīties.
+
+517
+00:22:42,236 --> 00:22:44,488
+- Jūs esat ļoti drosmīga sieviete.
+- Jā.
+
+518
+00:22:51,871 --> 00:22:53,122
+Viņa ir laba medmāsa.
+
+519
+00:22:53,581 --> 00:22:55,958
+Viņa vēl mācās, bet noteikti būs.
+
+520
+00:22:58,210 --> 00:23:00,045
+- Vai pēc šī tas būs viss?
+- Jā.
+
+521
+00:23:04,842 --> 00:23:06,302
+Priecājos, ka to darījāt jūs.
+
+522
+00:23:11,307 --> 00:23:12,224
+Es arī.
+
+523
+00:23:13,851 --> 00:23:16,020
+Mums jāpieņem kāds lēmums.
+
+524
+00:23:16,979 --> 00:23:20,315
+Pētījumi liecina,
+ka daļu redzes var atjaunot
+
+525
+00:23:20,316 --> 00:23:22,735
+- ar asins recekļus likvidējošām zālēm.
+- Dodiet.
+
+526
+00:23:23,402 --> 00:23:25,320
+Iespējami riski.
+
+527
+00:23:25,321 --> 00:23:29,908
+Acs triekas gadījumā tikai 17 % pacientu
+atveseļojas bez jebkādas ārstēšanas.
+
+528
+00:23:29,909 --> 00:23:31,826
+- Tikai 17 %?
+- Jā.
+
+529
+00:23:31,827 --> 00:23:35,080
+Lietojot zāles, 20 % redze uzlabojas.
+
+530
+00:23:36,457 --> 00:23:38,125
+Bet var rasties sarežģījumi.
+
+531
+00:23:38,918 --> 00:23:42,378
+2 % pacientu, kuri lieto zāles,
+stāvoklis pasliktinās,
+
+532
+00:23:42,379 --> 00:23:45,883
+un 1 % ir smaga invaliditāte vai nāve.
+
+533
+00:23:52,848 --> 00:23:55,809
+Mīļā, tev jāizlemj pašai.
+
+534
+00:23:57,728 --> 00:23:59,480
+Nē, tas ir mūsu lēmums.
+
+535
+00:24:00,731 --> 00:24:02,191
+Ko tu darītu bez manis?
+
+536
+00:24:02,858 --> 00:24:04,318
+Izdomātu, kā tālāk dzīvot.
+
+537
+00:24:06,987 --> 00:24:09,740
+Es noteikti raudātu
+divus gadus pēc kārtas.
+
+538
+00:24:10,366 --> 00:24:11,492
+Divus gadus? Tik vien?
+
+539
+00:24:13,702 --> 00:24:14,953
+Es gribu zāles.
+
+540
+00:24:14,954 --> 00:24:15,788
+Labi.
+
+541
+00:24:20,542 --> 00:24:22,377
+Vajag vārdu, uzvārdu uzskaitei.
+
+542
+00:24:22,378 --> 00:24:25,506
+Džekija Lidela.
+
+543
+00:24:26,298 --> 00:24:28,383
+- Kas jūs esat?
+- Draudzene, Džeķija.
+
+544
+00:24:28,384 --> 00:24:29,884
+Jūs abas sauc vienādi?
+
+545
+00:24:29,885 --> 00:24:31,594
+Nē. Viņa ir Džekija ar "k".
+
+546
+00:24:31,595 --> 00:24:32,845
+Es esmu Džeķija ar "ķ".
+
+547
+00:24:32,846 --> 00:24:35,598
+Varat mani saukt par Keju.
+
+548
+00:24:35,599 --> 00:24:37,601
+Labāk nerunā, Keja, labi? Mierīgāk.
+
+549
+00:24:40,813 --> 00:24:41,771
+Ko?
+
+550
+00:24:41,772 --> 00:24:43,606
+Teica, ka nokoda pusi mēles.
+
+551
+00:24:43,607 --> 00:24:45,066
+Jūs saprotat?
+
+552
+00:24:45,067 --> 00:24:47,694
+Jums viņa jādzird
+pēc divām krūkām margaritu.
+
+553
+00:24:47,695 --> 00:24:48,904
+Pālī un šļupst.
+
+554
+00:24:51,198 --> 00:24:54,325
+- Princese, kur brīvs?
+- 15. dienvidu.
+
+555
+00:24:54,326 --> 00:24:57,037
+- Dziļa mēles brūce.
+- Varu palīdzēt.
+
+556
+00:24:58,747 --> 00:25:01,916
+Robijs un Ala-Hašimi
+ir pie pacientiem kritiskā stāvoklī.
+
+557
+00:25:01,917 --> 00:25:03,292
+Labdien!
+
+558
+00:25:03,293 --> 00:25:05,963
+Esmu Dr. Lengdons.
+Uzraudzīšu jūsu ārstēšanu.
+
+559
+00:25:08,215 --> 00:25:10,718
+Keja, tavs ārsts ir sasodīti seksīgs.
+
+560
+00:25:13,595 --> 00:25:16,222
+Caurulīte 14 cm dziļumā virs elpceļiem.
+
+561
+00:25:16,223 --> 00:25:18,391
+Hauard, es sākšu.
+
+562
+00:25:18,392 --> 00:25:21,895
+Ja gribat, lai pārtraucu,
+paceliet roku, labi?
+
+563
+00:25:22,980 --> 00:25:25,065
+Zilā atzīme nozīmē, ka caurulīte ir iekšā.
+
+564
+00:25:28,402 --> 00:25:29,987
+Izskatās, ka tiki iekšā.
+
+565
+00:25:30,863 --> 00:25:32,614
+Ja ieelpos, redzēsim saites.
+
+566
+00:25:33,490 --> 00:25:35,617
+Hauard, dziļi ieelpojiet.
+
+567
+00:25:38,412 --> 00:25:40,122
+Labi. Skaisti.
+
+568
+00:25:40,789 --> 00:25:43,708
+Saites ir jutīgas,
+tāpēc lidokaīns jāiesmidzina laparoskopā.
+
+569
+00:25:43,709 --> 00:25:44,877
+Labi.
+
+570
+00:25:45,335 --> 00:25:47,921
+Viens kubikcentimetrs iekšā.
+
+571
+00:25:48,630 --> 00:25:50,632
+Ļausim mirkli iedarboties.
+
+572
+00:25:51,300 --> 00:25:52,551
+Kā jūtaties, Hauard?
+
+573
+00:25:54,094 --> 00:25:57,180
+Kad caurulīte būs iekšā,
+būs jāelpo caur degunu.
+
+574
+00:25:57,181 --> 00:25:58,681
+Hauard, nekustieties.
+
+575
+00:25:58,682 --> 00:26:01,393
+Virzos garām jūsu balss saitēm,
+
+576
+00:26:02,311 --> 00:26:04,521
+līdz redzēsim bronhu sadalīšanās vietu.
+
+577
+00:26:06,398 --> 00:26:08,400
+- Ogilvij?
+- Tur.
+
+578
+00:26:09,109 --> 00:26:12,905
+- Labais un kreisais atzars.
+- Un caurulīte ieslīd iekšā.
+
+579
+00:26:17,201 --> 00:26:20,037
+Un es izņemu laparoskopu.
+
+580
+00:26:21,955 --> 00:26:22,790
+Lieliski.
+
+581
+00:26:23,499 --> 00:26:24,916
+Piepildiet baloniņu.
+
+582
+00:26:24,917 --> 00:26:26,960
+Dziļi ieelpojiet caur degunu. Lieliski.
+
+583
+00:26:27,544 --> 00:26:28,378
+Jūtaties labi?
+
+584
+00:26:29,630 --> 00:26:31,255
+CO2 izelpā, viļņa forma izcila.
+
+585
+00:26:31,256 --> 00:26:32,590
+Ventilatoru vajag?
+
+586
+00:26:32,591 --> 00:26:35,134
+Viņš elpo pats,
+bet neliels gaisa spiediens noderētu.
+
+587
+00:26:35,135 --> 00:26:37,345
+Sākot no pieci titrējiet līdz 10.
+
+588
+00:26:37,346 --> 00:26:39,430
+Tas izdevās ļoti labi, Hauard.
+
+589
+00:26:39,431 --> 00:26:41,141
+Tagad pārbaudīsim jūsu svaru.
+
+590
+00:26:42,976 --> 00:26:46,646
+Sertificētajai māsai jāieliek izvarošanas
+pārbaudes komplekts ledusskapī,
+
+591
+00:26:46,647 --> 00:26:49,816
+līdz tas tiks nodots
+tiesībsargājošajām iestādēm.
+
+592
+00:26:49,817 --> 00:26:52,069
+To sauc par pierādījumu ķēdes saglabāšanu.
+
+593
+00:26:52,611 --> 00:26:54,071
+Tas ir kāds joks?
+
+594
+00:26:54,696 --> 00:26:56,490
+Vai ir kāda problēma?
+
+595
+00:26:57,116 --> 00:26:58,242
+Svētā debess!
+
+596
+00:26:58,992 --> 00:27:02,245
+Policijai jāsavāc izvarošanas pārbaudes
+komplekts 72 stundu laikā.
+
+597
+00:27:02,246 --> 00:27:03,705
+Šo es veicu pirms divām nedēļām.
+
+598
+00:27:05,082 --> 00:27:06,083
+Sasodīts!
+
+599
+00:27:08,627 --> 00:27:10,295
+Kā tieši tas notika?
+
+600
+00:27:11,380 --> 00:27:13,756
+Bijām pie kluba, uzņēmām selfiju.
+
+601
+00:27:13,757 --> 00:27:17,219
+- Ļoti jauki.
+- Līdz brīdim, kad strauji pacēla galvu.
+
+602
+00:27:18,762 --> 00:27:20,513
+- Au!
+- Labi.
+
+603
+00:27:20,514 --> 00:27:22,849
+Entopiskais epinefrīns palīdzēja.
+Vairs neasiņo.
+
+604
+00:27:22,850 --> 00:27:25,643
+- Jauki. Varu doties mājās?
+- Nedomāju vis.
+
+605
+00:27:25,644 --> 00:27:28,020
+Mēle līdzinās Lielajam kanjonam.
+
+606
+00:27:28,021 --> 00:27:30,941
+- Jāuzliek šuves.
+- Es negribu šuves.
+
+607
+00:27:31,942 --> 00:27:33,109
+Klausi ārstu.
+
+608
+00:27:33,110 --> 00:27:35,027
+Nesaki, ko man darīt.
+
+609
+00:27:35,028 --> 00:27:37,155
+- Tā ir tava vaina.
+- Nē, nav gan.
+
+610
+00:27:37,156 --> 00:27:39,574
+- Jā, ir gan.
+- Nav gan.
+
+611
+00:27:39,575 --> 00:27:42,368
+Princese?
+Parādi, kur var uzgaidīt,
+
+612
+00:27:42,369 --> 00:27:44,579
+- kamēr palīdzam draudzenei!
+- Labi.
+
+613
+00:27:44,580 --> 00:27:47,248
+Šis padarīs mēles galu nejūtīgu.
+
+614
+00:27:47,249 --> 00:27:48,166
+Galu?
+
+615
+00:27:48,167 --> 00:27:50,084
+Ne jau tur es iekodu.
+
+616
+00:27:50,085 --> 00:27:51,336
+Soli pa solim.
+
+617
+00:27:58,719 --> 00:28:00,554
+Te ir 20 mg tenekteplāzes.
+
+618
+00:28:01,263 --> 00:28:03,056
+Ievadīti plkst. 14.39.
+
+619
+00:28:04,266 --> 00:28:05,184
+Vai tu ko jūti?
+
+620
+00:28:06,268 --> 00:28:07,268
+Vēl ne.
+
+621
+00:28:07,269 --> 00:28:08,854
+Iedarbībai vajag stundu vai divas.
+
+622
+00:28:10,689 --> 00:28:13,400
+Pārvietosim uz citu telpu,
+lai būtu vieglāk uzraudzīt.
+
+623
+00:28:14,276 --> 00:28:15,277
+Dr. Kinga.
+
+624
+00:28:18,530 --> 00:28:20,073
+Paliec pie viņas.
+
+625
+00:28:21,742 --> 00:28:22,783
+Kāpēc?
+
+626
+00:28:22,784 --> 00:28:24,119
+Sarežģījumu gadījumā.
+
+627
+00:28:24,703 --> 00:28:27,038
+Reaģēsi uz palielinātām zīlītēm,
+
+628
+00:28:27,039 --> 00:28:29,040
+krampjiem, izmainītu garīgo stāvokli.
+
+629
+00:28:29,041 --> 00:28:32,586
+Es varētu rakstīt atskaites.
+Arī liecības sniegšana tuvojas.
+
+630
+00:28:33,378 --> 00:28:37,089
+Uztver to kā nolīšanu klusumā
+un sagatavošanos mentāli.
+
+631
+00:28:37,090 --> 00:28:38,258
+Džesij, Mela ies līdzi.
+
+632
+00:28:41,678 --> 00:28:45,139
+Atvainojiet, Dr. Mohana!
+
+633
+00:28:45,140 --> 00:28:47,475
+- Tūlīt nākšu, Džordž!
+- Pārņemšu.
+
+634
+00:28:47,476 --> 00:28:48,393
+Paldies.
+
+635
+00:28:51,355 --> 00:28:53,774
+D-dimēra analīzes ir normālas.
+
+636
+00:28:54,608 --> 00:28:55,816
+Esmu gatavs doties.
+
+637
+00:28:55,817 --> 00:28:57,069
+Jūtaties labāk?
+
+638
+00:28:57,778 --> 00:29:00,364
+Man patiesībā šoreiz netrūka elpas.
+
+639
+00:29:02,532 --> 00:29:03,784
+Kāpēc tad ieradāties?
+
+640
+00:29:05,494 --> 00:29:07,787
+Kad uzzinājām par asins recekli kājā,
+
+641
+00:29:07,788 --> 00:29:10,790
+domāju, ka tas nokļūs plaušās,
+un es nomiršu.
+
+642
+00:29:10,791 --> 00:29:13,751
+Mēs jau iepriekš runājām,
+ka <i>Eliquis</i> to novērš.
+
+643
+00:29:13,752 --> 00:29:14,586
+Es zinu.
+
+644
+00:29:16,964 --> 00:29:18,423
+Beidzot ņēmu vērā jūsu padomu.
+
+645
+00:29:19,049 --> 00:29:21,050
+Izrāvos laukā no mājas
+
+646
+00:29:21,051 --> 00:29:23,553
+un pievienojos
+Frika parka zāliena boulinga klubam.
+
+647
+00:29:24,346 --> 00:29:25,638
+- Lieliski.
+- Jā.
+
+648
+00:29:25,639 --> 00:29:27,473
+Jums ir taisnība, saprotat?
+
+649
+00:29:27,474 --> 00:29:29,351
+Mums visiem vajag sabiedrību.
+
+650
+00:29:33,480 --> 00:29:34,939
+Ko jūs darīsiet?
+
+651
+00:29:34,940 --> 00:29:36,482
+Lai izārstētu jūsu mēli,
+
+652
+00:29:36,483 --> 00:29:39,151
+tā jāpārvieto uz priekšu,
+lai piekļūtu brūcei.
+
+653
+00:29:39,152 --> 00:29:41,237
+Nedaudz jutīsiet, kā velkam, ja?
+
+654
+00:29:41,238 --> 00:29:42,072
+Labi, tātad…
+
+655
+00:29:44,533 --> 00:29:45,450
+Aiziet.
+
+656
+00:29:46,868 --> 00:29:48,286
+Kāda izmēra šuve tā ir?
+
+657
+00:29:48,287 --> 00:29:50,205
+Zīda, lielākā, kāda mums ir.
+
+658
+00:29:52,207 --> 00:29:54,835
+Kad pārgriezīšu diegu, tu turēsi, Džoja.
+
+659
+00:30:05,262 --> 00:30:09,265
+- Diezgan dziļi.
+- Tagad padarīsim nejutīgu brūci.
+
+660
+00:30:09,266 --> 00:30:10,391
+Labāk sākt ar…
+
+661
+00:30:10,392 --> 00:30:13,478
+Proksimālo pusi,
+lai viņa nejustu distālo injekciju.
+
+662
+00:30:15,105 --> 00:30:17,524
+Lai iedarbojas desmit minūtes,
+atnākšu uz šūšanu.
+
+663
+00:30:21,737 --> 00:30:23,487
+Komplekts te atrodas divas nedēļas.
+
+664
+00:30:23,488 --> 00:30:25,907
+Tas bija jāpaņem 72 stundu laikā.
+
+665
+00:30:26,450 --> 00:30:28,534
+Man vienalga. Atsūtiet kādu pakaļ.
+
+666
+00:30:28,535 --> 00:30:31,787
+Nē. Ja gribat, lai pienācīgi izturamies
+pret policistiem, kad atnāk,
+
+667
+00:30:31,788 --> 00:30:34,206
+nekavējoties atsūtiet detektīvu
+pakaļ komplektiem.
+
+668
+00:30:34,207 --> 00:30:35,666
+- Man jāiet.
+- Dana!
+
+669
+00:30:35,667 --> 00:30:38,169
+19. dienvidu veica galvas DT
+pirms visu atslēdza.
+
+670
+00:30:38,170 --> 00:30:39,128
+Rezultātu vēl nav.
+
+671
+00:30:39,129 --> 00:30:40,755
+Aizsūtīsim atgādinājumu.
+
+672
+00:30:40,756 --> 00:30:41,714
+- Dana!
+- Dana!
+
+673
+00:30:41,715 --> 00:30:42,758
+Uzgaidiet!
+
+674
+00:30:43,800 --> 00:30:44,717
+Kas noticis?
+
+675
+00:30:44,718 --> 00:30:47,720
+Izrakstījām Roksijai papildu atsāpinošos.
+
+676
+00:30:47,721 --> 00:30:49,764
+Ieliec medmāsu plauktā.
+
+677
+00:30:49,765 --> 00:30:51,141
+Jau sen to izdarīju.
+
+678
+00:30:53,143 --> 00:30:55,728
+- Labi, pārvietošu saraksta augšā.
+- Paldies.
+
+679
+00:30:55,729 --> 00:30:56,813
+Kas tā par skaņu?
+
+680
+00:30:57,606 --> 00:30:59,523
+NLO nolaidās. Mums uzbrūk citplanētieši.
+
+681
+00:30:59,524 --> 00:31:00,775
+Klau, Dana!
+
+682
+00:31:00,776 --> 00:31:02,860
+2. traumas pacientam
+vēl nav asins ķīmijas.
+
+683
+00:31:02,861 --> 00:31:04,112
+Parādi sarakstu.
+
+684
+00:31:05,530 --> 00:31:08,282
+Varu derēt, ka analīzes
+nonāca radioloģijā.
+
+685
+00:31:08,283 --> 00:31:09,825
+Lerij, Antuān!
+
+686
+00:31:09,826 --> 00:31:12,661
+Analīzes un krūšu rentgens ir
+vienā veidlapā.
+
+687
+00:31:12,662 --> 00:31:15,790
+Vajag divas lapiņas.
+Vienu laboratorijai, otru radioloģijai.
+
+688
+00:31:15,791 --> 00:31:17,666
+- Vairs neatkārtosies.
+- Pati izdarīšu.
+
+689
+00:31:17,667 --> 00:31:19,085
+Izmanto ierīci pie gultas.
+
+690
+00:31:19,086 --> 00:31:21,003
+Neveiks DT bez kreatinīna pārbaudes.
+
+691
+00:31:21,004 --> 00:31:22,046
+Izcili.
+
+692
+00:31:22,047 --> 00:31:24,548
+- Prieks, ka esi atpakaļ.
+- Priecājos atgriezties.
+
+693
+00:31:24,549 --> 00:31:25,591
+Mēģini rakstīt SMS?
+
+694
+00:31:25,592 --> 00:31:28,636
+Es tikai rakstu.
+Nosūtīšu no ātrās palīdzības zonas.
+
+695
+00:31:28,637 --> 00:31:30,930
+Mans draugs mehāniķis Djūks
+tā arī neuzradās.
+
+696
+00:31:30,931 --> 00:31:32,515
+Šķita, ka ieradīsies šorīt.
+
+697
+00:31:32,516 --> 00:31:34,684
+Tā bija runāts. Laikam bija aizņemts.
+
+698
+00:31:36,061 --> 00:31:37,186
+Ja nu neuzradīsies?
+
+699
+00:31:37,187 --> 00:31:39,730
+Pasaki, ko viņam vajag.
+Pateikšu nakts maiņai.
+
+700
+00:31:39,731 --> 00:31:40,941
+Nebūs nepieciešams.
+
+701
+00:31:43,985 --> 00:31:47,738
+Princese. Lūdziet, un jums tiks dots.
+Normāla galvas DT.
+
+702
+00:31:47,739 --> 00:31:49,366
+Paldies. Izrakstīšu.
+
+703
+00:31:50,283 --> 00:31:51,368
+Kā tev šodien iet?
+
+704
+00:31:52,119 --> 00:31:53,870
+Man no rakstīšanas sāp roka.
+
+705
+00:31:54,454 --> 00:31:55,288
+Tev ir lielais?
+
+706
+00:31:55,914 --> 00:31:57,081
+Jā.
+
+707
+00:31:57,082 --> 00:32:02,129
+Skumji. Smaga autoavārija,
+vairākas operācijas, milzīgs stress.
+
+708
+00:32:04,005 --> 00:32:05,798
+Lidokaīna injekcija jutīgā zonā.
+
+709
+00:32:05,799 --> 00:32:07,968
+Man ir piedzērusies tusētāja
+ar brūci mēlē.
+
+710
+00:32:08,760 --> 00:32:11,513
+- Viņai vajag palīdzību.
+- Vairākos veidos.
+
+711
+00:32:12,973 --> 00:32:15,684
+Kā iet pirmajā maiņā pēc atgriešanās?
+
+712
+00:32:16,643 --> 00:32:17,894
+Soli pa solim.
+
+713
+00:32:18,854 --> 00:32:21,605
+- Pirmais gads skaidrā ir grūtākais.
+- Tā man saka.
+
+714
+00:32:21,606 --> 00:32:24,109
+Esmu skaidrā deviņus un turpinu turēties.
+
+715
+00:32:28,363 --> 00:32:30,157
+Īpašā piegāde pacientam.
+
+716
+00:32:31,783 --> 00:32:33,742
+Zvani, ja tev ko vajag.
+
+717
+00:32:33,743 --> 00:32:34,703
+Paldies.
+
+718
+00:32:41,751 --> 00:32:43,169
+Kur tu ej?
+
+719
+00:32:43,170 --> 00:32:44,462
+Tulznas 3. ziemeļu.
+
+720
+00:32:44,463 --> 00:32:46,005
+Es tur eju.
+
+721
+00:32:46,006 --> 00:32:48,966
+- Vai atzīmēji pacientu?
+- Paņēmu kartīti no plaukta.
+
+722
+00:32:48,967 --> 00:32:50,676
+Tev jāuzraksta arī uz tāfeles.
+
+723
+00:32:50,677 --> 00:32:52,888
+Katram pacientam vajag planšeti.
+
+724
+00:32:53,430 --> 00:32:54,680
+Domāju, ka māsas paņēma.
+
+725
+00:32:54,681 --> 00:32:55,849
+Vienalga.
+
+726
+00:32:57,267 --> 00:33:00,019
+Sveiki, esmu students Dr. Ogilvijs,
+un šī ir…
+
+727
+00:33:00,020 --> 00:33:00,936
+Oho!
+
+728
+00:33:00,937 --> 00:33:03,106
+- Tie nu gan ir izsitumi.
+- Jā.
+
+729
+00:33:03,690 --> 00:33:04,648
+Pasakiet ko jaunu.
+
+730
+00:33:04,649 --> 00:33:06,984
+Studente Džavadi. Kad tie parādījās?
+
+731
+00:33:06,985 --> 00:33:07,985
+Vakar vakarā.
+
+732
+00:33:07,986 --> 00:33:10,613
+Vai ir bijusi saskare ar indīgo efeju?
+
+733
+00:33:10,614 --> 00:33:12,073
+Nē, neesmu bijis ārpus mājas.
+
+734
+00:33:12,782 --> 00:33:14,283
+Lietojat jaunas zāles?
+
+735
+00:33:14,284 --> 00:33:16,452
+Losjonus, ziepes, mazgāšanas līdzekli?
+
+736
+00:33:16,453 --> 00:33:19,205
+Zāles nelietoju.
+Arī no nosauktā nekā jauna nav.
+
+737
+00:33:19,206 --> 00:33:20,539
+Kurā vietā sākās?
+
+738
+00:33:20,540 --> 00:33:23,001
+Visur vienlaicīgi. Sāka stipri sāpēt.
+
+739
+00:33:23,793 --> 00:33:24,711
+Ļoti niez.
+
+740
+00:33:25,253 --> 00:33:26,338
+Kas tas ir?
+
+741
+00:33:27,047 --> 00:33:28,048
+Īsti nezinu.
+
+742
+00:33:29,883 --> 00:33:31,134
+Tūlīt atgriezīšos.
+
+743
+00:33:37,057 --> 00:33:38,183
+Ko tu domā?
+
+744
+00:33:39,226 --> 00:33:40,142
+Nav ne jausmas.
+
+745
+00:33:40,143 --> 00:33:41,019
+Piekrītu.
+
+746
+00:33:43,480 --> 00:33:44,772
+Bullozais pemfigoīds?
+
+747
+00:33:44,773 --> 00:33:46,440
+Autoimūna smaga rakstura nieze?
+
+748
+00:33:46,441 --> 00:33:48,359
+Ne tik nāvējoša
+kā parastais pemfigoīds.
+
+749
+00:33:48,360 --> 00:33:50,444
+Ja neārstē, mirstība pārsniedz 90 %.
+
+750
+00:33:50,445 --> 00:33:52,780
+Jāpārbauda, vai nav pustulu,
+gļotu bojājumu…
+
+751
+00:33:52,781 --> 00:33:54,074
+Un ādas slāņu atdalīšanās.
+
+752
+00:33:56,993 --> 00:33:57,911
+Lūdzu.
+
+753
+00:33:59,913 --> 00:34:01,706
+- Ko?
+- Uzlabojumu piezīmēm.
+
+754
+00:34:03,542 --> 00:34:05,752
+Vai dzirdēju, ka ir uzlabojumi?
+
+755
+00:34:07,629 --> 00:34:11,716
+Mēs to tā saucam, kad pierakstām lietas,
+aprakstot klīnisko kursu.
+
+756
+00:34:13,426 --> 00:34:14,302
+Ir izmaiņas?
+
+757
+00:34:15,387 --> 00:34:16,679
+Pagaidām nav.
+
+758
+00:34:16,680 --> 00:34:18,431
+Laiks nākamajai neiro pārbaudei.
+
+759
+00:34:19,224 --> 00:34:20,809
+Atvainojiet. Jums ir mirklis?
+
+760
+00:34:22,644 --> 00:34:24,895
+Nē, es šobrīd novēroju pacientu.
+
+761
+00:34:24,896 --> 00:34:26,022
+Maksimums minūte.
+
+762
+00:34:28,650 --> 00:34:29,568
+Apskatīšu zīlītes.
+
+763
+00:34:30,026 --> 00:34:30,986
+Tiksim galā.
+
+764
+00:34:37,200 --> 00:34:38,076
+Sveiki!
+
+765
+00:34:39,202 --> 00:34:40,704
+Man tikko bija jāsniedz liecība.
+
+766
+00:34:42,872 --> 00:34:43,914
+Tagad jāiet man?
+
+767
+00:34:43,915 --> 00:34:46,001
+- Pagaidi, līdz izsauks.
+- Labi.
+
+768
+00:34:46,918 --> 00:34:48,335
+Jautātu, kā gāja,
+
+769
+00:34:48,336 --> 00:34:50,588
+bet nedrīkstam apspriest lietu.
+
+770
+00:34:50,589 --> 00:34:52,089
+Šī nav apspriešana.
+
+771
+00:34:52,090 --> 00:34:54,134
+Šis ir monologs. Aizveries un klausies.
+
+772
+00:34:55,385 --> 00:34:57,344
+Pārkāpuma lieta ir muļķīga.
+
+773
+00:34:57,345 --> 00:35:00,347
+Masalu slimnieka māte saka,
+ka izraisījām intelekta degradēšanos,
+
+774
+00:35:00,348 --> 00:35:01,725
+veicot mugurkaula punkciju.
+
+775
+00:35:02,517 --> 00:35:05,103
+Punkciju veicām perfekti
+bez jebkādām komplikācijām.
+
+776
+00:35:05,687 --> 00:35:07,521
+Dēlam bija mainīts garīgais stāvoklis
+
+777
+00:35:07,522 --> 00:35:10,233
+zema skābekļa līmeņa dēļ,
+ko izraisa masalu pneimonija.
+
+778
+00:35:10,900 --> 00:35:13,319
+Izmaiņas radīja
+hipoksiska smadzeņu trauma.
+
+779
+00:35:13,320 --> 00:35:15,447
+Tām nav sakara
+ar tavu mugurkaula punkciju.
+
+780
+00:35:17,032 --> 00:35:17,866
+Monologa beigas.
+
+781
+00:35:18,825 --> 00:35:20,243
+Neesam apspriedušas šo lietu.
+
+782
+00:35:21,578 --> 00:35:22,829
+Man jāiet pagulēt.
+
+783
+00:35:23,872 --> 00:35:25,248
+Paldies.
+
+784
+00:35:26,207 --> 00:35:27,208
+Laikam.
+
+785
+00:35:28,668 --> 00:35:30,337
+Esat gatavs atgulties?
+
+786
+00:35:31,212 --> 00:35:33,297
+- Turu galvu.
+- Lēnām un mierīgi.
+
+787
+00:35:33,298 --> 00:35:34,966
+Viens, divi, trīs.
+
+788
+00:35:37,302 --> 00:35:38,720
+Labi. Kā jūtaties?
+
+789
+00:35:41,723 --> 00:35:42,932
+Ceļu augšā.
+
+790
+00:35:52,651 --> 00:35:53,860
+Labi, turpini.
+
+791
+00:35:57,113 --> 00:36:00,283
+Un tagad var apstāties.
+
+792
+00:36:02,369 --> 00:36:03,578
+215.
+
+793
+00:36:04,663 --> 00:36:05,789
+Tie ir kilogrami.
+
+794
+00:36:08,500 --> 00:36:09,709
+Komanda.
+
+795
+00:36:15,548 --> 00:36:17,174
+Nedaudz virs 203.
+
+796
+00:36:17,175 --> 00:36:19,968
+Nevaram riskēt un svētkos salauzt DT.
+
+797
+00:36:19,969 --> 00:36:22,262
+Mediķi var vest, ja tiek intubēts?
+
+798
+00:36:22,263 --> 00:36:26,101
+Ja braukšu līdzi,
+nosnaudīšos pirms nakts maiņas.
+
+799
+00:36:30,021 --> 00:36:31,648
+214.
+
+800
+00:36:33,233 --> 00:36:34,983
+Mūsu DT neizturēs jūsu svaru,
+
+801
+00:36:34,984 --> 00:36:37,696
+bet aizvedīsim jūs
+uz Presbiteriāņu slimnīcu.
+
+802
+00:36:38,363 --> 00:36:39,280
+<i>Izbrauciens.</i>
+
+803
+00:36:40,156 --> 00:36:42,409
+Braukšu jums līdzi.
+
+804
+00:36:44,869 --> 00:36:46,329
+<i>Piedodiet par neērtībām.</i>
+
+805
+00:36:47,288 --> 00:36:48,455
+Viss kārtībā.
+
+806
+00:36:48,456 --> 00:36:49,624
+Tas ir mūsu darbs.
+
+807
+00:36:55,213 --> 00:36:56,922
+Zemādas šūšanu jāsāk dziļi.
+
+808
+00:36:56,923 --> 00:36:59,466
+- Jānoslēpj mezgls.
+- Esmu jau šuvusi.
+
+809
+00:36:59,467 --> 00:37:01,052
+Džoja, kā jānogriež gali?
+
+810
+00:37:02,011 --> 00:37:04,304
+Mezgla tuvumā, 45 grādu leņķī.
+
+811
+00:37:04,305 --> 00:37:05,306
+Lieliski.
+
+812
+00:37:07,100 --> 00:37:08,600
+Dr. Lengdon, mums ir lieta.
+
+813
+00:37:08,601 --> 00:37:10,436
+- Būs jāuzgaida.
+- Varētu būt steidzami.
+
+814
+00:37:10,437 --> 00:37:12,230
+Sameklējiet Robiju vai Dr. Alu-Hašimi.
+
+815
+00:37:14,691 --> 00:37:18,610
+- Viņa ir autā.
+- Piedzērusies kā miets.
+
+816
+00:37:18,611 --> 00:37:20,404
+Jāpārbauda alkohola līmenis asinīs?
+
+817
+00:37:20,405 --> 00:37:21,989
+Nē, tas nemainīs darāmo.
+
+818
+00:37:21,990 --> 00:37:23,699
+Varēs doties mājās, kad ies taisni.
+
+819
+00:37:23,700 --> 00:37:24,617
+Jau vienu aizsūtīju.
+
+820
+00:37:25,869 --> 00:37:28,412
+Džoja, gribi uzminēt viņas promiles?
+
+821
+00:37:28,413 --> 00:37:29,913
+Kāpēc lai es to gribētu?
+
+822
+00:37:29,914 --> 00:37:31,833
+Nezinu, jo tas ir jautri.
+
+823
+00:37:37,964 --> 00:37:39,882
+Kad būs palāta?
+
+824
+00:37:39,883 --> 00:37:41,633
+Nedomāju, ka viņai to vajag.
+
+825
+00:37:41,634 --> 00:37:42,885
+Viņai ir drudzis.
+
+826
+00:37:42,886 --> 00:37:45,345
+Vecāka par mēnesi un izskatās lieliski.
+
+827
+00:37:45,346 --> 00:37:47,347
+Marķieri ir normāli, saaukstējusies.
+
+828
+00:37:47,348 --> 00:37:50,642
+Zīdaiņiem ar rinovīrusu
+var būt nopietna bakteriāla infekcija.
+
+829
+00:37:50,643 --> 00:37:52,978
+Ne viņai. Parasti tādus izrakstām.
+
+830
+00:37:52,979 --> 00:37:56,357
+Viņai nav māju vai vecāku.
+
+831
+00:37:57,942 --> 00:37:59,026
+Labi.
+
+832
+00:37:59,027 --> 00:38:01,028
+Nevaru laist bērnu ar vīrusu izolatorā.
+
+833
+00:38:01,029 --> 00:38:03,655
+Nevaru izniekot privātu palātu
+veselīgam mazulim.
+
+834
+00:38:03,656 --> 00:38:04,782
+Ko tu iesaki?
+
+835
+00:38:04,783 --> 00:38:07,826
+Aprūpes centrs var viņu nogādāt
+NMP audžuģimenē līdz rītam.
+
+836
+00:38:07,827 --> 00:38:09,954
+Gribat viņu šeit atstāt pa nakti?
+
+837
+00:38:10,747 --> 00:38:12,915
+Izskatās pēc standarta aprūpes.
+
+838
+00:38:12,916 --> 00:38:15,250
+- Lai tavs dežūrārsts piezvana.
+- Labi.
+
+839
+00:38:15,251 --> 00:38:16,668
+Nespēju noticēt.
+
+840
+00:38:16,669 --> 00:38:19,047
+- Jāpasaka aprūpes centram, ka steidzami.
+- Labi.
+
+841
+00:38:19,672 --> 00:38:21,508
+Diena kļūst saspringta.
+
+842
+00:38:22,675 --> 00:38:25,886
+Domāju pieteikties stipendijai.
+
+843
+00:38:25,887 --> 00:38:27,930
+Domāju, ka tevi gaida darbs Ņūdžersijā.
+
+844
+00:38:27,931 --> 00:38:30,182
+Gaidīja. Domāju, ka būšu tuvāk mātei,
+
+845
+00:38:30,183 --> 00:38:34,729
+bet viņa pārdeva māju,
+lai apceļotu pasauli ar jauno draugu.
+
+846
+00:38:35,688 --> 00:38:37,564
+Kāda tad jēga no Ņūdžersijas?
+
+847
+00:38:37,565 --> 00:38:38,899
+Jā. Labs jautājums.
+
+848
+00:38:38,900 --> 00:38:39,943
+Kurā nozarē?
+
+849
+00:38:40,610 --> 00:38:45,865
+Sašaurināju līdz ultraskaņai,
+toksikoloģijai un sporta medicīnai.
+
+850
+00:38:47,408 --> 00:38:50,744
+Ļoti atšķirīgas jomas,
+kas veido ļoti atšķirīgu karjeru.
+
+851
+00:38:50,745 --> 00:38:53,497
+Es zinu, nespēju izvēlēties.
+
+852
+00:38:53,498 --> 00:38:55,123
+Ir pieredze pētniecībā?
+
+853
+00:38:55,124 --> 00:38:58,669
+Piedalījos pētījumā
+par rasu atšķirībām veselības aprūpē,
+
+854
+00:38:58,670 --> 00:39:01,047
+līdz Baltais nams
+samazināja finansējumu.
+
+855
+00:39:01,631 --> 00:39:03,173
+Tu neesi vienīgā.
+
+856
+00:39:03,174 --> 00:39:06,468
+Esi apsvērusi geriatrijas stipendiju?
+
+857
+00:39:06,469 --> 00:39:07,762
+Neesmu.
+
+858
+00:39:08,471 --> 00:39:10,514
+Redzēju darbā ar vecākiem cilvēkiem.
+
+859
+00:39:10,515 --> 00:39:13,810
+Un ir daudz vakanču,
+tas varētu būt tavs labākais lēmums.
+
+860
+00:39:14,686 --> 00:39:15,603
+Padomā par to.
+
+861
+00:39:17,730 --> 00:39:20,775
+- Pēdējā šuve. Man nogriezt?
+- Es pati.
+
+862
+00:39:22,986 --> 00:39:23,902
+Izskatās labi.
+
+863
+00:39:23,903 --> 00:39:25,863
+Izvilksim pievilkšanas šuvi.
+
+864
+00:39:25,864 --> 00:39:27,282
+Ar lielāko prieku.
+
+865
+00:39:29,576 --> 00:39:30,618
+Labi, Džekij!
+
+866
+00:39:31,452 --> 00:39:34,037
+- Džekij!
+- Aizveries.
+
+867
+00:39:34,038 --> 00:39:35,372
+Gatavs.
+
+868
+00:39:35,373 --> 00:39:36,790
+Kas gatavs?
+
+869
+00:39:36,791 --> 00:39:38,001
+Jūsu mēles šūšana.
+
+870
+00:39:38,585 --> 00:39:40,294
+Kas notika manai mēlei?
+
+871
+00:39:40,295 --> 00:39:41,254
+Jūs to sakodāt.
+
+872
+00:39:42,171 --> 00:39:43,298
+Nesakodu gan.
+
+873
+00:39:44,173 --> 00:39:46,133
+Prāta atslēgšanās.
+
+874
+00:39:46,134 --> 00:39:47,718
+Cik daudz jūs izdzērāt?
+
+875
+00:39:47,719 --> 00:39:49,928
+Pāris asiņaino Mēriju.
+
+876
+00:39:49,929 --> 00:39:51,179
+Tikai pāris?
+
+877
+00:39:51,180 --> 00:39:52,640
+Nezinu. Varbūt vairāk.
+
+878
+00:39:53,266 --> 00:39:56,018
+Ir taču svētki. Visi tusē bāros.
+
+879
+00:39:56,019 --> 00:39:58,770
+Dzerat pāris kokteiļu dienā?
+
+880
+00:39:58,771 --> 00:40:00,022
+Tikai brīvdienās.
+
+881
+00:40:00,023 --> 00:40:01,440
+Un darbadienās?
+
+882
+00:40:01,441 --> 00:40:02,816
+Neko daudz.
+
+883
+00:40:02,817 --> 00:40:06,529
+Kādu vīna glāzi vakariņās vai pāris alu.
+
+884
+00:40:07,906 --> 00:40:09,532
+Ieteikt rehabilitāciju?
+
+885
+00:40:11,075 --> 00:40:12,827
+Jā, varam mēģināt.
+
+886
+00:40:18,082 --> 00:40:19,125
+Gatavs doties.
+
+887
+00:40:20,668 --> 00:40:22,169
+Kā jūtaties?
+
+888
+00:40:22,170 --> 00:40:23,545
+<i>Sāpju līmenis ir divi.</i>
+
+889
+00:40:23,546 --> 00:40:24,838
+Mums ir zāles, ja vajag.
+
+890
+00:40:24,839 --> 00:40:26,632
+Analīzes būs gatavas pirms Presbijas.
+
+891
+00:40:26,633 --> 00:40:28,050
+Mēģināsim sazvanīt māsu.
+
+892
+00:40:28,051 --> 00:40:29,635
+<i>- Jūs esat vislabākie.</i>
+- Uz redzi.
+
+893
+00:40:29,636 --> 00:40:31,970
+Varu ievietot jaunu pacientu 1. traumu?
+
+894
+00:40:31,971 --> 00:40:34,014
+Gribu to atstāt brīvu.
+
+895
+00:40:34,015 --> 00:40:36,434
+Ja vajag, ievieto ziemeļu daļā.
+
+896
+00:40:37,518 --> 00:40:38,519
+Digbija kungs?
+
+897
+00:40:40,521 --> 00:40:42,439
+- Vienkārši Digbijs.
+- Jā.
+
+898
+00:40:42,440 --> 00:40:44,691
+Mēs jūs meklējām. Kur jūs bijāt?
+
+899
+00:40:44,692 --> 00:40:46,276
+Pie Luija.
+
+900
+00:40:46,277 --> 00:40:48,988
+- Jūs tur bijāt stundu?
+- Viņš bija mans draugs.
+
+901
+00:40:49,989 --> 00:40:51,740
+Man bija daudz sakāmā.
+
+902
+00:40:51,741 --> 00:40:54,035
+Aizvedīsim jūs atpakaļ uz gultu.
+
+903
+00:40:56,329 --> 00:40:57,914
+Luijs nokļuva debesīs.
+
+904
+00:40:58,706 --> 00:41:01,375
+- Dr. Robij, mums ir kopīgs pacients.
+- Dr. Robij.
+
+905
+00:41:01,376 --> 00:41:03,919
+- Komandas darbs.
+- Satraucoši bullozi izsitumi.
+
+906
+00:41:03,920 --> 00:41:06,088
+Vajadzētu biopsiju parastajam pemfigoīdam.
+
+907
+00:41:06,089 --> 00:41:07,506
+Fitofotodermatīts.
+
+908
+00:41:07,507 --> 00:41:09,633
+- Ko?
+- Es pajautāju.
+
+909
+00:41:09,634 --> 00:41:11,802
+Viņš ballītei gatavoja
+11 litrus Margaritas,
+
+910
+00:41:11,803 --> 00:41:13,887
+saulē spiežot svaigus laimus.
+
+911
+00:41:13,888 --> 00:41:14,973
+Ejam apskatīties.
+
+912
+00:41:15,682 --> 00:41:16,808
+Man to nevajag.
+
+913
+00:41:20,061 --> 00:41:22,145
+- Kā iet?
+- Tur vairs nav kur apsēsties.
+
+914
+00:41:22,146 --> 00:41:23,647
+Ja izsaukšu ugunsdzēsējus,
+
+915
+00:41:23,648 --> 00:41:26,149
+- viņi atbrīvos uzgaidāmo?
+- Kaut tā būtu. Kas noticis?
+
+916
+00:41:26,150 --> 00:41:28,360
+12 pacientiem vajag atkārtotas receptes.
+
+917
+00:41:28,361 --> 00:41:29,778
+Nebūtu jāiet pie sava ārsta?
+
+918
+00:41:29,779 --> 00:41:31,571
+<i>Medicaid</i> samazināts. Esam viņu ārsti.
+
+919
+00:41:31,572 --> 00:41:33,657
+Nevaru izrakstīt e-receptes aptiekām.
+
+920
+00:41:33,658 --> 00:41:36,327
+- Ņem pildspalvu, raksti kā senajos laikos.
+- Uz kā?
+
+921
+00:41:37,537 --> 00:41:41,164
+- Norda, tev ir recepšu grāmatiņas?
+- Protams.
+
+922
+00:41:41,165 --> 00:41:42,583
+Vajag tikai pacienta uzlīmi.
+
+923
+00:41:43,167 --> 00:41:45,377
+- Vēl jautājumi?
+- Jā.
+
+924
+00:41:45,378 --> 00:41:47,672
+Kas būtu, ja tu šodien neierastos?
+
+925
+00:41:49,007 --> 00:41:52,176
+Jūs raudātu embriju pozā kā mazuļi.
+
+926
+00:41:53,136 --> 00:41:54,928
+Jūs bijāt iešļūcenēs?
+
+927
+00:41:54,929 --> 00:41:56,722
+Biju. Kas tas ir?
+
+928
+00:41:56,723 --> 00:41:58,015
+Fitofotodermatīts.
+
+929
+00:41:58,016 --> 00:42:00,225
+Zināms arī kā Margaritas apdegums.
+
+930
+00:42:00,226 --> 00:42:03,103
+Dažiem laims saules gaismā izraisa
+briesmīgus izsitumus.
+
+931
+00:42:03,104 --> 00:42:05,230
+Tas ir laimu dēļ?
+
+932
+00:42:05,231 --> 00:42:07,650
+Iepriekš esat spiedis laima sulu saulē?
+
+933
+00:42:08,443 --> 00:42:09,651
+Šķiet, ka nē.
+
+934
+00:42:09,652 --> 00:42:12,195
+Dienu jādzer steroīdu tabletes
+un jutīsieties labāk.
+
+935
+00:42:12,196 --> 00:42:14,114
+Kad sadzīs, jāsmērē saules aizsargkrēms,
+
+936
+00:42:14,115 --> 00:42:17,410
+citādi pūslīši pārvērtīsies tumšās rētās
+un saglabāsies.
+
+937
+00:42:19,078 --> 00:42:21,247
+Atgriezīšos ar pēcaprūpes norādēm.
+
+938
+00:42:22,665 --> 00:42:23,583
+- Robij!
+- Jā.
+
+939
+00:42:24,667 --> 00:42:27,962
+Paliatīvās aprūpes pacientei Roksijai
+joprojām stipri sāp.
+
+940
+00:42:28,713 --> 00:42:31,090
+- Kāda ir morfīna deva?
+- 10 mg stundā.
+
+941
+00:42:31,966 --> 00:42:34,301
+Vari palielināt par diviem līdz 12.
+
+942
+00:42:34,302 --> 00:42:37,054
+- Pateikšu Princesei.
+- 12 stundā ir daudz.
+
+943
+00:42:37,055 --> 00:42:39,849
+Viņa var pārstāt elpot
+lielās morfīna devas dēļ.
+
+944
+00:42:41,642 --> 00:42:44,395
+Vai zini par dubultā efekta doktrīnu?
+
+945
+00:42:45,021 --> 00:42:45,938
+- Ne gluži.
+- Nē.
+
+946
+00:42:47,065 --> 00:42:49,775
+Tas ir ētikas princips paliatīvajā aprūpē.
+
+947
+00:42:49,776 --> 00:42:50,692
+Mazinām sāpes.
+
+948
+00:42:50,693 --> 00:42:52,986
+Ja, to darot, ir negatīva blakne,
+
+949
+00:42:52,987 --> 00:42:53,987
+mēs to pieņemam.
+
+950
+00:42:53,988 --> 00:42:56,908
+Pat, ja negatīvā blakne ir nāve?
+
+951
+00:42:57,658 --> 00:43:00,078
+Dažreiz tas ir labākais rezultāts.
+
+952
+00:43:10,213 --> 00:43:11,963
+Faksam beidzās papīrs?
+
+953
+00:43:11,964 --> 00:43:14,675
+Papīra pietiek.
+Es nezinu, kas sačakarējās.
+
+954
+00:43:18,262 --> 00:43:19,930
+Kā tiksim ar to galā?
+
+955
+00:43:19,931 --> 00:43:21,099
+Gribēju jautāt to pašu.
+
+956
+00:43:24,393 --> 00:43:25,936
+Nevar pārvest uz PDS.
+
+957
+00:43:25,937 --> 00:43:27,480
+Te nekas netiek darīts.
+
+958
+00:44:50,730 --> 00:44:52,732
+Subtitrus tulkoja: Žanna Konošonoka
+

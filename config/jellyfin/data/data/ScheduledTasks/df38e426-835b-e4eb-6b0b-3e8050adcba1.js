@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2026-09-13T18:18:13.0028939Z","EndTimeUtc":"2026-09-13T18:18:13.0194122Z","Status":"Completed","Name":"Moonfin MDBList Ratings Sync","Key":"Moonfin.MdbList.BatchSync","Id":"df38e426835be4eb6b0b3e8050adcba1"}
+{"StartTimeUtc":"2026-09-17T08:49:00.2201196Z","EndTimeUtc":"2026-09-17T08:49:00.3253249Z","Status":"Completed","Name":"Moonfin MDBList Ratings Sync","Key":"Moonfin.MdbList.BatchSync","Id":"df38e426835be4eb6b0b3e8050adcba1"}

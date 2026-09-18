@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2026-09-13T19:14:35.3835762Z","EndTimeUtc":"2026-09-13T19:14:35.3917794Z","Status":"Completed","Name":"Clean Transcode Directory","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}
+{"StartTimeUtc":"2026-09-17T21:42:47.8529747Z","EndTimeUtc":"2026-09-17T21:42:47.8532856Z","Status":"Completed","Name":"Clean Transcode Directory","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}

@@ -1,0 +1,36 @@
+2026-09-14 01:49:44|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-14 01:49:44|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-14 02:29:06|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-14 04:00:00|INFO    |root                            |BAZARR All existing movie subtitles indexed from disk.|
+2026-09-14 04:00:01|INFO    |root                            |BAZARR All existing episode subtitles indexed from disk.|
+2026-09-14 07:26:31|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-14 07:49:43|INFO    |root                            |Using opensubtitlescom again after 12 hours, (disabled because: AuthenticationError)|
+2026-09-14 07:49:45|INFO    |root                            |Throttling opensubtitlescom for 12 hours, until 26/09/14 19:49, because of: AuthenticationError. Exception info: "'Login failed' ~ opensubtitlescom.py@550"|
+2026-09-14 07:49:45|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-14 07:49:45|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-14 08:29:05|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-14 08:31:52|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-14 08:31:54|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-14 08:31:54|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-14 08:31:54|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-14 08:31:54|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-14 08:31:54|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-14 08:31:54|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-14 08:31:54|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-14 08:47:27|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-14 08:47:29|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-14 08:47:29|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-14 08:47:29|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-14 08:47:29|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-14 08:47:29|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-14 08:47:29|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-14 08:47:29|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-14 13:30:13|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-14 14:44:44|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-14 14:44:44|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-14 18:37:20|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-14 19:30:14|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-14 20:44:44|INFO    |root                            |Using opensubtitlescom again after 12 hours, (disabled because: AuthenticationError)|
+2026-09-14 20:44:45|INFO    |root                            |Throttling opensubtitlescom for 12 hours, until 26/09/15 08:44, because of: AuthenticationError. Exception info: "'Login failed' ~ opensubtitlescom.py@550"|
+2026-09-14 20:44:45|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-14 20:44:45|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|

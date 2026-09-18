@@ -1,0 +1,99 @@
+{"Protocol":0,"Id":"74abc491334f8f498992ad3146dc04ad","Path":"/data/tvshows/Game Changer (2019)/Season 8/Game Changer - S08E09 - I Spy.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":2032161664,"Name":"Game Changer - S08E09 - I Spy","IsRemote":false,"ETag":"674dd28289554bada74aaef5ec19fb2b","RunTimeTicks":32101330000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"LocalizedLanguage":null,"LocalizedOriginal":null,"DisplayTitle":"1080p H264 SDR","NalLengthSize":"4","IsInterlaced":false,"IsAVC":true,"ChannelLayout":null,"BitRate":4872060,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":1080,"Width":1920,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"High","Type":1,"AspectRatio":"16:9","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":42,"IsAnamorphic":false},{"Codec":"aac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Vimeo Isopod Audio Handler","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"LocalizedLanguage":"English","LocalizedOriginal":"Original","DisplayTitle":"Vimeo Isopod Audio Handler - English - AAC - Stereo - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"stereo","BitRate":189375,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"SDH","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"SDH - English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":5064367,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -fflags +genpts  -i file:"/data/tvshows/Game Changer (2019)/Season 8/Game Changer - S08E09 - I Spy.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 copy -bsf:v h264_mp4toannexb -start_at_zero -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "78cb3487560fc6a44631eb72e68d7410-1.mp4" -start_number 0 -hls_segment_filename "/config/cache/transcodes/78cb3487560fc6a44631eb72e68d7410%d.mp4" -hls_playlist_type vod -hls_list_size 0 -hls_segment_options movflags=+frag_discont+skip_sidx -y "/config/cache/transcodes/78cb3487560fc6a44631eb72e68d7410.m3u8"
+
+
+ffmpeg version 8.1.2-Jellyfin Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 15 (Ubuntu 15.2.0-16ubuntu1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-unstable --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --disable-xlib --disable-sdl2 --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vulkan-static --enable-vaapi --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc --arch=amd64 --enable-libvpl --enable-amf
+  libavutil      60. 26.102 / 60. 26.102
+  libavcodec     62. 28.102 / 62. 28.102
+  libavformat    62. 12.102 / 62. 12.102
+  libavdevice    62.  3.102 / 62.  3.102
+  libavfilter    11. 14.102 / 11. 14.102
+  libswscale      9.  5.102 /  9.  5.102
+  libswresample   6.  3.102 /  6.  3.102
+Input #0, matroska,webm, from 'file:/data/tvshows/Game Changer (2019)/Season 8/Game Changer - S08E09 - I Spy.mkv':
+  Metadata:
+    MINOR_VERSION   : 0
+    creation_time   : 2026-09-07T23:04:43.000000Z
+    COMPATIBLE_BRANDS: dashmp42iso6avc1
+    MAJOR_BRAND     : dash
+    ENCODER         : Lavf61.7.100
+  Duration: 00:53:30.13, start: 0.000000, bitrate: 5064 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn, start 0.043000 (default)
+    Metadata:
+      HANDLER_NAME    : Vimeo Isopod Video Handler
+      VENDOR_ID       : [0][0][0][0]
+      ENCODER         : AVC Coding
+      BPS             : 4872060
+      DURATION        : 00:53:30.082000000
+      NUMBER_OF_FRAMES: 76965
+      NUMBER_OF_BYTES : 1954964410
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+    Metadata:
+      HANDLER_NAME    : Vimeo Isopod Audio Handler
+      VENDOR_ID       : [0][0][0][0]
+      BPS             : 189375
+      DURATION        : 00:53:30.133000000
+      NUMBER_OF_FRAMES: 150475
+      NUMBER_OF_BYTES : 75989876
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+    Metadata:
+      BPS             : 140
+      DURATION        : 00:52:59.224000000
+      NUMBER_OF_FRAMES: 1713
+      NUMBER_OF_BYTES : 55770
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt)
+    Metadata:
+      title           : SDH
+      BPS             : 149
+      DURATION        : 00:53:19.809000000
+      NUMBER_OF_FRAMES: 1764
+      NUMBER_OF_BYTES : 59639
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d7410-1.mp4' for writing
+Output #0, hls, to '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d7410.m3u8':
+  Metadata:
+    encoder         : Lavf62.12.102
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 23.98 tbr, 16k tbn (default)
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+Press [q] to stop, [?] for help
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74100.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74101.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74102.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74103.mp4' for writing
+[mp4 @ 0x5fa6cb0987c0] Packet duration: -32 / dts: 1151992 in stream 1 is out of range
+[mp4 @ 0x5fa6cb0987c0] pts has no value
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74104.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74105.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74106.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74107.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74108.mp4' for writing
+[mp4 @ 0x5fa6cb0987c0] Packet duration: -32 / dts: 2592760 in stream 1 is out of range
+[mp4 @ 0x5fa6cb0987c0] pts has no value
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d74109.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d741010.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d741011.mp4' for writing
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d741012.mp4' for writing
+
+
+[q] command received. Exiting.
+
+[hls @ 0x5fa6cb06b900] Opening '/config/cache/transcodes/78cb3487560fc6a44631eb72e68d741013.mp4' for writing
+[out#0/hls @ 0x5fa6cb089700] video:46705KiB audio:1875KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 1943 fps=0.0 q=-1.0 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x elapsed=0:00:00.50    

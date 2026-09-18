@@ -265,11 +265,16 @@ sonarr:
   sync_only_monitored_series: false
   use_ffprobe_cache: true
 subdl:
+  ai_translate: false
   api_key: ''
+  include_ai_translated: false
 subf2m:
   user_agent: ''
   verify_ssl: true
 subsarr:
+  base_url: ''
+subsdump:
+  api_key: ''
   base_url: ''
 subsource:
   apikey: ''
@@ -291,6 +296,8 @@ subsync:
   use_subsync: true
   use_subsync_movie_threshold: true
   use_subsync_threshold: true
+subtitlecat:
+  include_machine_translated: false
 subx:
   api_key: ''
 titlovi:

@@ -1,0 +1,15 @@
+{
+  "category": "General",
+  "changelog": "## \uD83E\uDEB2 Bug Fixes\r\n\r\n* Fixed injected menu items not closing the Jellyfin user-menu popover after navigation (PR #20, @n00bcodr).\r\n* Fixed Plugin Pages injection sometimes failing on clients where jQuery had not finished loading, including affected Android clients (PR #20, @n00bcodr).\r\n* Added cache-busting to the injected script so clients reliably receive updated versions.\r\n\r\n## \u26A0\uFE0F Compatibility\r\n\r\n* Dropped support for Jellyfin 10.11 releases prior to 10.11.11. Jellyfin 10.11.11 remains supported.\r\n\r\n### Contributors\r\n\r\n* n00bcodr",
+  "description": "Adds support for plugins to define their own user settings pages, rather than just admin sided.",
+  "guid": "5b6550fa-a014-4f4c-8a2c-59a43680ac6d",
+  "name": "Plugin Pages",
+  "owner": "IAmParadox27",
+  "targetAbi": "12.1.0.0",
+  "timestamp": "2026-09-15T10:18:14.0000000Z",
+  "version": "3.0.1.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/Plugin Pages_3.0.1.0/logo.png",
+  "assemblies": []
+}

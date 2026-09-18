@@ -1,0 +1,416 @@
+2026-09-17 01:47:59.274 +01:00 [INF] Cleaned up 1 strikes from 1 inactive items (no new strikes for 24 hours)
+2026-09-17 12:01:38.301 +01:00 [INF]          [Seeker] movie search triggered | http://192.168.0.65:7878/ | [The Shawshank Redemption]
+2026-09-17 12:01:38.367 +01:00 [INF]          [Seeker] Search triggered for The Shawshank Redemption (Missing) | http://192.168.0.65:7878/
+2026-09-17 12:02:16.872 +01:00 [INF] Search for 'The Shawshank Redemption' on Radarr grabbed 1 items: The Shawshank Redemption 1994 RESTORED 1080p BluRay REMUX DDB
+2026-09-17 22:24:06.168 +01:00 [INF] Application is shutting down...
+2026-09-17 22:24:06.483 +01:00 [INF] Health status broadcaster stopping
+2026-09-17 22:24:06.976 +01:00 [INF] Health check background service stopping
+2026-09-17 22:24:06.976 +01:00 [INF] Health check background service stopped
+2026-09-17 22:24:06.984 +01:00 [INF] Event cleanup service stopping...
+2026-09-17 22:24:06.988 +01:00 [INF] Event cleanup service stopped
+2026-09-17 22:24:34.831 +01:00 [INF] Server configuration: BIND_ADDRESS=0.0.0.0, PORT=11011, BASE_PATH=/
+2026-09-17 22:24:34.944 +01:00 [INF] Cleanuparr v2.10.6
+2026-09-17 22:24:34.945 +01:00 [INF] timezone: (UTC+00:00) United Kingdom Time
+2026-09-17 22:24:34.945 +01:00 [INF] Garbage Collector config | server=False concurrent=False latencyMode=Interactive totalAvailable=7263 MB highMemoryLoadThreshold=6537 MB
+2026-09-17 22:24:36.304 +01:00 [INF] Pre-registered standard HTTP client configurations
+2026-09-17 22:24:36.314 +01:00 [INF] Event cleanup service started. Interval: 04:00:00, Retention: 30 days
+2026-09-17 22:24:37.453 +01:00 [INF] Added trigger for job QueueCleaner with cron expression 0 0/5 * ? * * *
+2026-09-17 22:24:37.475 +01:00 [INF] Added trigger for job Seeker with cron expression 0 */10 * * * ?
+2026-09-17 22:24:37.809 +01:00 [INF] Health status broadcaster starting
+2026-09-17 22:24:38.189 +01:00 [WRN] Overriding address(es) 'http://*:11011'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-09-17 22:24:38.258 +01:00 [INF] Now listening on: http://[::]:11011
+2026-09-17 22:24:38.262 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-17 22:24:38.263 +01:00 [INF] Hosting environment: Production
+2026-09-17 22:24:38.264 +01:00 [INF] Content root path: /app
+2026-09-17 22:24:38.536 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health changed: Healthy
+2026-09-17 22:24:38.754 +01:00 [ERR] Error performing health check for arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr)
+System.Net.Http.HttpRequestException: Connection refused (sonarr:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:24:38.784 +01:00 [INF] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) health changed: Unhealthy
+2026-09-17 22:24:38.789 +01:00 [ERR] Error performing health check for arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr)
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:24:38.797 +01:00 [INF] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) health changed: Unhealthy
+2026-09-17 22:24:38.798 +01:00 [WRN] Arr instance health check completed. 0 healthy, 2 unhealthy
+2026-09-17 22:24:38.799 +01:00 [WRN] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) is unhealthy: Error: Connection refused (sonarr:8989)
+2026-09-17 22:24:38.799 +01:00 [WRN] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) is unhealthy: Error: An error occurred while sending the request.
+2026-09-17 22:24:53.817 +01:00 [INF] Application is shutting down...
+2026-09-17 22:24:53.827 +01:00 [INF] Health status broadcaster stopping
+2026-09-17 22:24:53.903 +01:00 [INF] Health check background service stopping
+2026-09-17 22:24:53.903 +01:00 [INF] Health check background service stopped
+2026-09-17 22:24:53.904 +01:00 [INF] Event cleanup service stopping...
+2026-09-17 22:24:53.952 +01:00 [INF] Event cleanup service stopped
+2026-09-17 22:25:05.639 +01:00 [INF] Server configuration: BIND_ADDRESS=0.0.0.0, PORT=11011, BASE_PATH=/
+2026-09-17 22:25:05.721 +01:00 [INF] Cleanuparr v2.10.6
+2026-09-17 22:25:05.722 +01:00 [INF] timezone: (UTC+00:00) United Kingdom Time
+2026-09-17 22:25:05.725 +01:00 [INF] Garbage Collector config | server=False concurrent=False latencyMode=Interactive totalAvailable=7263 MB highMemoryLoadThreshold=6537 MB
+2026-09-17 22:25:06.784 +01:00 [INF] Pre-registered standard HTTP client configurations
+2026-09-17 22:25:06.792 +01:00 [INF] Event cleanup service started. Interval: 04:00:00, Retention: 30 days
+2026-09-17 22:25:07.298 +01:00 [INF] Added trigger for job QueueCleaner with cron expression 0 0/5 * ? * * *
+2026-09-17 22:25:07.299 +01:00 [INF] Added trigger for job Seeker with cron expression 0 */10 * * * ?
+2026-09-17 22:25:07.361 +01:00 [INF] Health status broadcaster starting
+2026-09-17 22:25:07.744 +01:00 [WRN] Overriding address(es) 'http://*:11011'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-09-17 22:25:07.798 +01:00 [INF] Now listening on: http://[::]:11011
+2026-09-17 22:25:07.799 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-17 22:25:07.806 +01:00 [INF] Hosting environment: Production
+2026-09-17 22:25:07.807 +01:00 [INF] Content root path: /app
+2026-09-17 22:25:07.843 +01:00 [WRN] Health check failed for qBittorrent client 42aa5777-90f9-420b-8925-719c54d93bdf
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpIOException: The response ended prematurely. (ResponseEnded)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at QBittorrent.Client.Extensions.HttpClientExtensions.GetStringWithCancellationAsync(HttpClient client, Uri uri, Boolean returnEmptyIfNotFound, CancellationToken token)
+   at QBittorrent.Client.QBittorrentClient.GetLegacyApiVersionPrivateAsync(CancellationToken token)
+   at QBittorrent.Client.QBittorrentClient.<>c__DisplayClass7_0.<<-ctor>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at QBittorrent.Client.QBittorrentClient.PostAsync(Func`2 builder, CancellationToken token, ApiLevel minApiLevel, ApiVersion minApiVersion, Nullable`1 maxApiVersion)
+   at Cleanuparr.Infrastructure.Features.DownloadClient.QBittorrent.QBitService.HealthCheckAsync()
+2026-09-17 22:25:07.894 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health changed: Unhealthy
+2026-09-17 22:25:07.895 +01:00 [WRN] Client 42aa5777-90f9-420b-8925-719c54d93bdf health degraded
+2026-09-17 22:25:07.896 +01:00 [WRN] Download client health check completed. 0 healthy, 1 unhealthy
+2026-09-17 22:25:07.908 +01:00 [WRN] Download client 42aa5777-90f9-420b-8925-719c54d93bdf (qBittorrent) is unhealthy: Connection failed: An error occurred while sending the request.
+2026-09-17 22:25:08.420 +01:00 [ERR] Error performing health check for arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr)
+System.Net.Http.HttpRequestException: Connection refused (sonarr:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:25:08.424 +01:00 [INF] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) health changed: Unhealthy
+2026-09-17 22:25:08.427 +01:00 [ERR] Error performing health check for arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr)
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpIOException: The response ended prematurely. (ResponseEnded)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:25:08.429 +01:00 [INF] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) health changed: Unhealthy
+2026-09-17 22:25:08.430 +01:00 [WRN] Arr instance health check completed. 0 healthy, 2 unhealthy
+2026-09-17 22:25:08.430 +01:00 [WRN] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) is unhealthy: Error: Connection refused (sonarr:8989)
+2026-09-17 22:25:08.431 +01:00 [WRN] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) is unhealthy: Error: An error occurred while sending the request.
+2026-09-17 22:29:37.523 +01:00 [INF] Application is shutting down...
+2026-09-17 22:29:37.527 +01:00 [INF] Health status broadcaster stopping
+2026-09-17 22:29:37.575 +01:00 [INF] Health check background service stopping
+2026-09-17 22:29:37.576 +01:00 [INF] Health check background service stopped
+2026-09-17 22:29:37.576 +01:00 [INF] Event cleanup service stopping...
+2026-09-17 22:29:37.582 +01:00 [INF] Event cleanup service stopped
+2026-09-17 22:29:55.635 +01:00 [INF] Server configuration: BIND_ADDRESS=0.0.0.0, PORT=11011, BASE_PATH=/
+2026-09-17 22:29:55.735 +01:00 [INF] Cleanuparr v2.10.6
+2026-09-17 22:29:55.735 +01:00 [INF] timezone: (UTC+00:00) United Kingdom Time
+2026-09-17 22:29:55.735 +01:00 [INF] Garbage Collector config | server=False concurrent=False latencyMode=Interactive totalAvailable=7263 MB highMemoryLoadThreshold=6537 MB
+2026-09-17 22:29:56.784 +01:00 [INF] Pre-registered standard HTTP client configurations
+2026-09-17 22:29:56.791 +01:00 [INF] Event cleanup service started. Interval: 04:00:00, Retention: 30 days
+2026-09-17 22:29:57.648 +01:00 [INF] Added trigger for job QueueCleaner with cron expression 0 0/5 * ? * * *
+2026-09-17 22:29:57.654 +01:00 [INF] Added trigger for job Seeker with cron expression 0 */10 * * * ?
+2026-09-17 22:29:57.708 +01:00 [INF] Health status broadcaster starting
+2026-09-17 22:29:58.001 +01:00 [WRN] Overriding address(es) 'http://*:11011'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-09-17 22:29:58.057 +01:00 [INF] Now listening on: http://[::]:11011
+2026-09-17 22:29:58.058 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-17 22:29:58.061 +01:00 [INF] Hosting environment: Production
+2026-09-17 22:29:58.064 +01:00 [INF] Content root path: /app
+2026-09-17 22:29:58.384 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health changed: Healthy
+2026-09-17 22:29:58.667 +01:00 [ERR] Error performing health check for arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr)
+System.Net.Http.HttpRequestException: Connection refused (sonarr:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:29:58.688 +01:00 [INF] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) health changed: Unhealthy
+2026-09-17 22:29:59.330 +01:00 [INF] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) health changed: Healthy
+2026-09-17 22:29:59.331 +01:00 [WRN] Arr instance health check completed. 1 healthy, 1 unhealthy
+2026-09-17 22:29:59.331 +01:00 [WRN] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) is unhealthy: Error: Connection refused (sonarr:8989)
+2026-09-17 22:30:09.378 +01:00 [INF] Application is shutting down...
+2026-09-17 22:30:09.385 +01:00 [INF] Health status broadcaster stopping
+2026-09-17 22:30:22.193 +01:00 [INF] Server configuration: BIND_ADDRESS=0.0.0.0, PORT=11011, BASE_PATH=/
+2026-09-17 22:30:22.229 +01:00 [INF] Cleanuparr v2.10.6
+2026-09-17 22:30:22.229 +01:00 [INF] timezone: (UTC+00:00) United Kingdom Time
+2026-09-17 22:30:22.229 +01:00 [INF] Garbage Collector config | server=False concurrent=False latencyMode=Interactive totalAvailable=7263 MB highMemoryLoadThreshold=6537 MB
+2026-09-17 22:30:22.816 +01:00 [INF] Pre-registered standard HTTP client configurations
+2026-09-17 22:30:22.865 +01:00 [INF] Event cleanup service started. Interval: 04:00:00, Retention: 30 days
+2026-09-17 22:30:23.821 +01:00 [INF] Added trigger for job QueueCleaner with cron expression 0 0/5 * ? * * *
+2026-09-17 22:30:23.825 +01:00 [INF] Added trigger for job Seeker with cron expression 0 */10 * * * ?
+2026-09-17 22:30:23.952 +01:00 [INF] Health status broadcaster starting
+2026-09-17 22:30:24.665 +01:00 [WRN] Overriding address(es) 'http://*:11011'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-09-17 22:30:24.730 +01:00 [INF] Now listening on: http://[::]:11011
+2026-09-17 22:30:24.730 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-17 22:30:24.730 +01:00 [INF] Hosting environment: Production
+2026-09-17 22:30:24.730 +01:00 [INF] Content root path: /app
+2026-09-17 22:30:24.874 +01:00 [WRN] Health check failed for qBittorrent client 42aa5777-90f9-420b-8925-719c54d93bdf
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpIOException: The response ended prematurely. (ResponseEnded)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at QBittorrent.Client.Extensions.HttpClientExtensions.GetStringWithCancellationAsync(HttpClient client, Uri uri, Boolean returnEmptyIfNotFound, CancellationToken token)
+   at QBittorrent.Client.QBittorrentClient.GetLegacyApiVersionPrivateAsync(CancellationToken token)
+   at QBittorrent.Client.QBittorrentClient.<>c__DisplayClass7_0.<<-ctor>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at QBittorrent.Client.QBittorrentClient.PostAsync(Func`2 builder, CancellationToken token, ApiLevel minApiLevel, ApiVersion minApiVersion, Nullable`1 maxApiVersion)
+   at Cleanuparr.Infrastructure.Features.DownloadClient.QBittorrent.QBitService.HealthCheckAsync()
+2026-09-17 22:30:24.920 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health changed: Unhealthy
+2026-09-17 22:30:24.921 +01:00 [WRN] Client 42aa5777-90f9-420b-8925-719c54d93bdf health degraded
+2026-09-17 22:30:24.926 +01:00 [WRN] Download client health check completed. 0 healthy, 1 unhealthy
+2026-09-17 22:30:24.929 +01:00 [WRN] Download client 42aa5777-90f9-420b-8925-719c54d93bdf (qBittorrent) is unhealthy: Connection failed: An error occurred while sending the request.
+2026-09-17 22:30:25.461 +01:00 [ERR] Error performing health check for arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr)
+System.Net.Http.HttpRequestException: Connection refused (sonarr:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:30:25.471 +01:00 [INF] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) health changed: Unhealthy
+2026-09-17 22:30:25.493 +01:00 [ERR] Error performing health check for arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr)
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpIOException: The response ended prematurely. (ResponseEnded)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:30:25.503 +01:00 [INF] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) health changed: Unhealthy
+2026-09-17 22:30:25.507 +01:00 [WRN] Arr instance health check completed. 0 healthy, 2 unhealthy
+2026-09-17 22:30:25.509 +01:00 [WRN] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) is unhealthy: Error: Connection refused (sonarr:8989)
+2026-09-17 22:30:25.509 +01:00 [WRN] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) is unhealthy: Error: An error occurred while sending the request.
+2026-09-17 22:34:59.631 +01:00 [INF] Application is shutting down...
+2026-09-17 22:34:59.639 +01:00 [INF] Health status broadcaster stopping
+2026-09-17 22:34:59.746 +01:00 [INF] Health check background service stopping
+2026-09-17 22:34:59.747 +01:00 [INF] Health check background service stopped
+2026-09-17 22:34:59.748 +01:00 [INF] Event cleanup service stopping...
+2026-09-17 22:34:59.752 +01:00 [INF] Event cleanup service stopped
+2026-09-17 22:35:07.383 +01:00 [INF] Server configuration: BIND_ADDRESS=0.0.0.0, PORT=11011, BASE_PATH=/
+2026-09-17 22:35:07.414 +01:00 [INF] Cleanuparr v2.10.6
+2026-09-17 22:35:07.414 +01:00 [INF] timezone: (UTC+00:00) United Kingdom Time
+2026-09-17 22:35:07.414 +01:00 [INF] Garbage Collector config | server=False concurrent=False latencyMode=Interactive totalAvailable=7263 MB highMemoryLoadThreshold=6537 MB
+2026-09-17 22:35:07.894 +01:00 [INF] Pre-registered standard HTTP client configurations
+2026-09-17 22:35:07.934 +01:00 [INF] Event cleanup service started. Interval: 04:00:00, Retention: 30 days
+2026-09-17 22:35:08.117 +01:00 [INF] Added trigger for job QueueCleaner with cron expression 0 0/5 * ? * * *
+2026-09-17 22:35:08.127 +01:00 [INF] Added trigger for job Seeker with cron expression 0 */10 * * * ?
+2026-09-17 22:35:08.196 +01:00 [INF] Health status broadcaster starting
+2026-09-17 22:35:08.460 +01:00 [WRN] Overriding address(es) 'http://*:11011'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-09-17 22:35:08.504 +01:00 [INF] Now listening on: http://[::]:11011
+2026-09-17 22:35:08.506 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-17 22:35:08.506 +01:00 [INF] Hosting environment: Production
+2026-09-17 22:35:08.507 +01:00 [INF] Content root path: /app
+2026-09-17 22:35:08.691 +01:00 [WRN] Health check failed for qBittorrent client 42aa5777-90f9-420b-8925-719c54d93bdf
+System.Net.Http.HttpRequestException: Connection refused (192.168.0.65:8081)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at QBittorrent.Client.Extensions.HttpClientExtensions.GetStringWithCancellationAsync(HttpClient client, Uri uri, Boolean returnEmptyIfNotFound, CancellationToken token)
+   at QBittorrent.Client.QBittorrentClient.GetLegacyApiVersionPrivateAsync(CancellationToken token)
+   at QBittorrent.Client.QBittorrentClient.<>c__DisplayClass7_0.<<-ctor>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at QBittorrent.Client.QBittorrentClient.PostAsync(Func`2 builder, CancellationToken token, ApiLevel minApiLevel, ApiVersion minApiVersion, Nullable`1 maxApiVersion)
+   at Cleanuparr.Infrastructure.Features.DownloadClient.QBittorrent.QBitService.HealthCheckAsync()
+2026-09-17 22:35:08.706 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health changed: Unhealthy
+2026-09-17 22:35:08.709 +01:00 [WRN] Client 42aa5777-90f9-420b-8925-719c54d93bdf health degraded
+2026-09-17 22:35:08.712 +01:00 [WRN] Download client health check completed. 0 healthy, 1 unhealthy
+2026-09-17 22:35:08.715 +01:00 [WRN] Download client 42aa5777-90f9-420b-8925-719c54d93bdf (qBittorrent) is unhealthy: Connection failed: Connection refused (192.168.0.65:8081)
+2026-09-17 22:35:08.966 +01:00 [ERR] Error performing health check for arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr)
+System.Net.Http.HttpRequestException: Connection refused (sonarr:8989)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.<SendAsync>g__CreateHandlerAndSendAsync|115_0(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:35:08.994 +01:00 [INF] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) health changed: Unhealthy
+2026-09-17 22:35:09.012 +01:00 [ERR] Error performing health check for arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr)
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpIOException: The response ended prematurely. (ResponseEnded)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendCoreAsync(HttpRequestMessage request, Context context, CancellationToken cancellationToken)
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Microsoft.Extensions.Http.PolicyHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Cleanuparr.Infrastructure.Features.Arr.ArrClient.HealthCheckAsync(ArrInstance arrInstance)
+   at Cleanuparr.Infrastructure.Health.InstanceHealthChecker.CheckAsync(InstanceType type, ArrInstance instance)
+   at Cleanuparr.Infrastructure.Health.HealthCheckService.CheckAllArrInstancesHealthAsync()
+2026-09-17 22:35:09.014 +01:00 [INF] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) health changed: Unhealthy
+2026-09-17 22:35:09.017 +01:00 [WRN] Arr instance health check completed. 0 healthy, 2 unhealthy
+2026-09-17 22:35:09.019 +01:00 [WRN] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) is unhealthy: Error: Connection refused (sonarr:8989)
+2026-09-17 22:35:09.020 +01:00 [WRN] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) is unhealthy: Error: An error occurred while sending the request.
+2026-09-17 22:40:09.031 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health changed: Healthy
+2026-09-17 22:40:09.031 +01:00 [INF] Client 42aa5777-90f9-420b-8925-719c54d93bdf health recovered
+2026-09-17 22:40:09.038 +01:00 [INF] Arr instance d97e4bed-4216-4d5b-81ea-0e233fa476d3 (Sonarr) health changed: Healthy
+2026-09-17 22:40:09.042 +01:00 [INF] Arr instance 8011802d-d6b6-4ada-ab8d-29877a3d1aa4 (Radarr) health changed: Healthy

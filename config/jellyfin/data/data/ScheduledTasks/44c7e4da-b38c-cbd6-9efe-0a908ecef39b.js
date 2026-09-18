@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2026-09-13T18:18:13.0028968Z","EndTimeUtc":"2026-09-13T18:18:15.8149683Z","Status":"Completed","Name":"Moonfin IMDb Lists Sync","Key":"Moonfin.Imdb.ListsSync","Id":"44c7e4dab38ccbd69efe0a908ecef39b"}
+{"StartTimeUtc":"2026-09-17T08:49:00.1327143Z","EndTimeUtc":"2026-09-17T08:49:03.4959651Z","Status":"Completed","Name":"Moonfin IMDb Lists Sync","Key":"Moonfin.Imdb.ListsSync","Id":"44c7e4dab38ccbd69efe0a908ecef39b"}

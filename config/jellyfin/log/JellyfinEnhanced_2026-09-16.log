@@ -1,0 +1,45 @@
+[2026-09-16 03:00:00] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-16 03:00:00] [INFO] [TagCache] Reconciling changes since 2026-09-15T20:32:40.0063121Z
+[2026-09-16 03:00:00] [INFO] [Seerr→Jellyfin Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-09-16 03:00:06] [INFO] [TagCache] Saved 124 entries to disk
+[2026-09-16 03:00:06] [INFO] [TagCache] Reconciliation complete: 119 changed items, 120 entries checked
+[2026-09-16 03:30:00] [INFO] [Jellyfin→Seerr Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-09-16 04:54:10] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-16 04:54:10] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-16 04:54:11] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-16 08:47:43] [INFO] [Watchlist] Unsubscribing from library events
+[2026-09-16 08:47:43] [INFO] [Auto-Movie-Request] Unsubscribing from playback events
+[2026-09-16 08:47:43] [INFO] [Auto-Season-Request] Unsubscribing from playback events
+[2026-09-16 08:47:57] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-16.log
+[2026-09-16 08:47:57] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-16 08:48:00] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-16 08:48:03] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-16 08:48:03] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-16T08:48:03.1260000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-16 08:48:03] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-16 08:48:03] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-16 08:48:03] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-16 08:48:03] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-16 08:48:03] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-16 08:48:03] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-16 08:48:03] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-16 08:48:03] [INFO] [TagCache] Loaded 124 entries from disk (v1, schema v3)
+[2026-09-16 08:48:03] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-16 08:48:03] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-16 08:48:05] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-16 08:48:05] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-16 08:48:21] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-16 08:48:21] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/saturn' after upstream fetch failure.
+[2026-09-16 08:48:26] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-16 08:48:26] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/toronto-critics' after upstream fetch failure.
+[2026-09-16 08:48:28] [INFO] [CDN] Refreshed 58/59 known assets into the local cache.
+[2026-09-16 10:27:14] [INFO] [Awards] No cache file found, starting empty
+[2026-09-16 14:49:00] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-16 14:49:00] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-16 14:49:00] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-16 20:50:01] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-16 20:50:01] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-16 20:50:01] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-16 22:11:18] [INFO] Jellyfin Enhanced: injected the client script via request-time middleware (IStartupFilter).
+[2026-09-16 22:11:25] [INFO] Proxying Seerr request for user Konka (29758f1a-d0e3-4cd4-9ad8-a789f81860e2) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-16 22:29:11] [INFO] Proxying Seerr request for user Konka (29758f1a-d0e3-4cd4-9ad8-a789f81860e2) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-16 22:29:18] [INFO] Proxying Seerr request for user Konka (29758f1a-d0e3-4cd4-9ad8-a789f81860e2) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all

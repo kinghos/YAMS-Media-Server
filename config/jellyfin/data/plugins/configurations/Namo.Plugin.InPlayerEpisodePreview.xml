@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnabledItemTypes>
+    <int>28</int>
+    <int>13</int>
+    <int>35</int>
+    <int>5</int>
+  </EnabledItemTypes>
+  <BlurDescription>false</BlurDescription>
+  <BlurThumbnail>false</BlurThumbnail>
+  <EpisodePageSize>10</EpisodePageSize>
+  <OnlyBlurUnwatched>false</OnlyBlurUnwatched>
+  <ShowWatchedCount>true</ShowWatchedCount>
+  <WatchCountDisplayMode>1</WatchCountDisplayMode>
+  <SearchContainingCollections>true</SearchContainingCollections>
+  <DisplayMissingEpisodes>false</DisplayMissingEpisodes>
+  <ShowWatchProgress>true</ShowWatchProgress>
+  <ExpandAllItems>false</ExpandAllItems>
+  <ExpandedItemLayout>1</ExpandedItemLayout>
+  <LogLevel>2</LogLevel>
+</PluginConfiguration>

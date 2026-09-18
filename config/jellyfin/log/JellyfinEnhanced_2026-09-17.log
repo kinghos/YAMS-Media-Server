@@ -1,0 +1,200 @@
+[2026-09-17 02:51:02] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-17 02:51:02] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-17 02:51:02] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-17 03:00:00] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 03:00:00] [INFO] [TagCache] Reconciling changes since 2026-09-16T02:58:00.2338103Z
+[2026-09-17 03:00:00] [INFO] [Seerr→Jellyfin Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-09-17 03:00:00] [INFO] [TagCache] Saved 124 entries to disk
+[2026-09-17 03:00:00] [INFO] [TagCache] Reconciliation complete: 0 changed items, 0 entries checked
+[2026-09-17 03:30:00] [INFO] [Jellyfin→Seerr Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-09-17 08:49:00] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 08:49:02] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 08:49:02] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 08:49:16] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 08:49:16] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/national-board-of-review' after upstream fetch failure.
+[2026-09-17 08:49:21] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 08:49:21] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/kids-choice' after upstream fetch failure.
+[2026-09-17 08:49:25] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 08:49:25] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/cannes' after upstream fetch failure.
+[2026-09-17 08:49:26] [INFO] [CDN] Refreshed 58/59 known assets into the local cache.
+[2026-09-17 08:52:03] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-17 08:52:03] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-17 08:52:03] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-17 11:13:38] [INFO] [TagCache] Saved 125 entries to disk
+[2026-09-17 14:53:04] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-17 14:53:04] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-17 14:53:04] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-17 15:55:07] [INFO] Proxying Seerr request for user Konka (29758f1a-d0e3-4cd4-9ad8-a789f81860e2) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-17 19:18:39] [INFO] Proxying Seerr request for user admin (8c63ca3e-f2b7-40be-9586-b23d2e47a171) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-17 19:22:08] [INFO] Saved user settings for admin (8c63ca3ef2b740be9586b23d2e47a171): LastOpenedTab: shortcuts → subtitles
+[2026-09-17 19:22:11] [INFO] Saved user settings for admin (8c63ca3ef2b740be9586b23d2e47a171): SelectedStylePresetIndex: 0 → 1, CustomSubtitleBgColor: #00000000 → #000000FF
+[2026-09-17 19:22:12] [INFO] Saved user settings for admin (8c63ca3ef2b740be9586b23d2e47a171): SelectedStylePresetIndex: 1 → 2, CustomSubtitleBgColor: #000000FF → #000000B2
+[2026-09-17 19:22:13] [INFO] Saved user settings for admin (8c63ca3ef2b740be9586b23d2e47a171): SelectedStylePresetIndex: 2 → 3, CustomSubtitleTextColor: #FFFFFFFF → #FFFF00FF
+[2026-09-17 19:22:15] [INFO] Saved user settings for admin (8c63ca3ef2b740be9586b23d2e47a171): SelectedStylePresetIndex: 3 → 2, CustomSubtitleTextColor: #FFFF00FF → #FFFFFFFF
+[2026-09-17 19:22:28] [INFO] Saved default settings.json for new user Kingshuk (c5c0ff36f63f4aca8042ecf46a092055) from plugin configuration.
+[2026-09-17 19:22:28] [INFO] Seeded default hidden-content.json for new user Kingshuk (c5c0ff36f63f4aca8042ecf46a092055) from plugin configuration.
+[2026-09-17 19:22:41] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: shortcuts → subtitles
+[2026-09-17 19:22:42] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): SelectedStylePresetIndex: 0 → 2, CustomSubtitleBgColor: #00000000 → #000000B2
+[2026-09-17 19:22:47] [INFO] Proxying Seerr request for user Kingshuk (c5c0ff36-f63f-4aca-8042-ecf46a092055) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-17 20:54:05] [INFO] [Jellyseerr User Import] Starting Jellyseerr user import task...
+[2026-09-17 20:54:05] [INFO] [Jellyseerr User Import] Found 4 Jellyfin users (4 after excluding 0 blocked).
+[2026-09-17 20:54:05] [INFO] [Jellyseerr User Import] Completed. 0 new user(s) imported out of 4 sent. Errors: 0
+[2026-09-17 21:24:06] [INFO] [Watchlist] Unsubscribing from library events
+[2026-09-17 21:24:06] [INFO] [Auto-Movie-Request] Unsubscribing from playback events
+[2026-09-17 21:24:06] [INFO] [Auto-Season-Request] Unsubscribing from playback events
+[2026-09-17 21:24:41] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-17.log
+[2026-09-17 21:24:42] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-17 21:24:48] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-17 21:24:51] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-17T21:24:51.9590000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-17 21:24:51] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-17 21:24:51] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-17 21:24:51] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 21:24:52] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-17 21:24:52] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:24:52] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:24:52] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-17 21:24:52] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-17 21:24:52] [INFO] [TagCache] Loaded 125 entries from disk (v1, schema v3)
+[2026-09-17 21:24:52] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 21:24:52] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-17 21:24:53] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 21:24:53] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 21:24:54] [INFO] [Watchlist] Unsubscribing from library events
+[2026-09-17 21:24:54] [INFO] [Auto-Movie-Request] Unsubscribing from playback events
+[2026-09-17 21:24:54] [INFO] [Auto-Season-Request] Unsubscribing from playback events
+[2026-09-17 21:24:54] [INFO] [CDN] CDN asset refresh cancelled.
+[2026-09-17 21:25:15] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-17.log
+[2026-09-17 21:25:16] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-17 21:25:21] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-17 21:25:24] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-17 21:25:24] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-17 21:25:24] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-17T21:25:24.6210000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-17 21:25:24] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 21:25:24] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-17 21:25:24] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:25:24] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:25:24] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-17 21:25:24] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-17 21:25:24] [INFO] [TagCache] Loaded 125 entries from disk (v1, schema v3)
+[2026-09-17 21:25:24] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 21:25:24] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-17 21:25:26] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 21:25:26] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 21:25:43] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:25:43] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/saturn' after upstream fetch failure.
+[2026-09-17 21:25:50] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:25:50] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/cannes' after upstream fetch failure.
+[2026-09-17 21:25:50] [INFO] [CDN] Refreshed 58/59 known assets into the local cache.
+[2026-09-17 21:28:31] [INFO] Jellyfin Enhanced: injected the client script via request-time middleware (IStartupFilter).
+[2026-09-17 21:28:32] [INFO] [Awards] No cache file found, starting empty
+[2026-09-17 21:29:37] [INFO] [Watchlist] Unsubscribing from library events
+[2026-09-17 21:29:37] [INFO] [Auto-Movie-Request] Unsubscribing from playback events
+[2026-09-17 21:29:37] [INFO] [Auto-Season-Request] Unsubscribing from playback events
+[2026-09-17 21:30:03] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-17.log
+[2026-09-17 21:30:04] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-17 21:30:07] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-17 21:30:10] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-17 21:30:10] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-17 21:30:10] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 21:30:10] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-17T21:30:10.9970000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-17 21:30:11] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-17 21:30:11] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:30:11] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:30:11] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-17 21:30:11] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-17 21:30:11] [INFO] [TagCache] Loaded 125 entries from disk (v1, schema v3)
+[2026-09-17 21:30:11] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 21:30:11] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-17 21:30:13] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 21:30:13] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 21:30:34] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-17.log
+[2026-09-17 21:30:34] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-17 21:30:37] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-17 21:30:40] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-17 21:30:40] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-17 21:30:40] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-17T21:30:40.6930000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-17 21:30:40] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 21:30:40] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-17 21:30:40] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:30:40] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:30:40] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-17 21:30:40] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-17 21:30:40] [INFO] [TagCache] Loaded 125 entries from disk (v1, schema v3)
+[2026-09-17 21:30:40] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 21:30:40] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-17 21:30:42] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 21:30:42] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 21:30:56] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:30:56] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/national-board-of-review' after upstream fetch failure.
+[2026-09-17 21:31:01] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:31:01] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/kids-choice' after upstream fetch failure.
+[2026-09-17 21:31:05] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:31:05] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/cannes' after upstream fetch failure.
+[2026-09-17 21:31:05] [INFO] [CDN] Refreshed 58/59 known assets into the local cache.
+[2026-09-17 21:35:00] [INFO] [Watchlist] Unsubscribing from library events
+[2026-09-17 21:35:00] [INFO] [Auto-Movie-Request] Unsubscribing from playback events
+[2026-09-17 21:35:00] [INFO] [Auto-Season-Request] Unsubscribing from playback events
+[2026-09-17 21:35:16] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-17.log
+[2026-09-17 21:35:17] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-17 21:35:21] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-17 21:35:24] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-17 21:35:24] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-17 21:35:24] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-17T21:35:24.5200000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-17 21:35:24] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 21:35:24] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-17 21:35:24] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:35:24] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:35:24] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-17 21:35:24] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-17 21:35:24] [INFO] [TagCache] Loaded 125 entries from disk (v1, schema v3)
+[2026-09-17 21:35:24] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 21:35:24] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-17 21:35:26] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 21:35:26] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 21:35:26] [INFO] Jellyfin Enhanced: injected the client script via request-time middleware (IStartupFilter).
+[2026-09-17 21:35:40] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:35:40] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/national-board-of-review' after upstream fetch failure.
+[2026-09-17 21:35:44] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:35:44] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/kids-choice' after upstream fetch failure.
+[2026-09-17 21:35:48] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:35:48] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/cannes' after upstream fetch failure.
+[2026-09-17 21:35:49] [INFO] [CDN] Refreshed 58/59 known assets into the local cache.
+[2026-09-17 21:35:50] [INFO] [Awards] No cache file found, starting empty
+[2026-09-17 21:42:43] [INFO] [Watchlist] Unsubscribing from library events
+[2026-09-17 21:42:43] [INFO] [Auto-Movie-Request] Unsubscribing from playback events
+[2026-09-17 21:42:43] [INFO] [Auto-Season-Request] Unsubscribing from playback events
+[2026-09-17 21:42:43] [INFO] Jellyfin Enhanced v12.7.0.0 initialized. Plugin logs will be written to: /config/log/JellyfinEnhanced_2026-09-17.log
+[2026-09-17 21:42:43] [INFO] Normalized shortcut list: dropped 20 duplicate(s), 0 malformed entry/entries, added 0 missing default(s)
+[2026-09-17 21:42:44] [INFO] [MDBList] No cache file found, starting empty
+[2026-09-17 21:42:47] [INFO] Jellyfin Enhanced Startup Task run successfully.
+[2026-09-17 21:42:47] [INFO] [Clear Translation Cache] Translation cache clear signal set at 2026-09-17T21:42:47.7420000+00:00. All clients will clear their translation cache on next page load.
+[2026-09-17 21:42:47] [INFO] Client script will be injected at request time by the injection middleware.
+[2026-09-17 21:42:47] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-09-17 21:42:47] [INFO] [WhatsNew] 47 new setting(s) pending in 12.7.0.0 (vs. last-acknowledged baseline 12.2.0.0): languageTagsPriority, languageTagsPriorityStrict, spoilerAdvancedMode, spoilerNextEpisodeStripTitle, spoilerNextEpisodeStripOverview, spoilerNextEpisodeStripRatings, spoilerCurrentSeasonStripTitle, spoilerCurrentSeasonStripOverview, spoilerCurrentSeasonStripRatings, mdblistRatingsEnabled, mdblistApiKey, checkMdblistStatusBtn, mdblistRatingsShowOnItemDetails, mdblistRatingsFetchEnabled, mdblistFetchReserve, mdblistRatingsAutoSyncEnabled, mdblistRatingsOverwriteExisting, mdblistRatingsShowPercentSymbol, activityFeedEnabled, activityFeedShowWatched, activityFeedShowFavorited, activityFeedShowReviewed, activityFeedShowActiveStreams, activityFeedUseNativeTab, activityFeedUsePluginPages, activityFeedUseCustomTabs, activityFeedAutoCreateCustomTab, jellyseerrAvailablePosterLinksToJellyfin, importSonarrFromSeerr, importRadarrFromSeerr, shokoUrl, shokoApiKey, shokoShowEpisodes, shokoShowSpecials, shokoShowCredits, shokoShowTrailers, shokoShowParodies, shokoShowOther, shokoUrlMappings, validateShokoMappingsBtn, analyticsEnabled, analyticsShareFeatureFlags, analyticsShareUsageCounts, analyticsShareDataSizes, analyticsReportIntervalDays, analyticsPreviewBtn, rebuildTagCacheBtn
+[2026-09-17 21:42:47] [INFO] [Auto-Season-Request] Auto-request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:42:47] [INFO] [Auto-Movie-Request] Auto-Movie-Request monitoring is disabled in configuration - not subscribing to playback events
+[2026-09-17 21:42:47] [INFO] [Watchlist] Watchlist monitoring is disabled in configuration - not subscribing to library events
+[2026-09-17 21:42:47] [INFO] [SeerrScan] Subscribed to library ItemAdded events
+[2026-09-17 21:42:47] [INFO] [TagCache] Loaded 125 entries from disk (v1, schema v3)
+[2026-09-17 21:42:47] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-09-17 21:42:47] [INFO] Jellyfin Enhanced Startup Task completed successfully.
+[2026-09-17 21:42:49] [INFO] Jellyfin Enhanced: injected the client script via request-time middleware (IStartupFilter).
+[2026-09-17 21:42:49] [INFO] [Awards] No cache file found, starting empty
+[2026-09-17 21:42:50] [DEBUG] [CDN] Upstream returned 404 for source 'award-logos'.
+[2026-09-17 21:42:50] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-09-17 21:43:03] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:43:03] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/national-board-of-review' after upstream fetch failure.
+[2026-09-17 21:43:07] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:43:07] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/kids-choice' after upstream fetch failure.
+[2026-09-17 21:43:12] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-09-17 21:43:12] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/cannes' after upstream fetch failure.
+[2026-09-17 21:43:12] [INFO] [CDN] Refreshed 58/59 known assets into the local cache.
+[2026-09-17 21:45:40] [INFO] Proxying Seerr request for user Kingshuk (c5c0ff36-f63f-4aca-8042-ecf46a092055) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-17 21:45:49] [INFO] Proxying Seerr request for user Kingshuk (c5c0ff36-f63f-4aca-8042-ecf46a092055) to: http://192.168.0.65:5055/api/v1/request?take=500&skip=0&filter=all
+[2026-09-17 21:46:44] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: subtitles → auto-skip
+[2026-09-17 21:46:45] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: auto-skip → playback
+[2026-09-17 21:46:49] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: playback → shortcuts
+[2026-09-17 21:46:50] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: shortcuts → subtitles
+[2026-09-17 21:46:50] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: subtitles → random-button
+[2026-09-17 21:46:51] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: random-button → ui
+[2026-09-17 21:46:52] [INFO] Saved user settings for Kingshuk (c5c0ff36f63f4aca8042ecf46a092055): LastOpenedTab: ui → language

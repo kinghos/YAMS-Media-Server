@@ -1,0 +1,4137 @@
+1
+00:00:15,516 --> 00:00:17,266
+Advar afdelingslederen,
+
+2
+00:00:17,267 --> 00:00:18,351
+før vi ender i kaos.
+
+3
+00:00:18,352 --> 00:00:19,644
+Jeg var på vej til dig.
+
+4
+00:00:19,645 --> 00:00:20,770
+8. TIME
+KL. 14.00 - 15.00
+
+5
+00:00:20,771 --> 00:00:23,022
+- Sørg for, I har, hvad I skal bruge.
+- Kom så.
+
+6
+00:00:23,023 --> 00:00:26,275
+IT har tilkaldt mig,
+fordi jeg har træning i cyberangreb.
+
+7
+00:00:26,276 --> 00:00:27,860
+Sig, hvad de skal gøre.
+
+8
+00:00:27,861 --> 00:00:30,321
+Nej. Det må komme fra afdelingsleder...
+
+9
+00:00:30,322 --> 00:00:31,323
+Mener du det?
+
+10
+00:00:34,368 --> 00:00:36,035
+Okay, kom, allesammen.
+
+11
+00:00:36,036 --> 00:00:37,286
+Hvad fanden?
+
+12
+00:00:37,287 --> 00:00:39,247
+Vi har muligvis haft et cyberangreb.
+
+13
+00:00:39,248 --> 00:00:41,416
+Nej, vi forhindrede et cyberangreb.
+
+14
+00:00:43,252 --> 00:00:45,336
+Okay, ro på, hør her.
+
+15
+00:00:45,337 --> 00:00:47,672
+Som I kan se, omarrangerer vi lidt
+
+16
+00:00:47,673 --> 00:00:48,674
+i det centrale område.
+
+17
+00:00:49,383 --> 00:00:52,134
+Vores hospitalscomputere
+er i fare for et cyberangreb.
+
+18
+00:00:52,135 --> 00:00:54,262
+Så vi gør det
+på gammeldags maner, analogt.
+
+19
+00:00:54,263 --> 00:00:55,513
+- Hvor længe?
+- Ved ikke.
+
+20
+00:00:55,514 --> 00:00:57,557
+IT-afdelingen har lukket alt ned
+
+21
+00:00:57,558 --> 00:00:59,892
+for at give dem tid
+til at styrke cyberforsvaret.
+
+22
+00:00:59,893 --> 00:01:01,811
+Spørgsmålet var: "Hvor længe?"
+
+23
+00:01:01,812 --> 00:01:04,314
+Det er svært at sige,
+der kan gå op til 24 timer.
+
+24
+00:01:05,190 --> 00:01:07,650
+- Jøsses.
+- Første punkt på dagsordenen er
+
+25
+00:01:07,651 --> 00:01:10,027
+at replikere elektroniske patienttavler
+
+26
+00:01:10,028 --> 00:01:11,445
+på de her tavler.
+
+27
+00:01:11,446 --> 00:01:13,573
+Har nogen et billede af tavlerne?
+
+28
+00:01:13,574 --> 00:01:14,657
+Ja, her.
+
+29
+00:01:14,658 --> 00:01:15,492
+Okay.
+
+30
+00:01:18,954 --> 00:01:21,080
+Det er lidt slørret.
+
+31
+00:01:21,081 --> 00:01:23,083
+Nej, mere end lidt sløret.
+
+32
+00:01:23,792 --> 00:01:25,836
+- Beklager.
+- Åh gud.
+
+33
+00:01:26,753 --> 00:01:27,837
+Jeg husker det.
+
+34
+00:01:27,838 --> 00:01:30,089
+Godt, hvis andre husker patienter
+
+35
+00:01:30,090 --> 00:01:32,049
+og stuenummer er det godt.
+
+36
+00:01:32,050 --> 00:01:33,801
+Nej, jeg kan huske det hele.
+
+37
+00:01:33,802 --> 00:01:36,346
+- Hele hvad?
+- Navne, læger, stuenumre.
+
+38
+00:01:37,097 --> 00:01:39,348
+Jeg har fotografisk hukommelse.
+
+39
+00:01:39,349 --> 00:01:41,058
+Seriøst? Hele tavlen?
+
+40
+00:01:41,059 --> 00:01:43,227
+Central 12, Harlow Graham,
+
+41
+00:01:43,228 --> 00:01:46,272
+hovedpine, mavesmerter, kun tegnsprog.
+
+42
+00:01:46,273 --> 00:01:48,608
+Pis, jeg har en tolk, der venter.
+
+43
+00:01:48,609 --> 00:01:50,776
+- Afsted.
+- Okay, for patienters skyld
+
+44
+00:01:50,777 --> 00:01:52,612
+ville symptomer forkortes.
+
+45
+00:01:52,613 --> 00:01:56,032
+Så "HP" for hovedpine,
+"MS" for mavesmerter.
+
+46
+00:01:56,033 --> 00:01:58,909
+Central 10, Jackson Davis, akut psykose.
+
+47
+00:01:58,910 --> 00:02:00,661
+Javadi, indlæg ham på psykiatrisk.
+
+48
+00:02:00,662 --> 00:02:02,455
+Det græske "Psi" for psykiatrisk.
+
+49
+00:02:02,456 --> 00:02:05,709
+Børneafdelingen: ukendte baby
+med feber, dr. Mohan, mulig indlæggelse.
+
+50
+00:02:06,251 --> 00:02:08,044
+Sygeplejersker må opdække i zoner.
+
+51
+00:02:08,045 --> 00:02:10,087
+- Nord, Central, Syd, Akut.
+- Hvor er Dana?
+
+52
+00:02:10,088 --> 00:02:11,631
+Hos et voldtægtsoffer.
+
+53
+00:02:11,632 --> 00:02:13,341
+Hun kan ikke gå, før hun er færdig.
+
+54
+00:02:13,342 --> 00:02:16,052
+- Det kan tage noget tid.
+- Princess har erfaring.
+
+55
+00:02:16,053 --> 00:02:17,511
+- Ikke rigtigt.
+- God ide.
+
+56
+00:02:17,512 --> 00:02:19,639
+Så er det dig.
+Du organiserer sygeplejersker.
+
+57
+00:02:19,640 --> 00:02:21,724
+- Næste.
+- Central 9, Roxy Hemler.
+
+58
+00:02:21,725 --> 00:02:23,059
+Lungekræft i sidste stadie.
+
+59
+00:02:23,060 --> 00:02:25,394
+Skal vi stå her,
+mens hun reciterer hele tavlen?
+
+60
+00:02:25,395 --> 00:02:28,648
+Nej, gå ud og se til patienterne,
+og kom så tilbage.
+
+61
+00:02:28,649 --> 00:02:29,940
+Tak.
+
+62
+00:02:29,941 --> 00:02:31,610
+Hvor mange timer er du på computer?
+
+63
+00:02:34,905 --> 00:02:37,490
+Mindst otte timer. Jeg arbejder hjemmefra.
+
+64
+00:02:37,491 --> 00:02:39,034
+Du sidder ved et bord?
+
+65
+00:02:41,578 --> 00:02:46,332
+Nej. Jeg sidder nogle gange i sofaen
+og nogle gange i sengen.
+
+66
+00:02:46,333 --> 00:02:50,002
+Jeg sidder ligesom op
+med min computer på skødet.
+
+67
+00:02:50,003 --> 00:02:51,922
+Så du kigger altid ned på din skærm?
+
+68
+00:02:52,881 --> 00:02:53,798
+Ja.
+
+69
+00:02:53,799 --> 00:02:56,677
+Okay, jeg tjekker musklerne i din nakke.
+
+70
+00:03:04,476 --> 00:03:05,394
+Det gør ondt.
+
+71
+00:03:06,937 --> 00:03:08,814
+Okay, jeg tror, vi kan hjælpe.
+
+72
+00:03:09,398 --> 00:03:10,774
+Kom herover.
+
+73
+00:03:11,817 --> 00:03:13,109
+Okay, kom herhen.
+
+74
+00:03:13,110 --> 00:03:15,486
+Hør her, allesammen.
+Dette er vores journal-system.
+
+75
+00:03:15,487 --> 00:03:18,572
+Som I kan se har hver åbning
+og folder et stuenummer.
+
+76
+00:03:18,573 --> 00:03:22,326
+Når I får en ny ind,
+tager i en ny formular fra T-systemet.
+
+77
+00:03:22,327 --> 00:03:27,415
+Vælg en formular alt efter symptom,
+og brug tegningen til at finde den.
+
+78
+00:03:27,416 --> 00:03:29,041
+Hvorfor er der to kroppe?
+
+79
+00:03:29,042 --> 00:03:31,210
+Akut til venstre, medicinsk til højre.
+
+80
+00:03:31,211 --> 00:03:34,088
+Så hovedskade er til venstre,
+hovedpine er til højre.
+
+81
+00:03:34,089 --> 00:03:36,716
+- Er det fisk, der svømmer i tang?
+- Nej.
+
+82
+00:03:36,717 --> 00:03:38,008
+Det er bier og græs.
+
+83
+00:03:38,009 --> 00:03:40,845
+Det er en sektion for insektbid,
+hududslæt, allergier.
+
+84
+00:03:40,846 --> 00:03:42,179
+Okay, lad os sige,
+
+85
+00:03:42,180 --> 00:03:44,432
+dr. Al-Hashimi får en patient
+med mavesmerte.
+
+86
+00:03:44,433 --> 00:03:49,228
+I journalen sætter I cirkel om
+de bekræftede såsom opkast og diarre.
+
+87
+00:03:49,229 --> 00:03:50,521
+Og backslash udelukkelser,
+
+88
+00:03:50,522 --> 00:03:53,357
+såsom nylige rejser, sygekontakt, feber.
+
+89
+00:03:53,358 --> 00:03:57,278
+Under fysisk undersøgelse
+markerer tjek-tegn normaler til venstre,
+
+90
+00:03:57,279 --> 00:04:00,239
+og cirkler er unormale fund
+til højre. Okay?
+
+91
+00:04:00,240 --> 00:04:02,743
+Virker dit generative AI-program stadig?
+
+92
+00:04:04,453 --> 00:04:05,494
+Der går noget tid.
+
+93
+00:04:05,495 --> 00:04:08,790
+Og glem alt om Spectralink-telefoner,
+da de fungerer over internettet.
+
+94
+00:04:11,877 --> 00:04:14,086
+PTMC, skadestuen. Sig frem, lægekontrol.
+
+95
+00:04:14,087 --> 00:04:16,213
+Sådan får vi besked om hastesager.
+
+96
+00:04:16,214 --> 00:04:18,841
+Tak. To minutter herfra
+med mavesmerter og feber.
+
+97
+00:04:18,842 --> 00:04:20,342
+Okay, fik alle det?
+
+98
+00:04:20,343 --> 00:04:21,969
+Hvordan skriver vi ordrer?
+
+99
+00:04:21,970 --> 00:04:26,515
+Lægeformularer i tre kopier til
+laboratorie, røntgen, kateter, medicin.
+
+100
+00:04:26,516 --> 00:04:28,601
+Vil laboratoriet stadig udføre blodprøver?
+
+101
+00:04:28,602 --> 00:04:30,603
+- Ja.
+- Virker CT-scannerne stadig?
+
+102
+00:04:30,604 --> 00:04:34,231
+Ja, men resultatet vil komme
+på papir fra radiologerne.
+
+103
+00:04:34,232 --> 00:04:35,441
+Som i middelalderen.
+
+104
+00:04:35,442 --> 00:04:39,904
+Har I bestilt laboratoriesvar eller
+røntgen, lægges de til administration.
+
+105
+00:04:39,905 --> 00:04:42,281
+De vil skrive under på dem,
+skrive en tid på
+
+106
+00:04:42,282 --> 00:04:43,950
+og sørge for, de når rette afdeling.
+
+107
+00:04:44,075 --> 00:04:46,202
+- Undskyld. Og administration?
+- Til tjeneste.
+
+108
+00:04:46,203 --> 00:04:48,621
+Larry og Antoine hjælper til,
+til der kommer flere.
+
+109
+00:04:48,622 --> 00:04:51,332
+- Vi tager os af det.
+- Efter administration, skal journaler
+
+110
+00:04:51,333 --> 00:04:54,794
+til sygeplejerskesystemet her til kateter,
+medicin og procedurer.
+
+111
+00:04:54,795 --> 00:04:57,171
+Medicin er låst inde.
+
+112
+00:04:57,172 --> 00:05:00,800
+Den bliver låst op af
+den kliniske farmaceut, dr. Megan Nordt.
+
+113
+00:05:00,801 --> 00:05:02,384
+- Vi ordner det.
+- Sikke et arbejde.
+
+114
+00:05:02,385 --> 00:05:03,720
+Nogen spørgsmål? Ja.
+
+115
+00:05:05,013 --> 00:05:05,930
+Nej.
+
+116
+00:05:05,931 --> 00:05:07,223
+Det tredje system?
+
+117
+00:05:07,224 --> 00:05:09,099
+Når patienten skal udskrives,
+
+118
+00:05:09,100 --> 00:05:10,226
+skal journalen herind.
+
+119
+00:05:10,227 --> 00:05:12,478
+Så ved alle, at vi snart får en åben seng.
+
+120
+00:05:12,479 --> 00:05:14,189
+- Eller at maden er på vej.
+- Jesse?
+
+121
+00:05:16,817 --> 00:05:19,026
+- Hvad er det?
+- Hvad er det?
+
+122
+00:05:19,027 --> 00:05:22,112
+- Det er en faxmaskine.
+- Findes de stadig?
+
+123
+00:05:22,113 --> 00:05:23,739
+Til laboratorie og røntgen.
+
+124
+00:05:23,740 --> 00:05:26,033
+Når resultaterne er tilbage,
+faxer de dem til os,
+
+125
+00:05:26,034 --> 00:05:28,244
+så lægger administrationen
+dem i journalerne.
+
+126
+00:05:28,245 --> 00:05:30,162
+- Hvis du siger det.
+- Her er en!
+
+127
+00:05:30,163 --> 00:05:33,999
+Okay, dr. McKay, dr Whitaker,
+Ogilvie, I kommer med mig.
+
+128
+00:05:34,000 --> 00:05:35,961
+Resten af jer, starter på jeres journaler.
+
+129
+00:05:39,172 --> 00:05:40,381
+Howard Knox, 52 år,
+
+130
+00:05:40,382 --> 00:05:43,175
+mavesmerter og feber, 152 over 90.
+
+131
+00:05:43,176 --> 00:05:46,387
+- Puls over 120, kunne ikke lægge kateter.
+- Gad vide hvorfor?
+
+132
+00:05:46,388 --> 00:05:49,014
+- Hej. Mit navn er dr. Robby.
+- Howard.
+
+133
+00:05:49,015 --> 00:05:50,182
+Vi underviser her.
+
+134
+00:05:50,183 --> 00:05:52,434
+Jeg observerer dr. McKay og dr. Whitaker.
+
+135
+00:05:52,435 --> 00:05:53,644
+samt turnuslæge Ogilvie.
+
+136
+00:05:53,645 --> 00:05:54,854
+- Hej.
+- Hvordan går det?
+
+137
+00:05:54,855 --> 00:05:56,146
+- Ikke så fedt.
+- Okay.
+
+138
+00:05:56,147 --> 00:05:58,358
+- Princess, hvad har vi frit?
+- Akut 1. Perlah.
+
+139
+00:06:01,987 --> 00:06:05,114
+Bestilling af Mylanta og Bupivacaine,
+Central 12.
+
+140
+00:06:05,115 --> 00:06:08,243
+Vi er der, dr. Santos,
+og du får et klistermærke.
+
+141
+00:06:09,619 --> 00:06:11,537
+- Perfekt.
+- Læg det til sygeplejerskerne
+
+142
+00:06:11,538 --> 00:06:13,038
+og mød mig på PDS.
+
+143
+00:06:13,039 --> 00:06:14,415
+Hvor nederen er det lige?
+
+144
+00:06:14,416 --> 00:06:16,208
+Det kunne ikke blive værre, hva'?
+
+145
+00:06:16,209 --> 00:06:18,460
+Sådan gjorde vi, da jeg var turnuslæge.
+
+146
+00:06:18,461 --> 00:06:19,879
+I 1900-tallet?
+
+147
+00:06:19,880 --> 00:06:21,631
+Da vi skrev i stearinlysets skær.
+
+148
+00:06:22,382 --> 00:06:24,133
+Det bliver en oplevelse.
+
+149
+00:06:24,134 --> 00:06:25,969
+Som i <i>Tilbage til fremtiden.</i>
+
+150
+00:06:29,055 --> 00:06:30,931
+Eller muligvis <i>Titanic.</i>
+
+151
+00:06:30,932 --> 00:06:33,393
+Her er dit syreneutraliserende. Værsgo.
+
+152
+00:06:34,102 --> 00:06:37,479
+Jeg har markeret punktet,
+der forårsager din hovedpine.
+
+153
+00:06:37,480 --> 00:06:41,109
+Og et skud lokal anæstesi
+i det område ville være en hjælp.
+
+154
+00:06:42,569 --> 00:06:44,112
+- Lad os gøre det.
+- Fedt.
+
+155
+00:06:45,947 --> 00:06:50,160
+Du vil mærke et lille prik
+og så en brændende fornemmelse.
+
+156
+00:06:58,668 --> 00:07:00,127
+Det gør virkelig ondt.
+
+157
+00:07:00,128 --> 00:07:03,213
+Temperatur på 101, puls på 128,
+
+158
+00:07:03,214 --> 00:07:04,632
+iltmætning på 92 på to liter.
+
+159
+00:07:04,633 --> 00:07:05,841
+Hvornår fik du smerter?
+
+160
+00:07:05,842 --> 00:07:08,427
+- De er kommet og gået i en uge.
+- Hvor kan du mærke det?
+
+161
+00:07:08,428 --> 00:07:09,345
+Over det hele.
+
+162
+00:07:09,346 --> 00:07:11,680
+Den begyndte til venstre, så højre.
+
+163
+00:07:11,681 --> 00:07:14,266
+- Og feberen?
+- Den har været der siden i går aftes.
+
+164
+00:07:14,267 --> 00:07:17,478
+Jeg brændte
+og fik så slemme kulderystelser.
+
+165
+00:07:17,479 --> 00:07:18,479
+Jeg ser ingen årer.
+
+166
+00:07:18,480 --> 00:07:20,607
+- Midline så.
+- Sig til, hvis det gør ondt.
+
+167
+00:07:21,983 --> 00:07:23,984
+- Beklager.
+- Og på denne side?
+
+168
+00:07:23,985 --> 00:07:25,402
+- Ja. Ja.
+- Undskyld, undskyld.
+
+169
+00:07:25,403 --> 00:07:28,656
+Stivhed uden smerte, giv 100 fentanyl i.m.
+
+170
+00:07:28,657 --> 00:07:33,077
+- Din plan, dr. Whitaker?
+- Blodprøver, laktattest, Zosyn.
+
+171
+00:07:33,078 --> 00:07:35,246
+Vi får brug for CT for at vide mere.
+
+172
+00:07:36,873 --> 00:07:38,916
+- Ja, det går ikke.
+- Jep.
+
+173
+00:07:38,917 --> 00:07:41,335
+- Skriv tydeligt.
+- Howard, under scanningen
+
+174
+00:07:41,336 --> 00:07:43,921
+er vi nødt til at lægge dig ned på ryggen.
+Kan du det?
+
+175
+00:07:43,922 --> 00:07:47,132
+Det kunne jeg for 10 år siden,
+men nu er det svært at trække vejret.
+
+176
+00:07:47,133 --> 00:07:49,218
+Så må vi anbringe en slange
+
+177
+00:07:49,219 --> 00:07:51,470
+i dine lunger, så du kan trække vejret.
+Okay?
+
+178
+00:07:51,471 --> 00:07:54,264
+- Intubering?
+- Vi kan ikke lægge ham ned.
+
+179
+00:07:54,265 --> 00:07:56,600
+Slangen går ind gennem næsen,
+mens du er vågen.
+
+180
+00:07:56,601 --> 00:07:57,643
+Ja.
+
+181
+00:07:57,644 --> 00:07:59,853
+- Gør det ondt?
+- Du får fuld bedøvelse.
+
+182
+00:07:59,854 --> 00:08:01,563
+Du vil ikke mærke smerte.
+
+183
+00:08:01,564 --> 00:08:03,858
+Ved du, hvad din vægt er på?
+
+184
+00:08:04,734 --> 00:08:06,110
+Lidt over 180 kilo.
+
+185
+00:08:06,111 --> 00:08:08,654
+- Hvornår blev du sidst vejet?
+- Det er noget siden.
+
+186
+00:08:08,655 --> 00:08:11,240
+Er det muligt, at du vejer over 200 kilo?
+
+187
+00:08:11,241 --> 00:08:12,158
+Det er muligt.
+
+188
+00:08:13,493 --> 00:08:15,577
+Lad os ringe efter en Hoyer.
+
+189
+00:08:15,578 --> 00:08:18,872
+Så vi lægger slangen
+og forbereder dig til scanningen.
+
+190
+00:08:18,873 --> 00:08:20,290
+Er det alvorligt?
+
+191
+00:08:20,291 --> 00:08:22,084
+Det er svært at vide uden CT.
+
+192
+00:08:22,085 --> 00:08:25,587
+Måske har du bare brug for antibiotika,
+eller måske en operation.
+
+193
+00:08:25,588 --> 00:08:27,006
+Hvis vi må operere,
+
+194
+00:08:27,007 --> 00:08:29,174
+kan din vægt gøre det kompliceret.
+
+195
+00:08:29,175 --> 00:08:30,217
+Ja. Beklager.
+
+196
+00:08:30,218 --> 00:08:33,388
+Bare rolig, vi tager os godt af dig. Team.
+
+197
+00:08:34,848 --> 00:08:36,432
+Smertemedicin, okay?
+
+198
+00:08:36,433 --> 00:08:40,519
+Lad os prøve
+midline basilica med ultralyd.
+
+199
+00:08:40,520 --> 00:08:41,895
+Ultralyd for blindtarmen?
+
+200
+00:08:41,896 --> 00:08:43,647
+Han er for stor til det.
+
+201
+00:08:43,648 --> 00:08:46,108
+Og vores CT kan kun klare 200 kilo.
+
+202
+00:08:46,109 --> 00:08:48,445
+Og hvis han vejer over det,
+sender vi ham i zoo?
+
+203
+00:08:49,696 --> 00:08:50,822
+Han er lige der.
+
+204
+00:08:53,450 --> 00:08:56,285
+Jeg har hørt, at der er
+en CT-scanner til store dyr i zoo.
+
+205
+00:08:56,286 --> 00:09:00,415
+- Presbys CT kan klare 300 kilo.
+- Hvis Presby stadig kører rundt.
+
+206
+00:09:01,708 --> 00:09:03,208
+Jeg siger det bare...
+
+207
+00:09:03,209 --> 00:09:06,546
+Har nogen af jer foretaget
+en nasal tracheal på en vågen patient?
+
+208
+00:09:07,005 --> 00:09:07,921
+Okay.
+
+209
+00:09:07,922 --> 00:09:10,090
+Perlah, vil du bede dr. Al-Hashimi komme?
+
+210
+00:09:10,091 --> 00:09:11,341
+Jeg må have assistance.
+
+211
+00:09:11,342 --> 00:09:12,343
+Ja. Selvfølgelig.
+
+212
+00:09:13,303 --> 00:09:14,512
+Beklager. Underskrevet.
+
+213
+00:09:15,597 --> 00:09:17,139
+- Tak.
+- Hold den "F".
+
+214
+00:09:17,140 --> 00:09:18,307
+George Francis.
+
+215
+00:09:18,308 --> 00:09:21,435
+Åndenød, dr. Mohan, venter på D-dimer.
+
+216
+00:09:21,436 --> 00:09:23,312
+Wow, er hun stadig i gang?
+
+217
+00:09:23,313 --> 00:09:25,064
+Ja. Det er virkelig vildt.
+
+218
+00:09:25,065 --> 00:09:27,024
+Dr. Al, Robby vil se dig.
+
+219
+00:09:27,025 --> 00:09:28,025
+Okay.
+
+220
+00:09:28,026 --> 00:09:30,236
+- På akut, hvis I mangler mig.
+- Okay.
+
+221
+00:09:32,614 --> 00:09:34,948
+Hvem tager sig af
+røntgen og laboratoriesvar?
+
+222
+00:09:34,949 --> 00:09:36,409
+Oversygeplejersken.
+
+223
+00:09:37,827 --> 00:09:38,828
+Se ikke på mig.
+
+224
+00:09:39,579 --> 00:09:40,455
+Jeg er optaget.
+
+225
+00:09:43,500 --> 00:09:46,960
+- Forældre til Roxy Hemler.
+- Central 9.
+
+226
+00:09:46,961 --> 00:09:48,128
+Jeg klarer det.
+
+227
+00:09:48,129 --> 00:09:51,006
+Hej, jeg hedder Victoria Javadi
+og er en af turnuslægerne her.
+
+228
+00:09:51,007 --> 00:09:52,966
+Jeg har hjulpet med Roxys sag.
+
+229
+00:09:52,967 --> 00:09:56,136
+- Mange tak. Jeg hedder Lloyd.
+- Cora.
+
+230
+00:09:56,137 --> 00:09:57,429
+Godt at møde jer.
+
+231
+00:09:57,430 --> 00:09:58,348
+Hun brækkede benet?
+
+232
+00:09:58,932 --> 00:10:01,141
+Ja, der er en fraktur i anklen.
+
+233
+00:10:01,142 --> 00:10:04,144
+Hun har fået gips på,
+så hun ikke har smerter.
+
+234
+00:10:04,145 --> 00:10:05,897
+Jeg tager jer med. Stue 9.
+
+235
+00:10:11,861 --> 00:10:13,237
+Wi-Fi virker ikke.
+
+236
+00:10:13,238 --> 00:10:15,573
+Den vil være nede noget tid. Beklager.
+
+237
+00:10:16,533 --> 00:10:18,034
+Mor har brækket benet, bedstefar.
+
+238
+00:10:18,952 --> 00:10:19,953
+Det hørte vi.
+
+239
+00:10:21,329 --> 00:10:22,288
+Hvordan går det?
+
+240
+00:10:25,166 --> 00:10:26,668
+Du skal nok klare det.
+
+241
+00:10:27,418 --> 00:10:28,294
+Ja.
+
+242
+00:10:29,838 --> 00:10:31,673
+Hvor længe skal hun være på skadestuen?
+
+243
+00:10:32,298 --> 00:10:34,592
+Til der bliver en seng ledig ovenpå.
+
+244
+00:10:35,677 --> 00:10:36,845
+Der kan gå noget tid.
+
+245
+00:10:42,350 --> 00:10:43,851
+Det er ret fyldt her.
+
+246
+00:10:43,852 --> 00:10:45,894
+Vi bør tage Tucker
+og Shane ud og få en is.
+
+247
+00:10:45,895 --> 00:10:48,523
+- Ja, gør det.
+- Nej, jeg er okay.
+
+248
+00:10:49,607 --> 00:10:51,901
+Måske vil din mor hvile sig lidt.
+
+249
+00:10:52,569 --> 00:10:54,404
+Ja, tag du afsted.
+
+250
+00:10:56,656 --> 00:10:57,866
+Må hun få en is?
+
+251
+00:10:58,700 --> 00:11:00,326
+Hun kan få, hvad hun vil.
+
+252
+00:11:02,162 --> 00:11:03,246
+Kom, lad os gå.
+
+253
+00:11:14,340 --> 00:11:15,465
+Jep.
+
+254
+00:11:15,466 --> 00:11:16,342
+Hør her.
+
+255
+00:11:17,218 --> 00:11:20,013
+Dette er Oxymetazolin,
+der vil åbne passagen.
+
+256
+00:11:20,972 --> 00:11:22,681
+Hvilken medicin tager du?
+
+257
+00:11:22,682 --> 00:11:24,601
+Lisinopril og Metformin.
+
+258
+00:11:25,351 --> 00:11:27,060
+Ozempic? Wogovy?
+
+259
+00:11:27,061 --> 00:11:28,979
+Nej, det er for dyrt.
+
+260
+00:11:28,980 --> 00:11:30,939
+Jeg vil sprøjte bedøvende gel i din næse.
+
+261
+00:11:30,940 --> 00:11:33,318
+Hvis det drypper ned i din hals,
+er det okay.
+
+262
+00:11:34,652 --> 00:11:36,070
+Her, hvis du får brug for det.
+
+263
+00:11:36,738 --> 00:11:39,990
+Ryger du? Drikker du?
+
+264
+00:11:39,991 --> 00:11:41,742
+- Aldrig i livet.
+- Dyrker du motion.
+
+265
+00:11:41,743 --> 00:11:43,703
+Fra soveværelset til køkkenet.
+
+266
+00:11:44,787 --> 00:11:45,913
+Jeg ville gå mere,
+
+267
+00:11:45,914 --> 00:11:48,540
+men der må være en bænk for hver blok.
+
+268
+00:11:48,541 --> 00:11:50,083
+Hvad med vandaerobic?
+
+269
+00:11:50,084 --> 00:11:52,336
+Lad os fokusere på at hjælpe hr. Knox.
+
+270
+00:11:52,337 --> 00:11:53,754
+Enig.
+
+271
+00:11:53,755 --> 00:11:55,881
+Det tog mig 25 år at ende sådan.
+
+272
+00:11:55,882 --> 00:12:00,637
+Trakfikuheld, brændoffer,
+fire benoperationer over 10 år.
+
+273
+00:12:01,387 --> 00:12:03,555
+Det gjorde, jeg mistede mit job.
+
+274
+00:12:03,556 --> 00:12:05,224
+Jeg må bedøve din tunge.
+
+275
+00:12:05,225 --> 00:12:06,391
+Det vil smage dårligt.
+
+276
+00:12:06,392 --> 00:12:08,228
+Er der nogen, vi kan ringe til?
+
+277
+00:12:09,562 --> 00:12:10,897
+Noget familie?
+
+278
+00:12:12,065 --> 00:12:13,524
+Mine forældre er døde.
+
+279
+00:12:14,025 --> 00:12:17,027
+- Jeg er single. Tænk jer.
+- Søskende?
+
+280
+00:12:17,028 --> 00:12:18,321
+Søster i Arizona.
+
+281
+00:12:19,447 --> 00:12:20,865
+Vi taler ikke sammen.
+
+282
+00:12:21,491 --> 00:12:23,492
+Nu hvor vi har bedøvet tungen,
+
+283
+00:12:23,493 --> 00:12:25,370
+kan vi lægge anæstesi i dybden.
+
+284
+00:12:26,913 --> 00:12:27,829
+Beklager.
+
+285
+00:12:27,830 --> 00:12:30,540
+Jeg har en kvinde,
+der akut er blevet blind.
+
+286
+00:12:30,541 --> 00:12:32,251
+- Jeg kan tage den.
+- Okay.
+
+287
+00:12:32,252 --> 00:12:33,252
+Vil du finde Abbot?
+
+288
+00:12:33,253 --> 00:12:34,169
+- Ja.
+- Tak.
+
+289
+00:12:34,170 --> 00:12:37,631
+- Hvad hedder din søster?
+- Lauren Milford.
+
+290
+00:12:37,632 --> 00:12:38,549
+Hvor i Arizona?
+
+291
+00:12:39,050 --> 00:12:40,550
+Flagstaff, tror jeg.
+
+292
+00:12:40,551 --> 00:12:43,388
+Jeg går over din tunge
+og bedøver stemmebåndene.
+
+293
+00:12:46,432 --> 00:12:48,977
+- Hvor mange fingre?
+- Jeg kan ikke se nogen.
+
+294
+00:12:49,936 --> 00:12:50,812
+Og nu?
+
+295
+00:12:51,938 --> 00:12:53,189
+Jeg kan se lidt lys.
+
+296
+00:12:54,774 --> 00:12:56,275
+Brooke, der er dr. King.
+
+297
+00:12:56,276 --> 00:12:58,193
+- Dette er dr. Al-Hashimi.
+- Hej.
+
+298
+00:12:58,194 --> 00:12:59,111
+Konen Wendy.
+
+299
+00:12:59,112 --> 00:13:00,237
+- Hej.
+- Hej.
+
+300
+00:13:00,238 --> 00:13:02,072
+Må vi diskutere symptomer?
+
+301
+00:13:02,073 --> 00:13:04,324
+Så længe jeg må korrigere jer.
+
+302
+00:13:04,325 --> 00:13:05,534
+Tro mig, hun gør det.
+
+303
+00:13:05,535 --> 00:13:09,079
+Pludseligt smertefrit
+synstab på venstre øje.
+
+304
+00:13:09,080 --> 00:13:12,040
+Ingen tegn på
+hyperkoagulabilitet eller vaskulær sygdom.
+
+305
+00:13:12,041 --> 00:13:13,625
+Vil du kigge ligeud?
+
+306
+00:13:13,626 --> 00:13:15,712
+Central retinal veneokklusion?
+
+307
+00:13:16,421 --> 00:13:17,713
+På engelsk, tak?
+
+308
+00:13:17,714 --> 00:13:21,341
+En lille blodprop kan blokere
+venen bag øjet
+
+309
+00:13:21,342 --> 00:13:22,592
+og nedsætte synet.
+
+310
+00:13:22,593 --> 00:13:24,094
+Et slagtilfælde i øjet.
+
+311
+00:13:24,095 --> 00:13:26,221
+Slagtilfælde? Er hun paralyseret?
+
+312
+00:13:26,222 --> 00:13:28,557
+Nej, det vil være begrænset til øjet.
+
+313
+00:13:28,558 --> 00:13:31,269
+- Permanent?
+- Vi må først stille diagnosen.
+
+314
+00:13:31,853 --> 00:13:32,769
+Retinatjek?
+
+315
+00:13:32,770 --> 00:13:34,229
+Det er svært at se.
+
+316
+00:13:34,230 --> 00:13:35,606
+Vi tager et fundoskopi.
+
+317
+00:13:36,149 --> 00:13:37,358
+Hvad?
+
+318
+00:13:39,902 --> 00:13:43,447
+Princess, vi må have
+patientklistermærker på disse ordrer,
+
+319
+00:13:43,448 --> 00:13:45,741
+ellers ved apoteket ikke,
+hvem medicinen er til.
+
+320
+00:13:45,742 --> 00:13:46,783
+Vi klarer det.
+
+321
+00:13:46,784 --> 00:13:48,619
+Princess, smartphone fundusko?
+
+322
+00:13:49,245 --> 00:13:51,121
+- Udstyr, gang, øjenvogn.
+- Tak.
+
+323
+00:13:51,122 --> 00:13:53,249
+Du virker lidt forvirret.
+
+324
+00:13:53,750 --> 00:13:55,709
+Hvilken patient skal jeg tage?
+
+325
+00:13:55,710 --> 00:13:58,086
+Øverst på tavlen.
+De står i rækkefølgen, de ankom.
+
+326
+00:13:58,087 --> 00:14:01,089
+Du sletter den første
+og skriver dine initialer i lægeboksen.
+
+327
+00:14:01,090 --> 00:14:03,008
+- Okay. Tak.
+- Caleb.
+
+328
+00:14:03,009 --> 00:14:05,093
+Michael, håndterer du dette kaos?
+
+329
+00:14:05,094 --> 00:14:07,805
+Det er lige til,
+når man er her på lånt tid.
+
+330
+00:14:08,348 --> 00:14:10,641
+Er der flere komatose patienter,
+jeg skal tale med?
+
+331
+00:14:12,518 --> 00:14:13,435
+Jeg joker.
+
+332
+00:14:13,436 --> 00:14:17,314
+- Okay.
+- Victoria, dette er Nicole Steadman.
+
+333
+00:14:17,315 --> 00:14:19,941
+Jeg leder patientstøttegruppen
+for psykiatrisk service.
+
+334
+00:14:19,942 --> 00:14:23,195
+Ja. Nicoles datter blev diagnosticeret
+sidste år på college.
+
+335
+00:14:23,196 --> 00:14:25,907
+Tror du, Jacksons forældre
+vil tale med hende?
+
+336
+00:14:26,657 --> 00:14:27,742
+Vi kan da spørge.
+
+337
+00:14:28,368 --> 00:14:31,662
+Nu kan vi se hele retina
+uden at udvide pupillen.
+
+338
+00:14:32,705 --> 00:14:36,459
+- Du kigger i det forkerte øje.
+- Det er til sammenligning.
+
+339
+00:14:38,711 --> 00:14:40,879
+- Retina ser sund ud.
+- Det dårlige øje?
+
+340
+00:14:40,880 --> 00:14:42,215
+Åbn øjnene.
+
+341
+00:14:44,509 --> 00:14:45,468
+Hvordan er det?
+
+342
+00:14:46,260 --> 00:14:47,552
+Blegt. Intet blod.
+
+343
+00:14:47,553 --> 00:14:49,846
+Digital massage, ti sekunder, pause i fem.
+
+344
+00:14:49,847 --> 00:14:51,140
+Bestil en CT uden kontrast.
+
+345
+00:14:54,936 --> 00:14:55,853
+Kom ind.
+
+346
+00:14:57,188 --> 00:14:58,940
+Hej. Jeg hørte din patient gik.
+
+347
+00:14:59,649 --> 00:15:01,984
+- Hun tager en lille pause.
+- Hvor længe vil I vente?
+
+348
+00:15:03,569 --> 00:15:05,320
+Kender du til cyber-nedlukningen?
+
+349
+00:15:05,321 --> 00:15:07,030
+Ja, gid jeg kunne hjælpe,
+
+350
+00:15:07,031 --> 00:15:09,616
+men jeg bliver,
+til alle beviser er indsamlet, så...
+
+351
+00:15:09,617 --> 00:15:11,243
+Det er noget rod derude.
+
+352
+00:15:11,244 --> 00:15:12,578
+Det er hele denne dag.
+
+353
+00:15:14,288 --> 00:15:15,623
+Beklager, jeg var på vej ud.
+
+354
+00:15:16,290 --> 00:15:17,208
+Er du okay?
+
+355
+00:15:18,376 --> 00:15:19,210
+Ja.
+
+356
+00:15:20,044 --> 00:15:22,671
+Det er jeg glad for.
+Fik du noget at spise?
+
+357
+00:15:22,672 --> 00:15:23,589
+Nej.
+
+358
+00:15:25,675 --> 00:15:27,009
+Lad os fortsætte.
+
+359
+00:15:27,844 --> 00:15:29,971
+Okay. Ja.
+
+360
+00:15:37,395 --> 00:15:38,896
+- Okay.
+- Tak.
+
+361
+00:15:40,731 --> 00:15:42,400
+Der er ingen på skadestuen?
+
+362
+00:15:43,192 --> 00:15:45,528
+Vores intuberede patienter
+er som regel bedøvede.
+
+363
+00:15:46,946 --> 00:15:48,071
+Nå ja.
+
+364
+00:15:48,072 --> 00:15:51,576
+Måske kunne du stoppe
+dine kommentarer om hans vægt.
+
+365
+00:15:52,994 --> 00:15:56,204
+Jeg undrer mig bare over,
+hvordan han blev sådan, om vi kan hjælpe.
+
+366
+00:15:56,205 --> 00:15:59,332
+Det gør vi ved at diagnosticere
+og behandle ham med respekt.
+
+367
+00:15:59,333 --> 00:16:01,835
+- Hvordan har maven det nu?
+- Det smertelindrende hjalp.
+
+368
+00:16:01,836 --> 00:16:03,545
+Der er mere, hvis det er.
+
+369
+00:16:03,546 --> 00:16:06,631
+- Svækkede tarmsignaler.
+- Det bedste fra intensiv.
+
+370
+00:16:06,632 --> 00:16:09,176
+Godt. Howard, vi må åbne passagen nu,
+
+371
+00:16:09,177 --> 00:16:10,343
+så slangen kommer ind.
+
+372
+00:16:10,344 --> 00:16:12,179
+Jeg begynder med fingeren,
+
+373
+00:16:12,180 --> 00:16:14,639
+så går jeg helt ned til min kno.
+
+374
+00:16:14,640 --> 00:16:17,726
+Når slangen er forbi dine stemmebånd,
+vil du ikke kunne tale.
+
+375
+00:16:17,727 --> 00:16:19,478
+Men dette er en kommunikationsskærm.
+
+376
+00:16:19,479 --> 00:16:22,481
+Swipe på skærmen
+for at finde det, du vil sige.
+
+377
+00:16:22,482 --> 00:16:24,983
+Tryk på ikonet, og så taler den til os.
+
+378
+00:16:24,984 --> 00:16:26,569
+<i>Jeg vil gerne have smertemedicin.</i>
+
+379
+00:16:27,403 --> 00:16:29,029
+<i>Min smerte er på ni.</i>
+
+380
+00:16:29,030 --> 00:16:30,531
+Kan den bestille pizza?
+
+381
+00:16:32,366 --> 00:16:34,784
+Der er signal i ambulancemodtagelsen.
+
+382
+00:16:34,785 --> 00:16:36,995
+Jeg fandt hans søster. Efterlod en besked.
+
+383
+00:16:36,996 --> 00:16:38,538
+Okay, jeg vil gå i gang.
+
+384
+00:16:38,539 --> 00:16:39,915
+Er du klar?
+
+385
+00:16:39,916 --> 00:16:40,833
+Ikke rigtigt.
+
+386
+00:16:41,459 --> 00:16:42,375
+Gør det bare.
+
+387
+00:16:42,376 --> 00:16:44,462
+- Robby, herovre.
+- Hovedet tilbage.
+
+388
+00:16:47,048 --> 00:16:48,173
+Er det kirurgisk?
+
+389
+00:16:48,174 --> 00:16:49,841
+Blindtarmen måske.
+
+390
+00:16:49,842 --> 00:16:50,967
+Med teleskop?
+
+391
+00:16:50,968 --> 00:16:53,512
+Muligvis, men han kan behandles
+med antibiotika alene.
+
+392
+00:16:53,513 --> 00:16:55,347
+Og hvis han får brug for operation?
+
+393
+00:16:55,348 --> 00:16:58,433
+Med hans størrelse
+vil en åben akut laparotomi
+
+394
+00:16:58,434 --> 00:17:00,519
+være lig med en dødsrate på 50 %.
+
+395
+00:17:00,520 --> 00:17:01,937
+Et skridt ad gangen.
+
+396
+00:17:01,938 --> 00:17:04,814
+Lad os prøve søsteren hvert kvarter.
+
+397
+00:17:04,815 --> 00:17:05,733
+Hun vil tage den.
+
+398
+00:17:09,987 --> 00:17:11,531
+Halvdelen af tiderne er blanke.
+
+399
+00:17:12,573 --> 00:17:13,950
+Hvad snakker du om?
+
+400
+00:17:15,117 --> 00:17:16,452
+Her og her.
+
+401
+00:17:17,411 --> 00:17:19,247
+Larry, bruger du tusch?
+
+402
+00:17:19,830 --> 00:17:20,748
+Måske.
+
+403
+00:17:21,749 --> 00:17:24,168
+Den går ikke igennem på kopierne.
+
+404
+00:17:25,086 --> 00:17:26,629
+Brug kun kuglepen.
+
+405
+00:17:27,255 --> 00:17:28,172
+Okay.
+
+406
+00:17:30,633 --> 00:17:31,883
+Er Digby stadig væk?
+
+407
+00:17:31,884 --> 00:17:33,301
+Den hjemløse fyr?
+
+408
+00:17:33,302 --> 00:17:34,804
+Vi skal bruge sengen.
+
+409
+00:17:36,514 --> 00:17:38,431
+- Hvad har du brug for?
+- En afdelingslæge.
+
+410
+00:17:38,432 --> 00:17:40,016
+- En reservelæge?
+- Nej tak.
+
+411
+00:17:40,017 --> 00:17:42,310
+- Dr. Al-Hashimi, må jeg forelægge?
+- Ja.
+
+412
+00:17:42,311 --> 00:17:44,938
+Toogtredive årig døv kvinde
+med mild fascial hovedpine.
+
+413
+00:17:44,939 --> 00:17:46,356
+Ibuprofen gav gastritis,
+
+414
+00:17:46,357 --> 00:17:48,149
+epi-gastrisk smerte og besvimelse.
+
+415
+00:17:48,150 --> 00:17:51,528
+Men hun er nu smertefri
+efter Mylanta og trigger-indsprøjtning.
+
+416
+00:17:51,529 --> 00:17:54,239
+Fremragende.
+Det kan tage smerten i flere måneder.
+
+417
+00:17:54,240 --> 00:17:56,825
+Ja, det bør ikke ske igen
+med skærmen i øjenhøjde.
+
+418
+00:17:56,826 --> 00:17:59,536
+Tegnsprogstolken blev forsinket,
+
+419
+00:17:59,537 --> 00:18:03,415
+så jeg gav næsten op og bestilte
+en unødvendig hjerte- og abdominal-CT.
+
+420
+00:18:03,416 --> 00:18:05,960
+- Godt, du ikke gjorde det.
+- Dr. Al-Hashimi, til dig.
+
+421
+00:18:07,169 --> 00:18:08,588
+Godt med triggerpunktet.
+
+422
+00:18:09,422 --> 00:18:11,132
+- Ja.
+- Hvordan går T-systemet.
+
+423
+00:18:11,716 --> 00:18:13,592
+Hurtigt og nemt.
+
+424
+00:18:13,593 --> 00:18:16,052
+Ja, og de her,
+sæt ikke kun cirkel om diagnosen.
+
+425
+00:18:16,053 --> 00:18:18,805
+Sæt også backslash ved alle dem,
+du har udelukket.
+
+426
+00:18:18,806 --> 00:18:20,850
+- Okay, intet problem.
+- Mange tak.
+
+427
+00:18:21,434 --> 00:18:24,019
+Princess, få Central 13 forrest i CT-køen.
+
+428
+00:18:24,020 --> 00:18:24,936
+Hvad har du?
+
+429
+00:18:24,937 --> 00:18:27,689
+Blind patient
+med central retinal veneokklusion.
+
+430
+00:18:27,690 --> 00:18:29,816
+Jeg har talt med en oftalmolog hos VA.
+
+431
+00:18:29,817 --> 00:18:32,944
+Ekspert i trombolytik i sager som denne.
+
+432
+00:18:32,945 --> 00:18:34,863
+Det er ikke standard, ret risikabelt.
+
+433
+00:18:34,864 --> 00:18:36,406
+Vi informerer og får samtykke.
+
+434
+00:18:36,407 --> 00:18:38,408
+Det er bedste bud på at redde synet.
+
+435
+00:18:38,409 --> 00:18:39,826
+Din patient, dit valg.
+
+436
+00:18:39,827 --> 00:18:42,371
+Jeg er her ikke længe nok
+til at se komplikationer.
+
+437
+00:18:45,041 --> 00:18:47,084
+Jeg tager to skrab fra vaginaen,
+
+438
+00:18:48,669 --> 00:18:50,463
+to skrab fra livmoderen.
+
+439
+00:18:54,133 --> 00:18:56,093
+Sig til, hvis det er ubehageligt.
+
+440
+00:18:57,053 --> 00:18:57,928
+Okay.
+
+441
+00:18:59,180 --> 00:19:00,680
+Hvert skrab markeres.
+
+442
+00:19:00,681 --> 00:19:03,224
+Første vaginal, andet vaginal.
+
+443
+00:19:03,225 --> 00:19:05,393
+Celleprøve med begge,
+og lad dem lufttørre.
+
+444
+00:19:05,394 --> 00:19:06,645
+Også livmoderen?
+
+445
+00:19:06,646 --> 00:19:08,773
+Ja, men intet skrab.
+
+446
+00:19:10,524 --> 00:19:11,567
+Hvordan går det?
+
+447
+00:19:12,902 --> 00:19:14,111
+Det går.
+
+448
+00:19:16,489 --> 00:19:17,406
+Næsten færdig.
+
+449
+00:19:20,493 --> 00:19:23,453
+Alle prøverne
+skal i vaginalekontaktkonvolutten.
+
+450
+00:19:23,454 --> 00:19:25,706
+- Kan jeg hjælpe med det?
+- Nej, det skal være mig.
+
+451
+00:19:26,540 --> 00:19:27,750
+Jeg trækker den ud.
+
+452
+00:19:29,835 --> 00:19:30,753
+Okay.
+
+453
+00:19:32,046 --> 00:19:33,923
+Vi er færdige. Du kan tage benene ned.
+
+454
+00:19:38,052 --> 00:19:39,136
+Er vi færdige?
+
+455
+00:19:39,970 --> 00:19:42,515
+En sidste ting.
+Fire skrab mere inde fra din mund.
+
+456
+00:19:43,724 --> 00:19:44,809
+Gjorde du ikke det før?
+
+457
+00:19:45,393 --> 00:19:48,561
+Den næste er en anden.
+Inde i din mund for din DNA.
+
+458
+00:19:48,562 --> 00:19:49,814
+Ikke hans.
+
+459
+00:19:52,817 --> 00:19:58,071
+Det kan være bipolar lidelse
+eller skizofreni?
+
+460
+00:19:58,072 --> 00:20:00,365
+Det er de to mest sandsynlige.
+
+461
+00:20:00,366 --> 00:20:01,908
+Hvordan ved man, hvad det er?
+
+462
+00:20:01,909 --> 00:20:03,993
+Det afhænger af reaktionen på medicinen.
+
+463
+00:20:03,994 --> 00:20:06,663
+Men også terapi og observation på en stue.
+
+464
+00:20:06,664 --> 00:20:09,500
+De vil holde øje med hans humør
+og interaktioner med andre.
+
+465
+00:20:12,002 --> 00:20:16,589
+Er der en blodprøve eller hjernescanning,
+der kan give os klar besked?
+
+466
+00:20:16,590 --> 00:20:17,799
+Desværre ikke.
+
+467
+00:20:17,800 --> 00:20:19,342
+Med den rette medicin
+
+468
+00:20:19,343 --> 00:20:22,638
+kan folk med bipolar lidelse
+få succesfulde karrierer.
+
+469
+00:20:23,639 --> 00:20:24,890
+Vi håber på bipolar?
+
+470
+00:20:25,474 --> 00:20:27,600
+I kan håbe på,
+at jeres søn bliver lykkelig.
+
+471
+00:20:27,601 --> 00:20:31,271
+Med tidlig behandling vil
+20 % af folk med skizofreni
+
+472
+00:20:31,272 --> 00:20:33,398
+opleve en komplet bedring.
+
+473
+00:20:33,399 --> 00:20:34,733
+Så 80 % vil ikke?
+
+474
+00:20:34,734 --> 00:20:36,861
+Hør, dette er en ny Jackson.
+
+475
+00:20:39,864 --> 00:20:41,490
+- Hvor gammel var din...
+- Tyve.
+
+476
+00:20:42,867 --> 00:20:45,619
+Hun studerede arkitektur på Georgetown.
+
+477
+00:20:46,454 --> 00:20:47,371
+Skizofreni.
+
+478
+00:20:48,122 --> 00:20:50,165
+Det gør mig ondt.
+
+479
+00:20:50,166 --> 00:20:51,708
+Hun har det godt.
+
+480
+00:20:51,709 --> 00:20:55,296
+Hun bor hjemme,
+arbejder i kassen hos Giant Eagle.
+
+481
+00:20:56,881 --> 00:20:58,174
+Månedens medarbejder.
+
+482
+00:20:59,300 --> 00:21:00,718
+Vi har stadig problemer.
+
+483
+00:21:01,510 --> 00:21:03,929
+Men der er også latter og kærlighed.
+
+484
+00:21:11,854 --> 00:21:13,104
+Så er du klar.
+
+485
+00:21:13,105 --> 00:21:15,648
+- Hvordan var det?
+- Meget underligt.
+
+486
+00:21:15,649 --> 00:21:17,609
+Ingen smerte, bare underligt.
+
+487
+00:21:17,610 --> 00:21:20,111
+Okay, næste trin er, at vi tager slangen
+
+488
+00:21:20,112 --> 00:21:24,532
+og passerer den igennem næsen,
+så den stopper bag din tunge.
+
+489
+00:21:24,533 --> 00:21:25,950
+Bedst ikke at tale.
+
+490
+00:21:25,951 --> 00:21:28,537
+Vi opbløder slangen
+og gør den mere fleksibel.
+
+491
+00:21:30,206 --> 00:21:31,624
+Vil du prøve den?
+
+492
+00:21:32,917 --> 00:21:34,626
+<i>Hvad dag er det? Klokken?</i>
+
+493
+00:21:34,627 --> 00:21:36,212
+Fjerde juli, 14.31.
+
+494
+00:21:37,087 --> 00:21:38,922
+<i>Hvornår kommer min slange ud?</i>
+
+495
+00:21:38,923 --> 00:21:41,717
+Vi skal lige have den i først.
+
+496
+00:21:42,301 --> 00:21:43,844
+<i>Ja. Jeg øver mig bare.</i>
+
+497
+00:21:44,804 --> 00:21:46,806
+Du lyder allerede som en ekspert.
+
+498
+00:21:47,973 --> 00:21:49,225
+Før jeg ikke kan tale,
+
+499
+00:21:51,185 --> 00:21:52,520
+vil jeg gerne sige...
+
+500
+00:21:53,646 --> 00:21:54,605
+tak.
+
+501
+00:21:55,356 --> 00:21:56,273
+For alt.
+
+502
+00:21:57,691 --> 00:21:58,692
+Det var så lidt.
+
+503
+00:22:05,157 --> 00:22:05,991
+Så er det nu.
+
+504
+00:22:11,080 --> 00:22:12,413
+Kønssygdomsprævention.
+
+505
+00:22:12,414 --> 00:22:16,417
+En vaccine imod gonorre,
+og så piller imod klamydia og trichomonas.
+
+506
+00:22:16,418 --> 00:22:17,544
+Tak.
+
+507
+00:22:17,545 --> 00:22:19,754
+Vi har også fortrydelsespiller.
+
+508
+00:22:19,755 --> 00:22:20,797
+Hun har spiral.
+
+509
+00:22:20,798 --> 00:22:23,466
+Den er over 99 % effektiv, men ikke helt.
+
+510
+00:22:23,467 --> 00:22:24,385
+Du kan få det.
+
+511
+00:22:25,094 --> 00:22:26,386
+Ellers tak.
+
+512
+00:22:26,387 --> 00:22:27,971
+Imod HIV har vi PEP.
+
+513
+00:22:27,972 --> 00:22:29,765
+Post-Exposure Prophylaxis.
+
+514
+00:22:30,307 --> 00:22:33,269
+Otteogtyve dage.
+Jo før du startere, desto mere effektivt.
+
+515
+00:22:34,854 --> 00:22:38,274
+Emma, jeg er ret sikker på,
+de godt kunne bruge flere hænder derude.
+
+516
+00:22:39,817 --> 00:22:41,277
+Det er godt at møde dig, Ilana.
+
+517
+00:22:42,236 --> 00:22:44,488
+- Du er en modig kvinde.
+- Ja.
+
+518
+00:22:51,871 --> 00:22:53,122
+Hun er god.
+
+519
+00:22:53,581 --> 00:22:55,958
+Hun er ved at lære, men det bliver hun.
+
+520
+00:22:58,210 --> 00:23:00,045
+- Er vi færdige efter dette?
+- Ja.
+
+521
+00:23:04,842 --> 00:23:06,302
+Godt, du var her i dag.
+
+522
+00:23:11,307 --> 00:23:12,224
+Ja.
+
+523
+00:23:13,851 --> 00:23:16,020
+I har et valg.
+
+524
+00:23:16,979 --> 00:23:20,315
+Studier har vist,
+at noget af synet kan genskabes
+
+525
+00:23:20,316 --> 00:23:22,735
+- med blodpropopløsende medicin.
+- Så giv hende det.
+
+526
+00:23:23,402 --> 00:23:25,320
+Men der er mulige risici.
+
+527
+00:23:25,321 --> 00:23:29,908
+Ved et slagtilfælde i øjet
+bliver kun 17 % bedre uden behandling.
+
+528
+00:23:29,909 --> 00:23:31,826
+- Kun 17 %?
+- Ja.
+
+529
+00:23:31,827 --> 00:23:35,080
+Men med medicin
+kan 20 % flere blive bedre.
+
+530
+00:23:36,457 --> 00:23:38,125
+Men der kan være komplikationer.
+
+531
+00:23:38,918 --> 00:23:42,378
+2 % af patienter,
+der får medicinen, får det værre,
+
+532
+00:23:42,379 --> 00:23:45,883
+og 1 % får svære men eller kan dø.
+
+533
+00:23:52,848 --> 00:23:55,809
+Skat, det er op til dig.
+
+534
+00:23:57,728 --> 00:23:59,480
+Nej, det er op til os.
+
+535
+00:24:00,731 --> 00:24:02,191
+Hvad gør du uden mig?
+
+536
+00:24:02,858 --> 00:24:04,318
+Jeg kommer videre.
+
+537
+00:24:06,987 --> 00:24:09,740
+Og jeg ville sikkert græde i to år.
+
+538
+00:24:10,366 --> 00:24:11,492
+To å? Ikke mere?
+
+539
+00:24:13,702 --> 00:24:14,953
+Giv mig medicinen.
+
+540
+00:24:14,954 --> 00:24:15,788
+Okay.
+
+541
+00:24:20,542 --> 00:24:22,377
+Vi skal bruge fulde navn.
+
+542
+00:24:22,378 --> 00:24:25,506
+Jackie Lidell.
+
+543
+00:24:26,298 --> 00:24:28,383
+- Og du er?
+- Hendes ven, Jaquie.
+
+544
+00:24:28,384 --> 00:24:29,884
+Har I samme navn?
+
+545
+00:24:29,885 --> 00:24:31,594
+Nej. Hun er Jackie med CK.
+
+546
+00:24:31,595 --> 00:24:32,845
+Jeg er Jaquie med Q.
+
+547
+00:24:32,846 --> 00:24:35,598
+Du kan kalde mig "CK".
+
+548
+00:24:35,599 --> 00:24:37,601
+Tal ikke, okay? Slap af.
+
+549
+00:24:40,813 --> 00:24:41,771
+Hvad?
+
+550
+00:24:41,772 --> 00:24:43,606
+Hun sagde: "Jeg bed min tunge."
+
+551
+00:24:43,607 --> 00:24:45,066
+Kunne du forstå det?
+
+552
+00:24:45,067 --> 00:24:47,694
+Du skulle høre hende
+efter to kander margarita.
+
+553
+00:24:47,695 --> 00:24:48,904
+Fuld og vrøvlende.
+
+554
+00:24:51,198 --> 00:24:54,325
+- Princess, har vi nogen ledige?
+- Syd 15 er ren.
+
+555
+00:24:54,326 --> 00:24:57,037
+- Dyb tunge laceration.
+- Jeg kan tage den.
+
+556
+00:24:58,747 --> 00:25:01,916
+Robby og Al-Hashimi
+er begge med kritiske patienter.
+
+557
+00:25:01,917 --> 00:25:03,292
+Hej.
+
+558
+00:25:03,293 --> 00:25:05,963
+Dr. Langdon. Jeg superviserer din pleje.
+
+559
+00:25:08,215 --> 00:25:10,718
+Jøsses, CK, din læge er mega lækker.
+
+560
+00:25:13,595 --> 00:25:16,222
+Slangen er 14 centimeter inde,
+lige over luftvejen.
+
+561
+00:25:16,223 --> 00:25:18,391
+Okay, Howard, jeg vil gå i gang.
+
+562
+00:25:18,392 --> 00:25:21,895
+Hvis jeg skal stoppe,
+så bare hold hånden op, okay?
+
+563
+00:25:22,980 --> 00:25:25,065
+Det blå mærke viser,
+at jeg er inde i slangen.
+
+564
+00:25:28,402 --> 00:25:29,987
+Du gjorde det vist.
+
+565
+00:25:30,863 --> 00:25:32,614
+Inhalerer han, ser vi båndene.
+
+566
+00:25:33,490 --> 00:25:35,617
+Okay, tag en dyb indånding, Howard.
+
+567
+00:25:38,412 --> 00:25:40,122
+Okay. Det var smukt.
+
+568
+00:25:40,789 --> 00:25:43,708
+Båndene er følsomme,
+så vi sprayer med Lidocain i feltet.
+
+569
+00:25:43,709 --> 00:25:44,877
+Okay.
+
+570
+00:25:45,335 --> 00:25:47,921
+En cc kommer ind nu.
+
+571
+00:25:48,630 --> 00:25:50,632
+Vi giver det et øjeblik til at virke.
+
+572
+00:25:51,300 --> 00:25:52,551
+Hvordan går det, Howard?
+
+573
+00:25:54,094 --> 00:25:57,180
+Når slangen er inde,
+må du trække vejret gennem næsen.
+
+574
+00:25:57,181 --> 00:25:58,681
+Nå, Howard, sid stille.
+
+575
+00:25:58,682 --> 00:26:01,393
+Jeg går nu ind forbi dine stemmebånd,
+
+576
+00:26:02,311 --> 00:26:04,521
+indtil vi kan se carina.
+
+577
+00:26:06,398 --> 00:26:08,400
+- Ogilvie?
+- Der.
+
+578
+00:26:09,109 --> 00:26:12,905
+- Højre og venstre bronkier.
+- Og slangen glides ind.
+
+579
+00:26:17,201 --> 00:26:20,037
+Og teleskopet ud.
+
+580
+00:26:21,955 --> 00:26:22,790
+Godt.
+
+581
+00:26:23,499 --> 00:26:24,916
+Pust ballonen op.
+
+582
+00:26:24,917 --> 00:26:26,960
+Dyb vejrtrækning gennem næsen. Flot.
+
+583
+00:26:27,544 --> 00:26:28,378
+Er du okay?
+
+584
+00:26:29,630 --> 00:26:31,255
+God end-tidal måling.
+
+585
+00:26:31,256 --> 00:26:32,590
+Ventilator?
+
+586
+00:26:32,591 --> 00:26:35,134
+Han trækker vejret, men CPAP skader ikke.
+
+587
+00:26:35,135 --> 00:26:37,345
+Vi begynder på fem, titrer til ti.
+
+588
+00:26:37,346 --> 00:26:39,430
+Okay, det gik godt, Howard.
+
+589
+00:26:39,431 --> 00:26:41,141
+Nu tjekker vi din vægt.
+
+590
+00:26:42,976 --> 00:26:46,646
+Sygeplejersken bør låse
+voldtægtskittet inde i køleskabet,
+
+591
+00:26:46,647 --> 00:26:49,816
+hvor det opbevares,
+indtil vi giver det til politiet.
+
+592
+00:26:49,817 --> 00:26:52,069
+Det kaldes at præservere beviserne.
+
+593
+00:26:52,611 --> 00:26:54,071
+Virkelig?
+
+594
+00:26:54,696 --> 00:26:56,490
+Er der et problem?
+
+595
+00:26:57,116 --> 00:26:58,242
+For fanden da også.
+
+596
+00:26:58,992 --> 00:27:02,245
+Politiet skal hente
+voldtægtskittet indenfor 72 timer.
+
+597
+00:27:02,246 --> 00:27:03,705
+Den er to uger gammel.
+
+598
+00:27:05,082 --> 00:27:06,083
+For fanden da.
+
+599
+00:27:08,627 --> 00:27:10,295
+Hvordan skete det her?
+
+600
+00:27:11,380 --> 00:27:13,756
+Vi var mellem barer, ville tage en selfie.
+
+601
+00:27:13,757 --> 00:27:17,219
+- Fedt.
+- Da hun banker hovedet op.
+
+602
+00:27:18,762 --> 00:27:20,513
+- Av.
+- Okay.
+
+603
+00:27:20,514 --> 00:27:22,849
+Entopisk epi hjalp på det.
+Blødningen er stoppet.
+
+604
+00:27:22,850 --> 00:27:25,643
+- Fedt. Kan jeg tage hjem?
+- Det tror jeg ikke.
+
+605
+00:27:25,644 --> 00:27:28,020
+Det ligner Grand Canyon på din tunge.
+
+606
+00:27:28,021 --> 00:27:30,941
+- Vi er nødt til at sy.
+- Jeg vil ikke syes.
+
+607
+00:27:31,942 --> 00:27:33,109
+Hør nu på lægen.
+
+608
+00:27:33,110 --> 00:27:35,027
+Sig ikke, hvad jeg skal gøre.
+
+609
+00:27:35,028 --> 00:27:37,155
+- Det er din skyld.
+- Nej.
+
+610
+00:27:37,156 --> 00:27:39,574
+- Jo, det er.
+- Nej, det er ikke.
+
+611
+00:27:39,575 --> 00:27:42,368
+Princess, vil du vise Q,
+hvor hun kan vente,
+
+612
+00:27:42,369 --> 00:27:44,579
+- mens vi lapper hendes ven?
+- Ja.
+
+613
+00:27:44,580 --> 00:27:47,248
+Okay, denne sprøjte bedøver spidsen.
+
+614
+00:27:47,249 --> 00:27:48,166
+Spidsen?
+
+615
+00:27:48,167 --> 00:27:50,084
+Det var ikke der, jeg bed den.
+
+616
+00:27:50,085 --> 00:27:51,336
+Et skridt ad gangen.
+
+617
+00:27:58,719 --> 00:28:00,554
+Det er 20 mg TNK.
+
+618
+00:28:01,263 --> 00:28:03,056
+Ind klokken 14.39.
+
+619
+00:28:04,266 --> 00:28:05,184
+Kan du mærke noget?
+
+620
+00:28:06,268 --> 00:28:07,268
+Ikke endnu.
+
+621
+00:28:07,269 --> 00:28:08,854
+Det kan tage en time.
+
+622
+00:28:10,689 --> 00:28:13,400
+Du får en anden stue,
+så vi kan overvåge dig.
+
+623
+00:28:14,276 --> 00:28:15,277
+Dr. King.
+
+624
+00:28:18,530 --> 00:28:20,073
+Du skal blive hos hende.
+
+625
+00:28:21,742 --> 00:28:22,783
+Hvorfor?
+
+626
+00:28:22,784 --> 00:28:24,119
+Hvis der sker noget.
+
+627
+00:28:24,703 --> 00:28:27,038
+Så kan du reagere på en sprængt pupil,
+
+628
+00:28:27,039 --> 00:28:29,040
+slagtilfælde eller ændret mental status.
+
+629
+00:28:29,041 --> 00:28:32,586
+Eller jeg kan kigge på journaler.
+Min høring er lige om lidt.
+
+630
+00:28:33,378 --> 00:28:37,089
+Se det som en god mulighed
+for at få lidt ro og forberede dig.
+
+631
+00:28:37,090 --> 00:28:38,258
+Jesse, Mel er hos dig.
+
+632
+00:28:41,678 --> 00:28:43,679
+Undskyld mig, dr. Mohan.
+
+633
+00:28:43,680 --> 00:28:45,139
+Undskyld, dr. Mohan.
+
+634
+00:28:45,140 --> 00:28:47,475
+- Om lidt, George.
+- Jeg tager over.
+
+635
+00:28:47,476 --> 00:28:48,393
+Tak.
+
+636
+00:28:51,355 --> 00:28:53,774
+D-dimer er tilbage. Normal.
+
+637
+00:28:54,608 --> 00:28:55,816
+Udskriv mig bare.
+
+638
+00:28:55,817 --> 00:28:57,069
+Har du det bedre?
+
+639
+00:28:57,778 --> 00:29:00,364
+Det var ikke rigtigt åndenød denne gang.
+
+640
+00:29:02,532 --> 00:29:03,784
+Hvorfor kom du så?
+
+641
+00:29:05,494 --> 00:29:07,787
+Da vi hørte om blodproppen i benet,
+
+642
+00:29:07,788 --> 00:29:10,790
+blev jeg ved med at tænke,
+at den ville gå i lungen og dræbe mig.
+
+643
+00:29:10,791 --> 00:29:13,751
+Vi har talt om,
+at Eliquis ville forbygge det.
+
+644
+00:29:13,752 --> 00:29:14,586
+Jeg ved det.
+
+645
+00:29:16,964 --> 00:29:18,423
+Jeg tog imod dit råd.
+
+646
+00:29:19,049 --> 00:29:21,050
+Jeg forlod huset
+
+647
+00:29:21,051 --> 00:29:23,553
+og meldte mig ind i
+Frick Park Lawn Bowling Club.
+
+648
+00:29:24,346 --> 00:29:25,638
+- Vidunderligt.
+- Ja.
+
+649
+00:29:25,639 --> 00:29:27,473
+Altså du har ret, ikke?
+
+650
+00:29:27,474 --> 00:29:29,351
+Vi har brug for fællesskab.
+
+651
+00:29:33,480 --> 00:29:34,939
+Hvad vil du gøre?
+
+652
+00:29:34,940 --> 00:29:36,482
+For at fikse din tunge,
+
+653
+00:29:36,483 --> 00:29:39,151
+må vi flytte den frem
+for at få adgang til lacerationen.
+
+654
+00:29:39,152 --> 00:29:41,237
+Du vil mærke, at det trækker lidt.
+
+655
+00:29:41,238 --> 00:29:42,072
+Okay, så...
+
+656
+00:29:44,533 --> 00:29:45,450
+Gør det.
+
+657
+00:29:46,868 --> 00:29:48,286
+Suturstørrelse?
+
+658
+00:29:48,287 --> 00:29:50,205
+Silke, den største vi har.
+
+659
+00:29:52,207 --> 00:29:54,835
+Når jeg er færdig, er du på traktion, Joy.
+
+660
+00:30:05,262 --> 00:30:09,265
+- Det er ret dybt.
+- Og nu kan vi bedøve snittet.
+
+661
+00:30:09,266 --> 00:30:10,391
+Tag først...
+
+662
+00:30:10,392 --> 00:30:13,478
+Den proksimale side først,
+så hun ikke mærker den distale injektion.
+
+663
+00:30:15,105 --> 00:30:17,524
+Giv det ti minutter, så er jeg tilbage.
+
+664
+00:30:21,737 --> 00:30:23,487
+Jeg har et gammelt kit.
+
+665
+00:30:23,488 --> 00:30:25,907
+Den skulle være hentet indenfor 72 timer.
+
+666
+00:30:26,450 --> 00:30:28,534
+Jeg er ligeglad. Få en herover nu.
+
+667
+00:30:28,535 --> 00:30:31,787
+Nej. Hvis vi skal behandle jeres betjente,
+
+668
+00:30:31,788 --> 00:30:34,206
+så få en herover og hente de kits nu.
+
+669
+00:30:34,207 --> 00:30:35,666
+- Jeg må smutte.
+- Dana.
+
+670
+00:30:35,667 --> 00:30:38,169
+Syd 19 fik en CT, før systemet gik ned.
+
+671
+00:30:38,170 --> 00:30:39,128
+Intet svar.
+
+672
+00:30:39,129 --> 00:30:40,755
+Lad os minde dem om det.
+
+673
+00:30:40,756 --> 00:30:41,714
+- Dana.
+- Dana.
+
+674
+00:30:41,715 --> 00:30:42,758
+Øjeblik.
+
+675
+00:30:43,800 --> 00:30:44,717
+Hvad er der?
+
+676
+00:30:44,718 --> 00:30:47,720
+Vi bad om flere smertestillende til Roxy.
+
+677
+00:30:47,721 --> 00:30:49,764
+Læg bestillingen i systemet.
+
+678
+00:30:49,765 --> 00:30:51,141
+Det har jeg gjort.
+
+679
+00:30:53,143 --> 00:30:55,728
+- Okay. Jeg sætter dig forrest i køen.
+- Tak.
+
+680
+00:30:55,729 --> 00:30:56,813
+Hvad er den larm?
+
+681
+00:30:57,606 --> 00:30:59,523
+En UFO er landet, vi invaderes.
+
+682
+00:30:59,524 --> 00:31:00,775
+Hey, Dana.
+
+683
+00:31:00,776 --> 00:31:02,860
+Blodprøvesvar er ikke tilbage på Akut 2.
+
+684
+00:31:02,861 --> 00:31:04,112
+Lad mig se journalen.
+
+685
+00:31:05,530 --> 00:31:08,282
+Jøsses, de røg nok til radiologi.
+
+686
+00:31:08,283 --> 00:31:09,825
+Larry, Antoine.
+
+687
+00:31:09,826 --> 00:31:12,661
+I har sat laboratorie
+og røntgen på samme formular.
+
+688
+00:31:12,662 --> 00:31:15,790
+I er nødt til at lave to,
+en for laboratoriesvar og en til røntgen.
+
+689
+00:31:15,791 --> 00:31:17,666
+- Det sker ikke igen.
+- Jeg tager den ned.
+
+690
+00:31:17,667 --> 00:31:19,085
+Brug i-STAT derinde.
+
+691
+00:31:19,086 --> 00:31:21,003
+Ingen CT uden kreatinin.
+
+692
+00:31:21,004 --> 00:31:22,046
+Perfekt.
+
+693
+00:31:22,047 --> 00:31:24,548
+- Godt at have dig igen.
+- Godt at være her.
+
+694
+00:31:24,549 --> 00:31:25,591
+SMS'er du?
+
+695
+00:31:25,592 --> 00:31:28,636
+Jeg skriver noget.
+Jeg sender den fra modtagelsen.
+
+696
+00:31:28,637 --> 00:31:30,930
+Min mekanikerven Duke dukkede aldrig op.
+
+697
+00:31:30,931 --> 00:31:32,515
+Jeg troede, han kom i dag.
+
+698
+00:31:32,516 --> 00:31:34,684
+Det var planen. Han fik nok travlt.
+
+699
+00:31:36,061 --> 00:31:37,186
+Kommer han ikke?
+
+700
+00:31:37,187 --> 00:31:39,730
+Sig, hvad han har brug for.
+Jeg siger det videre.
+
+701
+00:31:39,731 --> 00:31:40,941
+Ikke nødvendigt.
+
+702
+00:31:43,985 --> 00:31:47,738
+Princess. Du skal få, hvad du beder om,
+normal hoved-CT.
+
+703
+00:31:47,739 --> 00:31:49,366
+Tak. Jeg får ham udskrevet.
+
+704
+00:31:50,283 --> 00:31:51,368
+Hvordan går din dag?
+
+705
+00:31:52,119 --> 00:31:53,870
+Jeg får skrivekrampe.
+
+706
+00:31:54,454 --> 00:31:55,288
+Har du den store?
+
+707
+00:31:55,914 --> 00:31:57,081
+Ja.
+
+708
+00:31:57,082 --> 00:32:02,129
+Det er trist. Biluheld,
+adskillige operationer, masser af stress.
+
+709
+00:32:04,005 --> 00:32:05,798
+Lidocain på et følsom område.
+
+710
+00:32:05,799 --> 00:32:07,968
+Jeg har en fulderik med tunge-laceration.
+
+711
+00:32:08,760 --> 00:32:11,513
+- Hun har vist brug for hjælp.
+- På flere måder.
+
+712
+00:32:12,973 --> 00:32:15,684
+Hvordan går din første vagt tilbage igen?
+
+713
+00:32:16,643 --> 00:32:17,894
+En dag ad gangen.
+
+714
+00:32:18,854 --> 00:32:21,605
+- Det første år ædru er sværest.
+- Det siger de.
+
+715
+00:32:21,606 --> 00:32:24,109
+Jeg er på ni år nu.
+
+716
+00:32:28,363 --> 00:32:30,157
+Specialleverance til min ven.
+
+717
+00:32:31,783 --> 00:32:33,742
+Har du brug for noget, så ring.
+
+718
+00:32:33,743 --> 00:32:34,703
+Tak.
+
+719
+00:32:41,751 --> 00:32:43,169
+Hvor skal du hen?
+
+720
+00:32:43,170 --> 00:32:44,462
+Vabler i Nord 3.
+
+721
+00:32:44,463 --> 00:32:46,005
+Der skal jeg hen.
+
+722
+00:32:46,006 --> 00:32:48,966
+- Har du skrevet dig på patienten?
+- Jeg har journalen.
+
+723
+00:32:48,967 --> 00:32:50,676
+Du skal skrive dig på tavlen.
+
+724
+00:32:50,677 --> 00:32:52,888
+Du skal bruge journalen på patienten.
+
+725
+00:32:53,430 --> 00:32:54,680
+Hos sygeplejersken?
+
+726
+00:32:54,681 --> 00:32:55,849
+Glem det.
+
+727
+00:32:57,267 --> 00:33:00,019
+Hej, jeg er turnuslæge Ogilvie,
+og dette er...
+
+728
+00:33:00,020 --> 00:33:00,936
+Wow.
+
+729
+00:33:00,937 --> 00:33:03,106
+- Sikke et udslæt.
+- Ja.
+
+730
+00:33:03,690 --> 00:33:04,648
+Det siger du ikke.
+
+731
+00:33:04,649 --> 00:33:06,984
+Turnuslæge Javadi. Hvornår begyndte dette?
+
+732
+00:33:06,985 --> 00:33:07,985
+I går aftes.
+
+733
+00:33:07,986 --> 00:33:10,613
+Har du været ude at vandre
+nær giftig efeu?
+
+734
+00:33:10,614 --> 00:33:12,073
+Jeg har ikke forladt hjemmet.
+
+735
+00:33:12,782 --> 00:33:14,283
+Har du brugt ny medicin?
+
+736
+00:33:14,284 --> 00:33:16,452
+Lotion? Sæbe? Vaskemiddel?
+
+737
+00:33:16,453 --> 00:33:19,205
+Jeg tager ikke medicin.
+Intet nyt af noget.
+
+738
+00:33:19,206 --> 00:33:20,539
+Hvor startede det?
+
+739
+00:33:20,540 --> 00:33:23,001
+Over det hele, på en gang.
+Bare med en masse smerte.
+
+740
+00:33:23,793 --> 00:33:24,711
+Det klør.
+
+741
+00:33:25,253 --> 00:33:26,338
+Hvad er det?
+
+742
+00:33:27,047 --> 00:33:28,048
+Det ved vi ikke.
+
+743
+00:33:29,883 --> 00:33:31,134
+Vi vender tilbage.
+
+744
+00:33:37,057 --> 00:33:38,183
+Hvad tænker du?
+
+745
+00:33:39,226 --> 00:33:40,142
+Aner det ikke.
+
+746
+00:33:40,143 --> 00:33:41,019
+Enig.
+
+747
+00:33:43,480 --> 00:33:44,772
+Bulløs pemfigoid?
+
+748
+00:33:44,773 --> 00:33:46,440
+Autoimmun pruritus?
+
+749
+00:33:46,441 --> 00:33:48,359
+Ikke så dødeligt som pemfigus vulgaris.
+
+750
+00:33:48,360 --> 00:33:50,444
+Ubehandlet er dødsraten over 90 %.
+
+751
+00:33:50,445 --> 00:33:52,780
+Vi må tjekke pustler, slimhinder...
+
+752
+00:33:52,781 --> 00:33:54,074
+Og Nikolskys tegn.
+
+753
+00:33:56,993 --> 00:33:57,911
+Sådan.
+
+754
+00:33:59,913 --> 00:34:01,706
+- Hvad?
+- Til dit fremgangsnotat.
+
+755
+00:34:03,542 --> 00:34:05,752
+Hører jeg, at vi gør fremgang?
+
+756
+00:34:07,629 --> 00:34:11,716
+Det kalder vi det bare,
+når vi beskriver et klinisk forløb.
+
+757
+00:34:13,426 --> 00:34:14,302
+Ændringer?
+
+758
+00:34:15,387 --> 00:34:16,679
+Ikke endnu.
+
+759
+00:34:16,680 --> 00:34:18,431
+Det er tid til neuro-tjek.
+
+760
+00:34:19,224 --> 00:34:20,809
+Har du et øjeblik?
+
+761
+00:34:22,644 --> 00:34:24,895
+Nej, jeg observerer en patient.
+
+762
+00:34:24,896 --> 00:34:26,022
+Tres sekunder maks.
+
+763
+00:34:28,650 --> 00:34:29,568
+Jeg tager pupiller.
+
+764
+00:34:30,026 --> 00:34:30,986
+Vi klarer os.
+
+765
+00:34:37,200 --> 00:34:38,076
+Hey.
+
+766
+00:34:39,202 --> 00:34:40,704
+Jeg kommer fra høringen.
+
+767
+00:34:42,872 --> 00:34:43,914
+Bør jeg gå op?
+
+768
+00:34:43,915 --> 00:34:46,001
+- Vent, til de kalder dig op.
+- Okay.
+
+769
+00:34:46,918 --> 00:34:48,335
+Jeg ville spørge,
+
+770
+00:34:48,336 --> 00:34:50,588
+men vi må ikke diskutere sagen.
+
+771
+00:34:50,589 --> 00:34:52,089
+Dette er ikke en diskussion.
+
+772
+00:34:52,090 --> 00:34:54,134
+Det er en monolog. Så hold kæft og lyt.
+
+773
+00:34:55,385 --> 00:34:57,344
+Malpraksissagen er grundløs.
+
+774
+00:34:57,345 --> 00:35:00,347
+Moderen hævder, at vi forårsagede
+en intellektuel tilbagegang
+
+775
+00:35:00,348 --> 00:35:01,725
+ved at udføre lumbalpunktur.
+
+776
+00:35:02,517 --> 00:35:05,103
+Men den var perfekt, uden komplikationer.
+
+777
+00:35:05,687 --> 00:35:07,521
+Hendes søn udviste en ændret tilstand
+
+778
+00:35:07,522 --> 00:35:10,233
+på grund af lav ilt efter lungebetændelse.
+
+779
+00:35:10,900 --> 00:35:13,319
+Enhver ændring
+var af hypoksisk hjerneskade.
+
+780
+00:35:13,320 --> 00:35:15,447
+Det havde intet
+med din lumbalpunktur at gøre.
+
+781
+00:35:17,032 --> 00:35:17,866
+Monolog slut.
+
+782
+00:35:18,825 --> 00:35:20,243
+Vi diskuterede aldrig sagen.
+
+783
+00:35:21,578 --> 00:35:22,829
+Jeg må få noget søvn.
+
+784
+00:35:23,872 --> 00:35:25,248
+Tak.
+
+785
+00:35:26,207 --> 00:35:27,208
+Tror jeg.
+
+786
+00:35:28,668 --> 00:35:30,337
+Okay. Er du klar til at ligge ned?
+
+787
+00:35:31,212 --> 00:35:33,297
+- Jeg har dit hoved.
+- Stille og roligt.
+
+788
+00:35:33,298 --> 00:35:34,966
+En, to, tre.
+
+789
+00:35:37,302 --> 00:35:38,720
+Okay, Hvordan føles det?
+
+790
+00:35:41,723 --> 00:35:42,932
+Vi løfter op nu.
+
+791
+00:35:52,651 --> 00:35:53,860
+Okay, bliv ved.
+
+792
+00:35:57,113 --> 00:36:00,283
+Og ... det burde være nok, deromkring.
+
+793
+00:36:02,369 --> 00:36:03,578
+To hundrede femten.
+
+794
+00:36:04,663 --> 00:36:05,789
+Det er i kilo.
+
+795
+00:36:08,500 --> 00:36:09,709
+Okay, team.
+
+796
+00:36:15,548 --> 00:36:17,174
+Det er ikke så meget over 200.
+
+797
+00:36:17,175 --> 00:36:19,968
+Vi kan ikke risikere
+at ødelægge vores CT på en weekend.
+
+798
+00:36:19,969 --> 00:36:22,262
+Kan ambulancefolkene køre ham
+med intubering?
+
+799
+00:36:22,263 --> 00:36:26,101
+Hvis jeg tager med, kan jeg stadig
+nå en lur før min nattevagt.
+
+800
+00:36:30,021 --> 00:36:31,648
+To hundrede og femten kilo.
+
+801
+00:36:33,233 --> 00:36:34,983
+Vores CT kan ikke håndtere din vægt,
+
+802
+00:36:34,984 --> 00:36:37,696
+men vi tager dig med
+til Presbyterian Hospital.
+
+803
+00:36:38,363 --> 00:36:39,280
+<i>Udflugt.</i>
+
+804
+00:36:40,156 --> 00:36:42,409
+Jeg holder dig med selskab hele tiden.
+
+805
+00:36:44,869 --> 00:36:46,329
+<i>Beklager alt det besvær.</i>
+
+806
+00:36:47,288 --> 00:36:48,455
+Det er okay.
+
+807
+00:36:48,456 --> 00:36:49,624
+Det er vores arbejde.
+
+808
+00:36:55,213 --> 00:36:56,922
+Så subkutan starter dybt.
+
+809
+00:36:56,923 --> 00:36:59,466
+- Man bør begrave knuden.
+- Jeg har gjort det før.
+
+810
+00:36:59,467 --> 00:37:01,052
+Joy, hvordan skærer vi enderne af?
+
+811
+00:37:02,011 --> 00:37:04,304
+Et kort snit i knuden
+med en 45 graders vinkel.
+
+812
+00:37:04,305 --> 00:37:05,306
+Fremragende.
+
+813
+00:37:07,100 --> 00:37:08,600
+Dr. Langdon, vi har en sag.
+
+814
+00:37:08,601 --> 00:37:10,436
+- Det må vente.
+- Det kan være vigtigt.
+
+815
+00:37:10,437 --> 00:37:12,230
+Find Robby eller Al-Hashimi.
+
+816
+00:37:14,691 --> 00:37:18,610
+- Pigen her er vissen.
+- Fuld som en allike.
+
+817
+00:37:18,611 --> 00:37:20,404
+Bør vi tjekke promille?
+
+818
+00:37:20,405 --> 00:37:21,989
+Det ændrer ikke på det, vi laver.
+
+819
+00:37:21,990 --> 00:37:23,699
+Hun kan vende hjem, når hun kan gå.
+
+820
+00:37:23,700 --> 00:37:24,617
+Jeg fik det tjekket.
+
+821
+00:37:25,869 --> 00:37:28,412
+Joy, vil du gætte på hendes promille?
+
+822
+00:37:28,413 --> 00:37:29,913
+Hvorfor skulle jeg det?
+
+823
+00:37:29,914 --> 00:37:31,833
+Det ved jeg ikke... Fordi det er sjovt?
+
+824
+00:37:37,964 --> 00:37:39,882
+Hvornår får du en seng?
+
+825
+00:37:39,883 --> 00:37:41,633
+Hun behøver ingen seng.
+
+826
+00:37:41,634 --> 00:37:42,885
+Hun er et barn med feber.
+
+827
+00:37:42,886 --> 00:37:45,345
+Der er over en måned og ser sund ud.
+
+828
+00:37:45,346 --> 00:37:47,347
+Alt er normalt. Hun er forkølet.
+
+829
+00:37:47,348 --> 00:37:50,642
+Spædbørn med rhinoviros kan
+have bakteriel infektion.
+
+830
+00:37:50,643 --> 00:37:52,978
+Ikke det her. Vi sender dem hjem.
+
+831
+00:37:52,979 --> 00:37:56,357
+Men dette barn har ikke et hjem,
+eller forældre.
+
+832
+00:37:57,942 --> 00:37:59,026
+Okay.
+
+833
+00:37:59,027 --> 00:38:01,028
+Ingen virus i spædbarnsafdelingen,
+
+834
+00:38:01,029 --> 00:38:03,655
+og jeg kan ikke spilde en privat stue.
+
+835
+00:38:03,656 --> 00:38:04,782
+Hvad foreslår du?
+
+836
+00:38:04,783 --> 00:38:07,826
+CYF kan anbringe hende
+hos en nød-plejefamilie i morgen.
+
+837
+00:38:07,827 --> 00:38:09,954
+Vil du lade hende være her natten over?
+
+838
+00:38:10,747 --> 00:38:12,915
+Det lader til at være standard disse dage.
+
+839
+00:38:12,916 --> 00:38:15,250
+- Få din overlæge til at ringe.
+- Det skal jeg gøre.
+
+840
+00:38:15,251 --> 00:38:16,668
+Det var dog utroligt.
+
+841
+00:38:16,669 --> 00:38:19,047
+- Lad CYF vide, at det haster.
+- Forstået.
+
+842
+00:38:19,672 --> 00:38:21,508
+Sikke en dag.
+
+843
+00:38:22,675 --> 00:38:25,886
+Jeg har overvejet at søge optagelse
+på et forskningsprogram.
+
+844
+00:38:25,887 --> 00:38:27,930
+Var der ikke et job til dig i New Jersey?
+
+845
+00:38:27,931 --> 00:38:30,182
+Ja, så jeg var tæt på min mor.
+
+846
+00:38:30,183 --> 00:38:34,729
+Men hun solgte sit hus
+for at rejse verden rundt med sin kæreste.
+
+847
+00:38:35,688 --> 00:38:37,564
+Så hvorfor New Jersey?
+
+848
+00:38:37,565 --> 00:38:38,899
+Ja. Godt spørgsmål.
+
+849
+00:38:38,900 --> 00:38:39,943
+Hvilket program?
+
+850
+00:38:40,610 --> 00:38:45,865
+Jeg har indsnævret det til ultralyd,
+toksikologi eller sportsmedicin.
+
+851
+00:38:47,408 --> 00:38:50,744
+Det er meget forskellige felter,
+der leder til forskellige karrierer.
+
+852
+00:38:50,745 --> 00:38:53,497
+Jeg ved det. Jeg har svært ved at vælge.
+
+853
+00:38:53,498 --> 00:38:55,123
+Har du forskningserfaring?
+
+854
+00:38:55,124 --> 00:38:58,669
+Jeg var en del af et studie
+om raceulighed indenfor sundhedsvæsenet,
+
+855
+00:38:58,670 --> 00:39:01,047
+indtil det hvide hus
+tog fondspengene sidste år.
+
+856
+00:39:01,631 --> 00:39:03,173
+Ja, I er ikke alene.
+
+857
+00:39:03,174 --> 00:39:06,468
+Har du overvejet geriatri?
+
+858
+00:39:06,469 --> 00:39:07,762
+Det har jeg ikke.
+
+859
+00:39:08,471 --> 00:39:10,514
+Jeg har set dig med de ældre.
+
+860
+00:39:10,515 --> 00:39:13,810
+Og der er mange åbninger.
+Det kan være dit bedste bud.
+
+861
+00:39:14,686 --> 00:39:15,603
+Overvej det.
+
+862
+00:39:17,730 --> 00:39:20,775
+- Sidste sting. Skal jeg skære?
+- Jeg gør det.
+
+863
+00:39:22,986 --> 00:39:23,902
+Det ser godt ud.
+
+864
+00:39:23,903 --> 00:39:25,863
+Okay, lad os trække hjælpesuturen ud.
+
+865
+00:39:25,864 --> 00:39:27,282
+Med fornøjelse.
+
+866
+00:39:29,576 --> 00:39:30,618
+Okay, Jackie.
+
+867
+00:39:31,452 --> 00:39:34,037
+- Jackie.
+- Hold kæft.
+
+868
+00:39:34,038 --> 00:39:35,372
+Vi er færdige.
+
+869
+00:39:35,373 --> 00:39:36,790
+Færdige med hvad?
+
+870
+00:39:36,791 --> 00:39:38,001
+Med at sy din tunge.
+
+871
+00:39:38,585 --> 00:39:40,294
+Hvad er der med min tunge?
+
+872
+00:39:40,295 --> 00:39:41,254
+Du bed i den.
+
+873
+00:39:42,171 --> 00:39:43,298
+Nej.
+
+874
+00:39:44,173 --> 00:39:46,133
+Noget af et blackout.
+
+875
+00:39:46,134 --> 00:39:47,718
+Hvor meget drak du?
+
+876
+00:39:47,719 --> 00:39:49,928
+Et par Bloody Mary'er.
+
+877
+00:39:49,929 --> 00:39:51,179
+Kun et par?
+
+878
+00:39:51,180 --> 00:39:52,640
+Det ved jeg ikke. Måske mere.
+
+879
+00:39:53,266 --> 00:39:56,018
+Det er ferie. Vi var på soldetur.
+
+880
+00:39:56,019 --> 00:39:58,770
+Drikker du normalt
+et par cocktails hver dag?
+
+881
+00:39:58,771 --> 00:40:00,022
+Kun i weekenden.
+
+882
+00:40:00,023 --> 00:40:01,440
+Og i løbet af ugen?
+
+883
+00:40:01,441 --> 00:40:02,816
+Ikke så meget,
+
+884
+00:40:02,817 --> 00:40:06,529
+kun vin til maden eller et par øl.
+
+885
+00:40:07,906 --> 00:40:09,532
+Bør vi anbefale afvænning?
+
+886
+00:40:11,075 --> 00:40:12,827
+Ja, vi kan prøve.
+
+887
+00:40:18,082 --> 00:40:19,125
+Vi er klar.
+
+888
+00:40:20,668 --> 00:40:22,169
+Hvordan har du det?
+
+889
+00:40:22,170 --> 00:40:23,545
+<i>Min smerte er på to.</i>
+
+890
+00:40:23,546 --> 00:40:24,838
+Vi har medicin.
+
+891
+00:40:24,839 --> 00:40:26,632
+Scanningen går hurtigere end turen.
+
+892
+00:40:26,633 --> 00:40:28,050
+Vi prøver fortsat din søster.
+
+893
+00:40:28,051 --> 00:40:29,635
+<i>- I er de bedste.</i>
+- Vi ses.
+
+894
+00:40:29,636 --> 00:40:31,970
+Må jeg lægge en ny patient i A1?
+
+895
+00:40:31,971 --> 00:40:34,014
+Nej, jeg vil have en akutstue fri.
+
+896
+00:40:34,015 --> 00:40:36,434
+Kan du ikke bruge Nord,
+hvis der er brug for det?
+
+897
+00:40:37,518 --> 00:40:38,519
+Hr. Digby?
+
+898
+00:40:40,521 --> 00:40:42,439
+- Det er bare Digby.
+- Okay.
+
+899
+00:40:42,440 --> 00:40:44,691
+Vi har ledt efter dig. Hvor var du?
+
+900
+00:40:44,692 --> 00:40:46,276
+Sammen med Louie.
+
+901
+00:40:46,277 --> 00:40:48,988
+- Har du været derinde i en time?
+- Han var min ven.
+
+902
+00:40:49,989 --> 00:40:51,740
+Jeg havde meget at sige.
+
+903
+00:40:51,741 --> 00:40:54,035
+Lad os få dig tilbage i din seng.
+
+904
+00:40:56,329 --> 00:40:57,914
+Louie fik sine vinger.
+
+905
+00:40:58,706 --> 00:41:01,375
+- Dr. Robby, vi fandt en patient sammen.
+- Dr. Robby.
+
+906
+00:41:01,376 --> 00:41:03,919
+- Teamwork.
+- Det er et bulløst udslæt.
+
+907
+00:41:03,920 --> 00:41:06,088
+Vi må have en biopsi
+for pemfigus vulgaris.
+
+908
+00:41:06,089 --> 00:41:07,506
+Det er fytofotodermatit.
+
+909
+00:41:07,507 --> 00:41:09,633
+- Hvad?
+- Jeg spurgte.
+
+910
+00:41:09,634 --> 00:41:11,802
+Han lavede ti liter margarita til en fest
+
+911
+00:41:11,803 --> 00:41:13,887
+og pressede friske limes i solen.
+
+912
+00:41:13,888 --> 00:41:14,973
+Lad os kigge på det.
+
+913
+00:41:15,682 --> 00:41:16,808
+Jeg behøver ikke.
+
+914
+00:41:20,061 --> 00:41:22,145
+- Hvordan går det her?
+- Vi har kun ståpladser.
+
+915
+00:41:22,146 --> 00:41:23,647
+Ringer jeg til brandvæsnet,
+
+916
+00:41:23,648 --> 00:41:26,149
+- rydder de så venteværelset?
+- Drøm videre. Hvad så?
+
+917
+00:41:26,150 --> 00:41:28,360
+Tolv patienter har brug for medicin.
+
+918
+00:41:28,361 --> 00:41:29,778
+Tager de ikke til egen læge?
+
+919
+00:41:29,779 --> 00:41:31,571
+Efter Medicaid-nedskæring er det os.
+
+920
+00:41:31,572 --> 00:41:33,657
+Jeg kan ikke udskrive til apoteker.
+
+921
+00:41:33,658 --> 00:41:36,327
+- Så find din kuglepen frem, old-school.
+- Dana, på hvad?
+
+922
+00:41:37,537 --> 00:41:41,164
+- Nordt, har du trusseindlægene?
+- Det har jeg.
+
+923
+00:41:41,165 --> 00:41:42,583
+Jeg skal bruge et klistermærke.
+
+924
+00:41:43,167 --> 00:41:45,377
+- Har du andre spørgsmål?
+- Ja.
+
+925
+00:41:45,378 --> 00:41:47,672
+Hvad ville der ske,
+hvis du ikke var her i dag?
+
+926
+00:41:49,007 --> 00:41:52,176
+Så ville I alle ligge i fosterposition
+og græde som babyer.
+
+927
+00:41:53,136 --> 00:41:54,928
+Havde du klipklappere på?
+
+928
+00:41:54,929 --> 00:41:56,722
+Det havde jeg. Hvad er det?
+
+929
+00:41:56,723 --> 00:41:58,015
+Fytofotodermatitis.
+
+930
+00:41:58,016 --> 00:42:00,225
+Også kendt som margarita-solskoldning.
+
+931
+00:42:00,226 --> 00:42:03,103
+For nogle kan limes og solskin
+give udslæt.
+
+932
+00:42:03,104 --> 00:42:05,230
+Er det alt sammen på grund af limes?
+
+933
+00:42:05,231 --> 00:42:07,650
+Har du nogensinde presset limes
+udenfor i solen før?
+
+934
+00:42:08,443 --> 00:42:09,651
+Det tror jeg ikke.
+
+935
+00:42:09,652 --> 00:42:12,195
+Du vil få det bedre
+efter en dag på steroider.
+
+936
+00:42:12,196 --> 00:42:14,114
+Men når det heler, må du bruge solcreme,
+
+937
+00:42:14,115 --> 00:42:17,410
+for ellers kan bylderne blive til
+mørke ar og blive siddende.
+
+938
+00:42:19,078 --> 00:42:21,247
+Jeg er straks tilbage med din behandling.
+
+939
+00:42:22,665 --> 00:42:23,583
+- Hey, Robby.
+- Jep.
+
+940
+00:42:24,667 --> 00:42:27,962
+Min hospicepatient Roxy
+har stadig mange smerter.
+
+941
+00:42:28,713 --> 00:42:31,090
+- Hvor står vi med morfin?
+- Ti milligram i timen.
+
+942
+00:42:31,966 --> 00:42:34,301
+Okay, du kan give hende to mere
+og gå op på 12.
+
+943
+00:42:34,302 --> 00:42:37,054
+- Jeg giver Princess besked.
+- Tolv i timen er meget.
+
+944
+00:42:37,055 --> 00:42:39,849
+Ja, oven i MS Contin.
+Hun kan holde op med at trække vejret.
+
+945
+00:42:41,642 --> 00:42:44,395
+Kender du til dobbelteffekt doktrinen?
+
+946
+00:42:45,021 --> 00:42:45,938
+- Ikke rigtigt.
+- Nej.
+
+947
+00:42:47,065 --> 00:42:49,775
+Det er et etisk princip
+indenfor palliativ behandling.
+
+948
+00:42:49,776 --> 00:42:50,692
+Vi lindrer smerte.
+
+949
+00:42:50,693 --> 00:42:52,986
+Og hvis der er
+negative bivirkninger ved dette,
+
+950
+00:42:52,987 --> 00:42:53,987
+må vi acceptere det.
+
+951
+00:42:53,988 --> 00:42:56,908
+Selv hvis bivirkningen er døden?
+
+952
+00:42:57,658 --> 00:43:00,078
+I nogle tilfælde
+kan det være det bedste udfald.
+
+953
+00:43:10,213 --> 00:43:11,963
+Er faxmaskinen løbet tør for papir?
+
+954
+00:43:11,964 --> 00:43:14,675
+Nej, der er papir nok.
+Jeg ved ikke, hvad der er galt.
+
+955
+00:43:18,262 --> 00:43:19,930
+Hvordan kommer vi igennem dette?
+
+956
+00:43:19,931 --> 00:43:21,099
+Jeg ville spørge dig.
+
+957
+00:43:24,393 --> 00:43:25,936
+Hun kan ikke forlade PDS.
+
+958
+00:43:25,937 --> 00:43:27,480
+Vi får intet gjort her.
+
+959
+00:44:50,730 --> 00:44:52,732
+Tekster af: Rosanna Nordahl Hallgreen
+

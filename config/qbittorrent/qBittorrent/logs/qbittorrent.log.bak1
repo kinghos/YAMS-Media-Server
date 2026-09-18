@@ -1,0 +1,740 @@
+(I) 2026-09-13T11:43:47 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T11:43:47 - Local Peer Discovery support: ON
+(I) 2026-09-13T11:43:47 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T11:43:47 - Anonymous mode: OFF
+(I) 2026-09-13T11:43:47 - Encryption support: ON
+(I) 2026-09-13T11:43:47 - Successfully listening on IP. IP: "10.69.90.82". Port: "TCP/6881"
+(I) 2026-09-13T11:43:47 - Successfully listening on IP. IP: "10.69.90.82". Port: "UTP/6881"
+(I) 2026-09-13T11:43:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T11:43:47 - Using built-in WebUI.
+(N) 2026-09-13T11:43:47 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T11:43:47 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T11:43:47 - Detected external IP. IP: "146.70.165.39"
+(N) 2026-09-13T11:43:50 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T11:43:53 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T11:46:52 - qBittorrent termination initiated
+(N) 2026-09-13T11:46:52 - qBittorrent is now ready to exit
+(N) 2026-09-13T11:49:38 - qBittorrent v4.6.3 started
+(N) 2026-09-13T11:49:38 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T11:49:38 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T11:49:38 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T11:49:39 - Peer ID: "-qB4630-"
+(I) 2026-09-13T11:49:39 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T11:49:39 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T11:49:39 - Local Peer Discovery support: ON
+(I) 2026-09-13T11:49:39 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T11:49:39 - Anonymous mode: OFF
+(I) 2026-09-13T11:49:39 - Encryption support: ON
+(I) 2026-09-13T11:49:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T11:49:39 - Using built-in WebUI.
+(N) 2026-09-13T11:49:39 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T11:49:39 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T11:49:39 - Successfully listening on IP. IP: "10.69.90.82". Port: "TCP/6881"
+(I) 2026-09-13T11:49:39 - Successfully listening on IP. IP: "10.69.90.82". Port: "UTP/6881"
+(N) 2026-09-13T11:49:47 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T11:49:48 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T11:52:13 - qBittorrent termination initiated
+(N) 2026-09-13T11:52:13 - qBittorrent is now ready to exit
+(N) 2026-09-13T11:52:22 - qBittorrent v4.6.3 started
+(N) 2026-09-13T11:52:22 - Using config directory: /config/qBittorrent
+(N) 2026-09-13T11:52:22 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T11:52:22 - Peer ID: "-qB4630-"
+(I) 2026-09-13T11:52:22 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T11:52:22 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T11:52:22 - Local Peer Discovery support: ON
+(I) 2026-09-13T11:52:22 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T11:52:22 - Anonymous mode: OFF
+(I) 2026-09-13T11:52:22 - Encryption support: ON
+(I) 2026-09-13T11:52:22 - Successfully listening on IP. IP: "10.69.90.82". Port: "TCP/6881"
+(I) 2026-09-13T11:52:22 - Successfully listening on IP. IP: "10.69.90.82". Port: "UTP/6881"
+(I) 2026-09-13T11:52:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T11:52:22 - Using built-in WebUI.
+(N) 2026-09-13T11:52:22 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T11:52:22 - WebUI: Now listening on IP: *, port: 8081
+(N) 2026-09-13T11:52:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T11:52:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T11:54:47 - qBittorrent termination initiated
+(N) 2026-09-13T11:54:47 - qBittorrent is now ready to exit
+(N) 2026-09-13T12:32:03 - qBittorrent v4.6.3 started
+(N) 2026-09-13T12:32:03 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T12:32:03 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T12:32:03 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T12:32:03 - Peer ID: "-qB4630-"
+(I) 2026-09-13T12:32:03 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T12:32:03 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T12:32:03 - Local Peer Discovery support: ON
+(I) 2026-09-13T12:32:03 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T12:32:03 - Anonymous mode: OFF
+(I) 2026-09-13T12:32:03 - Encryption support: ON
+(I) 2026-09-13T12:32:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T12:32:03 - Using built-in WebUI.
+(N) 2026-09-13T12:32:03 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T12:32:03 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T12:32:04 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T12:32:04 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(N) 2026-09-13T12:32:09 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T12:32:14 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T12:42:06 - Added new torrent. Torrent: "Nirvanna The Band The Show The Movie (2025) [2160p] [4K] [WEB] [5.1] [YTS.GG - YTS.BZ]"
+(I) 2026-09-13T12:42:15 - Detected external IP. IP: "23.234.116.178"
+(N) 2026-09-13T12:48:44 - Torrent download finished. Torrent: "Nirvanna The Band The Show The Movie (2025) [2160p] [4K] [WEB] [5.1] [YTS.GG - YTS.BZ]"
+(N) 2026-09-13T12:48:53 - Torrent paused. Torrent: "Nirvanna The Band The Show The Movie (2025) [2160p] [4K] [WEB] [5.1] [YTS.GG - YTS.BZ]"
+(N) 2026-09-13T12:48:53 - Torrent reached the share ratio limit. Torrent paused. Torrent: "Nirvanna The Band The Show The Movie (2025) [2160p] [4K] [WEB] [5.1] [YTS.GG - YTS.BZ]".
+(N) 2026-09-13T12:49:00 - Removed torrent and deleted its content. Torrent: "Nirvanna The Band The Show The Movie (2025) [2160p] [4K] [WEB] [5.1] [YTS.GG - YTS.BZ]"
+(N) 2026-09-13T12:52:28 - qBittorrent termination initiated
+(N) 2026-09-13T12:52:28 - qBittorrent is now ready to exit
+(N) 2026-09-13T12:52:34 - qBittorrent v4.6.3 started
+(N) 2026-09-13T12:52:34 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T12:52:34 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T12:52:34 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T12:52:34 - Peer ID: "-qB4630-"
+(I) 2026-09-13T12:52:34 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T12:52:34 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T12:52:34 - Local Peer Discovery support: ON
+(I) 2026-09-13T12:52:34 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T12:52:34 - Anonymous mode: OFF
+(I) 2026-09-13T12:52:34 - Encryption support: ON
+(I) 2026-09-13T12:52:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T12:52:34 - Using built-in WebUI.
+(N) 2026-09-13T12:52:34 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T12:52:34 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T12:52:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T12:52:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(N) 2026-09-13T12:53:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T12:53:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:11:43 - qBittorrent termination initiated
+(N) 2026-09-13T14:11:43 - qBittorrent is now ready to exit
+(N) 2026-09-13T14:16:34 - qBittorrent v4.6.3 started
+(N) 2026-09-13T14:16:34 - Using config directory: /config/qBittorrent
+(N) 2026-09-13T14:16:34 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T14:16:34 - Peer ID: "-qB4630-"
+(I) 2026-09-13T14:16:34 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T14:16:34 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T14:16:34 - Local Peer Discovery support: ON
+(I) 2026-09-13T14:16:34 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T14:16:34 - Anonymous mode: OFF
+(I) 2026-09-13T14:16:34 - Encryption support: ON
+(I) 2026-09-13T14:16:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T14:16:34 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(I) 2026-09-13T14:16:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T14:16:34 - Using built-in WebUI.
+(N) 2026-09-13T14:16:34 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T14:16:34 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T14:16:34 - Detected external IP. IP: "138.199.6.205"
+(N) 2026-09-13T14:16:38 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:16:44 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:23:45 - qBittorrent termination initiated
+(N) 2026-09-13T14:23:45 - qBittorrent is now ready to exit
+(N) 2026-09-13T14:23:55 - qBittorrent v4.6.3 started
+(N) 2026-09-13T14:23:55 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T14:23:55 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T14:23:55 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T14:23:55 - Peer ID: "-qB4630-"
+(I) 2026-09-13T14:23:55 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T14:23:55 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T14:23:55 - Local Peer Discovery support: ON
+(I) 2026-09-13T14:23:55 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T14:23:55 - Anonymous mode: OFF
+(I) 2026-09-13T14:23:55 - Encryption support: ON
+(I) 2026-09-13T14:23:56 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T14:23:56 - Using built-in WebUI.
+(N) 2026-09-13T14:23:56 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T14:23:56 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T14:23:57 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T14:23:57 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(N) 2026-09-13T14:24:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:24:06 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:40:50 - qBittorrent termination initiated
+(N) 2026-09-13T14:40:50 - qBittorrent is now ready to exit
+(N) 2026-09-13T14:41:00 - qBittorrent v4.6.3 started
+(N) 2026-09-13T14:41:00 - Using config directory: /config/qBittorrent
+(N) 2026-09-13T14:41:00 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T14:41:00 - Peer ID: "-qB4630-"
+(I) 2026-09-13T14:41:00 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T14:41:00 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T14:41:00 - Local Peer Discovery support: ON
+(I) 2026-09-13T14:41:00 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T14:41:00 - Anonymous mode: OFF
+(I) 2026-09-13T14:41:00 - Encryption support: ON
+(I) 2026-09-13T14:41:00 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T14:41:00 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(I) 2026-09-13T14:41:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T14:41:00 - Using built-in WebUI.
+(N) 2026-09-13T14:41:00 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T14:41:00 - WebUI: Now listening on IP: *, port: 8081
+(N) 2026-09-13T14:41:07 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T14:41:08 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T16:50:42 - Added new torrent. Torrent: "The Cloud-Capped Star (1960) [BluRay] [1080p] [YTS.LT]"
+(N) 2026-09-13T17:03:54 - Removed torrent. Torrent: "The Cloud-Capped Star (1960) [BluRay] [1080p] [YTS.LT]"
+(N) 2026-09-13T17:17:44 - qBittorrent termination initiated
+(N) 2026-09-13T17:17:44 - qBittorrent is now ready to exit
+(N) 2026-09-13T17:18:01 - qBittorrent v4.6.3 started
+(N) 2026-09-13T17:18:01 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T17:18:01 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T17:18:01 - Trying to listen on the following list of IP addresses: "tun0:6881"
+(I) 2026-09-13T17:18:01 - Peer ID: "-qB4630-"
+(I) 2026-09-13T17:18:01 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T17:18:01 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T17:18:01 - Local Peer Discovery support: ON
+(I) 2026-09-13T17:18:01 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T17:18:01 - Anonymous mode: OFF
+(I) 2026-09-13T17:18:01 - Encryption support: ON
+(I) 2026-09-13T17:18:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T17:18:01 - Using built-in WebUI.
+(N) 2026-09-13T17:18:01 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T17:18:01 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T17:18:02 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/6881"
+(I) 2026-09-13T17:18:02 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/6881"
+(N) 2026-09-13T17:18:07 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T17:18:10 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T17:30:36 - Added new torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:32:09 - Removed torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:34:22 - Added new torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:36:24 - Removed torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:37:17 - Added new torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:37:30 - Removed torrent. Torrent: "Shrek (2001) [2160p] [4K] [BluRay] [5.1] [YTS.MX]"
+(N) 2026-09-13T17:41:44 - Added new torrent. Torrent: "Shrek (2001) [1080p]"
+(N) 2026-09-13T17:42:01 - Removed torrent. Torrent: "Shrek (2001) [1080p]"
+(N) 2026-09-13T17:47:58 - Added new torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T17:49:15 - Removed torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T18:00:39 - Added new torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T18:04:09 - Removed torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T18:07:08 - Added new torrent. Torrent: "be3f8b12cce0c3522684f47bdd7865bde2518a1f"
+(I) 2026-09-13T18:07:44 - Detected external IP. IP: "169.150.196.26"
+(N) 2026-09-13T18:08:07 - Added new torrent. Torrent: "aca1b5c7b25ed0ff2a12026ccf68a2d97f69bf3a"
+(N) 2026-09-13T18:10:27 - Added new torrent. Torrent: "9f835d70fdcfbd7cd7a7f0f5044145ad10487aa1"
+(N) 2026-09-13T18:12:52 - Torrent download finished. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T18:17:25 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-13T18:17:25 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-13T18:17:25 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(I) 2026-09-13T18:17:48 - Detected external IP. IP: "169.150.196.26"
+(N) 2026-09-13T18:41:37 - Torrent download finished. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-13T19:13:49 - qBittorrent termination initiated
+(N) 2026-09-13T19:13:51 - qBittorrent is now ready to exit
+(N) 2026-09-13T19:14:12 - qBittorrent v4.6.3 started
+(N) 2026-09-13T19:14:12 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T19:14:12 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T19:14:12 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-13T19:14:12 - Peer ID: "-qB4630-"
+(I) 2026-09-13T19:14:12 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T19:14:12 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T19:14:12 - Local Peer Discovery support: ON
+(I) 2026-09-13T19:14:12 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T19:14:12 - Anonymous mode: OFF
+(I) 2026-09-13T19:14:12 - Encryption support: ON
+(N) 2026-09-13T19:14:12 - Restored torrent. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-13T19:14:12 - Restored torrent. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T19:14:12 - Restored torrent. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(I) 2026-09-13T19:14:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T19:14:12 - Using built-in WebUI.
+(N) 2026-09-13T19:14:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T19:14:12 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T19:14:14 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-13T19:14:14 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(N) 2026-09-13T19:14:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T19:14:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(I) 2026-09-13T19:16:35 - Detected external IP. IP: "92.60.40.214"
+(N) 2026-09-13T19:33:29 - Added new torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T19:41:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T19:44:18 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T19:49:18 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T19:52:27 - Added new torrent. Torrent: "Meghe Dhaka Tara AKA The Cloud Capped Star 1960 BluRay Remux 1080p AVC FLAC 1 0 BDR mkv"
+(N) 2026-09-13T19:53:48 - Torrent paused. Torrent: "Meghe Dhaka Tara AKA The Cloud Capped Star 1960 BluRay Remux 1080p AVC FLAC 1 0 BDR mkv"
+(N) 2026-09-13T19:53:54 - Torrent resumed. Torrent: "Meghe Dhaka Tara AKA The Cloud Capped Star 1960 BluRay Remux 1080p AVC FLAC 1 0 BDR mkv"
+(N) 2026-09-13T19:54:02 - Removed torrent. Torrent: "Meghe Dhaka Tara AKA The Cloud Capped Star 1960 BluRay Remux 1080p AVC FLAC 1 0 BDR mkv"
+(N) 2026-09-13T19:54:19 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T19:59:19 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T20:04:19 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T20:06:27 - qBittorrent termination initiated
+(N) 2026-09-13T20:06:29 - qBittorrent is now ready to exit
+(N) 2026-09-13T20:20:21 - qBittorrent v4.6.3 started
+(N) 2026-09-13T20:20:21 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T20:20:21 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T20:20:21 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-13T20:20:21 - Peer ID: "-qB4630-"
+(I) 2026-09-13T20:20:21 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T20:20:21 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T20:20:21 - Local Peer Discovery support: ON
+(I) 2026-09-13T20:20:21 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T20:20:21 - Anonymous mode: OFF
+(I) 2026-09-13T20:20:21 - Encryption support: ON
+(N) 2026-09-13T20:20:21 - Restored torrent. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T20:20:21 - Restored torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T20:20:21 - Restored torrent. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-13T20:20:21 - Restored torrent. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(I) 2026-09-13T20:20:21 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T20:20:21 - Using built-in WebUI.
+(N) 2026-09-13T20:20:21 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T20:20:21 - WebUI: Now listening on IP: *, port: 8081
+(N) 2026-09-13T20:20:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(I) 2026-09-13T20:20:22 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-13T20:20:22 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(W) 2026-09-13T20:20:25 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:26 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:26 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(I) 2026-09-13T20:20:26 - Detected external IP. IP: "169.150.196.30"
+(W) 2026-09-13T20:20:26 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:27 - WebAPI login failure. Reason: invalid credentials, attempt count: 5, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:29 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:30 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:30 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:30 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:30 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:31 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:53 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:57 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:20:58 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:21:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:21:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:21:02 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:21:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:22:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:22:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:22:03 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:22:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:23:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:23:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:23:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:23:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:24:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:24:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:24:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:24:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:25:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:26:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:26:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:26:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:26:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:28:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:28:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:28:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:28:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:30:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:32:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:32:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:32:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:32:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:32:38 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:33:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:33:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-13T20:33:15 - qBittorrent termination initiated
+(N) 2026-09-13T20:33:17 - qBittorrent is now ready to exit
+(N) 2026-09-13T20:34:12 - qBittorrent v4.6.3 started
+(N) 2026-09-13T20:34:12 - Using config directory: /config/qBittorrent
+(C) 2026-09-13T20:34:12 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-13T20:34:12 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-13T20:34:12 - Peer ID: "-qB4630-"
+(I) 2026-09-13T20:34:12 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-13T20:34:12 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-13T20:34:12 - Local Peer Discovery support: ON
+(I) 2026-09-13T20:34:12 - Peer Exchange (PeX) support: ON
+(I) 2026-09-13T20:34:12 - Anonymous mode: OFF
+(I) 2026-09-13T20:34:12 - Encryption support: ON
+(N) 2026-09-13T20:34:12 - Restored torrent. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T20:34:12 - Restored torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T20:34:12 - Restored torrent. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-13T20:34:12 - Restored torrent. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(I) 2026-09-13T20:34:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-13T20:34:12 - Using built-in WebUI.
+(N) 2026-09-13T20:34:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-13T20:34:12 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-13T20:34:14 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-13T20:34:14 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(I) 2026-09-13T20:34:15 - Detected external IP. IP: "169.150.196.26"
+(N) 2026-09-13T20:34:19 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-13T20:34:21 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:22 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:22 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:23 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:23 - WebAPI login failure. Reason: invalid credentials, attempt count: 5, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:23 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:24 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:24 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:50 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:50 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:55 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:34:55 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:20 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:50 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:36:50 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:38:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:38:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:38:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:38:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:39:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:40:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:40:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:40:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:40:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:40:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:40:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:42:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:42:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:42:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:42:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:44:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:44:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:44:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:44:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:44:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:45:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:45:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:45:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:45:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:45:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:45:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:47:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:47:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:47:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:47:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:49:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:49:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:49:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:49:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:49:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:50:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:51:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:51:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:51:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:51:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:54:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:55:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:55:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-13T20:55:02 - Removed torrent. Torrent: "Shrek 2001 NORDiC ENG 1080p REMUX BluRay AVC DTS-X TrueHD 7 1-NorTekst"
+(N) 2026-09-13T20:56:13 - Torrent paused. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-13T20:56:15 - Torrent resumed. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(W) 2026-09-13T20:57:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:57:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:57:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:57:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T20:59:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:00:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:00:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:04:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:05:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:05:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:09:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:10:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:10:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:13:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:13:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:13:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:13:05 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:14:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:15:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:15:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:19:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:20:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:20:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:24:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:25:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:25:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:29:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:30:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:30:00 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:34:21 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-13T21:35:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T21:39:21 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-13T21:44:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:44:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:44:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T21:44:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-13T21:44:21 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T21:49:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T21:54:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T21:59:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:04:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:09:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:14:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:19:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:24:22 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:29:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:34:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:39:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:44:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-13T22:45:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T22:45:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T22:45:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T22:45:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-13T22:49:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:54:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T22:59:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:04:23 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:09:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:14:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:19:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:24:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:29:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:34:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:39:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:44:24 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-13T23:46:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T23:46:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T23:46:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-13T23:46:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-13T23:49:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:54:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-13T23:59:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:04:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:09:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:14:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:19:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:24:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:29:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:34:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:39:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:44:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T00:47:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T00:47:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T00:47:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T00:47:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T00:49:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:54:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T00:59:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:04:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:09:26 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:14:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:19:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:24:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:29:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:34:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:39:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:44:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T01:48:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T01:48:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T01:48:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T01:48:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T01:49:27 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:54:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T01:59:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:04:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:09:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:14:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:19:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:24:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:29:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:34:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T02:36:22 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T02:36:52 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T02:36:52 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T02:39:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:44:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T02:49:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T02:49:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T02:49:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T02:49:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T02:49:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:54:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T02:59:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:04:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:09:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:14:29 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:19:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:24:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:29:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:34:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:39:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:44:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:49:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T03:50:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T03:50:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T03:50:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T03:50:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T03:54:30 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T03:59:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:04:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:09:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:14:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:19:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:24:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:29:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:34:31 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:39:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:44:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:49:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T04:51:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T04:51:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T04:51:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T04:51:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T04:54:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T04:59:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:04:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:09:32 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:14:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:19:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:24:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:29:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:34:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:39:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:44:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:49:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T05:52:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T05:52:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T05:52:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T05:52:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T05:54:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T05:59:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:04:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:09:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:14:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:19:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:24:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:29:34 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:34:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:39:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:44:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:49:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T06:53:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T06:53:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T06:53:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T06:53:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T06:54:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T06:59:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:04:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:09:35 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:14:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:19:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:24:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:29:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:34:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:39:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:44:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:49:36 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T07:54:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T07:54:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T07:54:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T07:54:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T07:54:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T07:59:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:04:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:09:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:14:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:19:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:24:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:24:42 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:25:25 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:29:37 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:31:17 - qBittorrent termination initiated
+(N) 2026-09-14T08:31:19 - qBittorrent is now ready to exit
+(N) 2026-09-14T08:31:30 - qBittorrent v4.6.3 started
+(N) 2026-09-14T08:31:30 - Using config directory: /config/qBittorrent
+(N) 2026-09-14T08:31:30 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-14T08:31:30 - Peer ID: "-qB4630-"
+(I) 2026-09-14T08:31:30 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-14T08:31:30 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-14T08:31:30 - Local Peer Discovery support: ON
+(I) 2026-09-14T08:31:30 - Peer Exchange (PeX) support: ON
+(I) 2026-09-14T08:31:30 - Anonymous mode: OFF
+(I) 2026-09-14T08:31:30 - Encryption support: ON
+(I) 2026-09-14T08:31:30 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-14T08:31:30 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(N) 2026-09-14T08:31:30 - Restored torrent. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-14T08:31:30 - Restored torrent. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-14T08:31:30 - Restored torrent. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(I) 2026-09-14T08:31:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-14T08:31:30 - Using built-in WebUI.
+(N) 2026-09-14T08:31:30 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-14T08:31:30 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-14T08:31:30 - Detected external IP. IP: "193.32.126.213"
+(W) 2026-09-14T08:31:37 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:31:40 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:31:40 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:36:35 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:37:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 5, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:37:08 - WebAPI login failure. Reason: IP has been banned, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T08:46:50 - qBittorrent termination initiated
+(N) 2026-09-14T08:46:53 - qBittorrent is now ready to exit
+(N) 2026-09-14T08:47:06 - qBittorrent v4.6.3 started
+(N) 2026-09-14T08:47:06 - Using config directory: /config/qBittorrent
+(C) 2026-09-14T08:47:06 - The configured network interface is invalid. Interface: "tun0"
+(N) 2026-09-14T08:47:06 - Trying to listen on the following list of IP addresses: "tun0:7247"
+(I) 2026-09-14T08:47:06 - Peer ID: "-qB4630-"
+(I) 2026-09-14T08:47:06 - HTTP User-Agent: "qBittorrent/4.6.3"
+(I) 2026-09-14T08:47:06 - Distributed Hash Table (DHT) support: ON
+(I) 2026-09-14T08:47:06 - Local Peer Discovery support: ON
+(I) 2026-09-14T08:47:06 - Peer Exchange (PeX) support: ON
+(I) 2026-09-14T08:47:06 - Anonymous mode: OFF
+(I) 2026-09-14T08:47:06 - Encryption support: ON
+(N) 2026-09-14T08:47:06 - Restored torrent. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-14T08:47:06 - Restored torrent. Torrent: "Adventure.Time.With.Finn.And.Jake.S01.1080p.BluRay.x264-DEiMOS[rartv]"
+(N) 2026-09-14T08:47:06 - Restored torrent. Torrent: "Adventure Time S02 Season 2 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(I) 2026-09-14T08:47:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 01:32:45 2026.
+(N) 2026-09-14T08:47:06 - Using built-in WebUI.
+(N) 2026-09-14T08:47:06 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-09-14T08:47:07 - WebUI: Now listening on IP: *, port: 8081
+(I) 2026-09-14T08:47:07 - Successfully listening on IP. IP: "10.72.138.96". Port: "TCP/7247"
+(I) 2026-09-14T08:47:07 - Successfully listening on IP. IP: "10.72.138.96". Port: "UTP/7247"
+(I) 2026-09-14T08:47:08 - Detected external IP. IP: "138.199.6.245"
+(N) 2026-09-14T08:47:09 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T08:47:10 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:47:11 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:47:14 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T08:48:33 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:50:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:52:10 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:55:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T08:55:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:55:00 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:55:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:55:05 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T08:57:10 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T08:57:12 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.60.0.1, username: admin
+(W) 2026-09-14T08:57:17 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.60.0.1, username: admin
+(N) 2026-09-14T08:57:18 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:57:28 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T08:57:40 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:00:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:02:10 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:05:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:05:01 - Removed torrent and deleted its content. Torrent: "Adventure Time S03 Season 3 1080p BluRay x265 HEVC 2ch noobless[UTR]"
+(N) 2026-09-14T09:07:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:10:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:12:01 - Added new torrent. Torrent: "4b8f6b6c3d2dc76bfff42c4e369976c69e129b3e"
+(N) 2026-09-14T09:12:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:13:59 - Torrent download finished. Torrent: "Adventure Time S03 (1080p Bluray x265 HEVC 10bit AAC 2.0 RCVR) [UTR]"
+(N) 2026-09-14T09:15:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:17:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:20:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:22:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:25:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:27:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:30:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:32:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:35:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:37:11 - WebAPI login success. IP: ::ffff:172.60.0.1
+(N) 2026-09-14T09:38:49 - Added new torrent. Torrent: "Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb"
+(N) 2026-09-14T09:40:00 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T09:40:44 - File error alert. Torrent: "Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb". File: "". Reason: "Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb[EZTVx.to].mkv exception () error: Bad address"
+(N) 2026-09-14T09:42:12 - WebAPI login success. IP: ::ffff:172.60.0.1
+(W) 2026-09-14T09:42:23 - Unexpected data detected. Torrent: Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb. Data: total_wanted=2032161664 total_wanted_done=2032176000.
+(W) 2026-09-14T09:42:24 - Unexpected data detected. Torrent: Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb. Data: total_wanted=2032161664 total_wanted_done=2032176000.
+(W) 2026-09-14T09:42:26 - Unexpected data detected. Torrent: Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb. Data: total_wanted=2032161664 total_wanted_done=2032176000.
+(W) 2026-09-14T09:42:28 - Unexpected data detected. Torrent: Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb. Data: total_wanted=2032161664 total_wanted_done=2032176000.
+(W) 2026-09-14T09:42:30 - Unexpected data detected. Torrent: Game Changer S08E09 I Spy 1080p DRPO WEB-DL AAC2 0 H 264-NTb. Data: total_wanted=2032161664 total_wanted_done=2032176000.

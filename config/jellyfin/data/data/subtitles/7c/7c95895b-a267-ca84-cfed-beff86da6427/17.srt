@@ -1,0 +1,4004 @@
+1
+00:00:06,006 --> 00:00:10,928
+VÉSZHELYZET PITTSBURGHBEN
+
+2
+00:00:14,348 --> 00:00:16,266
+Rendben, mindenki nyugodjon meg!
+
+3
+00:00:16,350 --> 00:00:18,227
+KILENCEDIK ÓRA
+DÉLUTÁN 3 ÓRÁTÓL 4-IG
+
+4
+00:00:18,310 --> 00:00:20,687
+Jó. Robby szeretne valamit mondani.
+
+5
+00:00:21,688 --> 00:00:22,773
+Tudom, hogy nem könnyű.
+
+6
+00:00:22,856 --> 00:00:25,734
+Segítünk kezelni minden nehézséget.
+
+7
+00:00:25,817 --> 00:00:27,986
+Ha bármi gondotok van, kezet fel.
+
+8
+00:00:28,070 --> 00:00:29,238
+Emma, jegyzetelj!
+
+9
+00:00:30,280 --> 00:00:31,114
+Dr. Mohan.
+
+10
+00:00:31,198 --> 00:00:33,116
+A gyógyszerrendelések nem jönnek.
+
+11
+00:00:33,200 --> 00:00:36,370
+Egyeztess a gyógyszerésszel,
+hogy benne van-e a rendszerben!
+
+12
+00:00:36,453 --> 00:00:39,915
+Ha nincs, akkor add le
+a rendelőlap harmadik példányát!
+
+13
+00:00:40,415 --> 00:00:43,293
+- Ehhez több ember kellene.
+- Megoldjuk. Langdon!
+
+14
+00:00:43,377 --> 00:00:47,297
+- Nem találom a betegkartonokat.
+- Azoknak mindig itt kell lenniük.
+
+15
+00:00:47,381 --> 00:00:48,507
+Hogy jegyzeteljünk?
+
+16
+00:00:48,590 --> 00:00:51,593
+Csak a triázslapot vigyétek el,
+ne az egész kartont!
+
+17
+00:00:51,677 --> 00:00:53,303
+Az ápolói dokumentációnál is.
+
+18
+00:00:53,387 --> 00:00:54,221
+Princess.
+
+19
+00:00:54,304 --> 00:00:56,306
+A faxgép nem működik. E6-os hibakód.
+
+20
+00:00:56,390 --> 00:00:58,725
+- Az mit jelent?
+- Nézd meg a kézikönyvben!
+
+21
+00:00:58,809 --> 00:00:59,685
+Nincs kézikönyv.
+
+22
+00:00:59,768 --> 00:01:03,230
+Perlah, menj ki, keress térerőt,
+majd kézikönyvet a neten.
+
+23
+00:01:03,772 --> 00:01:06,066
+Dögmeleg van odakint. Te mondtad, menj te!
+
+24
+00:01:06,149 --> 00:01:07,901
+Engem szólított. Igyál valamit!
+
+25
+00:01:07,985 --> 00:01:10,529
+Még valami?
+Ogilvie, tedd le a kezed! Santos!
+
+26
+00:01:10,612 --> 00:01:13,448
+Pár CT-eredmény már megjött,
+de röntgenből semmi.
+
+27
+00:01:13,532 --> 00:01:15,951
+Mert a mobil készüléken vannak,
+nem jutottak el
+
+28
+00:01:16,034 --> 00:01:17,035
+a radiológiára.
+
+29
+00:01:17,119 --> 00:01:18,996
+- Elintézem.
+- Türelem.
+
+30
+00:01:19,079 --> 00:01:20,622
+Segítsetek egymásnak!
+
+31
+00:01:21,999 --> 00:01:23,584
+Plusz segítséget kell hívnunk.
+
+32
+00:01:23,667 --> 00:01:26,420
+- Ünnepnapon, délután 3-kor?
+- Vannak ismerőseim.
+
+33
+00:01:26,503 --> 00:01:29,715
+Van egy 32 éves női betegem
+súlyos hasi fájdalommal.
+
+34
+00:01:29,798 --> 00:01:31,383
+- Van ágy?
+- Most nincs.
+
+35
+00:01:31,466 --> 00:01:32,301
+Átveszem én.
+
+36
+00:01:32,384 --> 00:01:33,468
+- Kösz.
+- Beteg jön.
+
+37
+00:01:34,052 --> 00:01:35,178
+Santos, Javadi, gyertek!
+
+38
+00:01:35,262 --> 00:01:36,680
+Egyes trauma szabad.
+
+39
+00:01:38,015 --> 00:01:39,516
+Jude Augustin, 12 éves,
+
+40
+00:01:39,600 --> 00:01:42,060
+petárdarobbanás a nem domináns bal kézben.
+
+41
+00:01:42,144 --> 00:01:43,895
+Jó életjelek, fentanilt kapott.
+
+42
+00:01:43,979 --> 00:01:46,398
+- Más sérülés?
+- Nincs, de két ujja lerobbant.
+
+43
+00:01:46,481 --> 00:01:47,941
+- Elhoztátok?
+- Szétszakadt.
+
+44
+00:01:48,442 --> 00:01:50,068
+- Nagyon fáj.
+- Gondolom.
+
+45
+00:01:50,152 --> 00:01:51,612
+De mindjárt enyhítjük.
+
+46
+00:01:52,195 --> 00:01:53,614
+- Szülők?
+- Nem voltak ott.
+
+47
+00:01:56,325 --> 00:01:58,619
+Mehet? 1, 2, 3.
+
+48
+00:01:59,870 --> 00:02:02,998
+Figyelj, Jude!
+Tudod anyukád vagy apukád számát?
+
+49
+00:02:03,081 --> 00:02:05,083
+Nem. De a nővéremét igen.
+
+50
+00:02:05,167 --> 00:02:06,001
+Oké.
+
+51
+00:02:07,294 --> 00:02:09,504
+- Légzés rendben.
+- A has nem érzékeny.
+
+52
+00:02:09,588 --> 00:02:11,506
+- Pulzus 112.
+- Tedd az alkarja köré!
+
+53
+00:02:11,590 --> 00:02:13,342
+- Az jó?
+- Az nagyon jó.
+
+54
+00:02:13,425 --> 00:02:16,678
+Adjunk még fentanilt,
+mielőtt levesszük ezt a kötést!
+
+55
+00:02:16,762 --> 00:02:18,472
+Mondd el, mi történt!
+
+56
+00:02:18,555 --> 00:02:21,475
+- Petárda volt a haveroknál.
+- Beadtam a fentanilt.
+
+57
+00:02:21,558 --> 00:02:23,769
+Meggyújtottam egyet,
+és gyorsan felrobbant.
+
+58
+00:02:24,269 --> 00:02:25,437
+Eldobtam, de...
+
+59
+00:02:26,188 --> 00:02:28,899
+- Most levesszük a kötést, jó?
+- Nem akarom látni.
+
+60
+00:02:28,982 --> 00:02:30,817
+Nem is kell. Rám nézz!
+
+61
+00:02:31,693 --> 00:02:33,654
+Rendben. Vágom.
+
+62
+00:02:36,698 --> 00:02:37,783
+Bocsi.
+
+63
+00:02:38,283 --> 00:02:39,242
+Ügyes vagy.
+
+64
+00:02:42,996 --> 00:02:45,040
+Többnek tűnik, mint petárdasérülés.
+
+65
+00:02:45,123 --> 00:02:48,877
+- Inkább egy M-80-as vagy tűzijáték.
+- Nagyon jó, hogy eldobtad.
+
+66
+00:02:48,960 --> 00:02:52,255
+- Így maradt a kezedből.
+- A 4. és 5. ujj traumás amputációja.
+
+67
+00:02:52,339 --> 00:02:54,925
+A 4. és 5. kézközépcsont
+disztális része is hiányzik,
+
+68
+00:02:55,634 --> 00:02:58,220
+a csontfelszín szabadon látható.
+
+69
+00:02:58,303 --> 00:02:59,846
+Égési sérülések a sebszélnél.
+
+70
+00:02:59,930 --> 00:03:02,766
+Jude, tudod hajlítani
+és mozgatni az ujjadat?
+
+71
+00:03:04,184 --> 00:03:05,727
+Nagyon ügyes vagy.
+
+72
+00:03:05,811 --> 00:03:06,728
+Mennyire rossz?
+
+73
+00:03:07,562 --> 00:03:10,899
+Két ujjad leszakadt.
+De úgy tűnik, a többi rendben lesz.
+
+74
+00:03:11,483 --> 00:03:13,276
+Jaj, ne! Elcsesztem!
+
+75
+00:03:14,277 --> 00:03:15,862
+Kaphat érzéstelenítőt?
+
+76
+00:03:15,946 --> 00:03:18,240
+Előbb motoros és szenzoros vizsgálat jön.
+
+77
+00:03:18,740 --> 00:03:21,243
+Még tovább kell vizsgálnunk, Jude.
+
+78
+00:03:24,538 --> 00:03:25,372
+Oké, kösz!
+
+79
+00:03:26,164 --> 00:03:28,291
+Az intenzív átveszi a vizsgálat után.
+
+80
+00:03:28,375 --> 00:03:29,209
+Az intenzív?
+
+81
+00:03:29,835 --> 00:03:32,462
+Csak azért, hogy ma még megfigyelhessék.
+
+82
+00:03:34,172 --> 00:03:35,799
+A pupilla 4 mm, reagál.
+
+83
+00:03:37,342 --> 00:03:40,053
+Mel! A pupilla 4 mm, reagál.
+
+84
+00:03:40,137 --> 00:03:42,597
+- Oké.
+- Nagyjából láttam a kezét.
+
+85
+00:03:46,935 --> 00:03:48,019
+Letakarná az ép szemét?
+
+86
+00:03:49,354 --> 00:03:50,647
+Hány ujjamat mutatom?
+
+87
+00:03:52,524 --> 00:03:53,734
+Hármat.
+
+88
+00:03:55,444 --> 00:03:56,528
+Ez jó hír.
+
+89
+00:03:56,611 --> 00:03:59,614
+Tehát a gyógyszer hatott?
+Túl van a nehezén?
+
+90
+00:04:00,198 --> 00:04:01,700
+Lehetséges. Jó...
+
+91
+00:04:02,451 --> 00:04:03,827
+Oké, takarja le újra!
+
+92
+00:04:05,120 --> 00:04:06,997
+Oké. Olvassa fel!
+
+93
+00:04:08,707 --> 00:04:11,334
+- A felső sor egy E.
+- A következő?
+
+94
+00:04:14,796 --> 00:04:15,797
+Nem látom.
+
+95
+00:04:16,840 --> 00:04:18,425
+Oké, ez 6/60.
+
+96
+00:04:19,926 --> 00:04:20,761
+Az mit jelent?
+
+97
+00:04:21,344 --> 00:04:24,639
+Amit egy egészséges szem
+60 méterről lát, azt ön 6 méterről.
+
+98
+00:04:24,723 --> 00:04:25,557
+Az jó?
+
+99
+00:04:25,974 --> 00:04:27,601
+Igen. Sokkal jobb.
+
+100
+00:04:27,684 --> 00:04:30,270
+És idővel még tovább javulhat.
+
+101
+00:04:31,730 --> 00:04:32,731
+Köszönöm, dr. King.
+
+102
+00:04:35,150 --> 00:04:37,652
+Tartok egy kis szünetet a vallomás előtt.
+
+103
+00:04:37,736 --> 00:04:40,989
+Szólok Robbynak,
+hogy egy ideig nem leszek elérhető.
+
+104
+00:04:41,072 --> 00:04:42,449
+- Sok sikert!
+- Köszi!
+
+105
+00:04:46,203 --> 00:04:47,621
+- Mel!
+- Szia!
+
+106
+00:04:47,704 --> 00:04:50,457
+- Látogatód van.
+- Mi? Ki az?
+
+107
+00:04:50,540 --> 00:04:52,501
+- Azt mondta, a nővéred.
+- Becca?
+
+108
+00:04:57,631 --> 00:04:59,341
+Igen, ez hőkimerülés.
+
+109
+00:04:59,424 --> 00:05:03,261
+Általában jobb lesz az Aleve-től,
+de ma nagyon rossz volt.
+
+110
+00:05:03,345 --> 00:05:06,348
+Ugyanúgy fáj, mint máskor? Egy cisztától?
+
+111
+00:05:06,431 --> 00:05:07,265
+Szerintem igen.
+
+112
+00:05:07,891 --> 00:05:09,059
+PCOS-em van.
+
+113
+00:05:09,893 --> 00:05:12,312
+És mindig a bal oldalon fáj?
+
+114
+00:05:12,395 --> 00:05:13,814
+Ma igen.
+
+115
+00:05:13,897 --> 00:05:16,775
+Vizeletvizsgálatot
+és terhességi tesztet csinálunk,
+
+116
+00:05:16,858 --> 00:05:18,485
+és adok egy Toradol-injekciót.
+
+117
+00:05:18,568 --> 00:05:21,029
+Ez egy erősebb fájdalomcsillapító.
+
+118
+00:05:21,112 --> 00:05:22,656
+Nem vagyok terhes, tényleg.
+
+119
+00:05:22,739 --> 00:05:25,325
+Muszáj tesztelnünk. Ez kórházi protokoll.
+
+120
+00:05:26,701 --> 00:05:28,495
+Még mindig papírra írnak mindent?
+
+121
+00:05:29,704 --> 00:05:31,164
+Ma igen.
+
+122
+00:05:39,130 --> 00:05:42,133
+Maga orvos? Már több órája várok.
+
+123
+00:05:42,217 --> 00:05:43,093
+Egy gyors kérdés.
+
+124
+00:05:44,135 --> 00:05:46,304
+- Figyeljen rá!
+- Ez semmire se jó.
+
+125
+00:05:47,514 --> 00:05:51,518
+Sajnálom, csak nagyon sokan vannak.
+Mindjárt sorra kerülnek.
+
+126
+00:05:54,437 --> 00:05:55,981
+- Becca?
+- Mel, szia!
+
+127
+00:05:57,524 --> 00:06:00,026
+- Minden rendben van?
+- Igen, csak fáj a hasam.
+
+128
+00:06:00,110 --> 00:06:01,862
+Bementél az ápolóhoz?
+
+129
+00:06:01,945 --> 00:06:04,447
+Szabadságon van,
+de telefonon beszéltem vele.
+
+130
+00:06:04,531 --> 00:06:06,741
+Azt mondta, jöjjek ide, Geri elhozott.
+
+131
+00:06:06,825 --> 00:06:07,993
+- Köszönöm.
+- Szívesen.
+
+132
+00:06:08,618 --> 00:06:10,161
+- Itt megvárlak.
+- Oké.
+
+133
+00:06:10,245 --> 00:06:11,788
+Gyere! Erre!
+
+134
+00:06:12,914 --> 00:06:15,876
+- Erre!
+- Mindig ilyen sokan vannak?
+
+135
+00:06:16,918 --> 00:06:18,044
+Nagyjából.
+
+136
+00:06:18,128 --> 00:06:21,006
+Hűha! Rengeteg büdös ember van itt.
+
+137
+00:06:21,840 --> 00:06:23,550
+- Igen.
+- Mindenkin te segítesz?
+
+138
+00:06:24,050 --> 00:06:26,595
+- Igen, de kezdjük először veled!
+- Oké.
+
+139
+00:06:28,179 --> 00:06:29,180
+Fáj még a kezed?
+
+140
+00:06:29,848 --> 00:06:31,433
+Már egyáltalán nem érzem.
+
+141
+00:06:32,100 --> 00:06:33,101
+Ancef beadva.
+
+142
+00:06:33,184 --> 00:06:36,438
+Most fiziológiás sóoldattal
+tisztítjuk ki a sebet.
+
+143
+00:06:36,521 --> 00:06:37,397
+Oké.
+
+144
+00:06:41,526 --> 00:06:42,360
+Mi a helyzet?
+
+145
+00:06:43,153 --> 00:06:44,821
+Kéz kontra petárda.
+
+146
+00:06:44,905 --> 00:06:46,823
+Meglep, hogy eddig csak egy jött.
+
+147
+00:06:46,907 --> 00:06:49,367
+Ma még jöhet pár. Hiányzik a negyedik
+
+148
+00:06:49,451 --> 00:06:50,911
+- kézközépcsont.
+- Pech.
+
+149
+00:06:53,204 --> 00:06:56,249
+- Szia, dr. Garcia vagyok.
+- Meg fognak műteni?
+
+150
+00:06:56,333 --> 00:06:59,294
+Igen. Az első műtét célja
+a seb alapos kitisztítása
+
+151
+00:06:59,377 --> 00:07:01,212
+és a csont lefedése.
+
+152
+00:07:02,088 --> 00:07:04,716
+De a legfontosabb ujjaid megmaradtak.
+
+153
+00:07:09,471 --> 00:07:12,182
+- Mit kapott a fájdalomra?
+- Idegblokádot.
+
+154
+00:07:12,265 --> 00:07:15,268
+A kézsebészet mindig
+saját vizsgálatot akar végezni.
+
+155
+00:07:15,352 --> 00:07:18,396
+A többi ujj ép.
+Érzi az érintést és a tűszúrást.
+
+156
+00:07:21,733 --> 00:07:25,070
+Igen, megmaradt a hajlító
+és feszítő izomfunkció.
+
+157
+00:07:25,862 --> 00:07:28,406
+- A műtéthez szülői beleegyezés kell.
+- Szerzünk.
+
+158
+00:07:28,490 --> 00:07:29,324
+Dr. Robby?
+
+159
+00:07:34,037 --> 00:07:35,538
+Alkoholt érzek rajta.
+
+160
+00:07:37,624 --> 00:07:39,793
+Műtőlistán van. Várni kell egy kicsit.
+
+161
+00:07:39,876 --> 00:07:42,045
+Az ortopédia még Allen Billingsnél tart,
+
+162
+00:07:42,128 --> 00:07:44,381
+- akinek vállficama van.
+- Még műtik?
+
+163
+00:07:44,464 --> 00:07:46,257
+Egy órát várt az aneszteziológiára.
+
+164
+00:07:46,341 --> 00:07:48,385
+A biztosító állja majd a műtétet?
+
+165
+00:07:48,468 --> 00:07:50,053
+Igen, mert a Westbridge bezárt.
+
+166
+00:07:50,136 --> 00:07:53,390
+Jó, mert a késés növeli
+a posztoperatív fertőzés kockázatát.
+
+167
+00:07:53,473 --> 00:07:56,351
+Bírom, ha a biztosító hoz orvosi döntést.
+
+168
+00:07:58,186 --> 00:07:59,270
+- Hé!
+- Mi a helyzet?
+
+169
+00:07:59,646 --> 00:08:02,607
+Akkor elhalasztjuk a mai tűzijátéknézést?
+
+170
+00:08:02,691 --> 00:08:04,275
+Azt hittem, átjössz.
+
+171
+00:08:04,359 --> 00:08:05,527
+Más programom lett.
+
+172
+00:08:06,987 --> 00:08:07,821
+Oké, jó.
+
+173
+00:08:08,655 --> 00:08:12,117
+Majd holnap beszélünk. Csak lazán, oké?
+
+174
+00:08:12,617 --> 00:08:13,451
+Persze.
+
+175
+00:08:18,164 --> 00:08:19,749
+Igen. Köszönöm.
+
+176
+00:08:19,833 --> 00:08:20,667
+Igen, viszlát!
+
+177
+00:08:21,292 --> 00:08:23,253
+Hé! Elértem annak a betegnek a húgát,
+
+178
+00:08:23,336 --> 00:08:25,380
+akit Abbot a Presbibe visz.
+
+179
+00:08:25,463 --> 00:08:29,050
+Még Arizonában él,
+de beszélne majd a testvérével.
+
+180
+00:08:29,843 --> 00:08:30,802
+Ez jó hír.
+
+181
+00:08:30,885 --> 00:08:32,929
+Szerinted mikor hozzák vissza a pasast?
+
+182
+00:08:33,013 --> 00:08:35,140
+Attól függ, mennyire húzós a helyzet ott.
+
+183
+00:08:35,223 --> 00:08:37,475
+- Ha olyan, mint itt, ki tudja.
+- Igaz.
+
+184
+00:08:38,935 --> 00:08:39,894
+Jön a segítség?
+
+185
+00:08:40,562 --> 00:08:42,313
+Te kishitű. Adsz egy gumit?
+
+186
+00:08:44,357 --> 00:08:45,900
+Kösz, nálam fogyóeszköz.
+
+187
+00:08:47,819 --> 00:08:49,154
+De utálom ezt a napot!
+
+188
+00:08:49,237 --> 00:08:51,239
+Azt hittem, simán elmegyek szabira.
+
+189
+00:08:51,781 --> 00:08:54,617
+Isten a legerősebbeknek adja
+a legnehezebb csatákat.
+
+190
+00:08:54,701 --> 00:08:57,037
+Dana, van szabad szoba? Ő a nővérem.
+
+191
+00:08:57,120 --> 00:08:59,289
+Fáj a hasa, és ágyra van szüksége.
+
+192
+00:08:59,372 --> 00:09:01,082
+A nevem Becca, nem „a nővérem”.
+
+193
+00:09:01,166 --> 00:09:05,712
+Bocs, igen, Dana, dr. Robby, ő Becca.
+
+194
+00:09:06,337 --> 00:09:08,590
+- Nagyon örülök.
+- Ön dr. Robby?
+
+195
+00:09:09,299 --> 00:09:10,175
+Király.
+
+196
+00:09:10,258 --> 00:09:12,594
+A hetest most takarították.
+Hozhatok valamit?
+
+197
+00:09:12,677 --> 00:09:13,678
+Nem, köszönöm.
+
+198
+00:09:17,515 --> 00:09:18,683
+Várj, Becca! Gyere!
+
+199
+00:09:20,268 --> 00:09:22,437
+Bemegyünk ide, ebbe a szobába.
+
+200
+00:09:24,481 --> 00:09:28,109
+Akkor most le kell vetkőznöd,
+és felvenni a kórházi köpenyt,
+
+201
+00:09:28,193 --> 00:09:29,694
+ami ott van az ágyadon.
+
+202
+00:09:29,778 --> 00:09:32,489
+Utána feltérképezzük az előzményeket.
+
+203
+00:09:32,572 --> 00:09:35,909
+Rengeteg kérdést teszek majd fel neked.
+
+204
+00:09:35,992 --> 00:09:39,412
+- Aztán jön a fizikai vizsgálat.
+- Mel, voltam már orvosnál.
+
+205
+00:09:41,289 --> 00:09:42,373
+Igen. Bocsánat!
+
+206
+00:09:42,832 --> 00:09:45,376
+Csak szeretném ezt rendesen csinálni.
+
+207
+00:09:49,881 --> 00:09:51,466
+Fel kell venned a telefont?
+
+208
+00:09:51,549 --> 00:09:53,843
+Nem, ez csak egy emlékeztető
+
+209
+00:09:53,927 --> 00:09:56,304
+egy megbeszélésre, ami 15 perc múlva lesz.
+
+210
+00:09:56,387 --> 00:09:57,931
+El kell menned?
+
+211
+00:09:59,224 --> 00:10:01,059
+Először lássunk el téged, jó?
+
+212
+00:10:01,142 --> 00:10:03,520
+Öltözz át, én a függöny mögött leszek.
+
+213
+00:10:03,603 --> 00:10:04,437
+Oké.
+
+214
+00:10:06,272 --> 00:10:07,107
+Oké.
+
+215
+00:10:17,867 --> 00:10:19,911
+A nyereményed.
+
+216
+00:10:20,995 --> 00:10:23,873
+Zöldben látom a világot, bébi!
+
+217
+00:10:25,083 --> 00:10:26,209
+Csaló!
+
+218
+00:10:27,168 --> 00:10:29,504
+Azt hiszed, nem tudom, hogy infókat kapsz
+
+219
+00:10:29,587 --> 00:10:30,922
+a Westbridge-ből?
+
+220
+00:10:33,133 --> 00:10:34,384
+Vele mi van?
+
+221
+00:10:34,968 --> 00:10:36,719
+Beakadt a papír. Ezért morcos.
+
+222
+00:10:39,013 --> 00:10:41,057
+- Mennyiért hallgatsz?
+- A feléért.
+
+223
+00:10:41,141 --> 00:10:42,642
+- 30 százalék.
+- 40.
+
+224
+00:10:43,309 --> 00:10:44,144
+Jó.
+
+225
+00:10:45,770 --> 00:10:46,980
+- Megpróbáljam én?
+- Ne!
+
+226
+00:10:47,772 --> 00:10:49,566
+- Ez az!
+- Megvan.
+
+227
+00:10:54,654 --> 00:10:57,115
+- Mit ír?
+- „Cseréljen patront!” Ez a pokol.
+
+228
+00:10:57,198 --> 00:11:00,034
+- Honnan lesz patron?
+- '88-ból. Láttál már ilyet?
+
+229
+00:11:00,118 --> 00:11:01,870
+Őszintén? Nem.
+
+230
+00:11:01,953 --> 00:11:03,663
+Hogy juttatjuk el az eredményeket?
+
+231
+00:11:03,746 --> 00:11:05,498
+Ahogy régen: futárokkal.
+
+232
+00:11:05,832 --> 00:11:08,751
+Megnézem, tudnak-e fentről küldeni embert.
+
+233
+00:11:13,464 --> 00:11:16,092
+Mikor derült ki
+a policisztásovárium-szindróma?
+
+234
+00:11:16,176 --> 00:11:19,012
+- Tavaly nyáron.
+- Akkor kezdődtek a tünetek?
+
+235
+00:11:19,095 --> 00:11:21,431
+Nem. Évek óta voltak hormonális panaszaim
+
+236
+00:11:21,514 --> 00:11:23,808
+és rendszertelen menstruációm.
+
+237
+00:11:23,892 --> 00:11:27,061
+Végül akkor diagnosztizáltak,
+amikor nőgyógyászt váltottam.
+
+238
+00:11:27,729 --> 00:11:30,565
+A diagnózis felállítása időbe telhet.
+
+239
+00:11:31,399 --> 00:11:33,651
+Ez a kifogás, amikor valaki hanyag.
+
+240
+00:11:34,611 --> 00:11:36,779
+Ráadásul néhányuk nem figyel a nőkre,
+
+241
+00:11:36,863 --> 00:11:38,323
+pláne nem a feketékre.
+
+242
+00:11:39,282 --> 00:11:40,658
+Nem volt könnyű.
+
+243
+00:11:40,742 --> 00:11:41,951
+Most milyen a fájdalom?
+
+244
+00:11:42,535 --> 00:11:43,620
+- Jobb.
+- Mit kapott?
+
+245
+00:11:43,703 --> 00:11:45,038
+Toradolt.
+
+246
+00:11:45,705 --> 00:11:48,082
+Volt már transzvaginális ultrahangja?
+
+247
+00:11:48,583 --> 00:11:50,293
+Megszámolni sem tudom, hányszor.
+
+248
+00:11:50,376 --> 00:11:52,545
+Jó, csússzon egy kicsit lejjebb,
+
+249
+00:11:52,629 --> 00:11:55,506
+segítek a lábát a kengyelbe tenni.
+
+250
+00:11:55,590 --> 00:11:57,759
+Igen, így jó.
+
+251
+00:12:06,434 --> 00:12:07,852
+Rendben, akkor kezdhetjük?
+
+252
+00:12:08,478 --> 00:12:10,647
+Hideg zselé és egy kis nyomás.
+
+253
+00:12:14,067 --> 00:12:14,901
+Oké.
+
+254
+00:12:16,486 --> 00:12:20,740
+A méhen kívüli terhesség nem valószínű,
+mivel a tesztje negatív volt.
+
+255
+00:12:21,324 --> 00:12:24,327
+- Remélem, egyszer pozitív lesz.
+- Próbálkoznak?
+
+256
+00:12:24,410 --> 00:12:27,038
+Most még nem. Ősszel megyek férjhez.
+
+257
+00:12:27,997 --> 00:12:29,415
+- Gratulálunk.
+- Oké.
+
+258
+00:12:31,459 --> 00:12:34,045
+Sok apró cisztája van, de ez várható volt.
+
+259
+00:12:34,128 --> 00:12:37,382
+De van egy nagyobb is,
+körülbelül 5 centiméteres.
+
+260
+00:12:38,091 --> 00:12:39,676
+A nőgyógyászom figyeli.
+
+261
+00:12:41,135 --> 00:12:45,014
+Van egy kevés szabad hasi folyadék.
+
+262
+00:12:45,098 --> 00:12:47,350
+Ellenőrzöm a petefészek vérellátását.
+
+263
+00:12:47,934 --> 00:12:49,936
+Oké, rendben. Kiveszem.
+
+264
+00:12:52,146 --> 00:12:53,147
+- Bocsi.
+- Oké.
+
+265
+00:12:55,233 --> 00:12:58,278
+Visszajövünk, ha meglesznek
+a vérvizsgálati eredmények.
+
+266
+00:13:01,364 --> 00:13:02,448
+Mit gondolsz?
+
+267
+00:13:02,532 --> 00:13:04,951
+Egy kisebb cisztarepedés
+okozhatta a fájdalmat,
+
+268
+00:13:05,034 --> 00:13:08,121
+ami nem szteroidos
+gyulladáscsökkentőre javult.
+
+269
+00:13:08,204 --> 00:13:09,330
+És mi a terv?
+
+270
+00:13:09,414 --> 00:13:10,957
+Hazamehet naproxennel.
+
+271
+00:13:11,874 --> 00:13:15,670
+Nem lehet, hogy eddig is
+pontosan ezt csinálták az orvosai?
+
+272
+00:13:15,753 --> 00:13:18,256
+Azt mondta, jobban van, de befektethetjük.
+
+273
+00:13:18,840 --> 00:13:20,049
+Nem nézett ki jól,
+
+274
+00:13:20,133 --> 00:13:23,052
+és a fájdalma sokkal erősebb volt.
+
+275
+00:13:23,136 --> 00:13:25,346
+- Tartsuk itt megfigyelésre!
+- Oké.
+
+276
+00:13:26,597 --> 00:13:29,309
+Mr. Green, bemutatom dr. Mohant
+és Ogilvie hallgatót.
+
+277
+00:13:30,685 --> 00:13:32,562
+Mit kell tudnunk a fájdalmáról?
+
+278
+00:13:32,645 --> 00:13:33,938
+Mint egy újabb vesekő.
+
+279
+00:13:34,856 --> 00:13:36,691
+- Volt már?
+- Azt mondtam, „újabb”,
+
+280
+00:13:36,774 --> 00:13:38,651
+ami pontosan ezt jelenti.
+
+281
+00:13:40,528 --> 00:13:42,238
+Nyelvtant tanítok.
+
+282
+00:13:42,947 --> 00:13:45,783
+Ironikus. Az apám is nyelvtantanár.
+
+283
+00:13:47,869 --> 00:13:50,330
+Biztos vagyok benne, hogy büszke magára.
+
+284
+00:13:51,748 --> 00:13:52,874
+Tőle kérdezze!
+
+285
+00:13:53,374 --> 00:13:57,253
+Térjünk vissza a fájdalmára!
+Hasonló ahhoz, amit korábban érzett?
+
+286
+00:13:57,337 --> 00:14:01,299
+Pont olyan, mint mindig. Bal vese.
+Tegnap este tíz körül kezdődött.
+
+287
+00:14:01,382 --> 00:14:02,884
+Volt láza, pisilt vért?
+
+288
+00:14:02,967 --> 00:14:06,846
+Nem. Láz nincs.
+A vizelet kicsit sötétebb a szokásosnál.
+
+289
+00:14:06,929 --> 00:14:08,931
+A kiszáradás kőképződést okozhat.
+
+290
+00:14:09,015 --> 00:14:10,516
+Dőljön előre egy kicsit!
+
+291
+00:14:10,600 --> 00:14:12,310
+- Vesetáji érzékenység.
+- Igen.
+
+292
+00:14:12,393 --> 00:14:13,227
+Rendben.
+
+293
+00:14:15,313 --> 00:14:17,106
+Szóljon, ha kellemetlen!
+
+294
+00:14:20,026 --> 00:14:21,152
+- Bocsánat!
+- Igen.
+
+295
+00:14:21,235 --> 00:14:23,237
+- Kérünk vizsgálatot és gyógyszert.
+- Jó.
+
+296
+00:14:28,493 --> 00:14:30,328
+Vizeletes tesztcsík, labor, ultrahang
+
+297
+00:14:30,411 --> 00:14:32,705
+és ketorolac a fájdalomra.
+
+298
+00:14:32,789 --> 00:14:33,956
+- Az jó lesz.
+- Oké.
+
+299
+00:14:40,088 --> 00:14:43,424
+- Jól megdolgoztattok.
+- Mozgalmas napunk van, dr. Barker.
+
+300
+00:14:43,508 --> 00:14:44,342
+Hívj Nicknek!
+
+301
+00:14:47,095 --> 00:14:49,597
+- Ez meg mi?
+- Idehoztam a radiológiát.
+
+302
+00:14:49,680 --> 00:14:53,017
+Dr. Barker, Nick,
+szárítás előtti leletekkel szolgál.
+
+303
+00:14:53,101 --> 00:14:54,352
+- Jó ötlet.
+- Köszi!
+
+304
+00:14:55,311 --> 00:14:57,688
+- Szárítás előtti?
+- Nem tanultál fotózást?
+
+305
+00:14:57,772 --> 00:14:59,107
+Kábé általánosban.
+
+306
+00:14:59,190 --> 00:15:00,817
+A digitális technológia előtt
+
+307
+00:15:00,900 --> 00:15:03,444
+a filmeket vegyszeres folyadékban
+hívták elő,
+
+308
+00:15:03,528 --> 00:15:04,737
+innen jön a név.
+
+309
+00:15:05,571 --> 00:15:06,614
+Szupi.
+
+310
+00:15:06,697 --> 00:15:08,199
+Rengeteg helyet foglal.
+
+311
+00:15:09,951 --> 00:15:11,828
+Dylan üzent az elhagyott csecsemőről.
+
+312
+00:15:11,911 --> 00:15:14,831
+A gyermekvédelem
+ideiglenes felügyeleti engedélyt kért.
+
+313
+00:15:14,914 --> 00:15:17,375
+Amint megvan, nevelőszülőkhöz tudjuk adni.
+
+314
+00:15:17,458 --> 00:15:18,751
+Imádom a fotózást.
+
+315
+00:15:19,919 --> 00:15:22,338
+- Jézusom!
+- Dr. Robby, elrabolhatlak?
+
+316
+00:15:22,422 --> 00:15:23,714
+Persze. Miben segíthetek?
+
+317
+00:15:23,798 --> 00:15:24,841
+Fáj a hasa,
+
+318
+00:15:24,924 --> 00:15:27,844
+- de ez sok mindent jelenthet.
+- Oké, nagy levegő.
+
+319
+00:15:28,344 --> 00:15:30,012
+Dr. Mel Kinget keresem.
+
+320
+00:15:30,596 --> 00:15:31,431
+Igen?
+
+321
+00:15:32,849 --> 00:15:35,143
+Morgan Stiles vagyok, a kórház ügyvédje.
+
+322
+00:15:35,226 --> 00:15:37,270
+Azért jöttem, hogy felkísérjem önt.
+
+323
+00:15:37,854 --> 00:15:38,688
+Pont most?
+
+324
+00:15:39,647 --> 00:15:42,150
+Morgan, beszélhetnék vele egy percet?
+
+325
+00:15:42,942 --> 00:15:43,776
+Persze.
+
+326
+00:15:46,279 --> 00:15:49,407
+- Nem lesz baj.
+- Nem tudok felmenni Becca miatt.
+
+327
+00:15:49,490 --> 00:15:51,659
+Nem neked kellene ellátnod Beccát.
+
+328
+00:15:51,742 --> 00:15:53,536
+Családtagot kezelni nem jó ötlet,
+
+329
+00:15:53,619 --> 00:15:55,079
+nehéz objektívnek maradni.
+
+330
+00:15:55,163 --> 00:15:57,373
+Nézzük, ki szabad! Hé, ráérsz most?
+
+331
+00:15:57,874 --> 00:15:59,459
+Van itt bárki, aki ráér?
+
+332
+00:16:00,710 --> 00:16:01,544
+Ne egy másodévest!
+
+333
+00:16:03,087 --> 00:16:04,464
+Pont rád van szükségünk.
+
+334
+00:16:04,547 --> 00:16:05,882
+- Kell valami?
+- Igen.
+
+335
+00:16:07,216 --> 00:16:11,053
+Jó. Dr. King nővérének hasfájása van.
+A te eseted.
+
+336
+00:16:11,637 --> 00:16:14,474
+Te vedd át a többi betegét,
+amíg ő vallomást tesz!
+
+337
+00:16:14,557 --> 00:16:16,392
+Hogy csináljam a dokumentációt,
+
+338
+00:16:16,476 --> 00:16:18,478
+a plusz betegekkel, ha nincsenek gépek?
+
+339
+00:16:18,561 --> 00:16:19,937
+Ahogy mindenki más.
+
+340
+00:16:20,021 --> 00:16:22,064
+A dokumentációt hagyd a műszak végére!
+
+341
+00:16:23,065 --> 00:16:24,108
+Hát ez kurva jó!
+
+342
+00:16:29,739 --> 00:16:30,990
+- Szia, Becca!
+- Szia!
+
+343
+00:16:31,073 --> 00:16:33,701
+Ő itt dr. Langdon. Ő vizsgál meg téged.
+
+344
+00:16:33,784 --> 00:16:36,913
+Nagyon szép a hajad, dr. Langdon.
+
+345
+00:16:37,997 --> 00:16:38,831
+Köszönöm.
+
+346
+00:16:39,499 --> 00:16:41,959
+Mel, le tudnád kapcsolni a villanyt,
+ha kimész?
+
+347
+00:16:42,752 --> 00:16:43,586
+Persze.
+
+348
+00:16:44,670 --> 00:16:46,756
+És amint végzek, visszajövök.
+
+349
+00:16:47,340 --> 00:16:49,050
+Nyugodtan hívj, ha bármi van,
+
+350
+00:16:49,133 --> 00:16:51,802
+- vissza tudok...
+- Ne aggódj! Jó kezekben van.
+
+351
+00:16:52,678 --> 00:16:53,513
+Tudom.
+
+352
+00:16:54,514 --> 00:16:55,348
+Oké.
+
+353
+00:17:03,314 --> 00:17:05,775
+Mel sok jót mesélt rólad.
+
+354
+00:17:08,277 --> 00:17:09,111
+Oké.
+
+355
+00:17:11,405 --> 00:17:13,366
+Miért jöttél ma be hozzánk?
+
+356
+00:17:13,449 --> 00:17:14,534
+Mert fáj a hasam.
+
+357
+00:17:15,159 --> 00:17:16,827
+Fáj a hasad? Hol?
+
+358
+00:17:16,911 --> 00:17:18,955
+Itt lent.
+
+359
+00:17:19,038 --> 00:17:23,584
+Oké. Van még valami tünet,
+vagy csak a hasfájás?
+
+360
+00:17:23,668 --> 00:17:25,628
+Csíp, amikor pisilek.
+
+361
+00:17:26,337 --> 00:17:30,633
+A nők gyakran úgy érzik,
+hogy pisilniük kell.
+
+362
+00:17:30,716 --> 00:17:32,260
+- Te is így érzed?
+- Igen.
+
+363
+00:17:32,343 --> 00:17:35,721
+- És utána mi történik?
+- Alig jön valami.
+
+364
+00:17:36,931 --> 00:17:38,182
+Gondoltam.
+
+365
+00:17:38,266 --> 00:17:40,309
+Tényleg? Honnan tudod?
+
+366
+00:17:41,310 --> 00:17:43,604
+Sok hasonló beteget láttam már.
+
+367
+00:17:43,688 --> 00:17:46,023
+- Akkor ez normális?
+- Igen, elég gyakori.
+
+368
+00:17:46,941 --> 00:17:48,109
+De kezelnünk kell.
+
+369
+00:17:48,901 --> 00:17:49,735
+Oké.
+
+370
+00:17:56,492 --> 00:17:57,577
+Üdv!
+
+371
+00:17:57,660 --> 00:17:58,744
+Hogy van, Roxie?
+
+372
+00:17:59,704 --> 00:18:01,455
+- Kicsit jobban.
+- Igen?
+
+373
+00:18:01,956 --> 00:18:03,124
+Kell még morfin?
+
+374
+00:18:09,880 --> 00:18:12,383
+Végig szörnyű fájdalmaim voltak.
+
+375
+00:18:13,259 --> 00:18:14,427
+Miért nem mondtad?
+
+376
+00:18:16,262 --> 00:18:17,888
+Nem akartam, hogy aggódjatok.
+
+377
+00:18:20,182 --> 00:18:21,892
+Már nem tudok színlelni.
+
+378
+00:18:23,811 --> 00:18:26,272
+Anya, olyan meleg van kint,
+hogy olvad a fagyi.
+
+379
+00:18:28,107 --> 00:18:28,941
+Egy kicsit...
+
+380
+00:18:30,151 --> 00:18:31,652
+Kényeztettük magunkat.
+
+381
+00:18:33,070 --> 00:18:34,238
+Hú, ez igen!
+
+382
+00:18:35,406 --> 00:18:36,282
+De jól néz ki!
+
+383
+00:18:36,365 --> 00:18:38,868
+Na, akkor melyikkel kezdjük?
+
+384
+00:18:38,951 --> 00:18:40,578
+A karamellel. Az anya kedvence.
+
+385
+00:18:42,288 --> 00:18:43,914
+Jó sok szalvéta kell majd.
+
+386
+00:18:59,889 --> 00:19:00,723
+Ez bunkó volt.
+
+387
+00:19:00,806 --> 00:19:02,141
+Csukd be a szád!
+
+388
+00:19:03,643 --> 00:19:04,685
+Mi a helyzet odabent?
+
+389
+00:19:05,353 --> 00:19:06,854
+Minden oké. Langdon ügyes.
+
+390
+00:19:06,937 --> 00:19:08,648
+Még hét felvételt rendeltünk,
+
+391
+00:19:08,731 --> 00:19:10,524
+de dr. Nick lefoglalja a gépet.
+
+392
+00:19:12,068 --> 00:19:14,195
+Nincs azon a mobil készüléken egy USB?
+
+393
+00:19:14,278 --> 00:19:17,073
+Nem tudjuk letölteni
+a képeket egy munkaállomásra,
+
+394
+00:19:17,156 --> 00:19:18,616
+és net nélkül megnézni őket?
+
+395
+00:19:18,699 --> 00:19:20,534
+- De.
+- Tényleg. Elfelejtettem.
+
+396
+00:19:21,077 --> 00:19:23,496
+Most segít, vagy csak hátráltat?
+
+397
+00:19:23,579 --> 00:19:26,207
+Töltsük le ezeket,
+és haladjunk a röntgenesekkel!
+
+398
+00:19:26,290 --> 00:19:29,085
+Szuper. Visszajövök,
+amikor kész a következő adag.
+
+399
+00:19:29,168 --> 00:19:31,212
+Dr. Robby, megérkezett a gondviselő
+
+400
+00:19:31,295 --> 00:19:32,880
+a 12-esben lévő gyerekhez.
+
+401
+00:19:32,963 --> 00:19:35,341
+Köszönöm, Olive.
+Utánam küldenéd dr. Santost?
+
+402
+00:19:35,424 --> 00:19:37,218
+- Persze.
+- Ki van a 22-esben?
+
+403
+00:19:37,301 --> 00:19:38,928
+Senki. A fejfájós hazament.
+
+404
+00:19:39,011 --> 00:19:41,347
+- Mondd ezt a hölgynek, aki ott van!
+- Mi?
+
+405
+00:19:41,430 --> 00:19:45,184
+Be akartam tenni oda
+egy véres vizeletű beteget, de foglalt.
+
+406
+00:19:45,267 --> 00:19:46,310
+A 22-es? Biztos?
+
+407
+00:19:46,394 --> 00:19:47,895
+- Teljesen.
+- Ő az én betegem.
+
+408
+00:19:47,978 --> 00:19:50,064
+Akkor miért nincs a táblán?
+
+409
+00:19:51,023 --> 00:19:53,484
+Ott kéne lennie. Olive hozta a triázsból.
+
+410
+00:19:53,567 --> 00:19:55,403
+Átvettem. Azt hittem, felkerült.
+
+411
+00:19:55,486 --> 00:19:57,488
+Ezt ellenőrizned kellett volna.
+
+412
+00:19:57,571 --> 00:19:59,365
+Azt hittem, az ápolók írják fel.
+
+413
+00:19:59,448 --> 00:20:00,741
+Ezt mindenkinek kell.
+
+414
+00:20:01,283 --> 00:20:03,661
+Most nincs szabad szoba. Tedd a folyosóra!
+
+415
+00:20:03,744 --> 00:20:04,704
+A beteged?
+
+416
+00:20:05,204 --> 00:20:07,373
+Hányingeres. Labort és röntgent kértem.
+
+417
+00:20:07,456 --> 00:20:09,333
+- Kivel látod el?
+- Még nem tudom.
+
+418
+00:20:09,417 --> 00:20:12,169
+Akkor keress valakit,
+akinek dr. van a nevében!
+
+419
+00:20:14,672 --> 00:20:16,006
+Gyerekek...
+
+420
+00:20:18,592 --> 00:20:22,555
+- Üdv! Dr. Robby vagyok. Ő dr. Santos.
+- Chantal.
+
+421
+00:20:22,638 --> 00:20:24,348
+Örülök. Mi látjuk el a testvérét.
+
+422
+00:20:24,432 --> 00:20:25,933
+Ön a törvényes gyámja?
+
+423
+00:20:26,016 --> 00:20:28,811
+Igen. A szüleink máshol vannak.
+
+424
+00:20:30,187 --> 00:20:32,398
+- Rendbe jön?
+- Nagy szerencséje volt.
+
+425
+00:20:32,481 --> 00:20:35,609
+A nem domináns kezén
+a 4. és 5. ujját elvesztette.
+
+426
+00:20:35,693 --> 00:20:38,279
+De ha nem dobja el a petárdát,
+rosszabbul jár.
+
+427
+00:20:38,362 --> 00:20:40,114
+Két ujját elveszítette?
+
+428
+00:20:41,365 --> 00:20:43,117
+Tudja majd használni a kezét?
+
+429
+00:20:43,200 --> 00:20:45,786
+Igen. Megvan a három legfontosabb ujja,
+
+430
+00:20:45,870 --> 00:20:47,204
+amik működnek is.
+
+431
+00:20:47,288 --> 00:20:50,082
+De műtétre lesz szükség
+a seb kitisztításához.
+
+432
+00:20:50,916 --> 00:20:53,878
+- Mi a szart gondoltál?
+- Sajnálom.
+
+433
+00:20:53,961 --> 00:20:56,881
+Alex áthívott.
+A bátyjának volt egy halom petár...
+
+434
+00:20:56,964 --> 00:21:00,009
+Nem megmondtam,
+hogy ne lógj azokkal a kölykökkel?
+
+435
+00:21:00,092 --> 00:21:01,260
+Látod, mi lett!
+
+436
+00:21:01,343 --> 00:21:03,220
+Azt hiszed, én ezt akartam?
+
+437
+00:21:03,304 --> 00:21:05,765
+- Hallgathatnál rám!
+- Nem vagy az anyám.
+
+438
+00:21:05,848 --> 00:21:09,477
+- Szerinted az anyád akarok lenni?
+- Menjünk ki egy kicsit!
+
+439
+00:21:14,148 --> 00:21:16,734
+Ez biztos nagyon megterhelő.
+
+440
+00:21:16,817 --> 00:21:19,904
+- Majdnem elveszítette a kezét.
+- Kedves gyerek.
+
+441
+00:21:19,987 --> 00:21:20,821
+Régen az volt.
+
+442
+00:21:20,905 --> 00:21:22,698
+Találtunk valamit a vérében.
+
+443
+00:21:23,741 --> 00:21:26,410
+- Mit?
+- A véralkoholszintje 0,8 ezrelék.
+
+444
+00:21:28,496 --> 00:21:29,580
+Részeg volt?
+
+445
+00:21:29,663 --> 00:21:31,415
+Ezt most komolyan mondják?
+
+446
+00:21:31,499 --> 00:21:33,459
+- Rendszeresen iszik?
+- Nem.
+
+447
+00:21:35,544 --> 00:21:36,378
+Nem tudom.
+
+448
+00:21:37,087 --> 00:21:40,257
+A lakótelepi srácok
+rossz hatással vannak rá.
+
+449
+00:21:41,091 --> 00:21:43,719
+- Még csak 12.
+- Pont ez aggaszt minket.
+
+450
+00:21:43,803 --> 00:21:47,181
+Pozitív véralkohol esetén
+gyermekvédelmi eljárás indul.
+
+451
+00:21:47,848 --> 00:21:50,559
+- Elveszik tőlem?
+- Egy felmérésről van szó,
+
+452
+00:21:50,643 --> 00:21:53,229
+hogy kiderüljön,
+indokol-e ez beavatkozást.
+
+453
+00:21:53,312 --> 00:21:55,481
+- Nem hagyom! Nem!
+- Fontos, hogy...
+
+454
+00:22:05,783 --> 00:22:07,827
+58 éves női beteg, egyszer hányt,
+
+455
+00:22:07,910 --> 00:22:09,954
+miután meleg krumplisalátát evett.
+
+456
+00:22:10,037 --> 00:22:11,539
+A has vizsgálata negatív,
+
+457
+00:22:11,622 --> 00:22:13,707
+csak kissé puffadt és nyomásérzékeny.
+
+458
+00:22:13,791 --> 00:22:15,835
+Székrekedése volt. Kapott Zofrant.
+
+459
+00:22:15,918 --> 00:22:18,921
+- Vizsgálatok folyamatban.
+- Rendben, nézzük meg!
+
+460
+00:22:19,004 --> 00:22:22,675
+Üdv, Mrs. Burns! Ő dr. Whitaker.
+Hogy érzi magát?
+
+461
+00:22:24,176 --> 00:22:25,010
+Mrs. Burns?
+
+462
+00:22:26,178 --> 00:22:28,305
+Mrs. Burns, nyissa ki a szemét!
+
+463
+00:22:28,389 --> 00:22:30,057
+Legutóbb még teljesen éber volt.
+
+464
+00:22:30,140 --> 00:22:33,143
+A teste meleg. Gyenge pulzus.
+
+465
+00:22:33,227 --> 00:22:36,981
+- A hasa puffadtabb, mint korábban.
+- Rendben. Agonális légzés.
+
+466
+00:22:37,064 --> 00:22:38,816
+- Alig lélegzik.
+- És elég kemény.
+
+467
+00:22:38,899 --> 00:22:42,027
+Jó. Perlah, kell reanimációs kocsi.
+Szólj a légzésterápiának!
+
+468
+00:22:42,111 --> 00:22:43,988
+- Húzzátok ki az intubáláshoz!
+- Jó.
+
+469
+00:22:44,655 --> 00:22:46,031
+Én arrébb tudok menni.
+
+470
+00:22:47,950 --> 00:22:50,327
+- Mi történt?
+- Hipotenzív, akut has.
+
+471
+00:22:50,411 --> 00:22:52,288
+- Biztosítjuk a légutat.
+- GlideScope.
+
+472
+00:22:52,371 --> 00:22:55,040
+Van laringoszkóp a kocsin.
+Whitaker, te jössz.
+
+473
+00:22:55,124 --> 00:22:58,002
+- Nem sok direkt intubálást csináltam.
+- Mit adjunk?
+
+474
+00:22:58,586 --> 00:22:59,879
+100 milli ketamin, 80 rok.
+
+475
+00:22:59,962 --> 00:23:01,589
+Javadi, mi a történet?
+
+476
+00:23:02,798 --> 00:23:05,426
+Hasi fájdalommal jött,
+aztán hirtelen romlott.
+
+477
+00:23:07,595 --> 00:23:10,055
+Pitvarfib 122, a szisztolés vérnyomás 98.
+
+478
+00:23:10,139 --> 00:23:12,683
+- Adjunk még 500 millis folyadékbolust!
+- Sokkoljuk?
+
+479
+00:23:12,766 --> 00:23:15,644
+Talán. Intubálás után. Ellenőrizd a fényt!
+
+480
+00:23:15,728 --> 00:23:17,980
+Tegyél fel korongokat,
+ha kardioverzió kell!
+
+481
+00:23:18,063 --> 00:23:20,149
+Normális EKG-ja volt.
+Nem volt fibrilláció.
+
+482
+00:23:20,232 --> 00:23:21,984
+A stressz miatt lehet.
+
+483
+00:23:22,568 --> 00:23:23,903
+Jó, fordítsuk!
+
+484
+00:23:23,986 --> 00:23:25,738
+- Laboreredmény?
+- Még nincs.
+
+485
+00:23:25,821 --> 00:23:26,906
+Mire van még szükség?
+
+486
+00:23:28,032 --> 00:23:30,910
+Vérkultúrák.
+3,375g piperacillin–tazobaktám.
+
+487
+00:23:31,827 --> 00:23:33,787
+Rendben, elég „laza”. Mehet, Whitaker.
+
+488
+00:23:34,538 --> 00:23:35,372
+Oké.
+
+489
+00:23:42,755 --> 00:23:45,549
+Szia! Dr. Santos vagyok,
+ő pedig Kwon hallgató.
+
+490
+00:23:45,633 --> 00:23:47,134
+Hogy hat a párás köd?
+
+491
+00:23:47,217 --> 00:23:48,761
+Jobban vagyok, mint egy órája.
+
+492
+00:23:49,178 --> 00:23:51,347
+Ellenőrizzük az életjeleket!
+
+493
+00:23:53,849 --> 00:23:57,978
+A hőmérséklet 37,9, a pulzus 96.
+
+494
+00:23:58,062 --> 00:24:00,981
+Rendben, ez csökkent
+38,6-ról és 120-ról. Nagyon jó.
+
+495
+00:24:02,358 --> 00:24:03,943
+A hőségben viselte a jelmezt?
+
+496
+00:24:04,652 --> 00:24:08,572
+- Kábé 18 ezer társammal.
+- Az Anthroconon volt?
+
+497
+00:24:09,698 --> 00:24:10,741
+Az mi?
+
+498
+00:24:10,824 --> 00:24:13,702
+Pittsburgh éves „furry” találkozója.
+Mindig megyek...
+
+499
+00:24:14,787 --> 00:24:15,663
+Ön volt már?
+
+500
+00:24:16,830 --> 00:24:18,290
+Nem igazán az én világom.
+
+501
+00:24:19,249 --> 00:24:23,712
+A beöltözőket sokszor rosszul ítélik meg,
+pedig nagyszerű emberek,
+
+502
+00:24:23,796 --> 00:24:26,632
+egy szuper közösség.
+Kreatívak, befogadóak, viccesek.
+
+503
+00:24:27,549 --> 00:24:29,635
+A barátnőmet egy ilyenen ismertem meg.
+
+504
+00:24:30,552 --> 00:24:31,637
+Ez aranyos.
+
+505
+00:24:31,720 --> 00:24:33,931
+Reményt adott a sok társkereső után.
+
+506
+00:24:34,765 --> 00:24:36,976
+Jó hallani, hogy ismerkednek még élőben.
+
+507
+00:24:37,059 --> 00:24:39,353
+Nem ajánlanám, főleg nem melóban.
+
+508
+00:24:40,896 --> 00:24:42,856
+Jöjjön el az Anthroconra!
+
+509
+00:24:44,149 --> 00:24:47,945
+- Ahhoz nem kéne neki egy szőrös jelmez?
+- Szerintem jó sárkány lenne.
+
+510
+00:24:52,074 --> 00:24:54,368
+Bent vagyok. Ballon felfújva.
+
+511
+00:24:56,161 --> 00:24:56,996
+Lélegeztesd!
+
+512
+00:24:58,539 --> 00:25:00,416
+Oké. Videó nélkül nehezebb.
+
+513
+00:25:00,499 --> 00:25:01,959
+Nem mindig lesz videó.
+
+514
+00:25:02,042 --> 00:25:04,545
+A fibrilláció 152. A vérnyomás 76/44.
+
+515
+00:25:04,628 --> 00:25:06,171
+Javadi, szinkron mód.
+
+516
+00:25:06,255 --> 00:25:08,382
+Javadi, szinkron mód, 200-at kérek.
+
+517
+00:25:09,633 --> 00:25:11,385
+Jó kilégzésvégi széndioxid.
+
+518
+00:25:11,468 --> 00:25:13,554
+Jó légzési hangok.
+
+519
+00:25:15,139 --> 00:25:17,224
+Feltöltve a kardioverzióhoz. Hátra!
+
+520
+00:25:21,729 --> 00:25:23,397
+- Normál szinusz.
+- Jó pulzus.
+
+521
+00:25:25,733 --> 00:25:28,152
+Folytatjuk a folyadékpótlást
+és várjuk a labort.
+
+522
+00:25:31,155 --> 00:25:31,989
+Szép.
+
+523
+00:25:32,614 --> 00:25:33,615
+Nagyon ügyes.
+
+524
+00:25:35,075 --> 00:25:38,328
+- Mit rendeltél?
+- Teljes vérkép, kémiai panel.
+
+525
+00:25:38,412 --> 00:25:40,706
+- Valami csak megvan.
+- A faxban nincs tinta.
+
+526
+00:25:40,789 --> 00:25:43,375
+- Nézd a kartont!
+- Nincs karton a 22-esben.
+
+527
+00:25:43,459 --> 00:25:44,585
+Nézd a rendelésgyűjtőt!
+
+528
+00:25:45,878 --> 00:25:49,256
+- Itt sincs semmi.
+- Hol van Claire Burns kartonja?
+
+529
+00:25:49,339 --> 00:25:50,174
+RENDELŐLAP
+
+530
+00:25:51,925 --> 00:25:54,970
+Claire Burns.
+Nem vettek mintát, nem küldték a laborba.
+
+531
+00:25:55,054 --> 00:25:57,639
+A beteg nem volt a táblán.
+Zónákban dolgozunk.
+
+532
+00:25:57,723 --> 00:25:59,850
+Ha a beteg nincs a táblán, nem létezik.
+
+533
+00:25:59,933 --> 00:26:01,143
+Akkor nem volt röntgen?
+
+534
+00:26:01,226 --> 00:26:03,395
+A röntgendoboz üres, ott minden kész.
+
+535
+00:26:03,479 --> 00:26:06,899
+- Akkor a mobil gépen van.
+- Azt az északi szárnyhoz vitték.
+
+536
+00:26:08,192 --> 00:26:09,318
+- Köszi.
+- Nincs mit.
+
+537
+00:26:10,069 --> 00:26:11,695
+Kenny, vársz egy pillanatot?
+
+538
+00:26:11,779 --> 00:26:14,031
+Ha röntgen kell, írd meg a rendelést!
+
+539
+00:26:14,114 --> 00:26:15,407
+Röntgeneztél a 22-esben?
+
+540
+00:26:15,491 --> 00:26:16,742
+Talán valaki más.
+
+541
+00:26:16,825 --> 00:26:19,953
+Meg tudnál keresni egy Burns nevű beteget?
+
+542
+00:26:24,875 --> 00:26:27,503
+- Francba!
+- Klasszikus szigmabél-csavarodás.
+
+543
+00:26:27,586 --> 00:26:29,963
+- Izgalmi jelek.
+- Azonnali műtét kell.
+
+544
+00:26:37,846 --> 00:26:39,431
+MOSDÓ
+
+545
+00:26:39,515 --> 00:26:42,434
+- A vizelet 3+ vért mutat.
+- Nem meglepő.
+
+546
+00:26:43,769 --> 00:26:47,356
+Karbamid, kreatinin normális.
+Nincs vesefunkció-romlás.
+
+547
+00:26:47,439 --> 00:26:50,359
+Jól látszik a bal vese, enyhe vesetágulat,
+
+548
+00:26:50,442 --> 00:26:52,361
+összhangban a húgyvezeték-elzáródással.
+
+549
+00:26:52,444 --> 00:26:55,197
+- Milyen volt a többi lelet?
+- Normális.
+
+550
+00:26:55,280 --> 00:26:57,783
+A fájdalom javult 15 milli ketorolac után.
+
+551
+00:26:58,534 --> 00:27:00,536
+Adj neki még egyszer ennyit!
+
+552
+00:27:03,455 --> 00:27:05,165
+Csak írd alá a rendelésemet!
+
+553
+00:27:07,918 --> 00:27:08,752
+Köszönöm.
+
+554
+00:27:09,753 --> 00:27:10,921
+Mi nyomja a lelked?
+
+555
+00:27:11,839 --> 00:27:14,424
+Egy órája elláttam ezt a beteget.
+
+556
+00:27:14,508 --> 00:27:16,260
+60 körüli, kitalál egy panaszt,
+
+557
+00:27:16,343 --> 00:27:18,554
+hogy bejöjjön beszélgetni,
+
+558
+00:27:18,637 --> 00:27:20,013
+mert nagyon magányos.
+
+559
+00:27:20,806 --> 00:27:22,349
+Lehet, hogy bejössz neki.
+
+560
+00:27:22,432 --> 00:27:24,643
+Talán, de eszembe juttatta anyukámat.
+
+561
+00:27:25,310 --> 00:27:26,937
+Biztos ő is csak magányos.
+
+562
+00:27:27,938 --> 00:27:28,772
+Igen.
+
+563
+00:27:30,065 --> 00:27:33,610
+Tudod, én a válásom óta
+nem nagyon randiztam.
+
+564
+00:27:34,319 --> 00:27:36,613
+Orvosi egyetem, gyerek, rezidensképzés.
+
+565
+00:27:37,239 --> 00:27:39,283
+De most végre késznek érzem magam.
+
+566
+00:27:39,366 --> 00:27:42,411
+Én addig várni akartam,
+amíg visszaköltözöm Jersey-be,
+
+567
+00:27:42,494 --> 00:27:43,662
+szóval ez ugrott.
+
+568
+00:27:44,496 --> 00:27:45,831
+Talán túl sokáig vártam.
+
+569
+00:27:46,498 --> 00:27:47,332
+Mire?
+
+570
+00:27:47,958 --> 00:27:48,834
+Hallod ezt?
+
+571
+00:27:50,085 --> 00:27:53,338
+Fájdalmas, magányos csend,
+ahogy pusztulnak a petesejtjeim.
+
+572
+00:27:58,135 --> 00:28:00,137
+A kiütéses hazamegy a hármasból.
+
+573
+00:28:00,220 --> 00:28:02,931
+A sokkolt joghallgató
+felkerült a pszichiátriára.
+
+574
+00:28:03,015 --> 00:28:05,017
+A félig vak hölgy az intenzíven van.
+
+575
+00:28:05,100 --> 00:28:08,395
+A nyelvsérüléses beteg még józanodik,
+mielőtt hazamehet.
+
+576
+00:28:08,478 --> 00:28:10,147
+Csak gyorsan, mert kell a szoba.
+
+577
+00:28:10,230 --> 00:28:12,691
+Hozok egy hallgatót,
+és kicsit megtoljuk ezt.
+
+578
+00:28:12,774 --> 00:28:14,735
+Tényleg nem zavar ez a káosz?
+
+579
+00:28:15,444 --> 00:28:18,405
+- Mi ez a kibaszott cirkusz?
+- Nagy szükség van rád.
+
+580
+00:28:20,574 --> 00:28:23,452
+Monica Peters,
+ő itt az új szakorvosunk, dr. Al-Hashimi.
+
+581
+00:28:23,535 --> 00:28:25,204
+- Üdv itt!
+- Köszönöm.
+
+582
+00:28:25,787 --> 00:28:27,539
+Monica nyugdíjas adminisztrátor.
+
+583
+00:28:27,623 --> 00:28:30,584
+Még ünnepnapon is bejött,
+és rendbe szed minket.
+
+584
+00:28:30,667 --> 00:28:33,587
+A digitalizáció miatt rúgtak ki,
+nem nyugdíjaztak.
+
+585
+00:28:33,670 --> 00:28:36,548
+Na és hogy működik most
+ez a nagy digitális szarság?
+
+586
+00:28:36,632 --> 00:28:38,550
+- Nem túl jól.
+- Pontosan.
+
+587
+00:28:39,343 --> 00:28:42,304
+Akkor ki intézi a kartonokat
+és a rendeléseket?
+
+588
+00:28:42,387 --> 00:28:43,472
+Mi ketten itt.
+
+589
+00:28:43,555 --> 00:28:45,349
+Mióta ez a dolgotok?
+
+590
+00:28:45,432 --> 00:28:47,434
+Hát mostantól. Asszisztensek vagyunk.
+
+591
+00:28:48,018 --> 00:28:50,729
+Akkor el innen,
+és csináljatok olyat, amihez értetek!
+
+592
+00:28:51,313 --> 00:28:54,441
+És nincs személyes telefon.
+A pirosak vészhelyzetre vannak.
+
+593
+00:28:54,524 --> 00:28:56,944
+- Ez egy kórház, az istenért.
+- Visszahívlak.
+
+594
+00:28:57,778 --> 00:28:59,154
+- Van egy gumid?
+- Igen.
+
+595
+00:28:59,238 --> 00:29:02,449
+Makedah vagyok az adminról.
+Új kártya dr. Whitakernek.
+
+596
+00:29:02,532 --> 00:29:03,492
+Oké.
+
+597
+00:29:03,575 --> 00:29:05,994
+- Odaadom neki.
+- Hallom, több futár kéne.
+
+598
+00:29:06,078 --> 00:29:08,497
+- Jókor jöttél.
+- Mennyire vagy gyors?
+
+599
+00:29:08,580 --> 00:29:10,165
+- Maratont futok.
+- Szuper.
+
+600
+00:29:10,249 --> 00:29:13,085
+Fogd a vérmintákat és a ládát,
+vidd fel a laborba!
+
+601
+00:29:13,168 --> 00:29:15,921
+- 15 percenként kérek egy laborkört.
+- Oké.
+
+602
+00:29:22,177 --> 00:29:23,887
+Egy oaklandi cipőboltban dolgozom.
+
+603
+00:29:24,471 --> 00:29:27,599
+- Teljes állásban suli mellett?
+- Igen. És igen.
+
+604
+00:29:28,225 --> 00:29:29,476
+Allegheny Community.
+
+605
+00:29:29,559 --> 00:29:34,106
+Jude nyári iskolába vagy táborba jár,
+amíg te nem vagy otthon?
+
+606
+00:29:36,275 --> 00:29:37,109
+Az túl drága.
+
+607
+00:29:37,859 --> 00:29:41,029
+Van más családtag,
+aki tudna segíteni a felügyeletében?
+
+608
+00:29:42,030 --> 00:29:42,864
+Nincs.
+
+609
+00:29:46,702 --> 00:29:49,371
+Segíteni szeretnénk,
+de nem tudunk, ha nem beszélsz.
+
+610
+00:29:50,831 --> 00:29:53,292
+Elveszik Jude-ot,
+és nevelőszülőkhöz küldik?
+
+611
+00:29:54,543 --> 00:29:56,295
+Ígéretet tettem a szüleimnek.
+
+612
+00:29:57,462 --> 00:29:59,423
+Meghaltak a szüleitek?
+
+613
+00:29:59,506 --> 00:30:00,340
+Nem.
+
+614
+00:30:01,091 --> 00:30:02,217
+Mi történt velük?
+
+615
+00:30:09,558 --> 00:30:12,019
+Kilenc hónapja Haitire deportálták őket.
+
+616
+00:30:15,355 --> 00:30:18,608
+Letartóztatták őket
+a bevándorlási meghallgatáson.
+
+617
+00:30:20,902 --> 00:30:22,070
+Másodéves voltam.
+
+618
+00:30:22,154 --> 00:30:24,239
+Haza kellett költöznöm az öcsém miatt.
+
+619
+00:30:26,116 --> 00:30:26,950
+Sajnálom.
+
+620
+00:30:28,076 --> 00:30:30,912
+Vagy ez, vagy mehetett volna Haitire.
+
+621
+00:30:32,706 --> 00:30:33,874
+Ő még sosem járt ott.
+
+622
+00:30:35,000 --> 00:30:36,168
+Itt születtünk.
+
+623
+00:30:40,130 --> 00:30:42,591
+Anyu úgy örült, amikor felvettek a suliba.
+
+624
+00:30:43,425 --> 00:30:47,721
+Olyan keményen dolgozott,
+hogy spóroljon és fizesse a tandíjat...
+
+625
+00:30:48,638 --> 00:30:51,975
+Most azt akarja,
+hogy a kicsi befejezze a gimit.
+
+626
+00:30:54,895 --> 00:30:58,273
+Könnyebb nővérnek lenni, mint pótanyának.
+
+627
+00:31:01,526 --> 00:31:04,696
+Most hagyjatok magunkra minket,
+szólok, ha végeztünk.
+
+628
+00:31:09,826 --> 00:31:11,745
+Muszáj bevonnunk a családsegítőt?
+
+629
+00:31:12,329 --> 00:31:15,332
+Te akartad bevonni őket
+a nyolcéves ITP-s betegednél.
+
+630
+00:31:16,124 --> 00:31:18,418
+Az más. A bántalmazás súlyosabb.
+
+631
+00:31:19,002 --> 00:31:21,338
+Nem szakíthatjuk el őket, ez nem helyes.
+
+632
+00:31:21,421 --> 00:31:23,757
+Sok helytelen dolog történik
+az emberekkel.
+
+633
+00:31:29,763 --> 00:31:31,890
+McKay, a beteg fájdalomra panaszkodik.
+
+634
+00:31:32,724 --> 00:31:33,558
+Igen.
+
+635
+00:31:35,811 --> 00:31:38,271
+Üdv, Amaya, mi a baj?
+
+636
+00:31:38,355 --> 00:31:40,148
+Már megint rohadtul fáj.
+
+637
+00:31:40,232 --> 00:31:42,234
+Jesse, idehívod Whitakert?
+
+638
+00:31:42,317 --> 00:31:44,361
+- Mikor lett rosszabb?
+- Két perce.
+
+639
+00:31:44,444 --> 00:31:47,030
+Adok egy kis morfint, hogy enyhítsünk ezt.
+
+640
+00:31:47,114 --> 00:31:50,075
+- 1-től 10-ig mennyire fáj?
+- 12. Most sokkal rosszabb.
+
+641
+00:31:50,158 --> 00:31:54,246
+Értem. Amaya, a gyógyszer hamar hatni fog,
+és újra megvizsgáljuk,
+
+642
+00:31:54,329 --> 00:31:56,039
+hogy mi történik, jó?
+
+643
+00:32:02,295 --> 00:32:04,339
+A férjétől kértem beleegyezést.
+
+644
+00:32:05,257 --> 00:32:07,426
+- Oké.
+- Dr. Shamsi operálja.
+
+645
+00:32:08,552 --> 00:32:10,971
+Ha izgalmi jelei voltak,
+miért nem hívtatok?
+
+646
+00:32:12,097 --> 00:32:14,099
+Későn ismertük fel.
+
+647
+00:32:14,891 --> 00:32:17,477
+A röntgen egy órája megvolt.
+Senki nem nézte meg?
+
+648
+00:32:17,561 --> 00:32:19,312
+A leállás miatt zűrzavar volt.
+
+649
+00:32:19,396 --> 00:32:21,523
+Nem tudtuk, hogy kész.
+
+650
+00:32:21,606 --> 00:32:25,444
+Egy órával ezelőtt
+egy perc alatt meg tudtam volna oldani.
+
+651
+00:32:26,111 --> 00:32:27,529
+Most műtét kell neki.
+
+652
+00:32:28,113 --> 00:32:28,947
+Sajnálom.
+
+653
+00:32:29,030 --> 00:32:31,491
+Az édeskevés, nepo bébi. Ezt elbasztad.
+
+654
+00:32:31,575 --> 00:32:33,910
+Ha leáll a rendszer, csak magadban bízz!
+
+655
+00:32:35,871 --> 00:32:38,832
+A nagy káoszban csak elfelejtődött.
+
+656
+00:32:41,084 --> 00:32:42,294
+Majdnem meghalt.
+
+657
+00:32:44,421 --> 00:32:45,630
+Majdnem megöltem.
+
+658
+00:32:46,465 --> 00:32:48,717
+- Whitaker! McKay hív a tizenegyesbe.
+- Nem.
+
+659
+00:32:50,177 --> 00:32:53,013
+Időben elkaptuk.
+Nem fordul elő még egyszer, oké?
+
+660
+00:33:07,068 --> 00:33:08,570
+Princess téged keres.
+
+661
+00:33:09,529 --> 00:33:11,406
+Valamit mondott Monica kapcsán,
+
+662
+00:33:11,490 --> 00:33:12,574
+de nem értettem.
+
+663
+00:33:12,657 --> 00:33:14,075
+Oké, mindjárt megyek.
+
+664
+00:33:14,910 --> 00:33:16,119
+Hé! Hé!
+
+665
+00:33:18,121 --> 00:33:19,831
+Ügyes voltál a bántalmazott lánnyal.
+
+666
+00:33:21,374 --> 00:33:23,418
+Te voltál fantasztikus.
+
+667
+00:33:23,502 --> 00:33:25,295
+Mindent megteszünk,
+
+668
+00:33:25,378 --> 00:33:27,797
+hogy a traumatizáltaknak
+jó ellátást adjunk...
+
+669
+00:33:29,466 --> 00:33:31,801
+Miről beszéltél vele, amikor sétáltatok?
+
+670
+00:33:32,802 --> 00:33:33,637
+Hát...
+
+671
+00:33:35,055 --> 00:33:38,725
+Azt mondtam neki,
+hogy talán a jövőben meggondolja magát,
+
+672
+00:33:38,808 --> 00:33:39,976
+és mégis feljelentené.
+
+673
+00:33:41,770 --> 00:33:43,438
+Jobb, ha ott van ez a lehetőség.
+
+674
+00:33:44,272 --> 00:33:45,106
+Okos.
+
+675
+00:33:48,902 --> 00:33:50,237
+Minden nap ilyen?
+
+676
+00:33:50,320 --> 00:33:51,947
+A digitális zűrön kívül?
+
+677
+00:33:52,614 --> 00:33:53,448
+Igen.
+
+678
+00:33:54,658 --> 00:33:57,786
+De már csak pár óra,
+és túl vagy az első napodon.
+
+679
+00:33:59,162 --> 00:34:00,038
+Légy büszke erre!
+
+680
+00:34:07,546 --> 00:34:09,756
+Kímélő, puha ételeket egyél,
+
+681
+00:34:09,839 --> 00:34:14,261
+például olyanokat, mint krumplipüré,
+leves vagy sajtos tészta.
+
+682
+00:34:15,303 --> 00:34:17,472
+Megcsinálom ma a kedvenc babsalidat.
+
+683
+00:34:17,556 --> 00:34:20,475
+- Jesszus, ez tök kedves.
+- Látod, kedves vagyok.
+
+684
+00:34:21,643 --> 00:34:22,644
+Ehet olyat?
+
+685
+00:34:23,520 --> 00:34:24,980
+Igen.
+
+686
+00:34:25,063 --> 00:34:26,398
+Persze, ha kanállal eszed,
+
+687
+00:34:26,481 --> 00:34:29,526
+és nem valami ropogós dologgal,
+ami beleakadhat a sebbe.
+
+688
+00:34:30,735 --> 00:34:32,696
+Akkor kanállal etessem?
+
+689
+00:34:34,447 --> 00:34:36,032
+Antibiotikum naponta háromszor.
+
+690
+00:34:36,116 --> 00:34:38,201
+Két nap múlva gyere vissza!
+
+691
+00:34:38,285 --> 00:34:39,828
+Akkor találkozunk, doki!
+
+692
+00:34:42,289 --> 00:34:44,583
+Ellenőrzöm a petefészek vérellátását.
+
+693
+00:34:49,629 --> 00:34:50,505
+Valami baj van?
+
+694
+00:34:50,589 --> 00:34:51,881
+Időszakos csavarodás.
+
+695
+00:34:52,507 --> 00:34:53,341
+Az micsoda?
+
+696
+00:34:54,092 --> 00:34:55,385
+Most befejezem,
+
+697
+00:34:56,595 --> 00:34:57,887
+feljebb csúszhat.
+
+698
+00:34:59,598 --> 00:35:03,893
+A petefészke időnként megcsavarodik,
+és részben elzárja a vérellátást.
+
+699
+00:35:03,977 --> 00:35:05,812
+Ez okozza a fájdalmat.
+
+700
+00:35:06,313 --> 00:35:09,608
+Korábban azt mondták,
+hogy a vérellátásom rendben van.
+
+701
+00:35:09,691 --> 00:35:11,693
+Néha hirtelen megcsavarodik.
+
+702
+00:35:13,320 --> 00:35:16,114
+Ilyenkor a fájdalom hirtelen jelentkezik.
+
+703
+00:35:17,282 --> 00:35:18,241
+Tudnak segíteni?
+
+704
+00:35:18,825 --> 00:35:20,577
+- Műtéttel.
+- Műtéttel?
+
+705
+00:35:20,660 --> 00:35:24,122
+A petefészket vissza kell csavarni,
+és egy öltéssel rögzíteni,
+
+706
+00:35:24,205 --> 00:35:25,957
+hogy ez ne ismétlődjön meg.
+
+707
+00:35:26,041 --> 00:35:28,543
+Ha gyorsan fel tudjuk vinni, még menthető.
+
+708
+00:35:29,502 --> 00:35:30,712
+A petefészkem?
+
+709
+00:35:32,672 --> 00:35:36,051
+- Tudok így is gyereket vállalni?
+- Ez nem fog gondot okozni.
+
+710
+00:35:36,134 --> 00:35:39,804
+Dr. McKay jól döntött,
+hogy bent tartotta megfigyelésre,
+
+711
+00:35:39,888 --> 00:35:41,848
+így ezt el tudtuk kapni.
+
+712
+00:35:43,558 --> 00:35:44,476
+Köszönöm.
+
+713
+00:35:45,727 --> 00:35:46,936
+Hívom a nőgyógyászatot.
+
+714
+00:35:47,020 --> 00:35:49,856
+ELBOCSÁTÁSOK
+
+715
+00:35:49,939 --> 00:35:51,691
+Üdv újra! Milyen volt az út?
+
+716
+00:35:51,775 --> 00:35:53,943
+Sima ügy. A Presbi elég jó hely.
+
+717
+00:35:54,027 --> 00:35:55,987
+Lehet, hogy vállalok ott műszakot.
+
+718
+00:35:57,197 --> 00:35:58,615
+<i>Dr. Abbot vicces.</i>
+
+719
+00:35:58,698 --> 00:36:00,909
+- Hamar elmúlik a varázsa.
+- Nem is.
+
+720
+00:36:00,992 --> 00:36:02,160
+Nincs szedálva?
+
+721
+00:36:02,243 --> 00:36:04,496
+A visszaúton adtam neki Versedet a CT-hez,
+
+722
+00:36:04,579 --> 00:36:07,165
+de gondoltam,
+ébernek kell lennie a beleegyezéshez?
+
+723
+00:36:07,248 --> 00:36:09,292
+- Beleegyezés?
+- Ja. El is helyezhetjük.
+
+724
+00:36:09,376 --> 00:36:11,961
+- Lehívnád Garciát?
+- Dr. Robby!
+
+725
+00:36:12,045 --> 00:36:13,713
+- Megoldod?
+- Tudod, hogy igen.
+
+726
+00:36:13,797 --> 00:36:14,631
+Mondd!
+
+727
+00:36:15,256 --> 00:36:16,257
+Jól van, Howard.
+
+728
+00:36:17,384 --> 00:36:20,428
+Később beszéljük át
+azt a szigmabél-csavarodást!
+
+729
+00:36:21,221 --> 00:36:23,139
+- Befejeztük a beszélgetést.
+- És?
+
+730
+00:36:23,223 --> 00:36:25,392
+Felelősségteljes és jó gyámja Jude-nak.
+
+731
+00:36:25,475 --> 00:36:27,852
+Nem kell bevonni a családsegítőt.
+
+732
+00:36:27,936 --> 00:36:30,814
+- Szuper.
+- Mivel Jude műtét miatt kórházban van,
+
+733
+00:36:30,897 --> 00:36:32,649
+jövő héten családlátogatást tesznek,
+
+734
+00:36:32,732 --> 00:36:34,317
+hogy felmérjék a biztonságot,
+
+735
+00:36:34,401 --> 00:36:37,153
+és hogy Chantal
+mennyire tud róla gondoskodni.
+
+736
+00:36:37,237 --> 00:36:38,738
+És utána? Elveszik Jude-ot?
+
+737
+00:36:38,822 --> 00:36:40,949
+Szerintem ugyanarra jutnak majd, mint én.
+
+738
+00:36:41,032 --> 00:36:42,492
+Nem választanak szét tesókat.
+
+739
+00:36:43,827 --> 00:36:44,953
+Tehetünk még bármit?
+
+740
+00:36:45,036 --> 00:36:47,497
+Összeszedek Chantalnak pár lehetőséget.
+
+741
+00:36:47,580 --> 00:36:48,707
+Nyári sulis programokat.
+
+742
+00:36:48,790 --> 00:36:51,710
+De lehet, hogy a fiúnak jobb lenne Haitin.
+
+743
+00:36:51,793 --> 00:36:53,128
+A szülei szerint nem.
+
+744
+00:36:53,211 --> 00:36:54,963
+- A gyereknek más a jó.
+- Ki szerint?
+
+745
+00:36:55,046 --> 00:36:56,631
+Dr. Santos! Gyere!
+
+746
+00:37:00,176 --> 00:37:02,137
+Üdv, Mr. Knox! Mire jutottunk?
+
+747
+00:37:02,220 --> 00:37:04,848
+Divertikuláris tályog,
+ami perforációig romlott,
+
+748
+00:37:04,931 --> 00:37:06,683
+és most levegő van a rekesz alatt.
+
+749
+00:37:06,766 --> 00:37:08,059
+<i>Lefordítanák?</i>
+
+750
+00:37:08,143 --> 00:37:11,896
+Van egy kis lyuk a vastagbélben,
+és baktériumok jutnak a hasüregbe.
+
+751
+00:37:11,980 --> 00:37:15,024
+Hashártyagyulladás
+és szepszis alakulhat ki.
+
+752
+00:37:16,735 --> 00:37:18,611
+<i>- Milyen súlyos?</i>
+- Műtét kell.
+
+753
+00:37:18,695 --> 00:37:21,030
+Anélkül 100%, hogy meghal.
+
+754
+00:37:22,949 --> 00:37:23,783
+<i>Műtéttel?</i>
+
+755
+00:37:26,703 --> 00:37:27,829
+50%.
+
+756
+00:37:31,624 --> 00:37:32,667
+<i>Meghalhatok?</i>
+
+757
+00:37:32,751 --> 00:37:34,502
+Igen, de mi nagyon jók vagyunk.
+
+758
+00:37:34,586 --> 00:37:36,755
+Ezért kell a beleegyező nyilatkozat.
+
+759
+00:37:38,131 --> 00:37:39,507
+<i>És a húgom?</i>
+
+760
+00:37:39,591 --> 00:37:40,842
+Elértük őt.
+
+761
+00:37:40,925 --> 00:37:42,635
+Szeretne beszélni önnel.
+
+762
+00:37:42,719 --> 00:37:46,055
+Arra nincs idő.
+Minden perc növeli a halála esélyét.
+
+763
+00:37:46,598 --> 00:37:48,600
+<i>Előbb beszélni akarok a húgommal.</i>
+
+764
+00:37:53,062 --> 00:37:54,689
+Megoldjuk önnek valahogy.
+
+765
+00:37:55,940 --> 00:37:57,776
+Előkészíttetem a műtőt. Siessetek!
+
+766
+00:37:57,859 --> 00:37:58,902
+- Nagyon.
+- Igen.
+
+767
+00:37:58,985 --> 00:38:00,612
+Megint kirándulunk.
+
+768
+00:38:16,711 --> 00:38:17,545
+Üdv!
+
+769
+00:38:20,799 --> 00:38:22,217
+Vége a nagy fagyizásnak?
+
+770
+00:38:24,552 --> 00:38:25,386
+Igen.
+
+771
+00:38:26,846 --> 00:38:28,014
+Hozhatok bármit?
+
+772
+00:38:31,684 --> 00:38:32,685
+Egy időgépet.
+
+773
+00:38:37,690 --> 00:38:39,025
+Az jó lenne, igaz?
+
+774
+00:38:44,572 --> 00:38:46,699
+Nem is tudom, mi fáj jobban.
+
+775
+00:38:47,951 --> 00:38:49,285
+A rák...
+
+776
+00:38:52,831 --> 00:38:55,250
+vagy az, hogy nem látom felnőni a fiaimat.
+
+777
+00:38:58,461 --> 00:38:59,838
+Mint egy kegyetlen tréfa.
+
+778
+00:39:02,423 --> 00:39:04,425
+Miért adtál nekem
+
+779
+00:39:05,301 --> 00:39:06,970
+gyerekeket és egy férjet,
+
+780
+00:39:07,053 --> 00:39:08,721
+ha aztán elveszed őket tőlem?
+
+781
+00:39:11,307 --> 00:39:13,852
+Miért? A rohadt tüdőrák miatt.
+
+782
+00:39:17,605 --> 00:39:18,690
+Sosem dohányoztam.
+
+783
+00:39:27,532 --> 00:39:28,658
+Maga hisz Istenben?
+
+784
+00:39:31,870 --> 00:39:33,204
+Tetszik az elképzelés.
+
+785
+00:39:38,126 --> 00:39:39,544
+Biztos sok halált látott.
+
+786
+00:39:41,421 --> 00:39:42,547
+Igen, eleget.
+
+787
+00:39:46,384 --> 00:39:47,343
+Bármi tanács?
+
+788
+00:39:53,641 --> 00:39:55,393
+Még soha nem haltam meg.
+
+789
+00:40:05,737 --> 00:40:08,323
+Üdv, elnézést! Kijöttünk.
+
+790
+00:40:08,781 --> 00:40:12,243
+Bent most nincs térerő, de itt jön.
+
+791
+00:40:14,787 --> 00:40:15,622
+<i>Úristen!</i>
+
+792
+00:40:16,623 --> 00:40:17,540
+<i>Jól vagy?</i>
+
+793
+00:40:20,043 --> 00:40:22,170
+<i>Voltam már jobban. Nagyon szép vagy.</i>
+
+794
+00:40:24,005 --> 00:40:24,839
+<i>Köszönöm.</i>
+
+795
+00:40:26,007 --> 00:40:27,091
+<i>Te nem nézel ki jól.</i>
+
+796
+00:40:30,261 --> 00:40:31,638
+<i>Kösz, hogy visszahívtál.</i>
+
+797
+00:40:35,016 --> 00:40:35,850
+<i>Ez természetes.</i>
+
+798
+00:40:36,935 --> 00:40:39,145
+<i>Sajnálom, hogy ennyi idő eltelt.</i>
+
+799
+00:40:39,812 --> 00:40:41,689
+<i>Apu ügyei meg az ivás miatt...</i>
+
+800
+00:40:43,524 --> 00:40:45,193
+<i>Tommyra és magamra gondoltam.</i>
+
+801
+00:40:46,611 --> 00:40:47,528
+<i>Hogy van Tommy?</i>
+
+802
+00:40:49,155 --> 00:40:52,158
+<i>Jövő hónapban kezdi
+a tizenegyedik osztályt,</i>
+
+803
+00:40:53,076 --> 00:40:55,286
+<i>16 éves, és már barátnője is van.</i>
+
+804
+00:40:58,498 --> 00:40:59,749
+<i>A nagybátyjára ütött.</i>
+
+805
+00:41:02,585 --> 00:41:06,005
+<i>Kitalálhatunk valamit,
+hogy az ünnepek alatt találkozzatok.</i>
+
+806
+00:41:11,344 --> 00:41:12,470
+<i>Örülnék neki.</i>
+
+807
+00:41:14,722 --> 00:41:15,765
+<i>Ott van az orvos?</i>
+
+808
+00:41:18,601 --> 00:41:19,852
+Dr. Abbot vagyok.
+
+809
+00:41:19,936 --> 00:41:21,229
+<i>Felhív, ha kijön a műtőből?</i>
+
+810
+00:41:21,312 --> 00:41:23,356
+Persze, de most fel kell vinnünk.
+
+811
+00:41:23,439 --> 00:41:24,607
+<i>Értem. Köszönöm.</i>
+
+812
+00:41:25,316 --> 00:41:26,943
+<i>Hamarosan beszélünk.</i>
+
+813
+00:41:29,862 --> 00:41:31,155
+<i>Nem mondtam, hogy szeretem.</i>
+
+814
+00:41:33,533 --> 00:41:34,951
+Hűha! Monica?
+
+815
+00:41:36,035 --> 00:41:37,996
+- Üdv újra itt!
+- Robinavitch.
+
+816
+00:41:39,539 --> 00:41:41,290
+Kettő labor, 3 CT.
+
+817
+00:41:41,374 --> 00:41:43,209
+Bízd rám! Fent szükségük van rám.
+
+818
+00:41:43,292 --> 00:41:44,335
+Intézem a CT-t.
+
+819
+00:41:44,961 --> 00:41:47,505
+- Rendet tartasz.
+- Egész jól alakul.
+
+820
+00:41:47,588 --> 00:41:49,298
+- Felviszitek?
+- Igen.
+
+821
+00:41:50,341 --> 00:41:51,300
+Jó ember.
+
+822
+00:41:53,720 --> 00:41:55,430
+A sebészek majd megoldják.
+
+823
+00:42:00,685 --> 00:42:01,519
+Kedvelem.
+
+824
+00:42:03,062 --> 00:42:03,896
+Nálam is jobban?
+
+825
+00:42:04,689 --> 00:42:05,898
+Majd kiderül.
+
+826
+00:42:07,025 --> 00:42:07,859
+Igen?
+
+827
+00:42:08,735 --> 00:42:11,404
+Igen. Jól irányítja a folyamatokat.
+
+828
+00:42:11,487 --> 00:42:14,657
+A nappalos műszakodat
+kompetens kezekben hagyod.
+
+829
+00:42:14,741 --> 00:42:15,616
+Remélem.
+
+830
+00:42:16,451 --> 00:42:18,327
+Rendben, én léptem, haver.
+
+831
+00:42:18,411 --> 00:42:20,663
+Pár óra múlva jövök vissza.
+
+832
+00:42:21,414 --> 00:42:22,623
+Ha nem találkoznánk...
+
+833
+00:42:23,958 --> 00:42:25,710
+- Komolyan elmész?
+- Igen.
+
+834
+00:42:26,461 --> 00:42:28,963
+Három napot alig vettél ki egymás után.
+
+835
+00:42:29,047 --> 00:42:30,590
+Voltam már üdülni.
+
+836
+00:42:32,508 --> 00:42:33,551
+Utoljára mikor?
+
+837
+00:42:36,929 --> 00:42:37,847
+Ott a pont.
+
+838
+00:42:39,932 --> 00:42:42,143
+Sok időd lesz önreflexióra.
+
+839
+00:42:45,063 --> 00:42:46,230
+Biztos bírod majd?
+
+840
+00:42:49,400 --> 00:42:50,234
+Oké.
+
+841
+00:42:51,527 --> 00:42:53,196
+Csak gyere vissza!
+
+842
+00:42:53,696 --> 00:42:55,698
+És ha gáz van, hívj fel!
+
+843
+00:42:57,867 --> 00:42:58,785
+Érted?
+
+844
+00:43:04,332 --> 00:43:05,833
+A bokán nem látszik törés.
+
+845
+00:43:06,501 --> 00:43:07,585
+Menjünk vissza!
+
+846
+00:43:08,836 --> 00:43:10,129
+Látod az ízületi villát?
+
+847
+00:43:10,213 --> 00:43:13,382
+Igen, de a tibiofibularisz rés
+tágultnak tűnik,
+
+848
+00:43:13,466 --> 00:43:15,593
+és az átfedés csökkent.
+
+849
+00:43:16,427 --> 00:43:17,261
+Talán egy kicsit.
+
+850
+00:43:20,264 --> 00:43:21,182
+8 milliméter,
+
+851
+00:43:21,808 --> 00:43:22,767
+3 milliméter.
+
+852
+00:43:22,850 --> 00:43:25,103
+Ez syndesmosis-szalagszakadásnak tűnik.
+
+853
+00:43:25,603 --> 00:43:28,064
+- Ehhez nem kell műtéti rögzítés?
+- De.
+
+854
+00:43:28,147 --> 00:43:29,816
+Kérhetek egy MR-t.
+
+855
+00:43:31,734 --> 00:43:33,361
+Dolgoztál már radiológián?
+
+856
+00:43:33,444 --> 00:43:35,863
+Nem, csak ilyen jó vagyok.
+
+857
+00:43:39,367 --> 00:43:40,576
+Én is jó vagyok.
+
+858
+00:43:52,338 --> 00:43:55,133
+Nagyon ügyesen dolgozol ma, doktor.
+
+859
+00:44:01,097 --> 00:44:02,640
+Hívj csak Whitakernek!
+
+860
+00:44:02,723 --> 00:44:05,268
+Még mit nem. Kiérdemelted.
+Büszke vagyok rád.
+
+861
+00:44:06,102 --> 00:44:06,936
+És mások is.
+
+862
+00:44:07,895 --> 00:44:09,730
+- Köszönöm.
+- Mozgalmas nap.
+
+863
+00:44:10,648 --> 00:44:11,482
+Az bizony.
+
+864
+00:44:11,566 --> 00:44:13,860
+Nagyon empatikus alkat vagy.
+
+865
+00:44:14,694 --> 00:44:16,404
+- Azt hiszem...
+- Nem fejeztem be.
+
+866
+00:44:16,904 --> 00:44:18,865
+És minden betegnek segíteni akarsz.
+
+867
+00:44:19,448 --> 00:44:20,700
+Te nem?
+
+868
+00:44:20,783 --> 00:44:22,118
+- Bocsánat.
+- A kapcsolatod
+
+869
+00:44:22,201 --> 00:44:23,578
+azzal a nővel,
+
+870
+00:44:24,287 --> 00:44:26,789
+az égési sérült özvegyével...
+
+871
+00:44:27,373 --> 00:44:28,207
+Amy?
+
+872
+00:44:28,875 --> 00:44:29,917
+Santos mondta?
+
+873
+00:44:30,668 --> 00:44:34,046
+- Úgy tudom, segítesz neki.
+- Igen, a farmon.
+
+874
+00:44:34,130 --> 00:44:36,716
+Ilyen helyen nőttem fel, és Amy...
+
+875
+00:44:37,383 --> 00:44:40,928
+Mrs. Miller nagy nyomás alatt van.
+Segítek neki eladni.
+
+876
+00:44:42,221 --> 00:44:43,848
+Barátok, család?
+
+877
+00:44:43,931 --> 00:44:45,016
+Vannak neki.
+
+878
+00:44:45,683 --> 00:44:46,517
+Támogatják?
+
+879
+00:44:47,143 --> 00:44:50,479
+Igen, próbálják, de többnyire...
+
+880
+00:44:52,315 --> 00:44:53,399
+rám támaszkodik.
+
+881
+00:44:57,153 --> 00:44:59,447
+Biztos hálás mindenért, amit teszel.
+
+882
+00:45:00,198 --> 00:45:01,699
+De fontosak a határok.
+
+883
+00:45:02,450 --> 00:45:03,367
+Igen.
+
+884
+00:45:07,622 --> 00:45:09,207
+Megtennél egy szívességet?
+
+885
+00:45:11,250 --> 00:45:13,461
+- Persze.
+- Vigyázol a lakásomra?
+
+886
+00:45:15,087 --> 00:45:18,799
+Nekem is nagy segítség lenne,
+és te is spórolnál a lakbéren.
+
+887
+00:45:20,092 --> 00:45:21,135
+Ez most komoly?
+
+888
+00:45:21,219 --> 00:45:24,639
+Nincs dohányzás, nincs buli,
+nincs háziállat, nincs baba.
+
+889
+00:45:24,722 --> 00:45:25,765
+Se a tiéd, se másé.
+
+890
+00:45:26,307 --> 00:45:28,392
+- Nekem nincs babám.
+- De neki van.
+
+891
+00:45:29,477 --> 00:45:32,521
+Abbotot akartam megkérni,
+de ő meztelen jógázik,
+
+892
+00:45:32,605 --> 00:45:35,274
+és néhány idős szomszédom
+belehalna a látványba.
+
+893
+00:45:37,026 --> 00:45:38,194
+Igen.
+
+894
+00:45:38,277 --> 00:45:39,737
+Ez fantasztikus lenne.
+
+895
+00:45:40,238 --> 00:45:43,282
+A lakásfelügyelet,
+nem Abbot meztelen jógája.
+
+896
+00:45:43,366 --> 00:45:45,409
+Ha nem jövök vissza, tiéd a legénylakás.
+
+897
+00:45:45,993 --> 00:45:47,119
+Oké.
+
+898
+00:45:48,996 --> 00:45:50,248
+Mielőtt elmész, keress meg!
+
+899
+00:45:50,331 --> 00:45:52,124
+Odaadom kulcsot meg a kódot.
+
+900
+00:45:54,210 --> 00:45:55,544
+Ezt melyik bohóc csinálta?
+
+901
+00:46:00,424 --> 00:46:02,468
+Ti ketten ellenőrizzétek a munkátokat!
+
+902
+00:46:03,094 --> 00:46:05,012
+Kéne kintre segítség.
+
+903
+00:46:05,096 --> 00:46:07,139
+Princess, fejezd azt be, aztán menj ki!
+
+904
+00:46:07,223 --> 00:46:09,183
+3 CT, átvigyem ezeket?
+
+905
+00:46:09,267 --> 00:46:10,893
+Ne. Az utasításokkal folytasd!
+
+906
+00:46:10,977 --> 00:46:13,020
+Ha várunk ezekkel, bedugul a CT.
+
+907
+00:46:13,104 --> 00:46:15,231
+Tudom,
+de most nem pazarolhatok futárt erre.
+
+908
+00:46:15,314 --> 00:46:16,691
+Hol találtál kísérőlapot?
+
+909
+00:46:16,774 --> 00:46:19,944
+Pontosan ott, ahová 10 éve tettem el.
+
+910
+00:46:20,027 --> 00:46:23,489
+- Azt hittem, az nem működik.
+- Fogadni nem tud, de küldeni igen.
+
+911
+00:46:31,914 --> 00:46:34,375
+Hidratáljon elektrolitban
+gazdag italokkal,
+
+912
+00:46:34,458 --> 00:46:35,418
+mondjuk kókuszvízzel.
+
+913
+00:46:35,501 --> 00:46:37,962
+- Nem szeretem a kókuszt.
+- A Gatorade is jó.
+
+914
+00:46:38,045 --> 00:46:39,088
+Kerülje az alkoholt,
+
+915
+00:46:39,171 --> 00:46:41,632
+és javaslom a könnyű,
+jól szellőző ruházatot.
+
+916
+00:46:41,716 --> 00:46:43,718
+- Uncsi.
+- Ha romlanak a tünetek,
+
+917
+00:46:43,801 --> 00:46:45,761
+vagy fájna a feje, jöjjön vissza!
+
+918
+00:46:45,845 --> 00:46:46,679
+Oké.
+
+919
+00:46:48,681 --> 00:46:49,682
+Biztos ebben?
+
+920
+00:46:52,351 --> 00:46:53,686
+Felhangosítja?
+
+921
+00:46:54,603 --> 00:46:58,649
+<i>Rémálommá vált.
+Szerkezeti összeomlás történt...</i>
+
+922
+00:46:58,733 --> 00:46:59,942
+<i>a helyi vízi parkban.</i>
+
+923
+00:47:00,026 --> 00:47:02,153
+<i>Legalább egy halálos áldozat van,</i>
+
+924
+00:47:02,236 --> 00:47:04,280
+<i>- és több súlyos sérült.</i>
+- A francba!
+
+925
+00:47:05,281 --> 00:47:06,824
+És mind hozzánk jönnek.
+
+926
+00:47:06,907 --> 00:47:08,659
+<i>Mentőhelikopterrel viszik őket...</i>
+
+927
+00:48:31,909 --> 00:48:33,911
+Fordította: Laura Fehervari
+Feliratozta: Petőcz István
+

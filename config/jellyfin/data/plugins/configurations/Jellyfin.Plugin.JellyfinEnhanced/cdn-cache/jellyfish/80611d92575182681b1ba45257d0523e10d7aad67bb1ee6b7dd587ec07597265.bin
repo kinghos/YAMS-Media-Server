@@ -1,0 +1,26 @@
+/* Jellyfish Midnight Theme */
+:root {
+    --primary-r: 65;
+    --primary-g: 105;
+    --primary-b: 225;
+    --primary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 1.0);
+    --secondary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.6);
+    --primary-background-transparent: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.1);
+    --secondary-background-transparent: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.2);
+    --primary-background-color: #0A0A0A; /* Main background */
+    --secondary-background-color: #1A1A2E; /* Drawer, cards, dialogs */
+    --tertiary-background-color: #2A2A3E; /* Popovers */
+    --alt-accent-color: #ffffff20;
+    --text-color: #ffffff;
+    --header-background-color: #ffffff6e; /* This is header and tabs background */
+    --logo: url("https://cdn.jsdelivr.net/gh/n00bcodr/jellyfish/logos/jellyfish.png");
+    --background-image: url(https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/colors/images/midnight.jpg);
+    --footer-message: "🌙 Midnight streaming sessions!";
+
+    /* Alternate accents */
+    --primary-alt1: rgba(30, 144, 255, 1); /* Dodger blue accent */
+    --primary-alt2: rgba(30, 144, 255, 0.85);
+    --primary-alt3: rgba(30, 144, 255, 0.7);
+    --primary-alt4: rgba(30, 144, 255, 0.55);
+    --primary-alt5: rgba(30, 144, 255, 0.4);
+}

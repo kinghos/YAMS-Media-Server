@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-09-17T21:42:47.7951283Z","EndTimeUtc":"2026-09-17T21:43:12.936529Z","Status":"Completed","Name":"Refresh CDN Assets","Key":"JellyfinEnhancedRefreshCdnAssets","Id":"e32160f3c9e0dcb233c811fe73c65b1a"}

@@ -1,0 +1,23 @@
+2026-09-16 01:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 01:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-16 02:41:42|INFO    |root                            |Using opensubtitlescom again after 12 hours, (disabled because: AuthenticationError)|
+2026-09-16 02:41:44|INFO    |root                            |Throttling opensubtitlescom for 12 hours, until 26/09/16 14:41, because of: AuthenticationError. Exception info: "'Login failed' ~ opensubtitlescom.py@560"|
+2026-09-16 02:41:44|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-16 04:00:00|INFO    |root                            |BAZARR All existing movie subtitles indexed from disk.|
+2026-09-16 04:00:02|INFO    |root                            |BAZARR All existing episode subtitles indexed from disk.|
+2026-09-16 06:12:55|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-16 07:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 07:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-16 08:41:42|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 08:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-16 13:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 13:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-16 14:41:42|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 14:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-16 18:12:55|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-16 19:51:03|INFO    |root                            |Using opensubtitlescom again after 12 hours, (disabled because: AuthenticationError)|
+2026-09-16 19:51:05|INFO    |root                            |Throttling opensubtitlescom for 12 hours, until 26/09/17 07:51, because of: AuthenticationError. Exception info: "'Login failed' ~ opensubtitlescom.py@560"|
+2026-09-16 19:51:06|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 19:51:06|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-16 20:41:42|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-16 20:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|

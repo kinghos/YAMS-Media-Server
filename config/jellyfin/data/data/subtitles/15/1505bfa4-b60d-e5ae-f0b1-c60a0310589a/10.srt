@@ -1,0 +1,4211 @@
+1
+00:00:15,641 --> 00:00:18,518
+La próxima, dile al jefe del departamento
+antes de que vuele la mierda.
+
+2
+00:00:18,519 --> 00:00:19,895
+Estaba a punto de decirte.
+
+3
+00:00:20,229 --> 00:00:22,564
+- Vean que tengan lo necesario.
+- Bien, a trabajar.
+
+4
+00:00:22,731 --> 00:00:26,484
+Ellos me llamaron, porque me entrené
+en prevención y respuesta a ciberataques.
+
+5
+00:00:26,485 --> 00:00:28,819
+- Puedes decirles qué deben hacer.
+- No, gracias.
+
+6
+00:00:28,820 --> 00:00:30,363
+Es mejor que les diga
+el jefe del departamento.
+
+7
+00:00:30,364 --> 00:00:31,406
+¿Eso crees?
+
+8
+00:00:34,243 --> 00:00:35,827
+Escuchen, todos, reúnanse.
+
+9
+00:00:36,119 --> 00:00:37,329
+¿Qué carajos?
+
+10
+00:00:37,454 --> 00:00:39,330
+Creo que estamos bajo ciberataque.
+
+11
+00:00:39,331 --> 00:00:41,458
+No, apagamos para evitar un ciberataque.
+
+12
+00:00:43,460 --> 00:00:45,545
+Muy bien, todos. Cálmense y escuchen.
+
+13
+00:00:45,546 --> 00:00:48,715
+Como verán, estamos redecorando
+el área de trabajo central.
+
+14
+00:00:49,383 --> 00:00:52,134
+Las computadoras del hospital
+están en riesgo de ciberataque,
+
+15
+00:00:52,135 --> 00:00:54,220
+así que, vamos a volver a análogo.
+
+16
+00:00:54,221 --> 00:00:55,680
+- ¿Por cuánto tiempo?
+- Gran pregunta.
+
+17
+00:00:55,681 --> 00:00:57,723
+El equipo técnico apagó todo
+
+18
+00:00:57,724 --> 00:01:00,017
+para tener tiempo de mejorar
+nuestras ciberdefensas.
+
+19
+00:01:00,018 --> 00:01:01,853
+Creo que preguntaron, ¿por cuánto tiempo?
+
+20
+00:01:02,187 --> 00:01:04,731
+No sabemos, pueden ser 24 horas.
+
+21
+00:01:05,232 --> 00:01:06,232
+¡Santo cielo!
+
+22
+00:01:06,233 --> 00:01:08,776
+Bueno, primero lo primero,
+hay que replicar
+
+23
+00:01:08,777 --> 00:01:11,028
+el tablero electrónico de pacientes
+en estos pizarrones,
+
+24
+00:01:11,029 --> 00:01:13,322
+por favor, alguien dígame
+que tomó foto del tablero.
+
+25
+00:01:13,323 --> 00:01:14,741
+Sí, sí, la tengo.
+
+26
+00:01:14,992 --> 00:01:16,076
+A ver...
+
+27
+00:01:19,037 --> 00:01:20,539
+Está un poco borrosa.
+
+28
+00:01:21,164 --> 00:01:23,083
+No, está un poco más que borrosa.
+
+29
+00:01:23,875 --> 00:01:25,252
+- Lo siento.
+- Dios mío.
+
+30
+00:01:26,753 --> 00:01:27,837
+Yo recuerdo.
+
+31
+00:01:27,838 --> 00:01:29,589
+Genial. Si todos los demás pueden recordar
+
+32
+00:01:29,590 --> 00:01:31,465
+el nombre de sus pacientes
+y el número del cuarto,
+
+33
+00:01:31,466 --> 00:01:33,759
+- sería asombroso.
+- No, hablo de que yo recuerdo todo eso.
+
+34
+00:01:33,760 --> 00:01:34,844
+¿Qué es todo?
+
+35
+00:01:34,845 --> 00:01:36,555
+Nombres, doctores, número de cuarto.
+
+36
+00:01:37,139 --> 00:01:39,391
+Porque... tengo una memoria fotográfica.
+
+37
+00:01:39,766 --> 00:01:40,976
+¿En serio? ¿Todo el tablero?
+
+38
+00:01:41,602 --> 00:01:43,103
+Central 12, Harlow Graham,
+
+39
+00:01:43,312 --> 00:01:46,105
+jaqueca, dolor abdominal,
+lenguaje de señas.
+
+40
+00:01:46,106 --> 00:01:48,983
+- Mierda. Tengo un intérprete esperándome.
+- Ve.
+
+41
+00:01:48,984 --> 00:01:52,653
+Bien, para privacidad del paciente,
+vamos a abreviar,
+
+42
+00:01:52,654 --> 00:01:55,657
+DC para dolor de cabeza,
+DA para dolor abdominal y etcétera.
+
+43
+00:01:55,824 --> 00:01:59,076
+Central diez, Jackson Davis,
+psicosis temprana.
+
+44
+00:01:59,077 --> 00:02:00,494
+Javadi, para psiquiatría.
+
+45
+00:02:00,495 --> 00:02:02,205
+Letra griega de Psi para psiquiatría.
+
+46
+00:02:02,581 --> 00:02:03,873
+Bebé desconocida en pediatría,
+
+47
+00:02:03,874 --> 00:02:05,917
+fiebre, doctora Mohan,
+falta orden de ingreso.
+
+48
+00:02:06,293 --> 00:02:09,462
+Enfermería a zona de defensa para norte,
+central sur y trauma.
+
+49
+00:02:09,463 --> 00:02:11,714
+- ¿Dónde está Dana?
+- Con un caso de agresión sexual.
+
+50
+00:02:11,715 --> 00:02:14,258
+- No puede salir hasta terminar el examen.
+- Sí, puede tardar un poco.
+
+51
+00:02:14,259 --> 00:02:16,218
+Princess tiene experiencia
+como enfermera a cargo.
+
+52
+00:02:16,219 --> 00:02:17,638
+- No tanta.
+- Qué gran idea.
+
+53
+00:02:17,763 --> 00:02:19,639
+Princess será.
+Te encargarás de enfermería.
+
+54
+00:02:19,640 --> 00:02:21,932
+- Siguiente.
+- Central 9, Roxie Hamler,
+
+55
+00:02:21,933 --> 00:02:23,184
+cáncer pulmonar terminal.
+
+56
+00:02:23,185 --> 00:02:25,478
+Perdón, ¿nos quedamos
+mientras ella recita el tablero?
+
+57
+00:02:25,479 --> 00:02:28,273
+No, de hecho, vayan a ver sus pacientes
+y luego vuelvan aquí.
+
+58
+00:02:28,690 --> 00:02:29,733
+Gracias.
+
+59
+00:02:30,067 --> 00:02:31,860
+¿Cuántas horas al día estás en tu laptop?
+
+60
+00:02:34,946 --> 00:02:37,074
+Al menos 8 horas. Trabajo desde casa.
+
+61
+00:02:37,574 --> 00:02:39,117
+¿Estás en el escritorio todo el día?
+
+62
+00:02:41,578 --> 00:02:46,415
+No, no. Ya sea que me siente en el sofá,
+o a veces estoy en la cama,
+
+63
+00:02:46,416 --> 00:02:49,961
+sentada con la computadora
+en mi regazo y cosas así.
+
+64
+00:02:50,128 --> 00:02:51,880
+¿Entonces siempre estás
+mirando la pantalla?
+
+65
+00:02:53,048 --> 00:02:54,256
+- Sí.
+- Ya veo.
+
+66
+00:02:54,257 --> 00:02:56,510
+Voy a revisar los músculos de tu cuello.
+
+67
+00:03:04,559 --> 00:03:05,644
+Eso duele.
+
+68
+00:03:06,937 --> 00:03:08,605
+Bien, creo que podemos ayudar.
+
+69
+00:03:09,731 --> 00:03:10,816
+Vengan acá.
+
+70
+00:03:11,817 --> 00:03:13,150
+Bien, reúnanse.
+
+71
+00:03:13,151 --> 00:03:15,361
+Atención, este es el estante de registros,
+
+72
+00:03:15,362 --> 00:03:18,656
+y como ven, cada lugar y portapapeles
+tienen un número de cuarto.
+
+73
+00:03:18,657 --> 00:03:21,283
+Con cada nuevo paciente,
+toman un registro del...
+
+74
+00:03:21,284 --> 00:03:22,410
+sistema T.
+
+75
+00:03:22,411 --> 00:03:24,746
+Tomen su registro por queja principal.
+
+76
+00:03:25,455 --> 00:03:27,707
+Usen el dibujo para buscarlo.
+
+77
+00:03:27,708 --> 00:03:28,875
+¿Por qué hay dos cuerpos?
+
+78
+00:03:29,251 --> 00:03:31,210
+Trauma a la izquierda, clínica, derecha.
+
+79
+00:03:31,211 --> 00:03:33,839
+Lesión craneal a la izquierda,
+jaqueca, derecha.
+
+80
+00:03:34,047 --> 00:03:36,299
+- ¿Son peces nadando en algas?
+- No.
+
+81
+00:03:36,675 --> 00:03:38,342
+Son abejas y pasto.
+
+82
+00:03:38,343 --> 00:03:40,929
+Es la sección de picaduras,
+sarpullido, alergias...
+
+83
+00:03:41,054 --> 00:03:44,640
+Bien, un ejemplo. La doctora Al-Hashimi
+tiene un paciente con dolor de estómago.
+
+84
+00:03:44,641 --> 00:03:48,895
+Para el historial, circulen los positivos,
+como vómito y diarrea.
+
+85
+00:03:49,354 --> 00:03:53,358
+Rayen los negativos,
+como viaje reciente, contagios, fiebre.
+
+86
+00:03:53,608 --> 00:03:57,195
+Para el examen físico,
+palomeen lo normal en la izquierda
+
+87
+00:03:57,404 --> 00:04:00,448
+y circulen lo anormal
+en la derecha. ¿Hay preguntas?
+
+88
+00:04:00,449 --> 00:04:03,034
+¿Su programa de IA generativa
+seguirá funcionando?
+
+89
+00:04:04,453 --> 00:04:05,619
+No por un tiempo.
+
+90
+00:04:05,620 --> 00:04:08,582
+Y apaguen sus Spectralink,
+funcionan con internet.
+
+91
+00:04:11,960 --> 00:04:14,171
+Urgencias CMTP. Adelante, comando médico.
+
+92
+00:04:14,337 --> 00:04:16,757
+- Y así sabremos de las ambulancias.
+- Gracias.
+
+93
+00:04:17,090 --> 00:04:18,883
+En dos minutos
+con dolor abdominal y fiebre.
+
+94
+00:04:18,884 --> 00:04:20,384
+Bien. ¿Lo entendieron hasta ahora?
+
+95
+00:04:20,385 --> 00:04:22,178
+¿Cómo escribimos las órdenes?
+
+96
+00:04:22,179 --> 00:04:26,433
+Formulario médico en triplicado.
+Pruebas, rayos X, intravenosa, medicación.
+
+97
+00:04:26,558 --> 00:04:29,143
+- ¿El laboratorio hará pruebas de sangre?
+- Sí.
+
+98
+00:04:29,144 --> 00:04:30,770
+¿Y las tomografías aún funcionan?
+
+99
+00:04:30,771 --> 00:04:34,356
+Sí, pero los resultados
+volverán en papel de radiología.
+
+100
+00:04:34,357 --> 00:04:35,524
+Esta es la Edad Oscura.
+
+101
+00:04:35,525 --> 00:04:39,653
+Si tienen órdenes con pruebas o rayos X,
+van al estante del recepcionista aquí,
+
+102
+00:04:39,654 --> 00:04:43,700
+este lo cierra y pondrá una solicitud
+para que vaya al departamento correcto.
+
+103
+00:04:43,867 --> 00:04:45,159
+¿Quién es el recepcionista?
+
+104
+00:04:45,160 --> 00:04:46,327
+- Lo estás mirando.
+- A tu servicio.
+
+105
+00:04:46,328 --> 00:04:48,788
+Larry y Antoine lo harán
+hasta que llegue más ayuda.
+
+106
+00:04:48,789 --> 00:04:50,539
+- Sí podemos.
+- Después de sus órdenes,
+
+107
+00:04:50,540 --> 00:04:52,708
+el registro va al estante de enfermería
+
+108
+00:04:52,709 --> 00:04:54,795
+para intravenosa,
+medicación, procedimientos.
+
+109
+00:04:55,003 --> 00:04:57,087
+Pero el dispensario está asegurado.
+
+110
+00:04:57,088 --> 00:04:59,799
+El dispensario lo manejará
+la farmacéutica clínica,
+
+111
+00:04:59,800 --> 00:05:01,884
+- la doctora Megan Nordt.
+- Los apoyaré.
+
+112
+00:05:01,885 --> 00:05:03,636
+Esto es demasiado. ¿Hay preguntas?
+
+113
+00:05:03,637 --> 00:05:05,555
+- ¿Sí?
+- No.
+
+114
+00:05:05,806 --> 00:05:07,182
+¿Y el tercer estante?
+
+115
+00:05:07,349 --> 00:05:09,141
+Cuando su paciente
+esté listo para el alta,
+
+116
+00:05:09,142 --> 00:05:10,392
+el registro va aquí.
+
+117
+00:05:10,393 --> 00:05:12,520
+Esto le avisa a todos
+que habrá una cama libre.
+
+118
+00:05:12,521 --> 00:05:14,021
+O que está listo su atún.
+
+119
+00:05:14,022 --> 00:05:15,106
+- Jesse.
+- Bien.
+
+120
+00:05:17,692 --> 00:05:18,735
+¿Qué es eso?
+
+121
+00:05:19,027 --> 00:05:20,695
+Esa es una máquina de fax.
+
+122
+00:05:20,904 --> 00:05:22,071
+¿Todavía las hacen?
+
+123
+00:05:22,072 --> 00:05:23,823
+Es la línea para el laboratorio y rayos X.
+
+124
+00:05:23,824 --> 00:05:28,160
+Cuando tengan resultados, enviarán el fax
+y ellos lo pondrán en los registros, ¿sí?
+
+125
+00:05:28,161 --> 00:05:29,663
+- Si usted lo dice.
+- Entrando.
+
+126
+00:05:30,163 --> 00:05:33,834
+Bien, doctora McKay, doctor Whitaker,
+Ogilvie, conmigo.
+
+127
+00:05:34,042 --> 00:05:35,919
+El resto arme su portapapeles.
+
+128
+00:05:39,256 --> 00:05:41,924
+Howard Knox, 52, dolor abdominal y fiebre.
+
+129
+00:05:41,925 --> 00:05:44,593
+Presión 152 sobre 90. Taquicardia 120.
+
+130
+00:05:44,594 --> 00:05:46,428
+- No pude canalizar.
+- Me pregunto por qué.
+
+131
+00:05:46,429 --> 00:05:49,014
+- Hola, señor. Soy el doctor Robby.
+- Howard.
+
+132
+00:05:49,015 --> 00:05:51,767
+Es un hospital de enseñanza.
+Supervisaré a la doctora McKay,
+
+133
+00:05:51,768 --> 00:05:53,644
+al doctor Whitaker
+y al estudiante Ogilvie.
+
+134
+00:05:53,645 --> 00:05:54,854
+- Hola.
+- ¿Cómo se siente?
+
+135
+00:05:54,855 --> 00:05:57,189
+- No muy bien.
+- De acuerdo. Princess, ¿qué está libre?
+
+136
+00:05:57,190 --> 00:05:58,483
+Trauma uno. ¿Perlah?
+
+137
+00:06:01,736 --> 00:06:05,031
+Listo. Ordeno Milanta y bupivacaína al 12.
+
+138
+00:06:05,156 --> 00:06:07,784
+Ahí no va, doctora Santos.
+Y necesita etiqueta.
+
+139
+00:06:09,703 --> 00:06:12,956
+Ponlo en el de enfermería ahí
+y vamos al dispensario.
+
+140
+00:06:13,123 --> 00:06:16,001
+- ¿No les parece un horror?
+- Creí que hoy no podía ser peor.
+
+141
+00:06:16,209 --> 00:06:17,878
+Así era cuando fui residente.
+
+142
+00:06:18,503 --> 00:06:20,045
+¿En el año 1900?
+
+143
+00:06:20,046 --> 00:06:22,048
+Sí, cuando hacía registros
+sin luz eléctrica.
+
+144
+00:06:22,424 --> 00:06:25,969
+Oigan, hoy será una aventura.
+Piensen en “Volver al futuro”.
+
+145
+00:06:29,055 --> 00:06:30,432
+Yo pensaré en "Titanic".
+
+146
+00:06:31,182 --> 00:06:33,560
+Toma tu antiácido. Salud.
+
+147
+00:06:34,060 --> 00:06:37,229
+Y marqué el punto gatillo
+que provoca tu jaqueca.
+
+148
+00:06:37,230 --> 00:06:40,317
+Una inyección de anestesia local
+en el área te podría ayudar.
+
+149
+00:06:42,485 --> 00:06:43,611
+Sí, hagámoslo.
+
+150
+00:06:43,612 --> 00:06:44,654
+Muy bien.
+
+151
+00:06:45,822 --> 00:06:48,450
+Vas a sentir un piquetito
+
+152
+00:06:48,950 --> 00:06:50,660
+y algo de ardor.
+
+153
+00:06:55,874 --> 00:06:57,042
+Bien...
+
+154
+00:06:58,960 --> 00:07:00,044
+En verdad duele.
+
+155
+00:07:00,045 --> 00:07:04,673
+Temperatura 38, taquicardia 128,
+satura a 92 con dos litros.
+
+156
+00:07:04,674 --> 00:07:07,468
+- ¿Cuándo empezó el dolor?
+- Va y viene hace una semana.
+
+157
+00:07:07,469 --> 00:07:09,428
+- ¿Y dónde lo siente?
+- Por todos lados.
+
+158
+00:07:09,429 --> 00:07:11,764
+Empezó en la izquierda
+y ahora también en la derecha.
+
+159
+00:07:11,765 --> 00:07:14,350
+- ¿Qué hay de la fiebre?
+- Desde anoche.
+
+160
+00:07:14,351 --> 00:07:17,354
+Estaba ardiendo
+y tuve escalofríos muy graves.
+
+161
+00:07:17,520 --> 00:07:18,646
+No encuentro una vena.
+
+162
+00:07:18,647 --> 00:07:20,941
+- Será línea media.
+- Díganos si le duele.
+
+163
+00:07:22,025 --> 00:07:24,026
+- Lo siento, lo siento.
+- ¿Y de este lado?
+
+164
+00:07:24,027 --> 00:07:25,320
+- Sí, sí.
+- Lo siento, señor.
+
+165
+00:07:25,445 --> 00:07:28,448
+Protege sin rigidez.
+¿Para el dolor 100 de fentanilo?
+
+166
+00:07:28,865 --> 00:07:30,324
+Plan, doctor Whitaker.
+
+167
+00:07:30,325 --> 00:07:34,955
+Cultivos de sangre, lactato, Zosyn.
+Necesita tomografía para saber qué pasa.
+
+168
+00:07:36,998 --> 00:07:40,459
+- Sí. No va a funcionar...
+- Sí, escribe claro. La escritura cuenta.
+
+169
+00:07:40,460 --> 00:07:42,878
+Howard, para el escaneo,
+debes recostarte por completo.
+
+170
+00:07:42,879 --> 00:07:43,963
+¿Puedes hacerlo?
+
+171
+00:07:43,964 --> 00:07:47,132
+Podía hace diez años,
+pero ahora es muy difícil respirar.
+
+172
+00:07:47,133 --> 00:07:50,135
+Si no se puede recostar,
+meteremos un tubo en su tráquea
+
+173
+00:07:50,136 --> 00:07:51,595
+para ayudarle a respirar,
+¿está de acuerdo?
+
+174
+00:07:51,596 --> 00:07:53,180
+¿Intubación con inducción
+de secuencia rápida?
+
+175
+00:07:53,181 --> 00:07:54,348
+No se puede recostar.
+
+176
+00:07:54,349 --> 00:07:56,810
+El tubo entrará en su nariz
+mientras está despierto.
+
+177
+00:07:56,935 --> 00:07:58,603
+- Sí.
+- ¿Eso duele?
+
+178
+00:07:58,812 --> 00:08:01,563
+Lo adormeceremos por completo,
+no va a sentir incomodidad.
+
+179
+00:08:01,564 --> 00:08:03,983
+¿De casualidad sabe su peso?
+
+180
+00:08:03,984 --> 00:08:06,193
+Arriba de 180.
+
+181
+00:08:06,194 --> 00:08:08,821
+- ¿Cuándo revisó por última vez?
+- Ya pasó algún tiempo.
+
+182
+00:08:08,822 --> 00:08:11,032
+¿Es posible que esté sobre los 200?
+
+183
+00:08:11,408 --> 00:08:12,450
+Es posible.
+
+184
+00:08:13,493 --> 00:08:15,370
+Perlah, pide el elevador Hoyer.
+
+185
+00:08:15,745 --> 00:08:18,289
+Entonces meteremos el tubo
+y lo preparamos para escaneo.
+
+186
+00:08:18,790 --> 00:08:22,167
+- ¿Esto es algo grave?
+- Es difícil decirlo sin tomografía.
+
+187
+00:08:22,168 --> 00:08:25,754
+Podría necesitar antibióticos
+o tal vez requerir una operación.
+
+188
+00:08:25,755 --> 00:08:29,174
+Si necesita cirugía, su peso lo haría
+un poco más complicado.
+
+189
+00:08:29,175 --> 00:08:30,259
+Lo sé, lo siento.
+
+190
+00:08:30,260 --> 00:08:32,470
+No se preocupe, vamos a cuidarlo muy bien.
+
+191
+00:08:32,721 --> 00:08:33,763
+Equipo.
+
+192
+00:08:34,681 --> 00:08:36,682
+- Bien. Le daremos algo para el dolor, ¿sí?
+- Sí.
+
+193
+00:08:36,683 --> 00:08:40,477
+Tratemos con una línea media.
+Vena basílica y guía con ultrasonido.
+
+194
+00:08:40,478 --> 00:08:43,772
+- ¿Y un ultrasonido para apendicitis?
+- Es un poco grande para un ultrasonido.
+
+195
+00:08:43,773 --> 00:08:48,069
+- Nuestro tomógrafo solo resiste 204 kilos.
+- Si lo supera, ¿lo enviamos al zoológico?
+
+196
+00:08:49,696 --> 00:08:51,239
+Él está ahí.
+
+197
+00:08:53,450 --> 00:08:56,410
+Oí que hay un gran tomógrafo
+para animales en el zoológico.
+
+198
+00:08:56,411 --> 00:09:00,040
+- El Presbiteriano tiene uno para 290.
+- Sí, si es que aún funciona.
+
+199
+00:09:00,874 --> 00:09:03,752
+- ¿Qué...?
+- Y no quise decir que...
+
+200
+00:09:04,169 --> 00:09:06,421
+¿Han hecho una naso-traqueal
+con paciente despierto?
+
+201
+00:09:07,464 --> 00:09:10,299
+Bien. Perlah, ¿también le dices
+a la doctora Al-Hashimi que venga?
+
+202
+00:09:10,300 --> 00:09:12,385
+- Necesitaré ayuda.
+- Sí. Enseguida.
+
+203
+00:09:12,761 --> 00:09:15,971
+- Lo siento. Firmado.
+- Gracias.
+
+204
+00:09:15,972 --> 00:09:18,265
+Pasillo cama F, George Francis,
+
+205
+00:09:18,266 --> 00:09:21,227
+dificultad respiratoria,
+doctora Mohan, espera dímero D.
+
+206
+00:09:21,770 --> 00:09:24,981
+- Vaya. ¿Sigue recordando?
+- Sí. Impresionante, en serio.
+
+207
+00:09:25,315 --> 00:09:27,066
+Doctora Al, el doctor Robby la busca.
+
+208
+00:09:27,067 --> 00:09:29,777
+Bien. En trauma si me necesitas, Princess.
+
+209
+00:09:29,778 --> 00:09:30,862
+Entendido.
+
+210
+00:09:32,739 --> 00:09:34,991
+¿Quién hace las solicitudes
+para rayos X y laboratorio?
+
+211
+00:09:35,116 --> 00:09:36,493
+¿La enfermera a cargo?
+
+212
+00:09:37,952 --> 00:09:39,079
+No me mires a mí.
+
+213
+00:09:39,829 --> 00:09:40,955
+¡Ya estoy ocupado!
+
+214
+00:09:43,833 --> 00:09:45,710
+¿Los padres de Roxie Hamler?
+
+215
+00:09:46,294 --> 00:09:47,879
+- Central 9.
+- Yo me encargo, Donnie.
+
+216
+00:09:48,171 --> 00:09:50,757
+Hola, soy Victoria Javadi
+una de las estudiantes de medicina.
+
+217
+00:09:51,132 --> 00:09:52,883
+Ayudo en el cuidado de Roxie.
+
+218
+00:09:52,884 --> 00:09:54,761
+Muchas gracias. Soy Lloyd.
+
+219
+00:09:55,512 --> 00:09:57,222
+- Cora.
+- Gusto en conocerlos.
+
+220
+00:09:57,388 --> 00:09:58,598
+¿Se rompió la pierna?
+
+221
+00:09:59,015 --> 00:10:01,183
+Sí. Tiene una fractura de tobillo.
+
+222
+00:10:01,184 --> 00:10:03,937
+Usa bota ortopédica
+y ya no siente mucho dolor.
+
+223
+00:10:04,270 --> 00:10:05,772
+Los llevaré. Está en el nueve.
+
+224
+00:10:11,986 --> 00:10:13,529
+El WiFi del hospital no funciona.
+
+225
+00:10:13,530 --> 00:10:15,323
+Lo apagaron un tiempo, lo siento.
+
+226
+00:10:16,658 --> 00:10:17,951
+Mamá se lastimó, abuelo.
+
+227
+00:10:19,035 --> 00:10:20,120
+Nos enteramos.
+
+228
+00:10:21,287 --> 00:10:22,455
+¿Cómo estás, cariño?
+
+229
+00:10:25,208 --> 00:10:26,626
+Estarás bien, hija.
+
+230
+00:10:27,460 --> 00:10:28,503
+Sí.
+
+231
+00:10:29,838 --> 00:10:31,673
+¿Cuánto tiempo se quedará en Urgencias?
+
+232
+00:10:32,298 --> 00:10:34,634
+Hasta que se libere una cama arriba.
+
+233
+00:10:35,718 --> 00:10:36,928
+Podría tardar.
+
+234
+00:10:42,559 --> 00:10:46,145
+Ya hay mucha gente aquí, tal vez debamos
+llevar a Tucker y a Shane por helado.
+
+235
+00:10:46,146 --> 00:10:48,606
+- Sí, por favor.
+- No, no, estoy bien.
+
+236
+00:10:49,566 --> 00:10:52,068
+Tal vez tu mamá
+quiere un tiempo para dormir.
+
+237
+00:10:52,694 --> 00:10:54,279
+Sí, ve.
+
+238
+00:10:56,364 --> 00:10:57,699
+¿Ella puede comer helado?
+
+239
+00:10:58,575 --> 00:11:00,118
+Puede comer lo que quiera.
+
+240
+00:11:02,203 --> 00:11:03,204
+Bueno, vamos.
+
+241
+00:11:05,456 --> 00:11:06,666
+Vamos.
+
+242
+00:11:08,459 --> 00:11:10,253
+Helado, helado.
+
+243
+00:11:14,340 --> 00:11:15,382
+Sí.
+
+244
+00:11:15,383 --> 00:11:16,467
+Escuchen.
+
+245
+00:11:17,427 --> 00:11:20,180
+Esto es oximetazolina.
+Esto abrirá el pasaje.
+
+246
+00:11:20,930 --> 00:11:24,767
+- ¿Qué medicación toma?
+- Lisinopril y metformina.
+
+247
+00:11:25,351 --> 00:11:27,270
+¿Ozempic, Wegovy?
+
+248
+00:11:27,395 --> 00:11:29,271
+No. Son costosas.
+
+249
+00:11:29,272 --> 00:11:33,109
+Voy a poner gel adormecedor en su nariz.
+Si escurre a su garganta, está bien.
+
+250
+00:11:34,652 --> 00:11:36,321
+Tome, por si lo necesita.
+
+251
+00:11:37,322 --> 00:11:40,574
+- ¿Usted fuma? ¿Toma alcohol?
+- Nunca.
+
+252
+00:11:40,575 --> 00:11:43,745
+- ¿Se ejercita?
+- Voy de la habitación a la cocina.
+
+253
+00:11:44,537 --> 00:11:48,498
+No, caminaría más, pero necesito cercas
+para descansar en cada esquina.
+
+254
+00:11:48,499 --> 00:11:52,294
+- ¿Qué hay de acuaeróbicos?
+- Enfoquémonos en ayudar al señor Knox.
+
+255
+00:11:52,295 --> 00:11:53,338
+Concuerdo.
+
+256
+00:11:53,838 --> 00:11:55,881
+Me tomó 25 años tomar esta forma.
+
+257
+00:11:55,882 --> 00:11:57,800
+Accidente de auto, unidad de quemados,
+
+258
+00:11:58,468 --> 00:12:00,678
+cuatro cirugías de pierna
+durante diez años.
+
+259
+00:12:01,387 --> 00:12:03,181
+Me afectó tanto que perdí mi empleo.
+
+260
+00:12:03,598 --> 00:12:06,351
+Adormeceré detrás de su lengua.
+Va a saber muy mal.
+
+261
+00:12:06,976 --> 00:12:09,270
+- ¿Quiere que llamemos a alguien?
+- No.
+
+262
+00:12:09,562 --> 00:12:11,189
+¿Algún familiar?
+
+263
+00:12:12,065 --> 00:12:13,691
+Mis padres fallecieron.
+
+264
+00:12:13,983 --> 00:12:15,693
+Estoy soltero, imaginen.
+
+265
+00:12:15,860 --> 00:12:18,363
+- ¿Hermanos?
+- Una hermana en Arizona.
+
+266
+00:12:19,072 --> 00:12:21,115
+Nosotros no hablamos mucho.
+
+267
+00:12:21,616 --> 00:12:25,828
+Ya que adormecimos su lengua,
+podemos anestesiar un poco más hondo.
+
+268
+00:12:27,372 --> 00:12:30,083
+Disculpen. Hay una mujer de mediana edad
+con ceguera repentina.
+
+269
+00:12:30,667 --> 00:12:31,750
+Puedo ir.
+
+270
+00:12:31,751 --> 00:12:33,252
+Bien. ¿Puedes ver si Abbot sigue aquí?
+
+271
+00:12:33,253 --> 00:12:34,294
+- Sí.
+- Gracias.
+
+272
+00:12:34,295 --> 00:12:35,671
+¿Cómo se llama su hermana?
+
+273
+00:12:35,672 --> 00:12:37,298
+Lauren Milford.
+
+274
+00:12:37,632 --> 00:12:39,049
+¿Ciudad de Arizona?
+
+275
+00:12:39,050 --> 00:12:40,676
+Flagstaff, creo.
+
+276
+00:12:40,677 --> 00:12:43,429
+Pasaré sobre su lengua
+y adormeceré cuerdas vocales.
+
+277
+00:12:46,641 --> 00:12:48,893
+- ¿Cuántos dedos?
+- No veo ningún dedo.
+
+278
+00:12:49,936 --> 00:12:51,312
+¿Y ahora?
+
+279
+00:12:51,896 --> 00:12:53,606
+Puedo ver un poco de luz.
+
+280
+00:12:54,357 --> 00:12:57,567
+Brook, conociste a la doctora King,
+ella es la doctora Al-Hashimi.
+
+281
+00:12:57,568 --> 00:12:59,152
+- Es un placer.
+- Y su esposa, Wendy.
+
+282
+00:12:59,153 --> 00:13:00,279
+- Hola.
+- Hola.
+
+283
+00:13:00,280 --> 00:13:01,906
+Bien, ¿podemos hablar de sus síntomas?
+
+284
+00:13:02,073 --> 00:13:04,366
+Mientras pueda corregirla
+si dice algo mal.
+
+285
+00:13:04,367 --> 00:13:05,909
+Créanme, lo hará.
+
+286
+00:13:05,910 --> 00:13:09,162
+Una hora de repentina,
+pérdida de visión en el ojo izquierdo.
+
+287
+00:13:09,163 --> 00:13:12,332
+Sin historial de estado hipercoagulable
+o enfermedad vascular.
+
+288
+00:13:12,333 --> 00:13:13,667
+¿Puede ver al frente, por favor?
+
+289
+00:13:13,668 --> 00:13:15,878
+Tal vez oclusión
+de la arteria central de la retina.
+
+290
+00:13:16,421 --> 00:13:17,797
+¿Podrían ser más claras?
+
+291
+00:13:17,964 --> 00:13:20,882
+Un coágulo de sangre puede bloquear
+la arteria detrás del ojo
+
+292
+00:13:20,883 --> 00:13:22,385
+y reducir su visión.
+
+293
+00:13:22,593 --> 00:13:24,137
+A veces le dicen derrame ocular.
+
+294
+00:13:24,470 --> 00:13:28,057
+- ¿Derrame? ¿Podría estar paralizada?
+- No. Esto se limitaría al ojo.
+
+295
+00:13:28,224 --> 00:13:29,474
+¿Y es permanente?
+
+296
+00:13:29,475 --> 00:13:31,269
+Primero, hay que hacer el diagnóstico.
+
+297
+00:13:32,103 --> 00:13:33,145
+¿Examen retinal?
+
+298
+00:13:33,146 --> 00:13:34,229
+No pude revisar bien.
+
+299
+00:13:34,230 --> 00:13:35,523
+El oftalmoscopio.
+
+300
+00:13:36,024 --> 00:13:37,066
+¿El qué?
+
+301
+00:13:40,278 --> 00:13:43,488
+Princess. Faltan etiquetas del paciente
+en estas hojas de órdenes.
+
+302
+00:13:43,489 --> 00:13:45,450
+Farmacia no sabrá
+a quién darle medicamentos.
+
+303
+00:13:45,700 --> 00:13:46,825
+Estamos en eso.
+
+304
+00:13:46,826 --> 00:13:48,870
+Princess, ¿dónde está el oftalmoscopio?
+
+305
+00:13:49,287 --> 00:13:51,122
+- Equipo del corredor, carro ocular.
+- Gracias.
+
+306
+00:13:51,289 --> 00:13:53,583
+Pareces un poco confundida.
+
+307
+00:13:53,833 --> 00:13:55,626
+¿Cómo sé cuál es el paciente que sigue?
+
+308
+00:13:55,752 --> 00:13:58,128
+Al inicio del tablero,
+los escriben en el orden que llegan.
+
+309
+00:13:58,129 --> 00:14:00,673
+Borras el primero y pones tus iniciales
+en el cuadro de médico.
+
+310
+00:14:00,798 --> 00:14:02,133
+Bien, gracias.
+
+311
+00:14:02,508 --> 00:14:03,509
+- Caleb.
+- Michael.
+
+312
+00:14:03,634 --> 00:14:05,177
+¿Estás llevando bien este caos?
+
+313
+00:14:05,178 --> 00:14:07,388
+Bueno, es fácil
+cuando no estarás mucho tiempo.
+
+314
+00:14:08,348 --> 00:14:10,808
+¿Hay más pacientes comatosos
+con los que pueda hablar?
+
+315
+00:14:12,727 --> 00:14:14,437
+- Es un chiste.
+- Bien.
+
+316
+00:14:14,645 --> 00:14:17,190
+Victoria, ella es Nicole Stedman.
+
+317
+00:14:17,315 --> 00:14:19,900
+Llevo el grupo de apoyo a padres
+para el servicio psiquiátrico.
+
+318
+00:14:19,901 --> 00:14:23,195
+Sí. La hija de Nicole fue diagnosticada
+en su primer año de universidad.
+
+319
+00:14:23,196 --> 00:14:26,032
+¿Crees que los padres de Jackson
+puedan hablar con ella?
+
+320
+00:14:26,532 --> 00:14:28,201
+Les voy a preguntar.
+
+321
+00:14:28,743 --> 00:14:32,246
+Podemos ver toda la retina
+sin dilatar la pupila.
+
+322
+00:14:32,663 --> 00:14:34,332
+Están viendo el ojo incorrecto.
+
+323
+00:14:34,499 --> 00:14:36,667
+Comenzamos con el ojo bueno para comparar.
+
+324
+00:14:38,795 --> 00:14:39,837
+La retina se ve bien.
+
+325
+00:14:39,962 --> 00:14:41,254
+¿Ya verán el otro?
+
+326
+00:14:41,255 --> 00:14:42,298
+Ojos muy abiertos.
+
+327
+00:14:44,759 --> 00:14:45,968
+¿Cómo se ve?
+
+328
+00:14:46,427 --> 00:14:47,719
+Muy pálido, sin irrigación.
+
+329
+00:14:47,720 --> 00:14:50,013
+Masaje digital.
+Diez segundos sí, cinco segundos no.
+
+330
+00:14:50,014 --> 00:14:51,641
+Pide tomografía craneal sin contraste.
+
+331
+00:14:55,019 --> 00:14:56,062
+Adelante.
+
+332
+00:14:57,230 --> 00:14:59,107
+Hola. Supe que tu paciente salió.
+
+333
+00:14:59,649 --> 00:15:01,108
+Se tomó una pausa.
+
+334
+00:15:01,109 --> 00:15:02,151
+¿Cuánto vas a esperar?
+
+335
+00:15:03,569 --> 00:15:05,738
+- ¿Ya sabes sobre el apagón cibernético?
+- Sí.
+
+336
+00:15:06,406 --> 00:15:09,742
+Quisiera ayudar, pero me quedaré aquí
+hasta que recupere la evidencia.
+
+337
+00:15:09,951 --> 00:15:11,576
+Es un desastre afuera.
+
+338
+00:15:11,577 --> 00:15:12,870
+Todo el día lo es.
+
+339
+00:15:14,330 --> 00:15:15,623
+Lo siento, yo ya me iba.
+
+340
+00:15:16,332 --> 00:15:17,542
+¿Estás bien?
+
+341
+00:15:18,543 --> 00:15:19,710
+Estoy bien.
+
+342
+00:15:20,086 --> 00:15:21,421
+Me alegra oírlo.
+
+343
+00:15:21,838 --> 00:15:23,506
+- ¿Fuiste a comer algo?
+- No.
+
+344
+00:15:25,758 --> 00:15:26,884
+Vamos a seguir.
+
+345
+00:15:27,844 --> 00:15:28,886
+De acuerdo.
+
+346
+00:15:29,679 --> 00:15:30,721
+Sí.
+
+347
+00:15:37,437 --> 00:15:39,105
+Muy bien, continuemos.
+
+348
+00:15:40,731 --> 00:15:42,275
+¿Por qué no tienen en Urgencias?
+
+349
+00:15:43,192 --> 00:15:45,778
+Porque los pacientes intubados
+suelen estar sedados.
+
+350
+00:15:46,863 --> 00:15:47,946
+Claro.
+
+351
+00:15:47,947 --> 00:15:51,701
+Tal vez quieras dejar tus comentarios
+sobre su peso.
+
+352
+00:15:52,994 --> 00:15:55,955
+Solo me preguntaba cómo engordó tanto
+y cómo ayudarlo.
+
+353
+00:15:56,205 --> 00:15:59,416
+Podemos ayudar al averiguar
+qué le sucede tratándolo con respeto.
+
+354
+00:15:59,417 --> 00:16:01,711
+- ¿Aún duele el abdomen?
+- La segunda inyección ayudó.
+
+355
+00:16:01,878 --> 00:16:04,672
+- Bien. Hay más si necesitas.
+- Sonido intestinal menor.
+
+356
+00:16:04,922 --> 00:16:06,716
+Vidatalk de terapia intensiva.
+
+357
+00:16:06,841 --> 00:16:09,009
+Genial. Howard,
+tenemos que abrir el pasaje
+
+358
+00:16:09,010 --> 00:16:10,343
+ya para pasar el tubo.
+
+359
+00:16:10,344 --> 00:16:11,470
+Iniciaré con mi meñique.
+
+360
+00:16:11,471 --> 00:16:14,807
+Lento, por unos minutos e iré más profundo
+hasta el final de mi nudillo.
+
+361
+00:16:15,016 --> 00:16:17,767
+Cuando el tubo pase tus cuerdas vocales
+ya no podrás hablar,
+
+362
+00:16:17,768 --> 00:16:19,895
+pero aquí hay un
+dispositivo de comunicación,
+
+363
+00:16:19,896 --> 00:16:22,315
+navegas la pantalla
+y buscas lo que quieres decir.
+
+364
+00:16:22,565 --> 00:16:24,775
+Dale al ícono y hablará con nosotros.
+
+365
+00:16:24,984 --> 00:16:26,611
+<i>Necesito medicina para el dolor.</i>
+
+366
+00:16:27,403 --> 00:16:28,821
+<i>Mi dolor está en nueve.</i>
+
+367
+00:16:29,113 --> 00:16:30,531
+¿Y puedo pedir una pizza?
+
+368
+00:16:32,742 --> 00:16:34,951
+Hay servicio celular
+en la bahía de ambulancias.
+
+369
+00:16:34,952 --> 00:16:37,371
+Hallé el nuevo número de su hermana,
+dejé un mensaje de voz.
+
+370
+00:16:37,538 --> 00:16:38,706
+Bien, voy a empezar.
+
+371
+00:16:38,915 --> 00:16:40,791
+- ¿Está listo?
+- No realmente.
+
+372
+00:16:41,375 --> 00:16:42,459
+Adelante.
+
+373
+00:16:42,460 --> 00:16:44,545
+- Robby, hablemos.
+- Cabeza atrás.
+
+374
+00:16:44,837 --> 00:16:45,880
+Bien.
+
+375
+00:16:47,590 --> 00:16:50,008
+- ¿Crees que es quirúrgico?
+- Quizá un apéndice no perforado.
+
+376
+00:16:50,009 --> 00:16:51,092
+¿Podría hacer endoscopía?
+
+377
+00:16:51,093 --> 00:16:53,513
+Tal vez, pero puede tratarse
+solo con antibióticos.
+
+378
+00:16:53,638 --> 00:16:55,264
+¿Y si necesita cirugía?
+
+379
+00:16:55,556 --> 00:16:58,100
+Con su talla, una laparotomía abierta
+de emergencia,
+
+380
+00:16:58,476 --> 00:17:00,602
+la mortalidad es casi 50 %.
+
+381
+00:17:00,603 --> 00:17:01,729
+Bueno, un paso a la vez.
+
+382
+00:17:02,063 --> 00:17:04,106
+Sigue llamando
+a su hermana cada 15 minutos.
+
+383
+00:17:04,815 --> 00:17:05,900
+Ya contestará.
+
+384
+00:17:10,029 --> 00:17:11,489
+Oigan, hay solicitudes en blanco.
+
+385
+00:17:13,074 --> 00:17:14,283
+¿De qué estás hablando?
+
+386
+00:17:15,159 --> 00:17:16,786
+Esta y esta.
+
+387
+00:17:17,453 --> 00:17:19,788
+Larry, ¿estás usando un marcador?
+
+388
+00:17:19,789 --> 00:17:20,873
+Tal vez.
+
+389
+00:17:21,749 --> 00:17:24,418
+Esos no llegan hasta las copias.
+
+390
+00:17:25,127 --> 00:17:26,420
+Debes usar bolígrafo.
+
+391
+00:17:27,255 --> 00:17:28,297
+Bien.
+
+392
+00:17:30,716 --> 00:17:32,009
+¿Digby aún no aparece?
+
+393
+00:17:32,134 --> 00:17:33,301
+¿Hablas del indigente?
+
+394
+00:17:33,302 --> 00:17:34,720
+Necesitamos usar su cama.
+
+395
+00:17:36,681 --> 00:17:38,306
+- ¿Qué necesitas?
+- Un médico responsable.
+
+396
+00:17:38,307 --> 00:17:40,225
+- ¿Un residente de mayor rango?
+- No, estoy bien.
+
+397
+00:17:40,226 --> 00:17:42,310
+- Doctora Al-Hashimi, ¿puedo presentar?
+- Sí.
+
+398
+00:17:42,311 --> 00:17:44,855
+Mujer sorda de 32 con jaqueca miofascial.
+
+399
+00:17:44,981 --> 00:17:48,234
+El ibuprofeno causó gastritis,
+dolor epigástrico y un vasovagal,
+
+400
+00:17:48,401 --> 00:17:51,611
+pero cesó el dolor con Milanta
+y puse inyección en punto gatillo.
+
+401
+00:17:51,612 --> 00:17:53,947
+Excelente. Eso puede aliviar el dolor
+por varios meses.
+
+402
+00:17:53,948 --> 00:17:56,325
+Sí. Y no volverá si eleva su pantalla.
+
+403
+00:17:56,826 --> 00:17:59,494
+Hubo un retraso en conseguir
+un intérprete de señas.
+
+404
+00:17:59,495 --> 00:18:01,454
+- Y casi me rendía y quería...
+- Urgencias del CMTP.
+
+405
+00:18:01,455 --> 00:18:03,582
+una tomografía cerebral
+y abdominal inútil.
+
+406
+00:18:03,583 --> 00:18:04,749
+Qué bueno que ya no.
+
+407
+00:18:04,750 --> 00:18:06,085
+Doctora Al-Hashimi, para usted.
+
+408
+00:18:07,503 --> 00:18:09,921
+- Buen trabajo con el punto gatillo.
+- Sí, lo sé.
+
+409
+00:18:09,922 --> 00:18:11,007
+¿Cómo va el sistema T?
+
+410
+00:18:11,799 --> 00:18:13,217
+Rápido y fácil.
+
+411
+00:18:13,676 --> 00:18:16,094
+Sí, en estas hojas
+no solo circules tu diagnóstico.
+
+412
+00:18:16,095 --> 00:18:18,888
+También debes de rayar
+todo lo que descartaste.
+
+413
+00:18:18,889 --> 00:18:19,973
+Sí, sin problema.
+
+414
+00:18:19,974 --> 00:18:21,100
+Muchísimas gracias.
+
+415
+00:18:21,601 --> 00:18:23,935
+Princess, pon a Central 13
+al frente en tomografía.
+
+416
+00:18:23,936 --> 00:18:26,062
+- ¿Qué tienes?
+- Paciente con ceguera repentina
+
+417
+00:18:26,063 --> 00:18:27,856
+con oclusión
+de la arteria central de la retina.
+
+418
+00:18:27,857 --> 00:18:30,108
+Hablé con un oftalmólogo
+del hospital de veteranos.
+
+419
+00:18:30,109 --> 00:18:32,570
+Investigador principal
+de trombolíticos en casos como este.
+
+420
+00:18:32,987 --> 00:18:35,030
+No es el tratamiento estándar,
+es arriesgado.
+
+421
+00:18:35,031 --> 00:18:38,450
+Será consentimiento informado.
+Es lo mejor para salvar algo de su visión.
+
+422
+00:18:38,451 --> 00:18:39,826
+Tu paciente, tu decisión.
+
+423
+00:18:39,827 --> 00:18:41,871
+No estaré aquí
+para ver las complicaciones.
+
+424
+00:18:45,082 --> 00:18:47,251
+Tomaré dos muestras de la vagina.
+
+425
+00:18:48,794 --> 00:18:50,671
+Dos muestras del cérvix.
+
+426
+00:18:54,133 --> 00:18:55,926
+Avísame si sientes molestias.
+
+427
+00:18:57,053 --> 00:18:58,095
+Bien.
+
+428
+00:18:59,138 --> 00:19:00,598
+Cada muestra lleva etiqueta.
+
+429
+00:19:00,723 --> 00:19:03,017
+Primera vaginal, segunda vaginal.
+
+430
+00:19:03,225 --> 00:19:05,435
+Preparas el frotis de ambas
+y dejas que se seque.
+
+431
+00:19:05,436 --> 00:19:06,686
+¿Lo mismo para el cérvix?
+
+432
+00:19:06,687 --> 00:19:08,898
+Sí, no requiere frotis.
+
+433
+00:19:10,650 --> 00:19:11,817
+¿Cómo estás Ilana?
+
+434
+00:19:12,902 --> 00:19:13,944
+Estoy resistiendo.
+
+435
+00:19:15,196 --> 00:19:17,365
+Bien. Casi termino.
+
+436
+00:19:20,618 --> 00:19:23,245
+Todas estas muestras
+van al sobre de contacto vaginal.
+
+437
+00:19:23,371 --> 00:19:25,748
+- Puedo ayudar con eso.
+- No, debo hacerlo yo.
+
+438
+00:19:26,624 --> 00:19:27,708
+Voy a sacar esto.
+
+439
+00:19:30,002 --> 00:19:31,087
+Muy bien,
+
+440
+00:19:32,004 --> 00:19:33,839
+Todo bien aquí. Puedes bajar las piernas.
+
+441
+00:19:38,052 --> 00:19:39,345
+¿Y ya terminamos?
+
+442
+00:19:39,970 --> 00:19:42,807
+Última cosa. Cuatro muestras
+del interior de tu boca.
+
+443
+00:19:43,766 --> 00:19:45,226
+¿No ya había hecho eso?
+
+444
+00:19:45,518 --> 00:19:46,685
+Esta es diferente.
+
+445
+00:19:46,686 --> 00:19:49,355
+De tu mejilla para tu ADN, no el de él.
+
+446
+00:19:52,858 --> 00:19:54,944
+Entonces, ¿podría ser...
+
+447
+00:19:55,403 --> 00:19:57,947
+bipolar o esquizofrénico?
+
+448
+00:19:58,364 --> 00:20:00,366
+Son las posibiblidades más probables, sí.
+
+449
+00:20:00,533 --> 00:20:01,991
+¿Y cómo sabrán cuál es?
+
+450
+00:20:01,992 --> 00:20:03,744
+Por su respuesta al medicamento.
+
+451
+00:20:04,245 --> 00:20:06,622
+Pero también con la terapia
+y observación en psiquiatría.
+
+452
+00:20:06,831 --> 00:20:09,542
+Vigilarán su humor
+e interacciones con otros.
+
+453
+00:20:12,086 --> 00:20:14,921
+¿Hay una prueba
+de sangre o una imagen cerebral
+
+454
+00:20:14,922 --> 00:20:16,423
+que nos dé una certeza?
+
+455
+00:20:16,424 --> 00:20:17,550
+Por desgracia no.
+
+456
+00:20:17,883 --> 00:20:21,052
+Con medicación adecuada,
+personas con trastorno bipolar
+
+457
+00:20:21,053 --> 00:20:22,763
+pueden tener carreras exitosas.
+
+458
+00:20:23,681 --> 00:20:25,057
+¿Y pedimos a Dios que sea bipolar?
+
+459
+00:20:25,641 --> 00:20:27,684
+Puede pedir la felicidad de su hijo.
+
+460
+00:20:27,685 --> 00:20:31,187
+Si se trata pronto, el 20 por ciento
+de personas con esquizofrenia,
+
+461
+00:20:31,188 --> 00:20:32,815
+se recuperan por completo.
+
+462
+00:20:33,065 --> 00:20:34,233
+¿Y el 80 por ciento no?
+
+463
+00:20:34,525 --> 00:20:36,902
+Es una nueva versión de Jackson.
+
+464
+00:20:39,864 --> 00:20:41,657
+- ¿Qué edad tenía su hija...?
+- Veinte.
+
+465
+00:20:42,908 --> 00:20:45,244
+Estudiaba arquitectura en Georgetown.
+
+466
+00:20:46,412 --> 00:20:47,538
+Esquizofrenia.
+
+467
+00:20:48,122 --> 00:20:49,956
+Lo siento.
+
+468
+00:20:49,957 --> 00:20:51,417
+No, está bien.
+
+469
+00:20:51,917 --> 00:20:55,129
+Vive conmigo, trabaja
+como cajera en Giant Eagle.
+
+470
+00:20:56,964 --> 00:20:58,215
+Empleada del mes.
+
+471
+00:20:59,383 --> 00:21:00,718
+Aún hay conflictos,
+
+472
+00:21:01,510 --> 00:21:03,971
+pero también hay risa y amor.
+
+473
+00:21:11,812 --> 00:21:12,897
+Está listo.
+
+474
+00:21:13,230 --> 00:21:14,314
+¿Cómo se sintió?
+
+475
+00:21:14,315 --> 00:21:15,524
+Muy extraño.
+
+476
+00:21:15,816 --> 00:21:17,735
+No me dolió, fue extraño.
+
+477
+00:21:17,902 --> 00:21:20,361
+Bien, el siguiente paso
+será tomar este tubo
+
+478
+00:21:20,362 --> 00:21:21,781
+y pasarlo por tu nariz,
+
+479
+00:21:22,281 --> 00:21:26,035
+pararemos detrás de tu lengua,
+mejor no hables para eso.
+
+480
+00:21:26,202 --> 00:21:28,412
+Usamos agua tibia
+para hacerlo más flexible.
+
+481
+00:21:30,164 --> 00:21:31,540
+¿Quieres intentarlo?
+
+482
+00:21:32,917 --> 00:21:34,627
+<i>¿Qué día y qué hora es?</i>
+
+483
+00:21:34,794 --> 00:21:36,337
+4 de julio, 2:31 p. m.
+
+484
+00:21:37,171 --> 00:21:38,923
+<i>¿Cuándo me sacarán el tubo?</i>
+
+485
+00:21:39,089 --> 00:21:41,842
+Aún tenemos que meterlo primero.
+
+486
+00:21:42,384 --> 00:21:44,136
+<i>Lo sé, solo practico.</i>
+
+487
+00:21:44,804 --> 00:21:46,263
+Ya suenas como todo un experto.
+
+488
+00:21:48,015 --> 00:21:49,558
+Antes de que no pueda hablar.
+
+489
+00:21:51,143 --> 00:21:52,603
+Solo quiero decir...
+
+490
+00:21:53,729 --> 00:21:54,772
+gracias,
+
+491
+00:21:55,397 --> 00:21:56,482
+por todo.
+
+492
+00:21:57,691 --> 00:21:58,776
+Es un placer.
+
+493
+00:21:59,652 --> 00:22:00,653
+Adelante.
+
+494
+00:22:05,157 --> 00:22:06,283
+Aquí vamos.
+
+495
+00:22:11,163 --> 00:22:12,413
+Prevención de enfermedades.
+
+496
+00:22:12,414 --> 00:22:16,168
+Una inyección para la gonorrea,
+luego píldoras para clamidia y tricomonas.
+
+497
+00:22:16,585 --> 00:22:17,627
+Gracias.
+
+498
+00:22:17,628 --> 00:22:19,796
+Tenemos la pastilla anticonceptiva
+del día siguiente.
+
+499
+00:22:19,797 --> 00:22:20,964
+Ella tiene un DIU.
+
+500
+00:22:20,965 --> 00:22:23,466
+Es 99 % efectivo, no el 100 %.
+
+501
+00:22:23,467 --> 00:22:24,593
+Aún la ofrecemos.
+
+502
+00:22:25,135 --> 00:22:26,220
+Yo pasaré.
+
+503
+00:22:26,554 --> 00:22:29,932
+Para VIH tenemos la PEP,
+profilaxis post-exposición.
+
+504
+00:22:30,349 --> 00:22:33,018
+Son 28 días. Entre antes empieces,
+es más efectivo.
+
+505
+00:22:34,812 --> 00:22:37,898
+Emma, estoy segura de que necesitan
+otro par de manos allá afuera.
+
+506
+00:22:39,733 --> 00:22:41,443
+Fue un gusto conocerte, Ilana.
+
+507
+00:22:42,319 --> 00:22:43,653
+Eres una mujer muy valiente.
+
+508
+00:22:43,654 --> 00:22:44,697
+Sí.
+
+509
+00:22:51,912 --> 00:22:53,122
+Es una buena enfermera.
+
+510
+00:22:53,581 --> 00:22:56,041
+Sigue aprendiendo, pero lo será.
+
+511
+00:22:58,252 --> 00:22:59,503
+Después de esto, ¿terminamos?
+
+512
+00:22:59,628 --> 00:23:00,629
+Sí.
+
+513
+00:23:04,884 --> 00:23:06,176
+Me alegra que estuviera aquí hoy.
+
+514
+00:23:11,265 --> 00:23:12,308
+Yo también.
+
+515
+00:23:14,143 --> 00:23:16,186
+Tenemos una decisión que tomar.
+
+516
+00:23:17,021 --> 00:23:19,188
+Los estudios muestran
+que algo de la visión
+
+517
+00:23:19,189 --> 00:23:22,108
+se puede recuperar
+con medicamentos trombolíticos.
+
+518
+00:23:22,109 --> 00:23:23,193
+Pues dénselos.
+
+519
+00:23:23,444 --> 00:23:25,070
+Pero hay riesgos posibles.
+
+520
+00:23:25,738 --> 00:23:29,991
+En derrame ocular, solo el 17 %
+mejora sin ningún tratamiento.
+
+521
+00:23:29,992 --> 00:23:31,492
+¿Solo el 17 %?
+
+522
+00:23:31,493 --> 00:23:35,164
+Sí. Pero con la medicina,
+la mejoría aumenta otro 20 %.
+
+523
+00:23:36,498 --> 00:23:38,208
+Pero puede haber complicaciones.
+
+524
+00:23:38,959 --> 00:23:42,254
+El 2 % de los pacientes
+que reciben medicación empeora,
+
+525
+00:23:42,796 --> 00:23:45,925
+y el 1 % tiene
+discapacidad severa o muere.
+
+526
+00:23:52,932 --> 00:23:53,974
+Cariño,
+
+527
+00:23:54,099 --> 00:23:55,935
+esta debe ser tu decisión.
+
+528
+00:23:57,728 --> 00:23:59,563
+No, es nuestra decisión.
+
+529
+00:24:00,856 --> 00:24:02,274
+¿Qué harías tu sin mí?
+
+530
+00:24:03,025 --> 00:24:04,443
+Supongo que lo averiguaría.
+
+531
+00:24:06,987 --> 00:24:09,365
+Y es probable que llore
+por dos años completos.
+
+532
+00:24:10,449 --> 00:24:11,700
+¿Dos años? ¿Es todo?
+
+533
+00:24:13,661 --> 00:24:15,829
+- Quiero la medicación.
+- Bien.
+
+534
+00:24:20,584 --> 00:24:22,544
+Necesitamos su nombre completo
+para el registro.
+
+535
+00:24:22,670 --> 00:24:25,839
+Jackie Liddell.
+
+536
+00:24:26,298 --> 00:24:28,217
+- ¿Y usted es?
+- Su amiga Jacquie.
+
+537
+00:24:28,842 --> 00:24:29,926
+¿Tienen el mismo nombre?
+
+538
+00:24:29,927 --> 00:24:32,845
+No. No. Es Jackie con CK.
+Soy Jacquie con Q.
+
+539
+00:24:32,846 --> 00:24:35,307
+Pueden decirme CK.
+
+540
+00:24:35,766 --> 00:24:37,767
+Es mejor que no hables, CK.
+¿Bien? Tranquila.
+
+541
+00:24:37,768 --> 00:24:41,230
+¿Tranquila?
+Q, ¡me mordí la mitad de la lengua!
+
+542
+00:24:41,397 --> 00:24:43,898
+- ¿Qué?
+- Dijo que se mordió la mitad de la lengua.
+
+543
+00:24:43,899 --> 00:24:44,984
+¿Puede entenderla?
+
+544
+00:24:45,109 --> 00:24:47,694
+Debería oírla cuando se toma
+dos jarras de margaritas.
+
+545
+00:24:47,695 --> 00:24:48,903
+De la mierda y balbuceando.
+
+546
+00:24:48,904 --> 00:24:51,156
+¡Eres una gran idiota!
+
+547
+00:24:51,532 --> 00:24:54,118
+- Princess, ¿qué está abierto?
+- Sur 15 está libre.
+
+548
+00:24:54,660 --> 00:24:57,287
+- Laceración profunda de lengua.
+- Yo puedo encargarme.
+
+549
+00:24:58,872 --> 00:25:01,375
+Robby y Al-Hashimi
+ahora están con pacientes críticos.
+
+550
+00:25:01,917 --> 00:25:05,754
+Hola, soy el doctor Langdon,
+voy a supervisar su atención.
+
+551
+00:25:08,215 --> 00:25:10,884
+Cielos, CK. El doctor es un puto galán.
+
+552
+00:25:13,595 --> 00:25:15,764
+Tubo a 14 centímetros sobre la vía aérea.
+
+553
+00:25:16,223 --> 00:25:18,392
+Muy bien, Howard. Voy a empezar.
+
+554
+00:25:18,600 --> 00:25:21,979
+Si quieres que pare,
+solo levanta tu mano, ¿bien?
+
+555
+00:25:23,105 --> 00:25:25,107
+La marca azul me dice
+que estoy en el tubo.
+
+556
+00:25:28,569 --> 00:25:30,529
+Parece que está bien.
+
+557
+00:25:30,946 --> 00:25:32,573
+Si inhala deberíamos ver las cuerdas.
+
+558
+00:25:33,490 --> 00:25:35,075
+Bien, respira hondo, Howard.
+
+559
+00:25:38,746 --> 00:25:40,122
+Sí, es hermoso.
+
+560
+00:25:40,956 --> 00:25:43,333
+Las cuerdas son sensibles,
+pon lidocaína en el endoscopio.
+
+561
+00:25:43,876 --> 00:25:45,044
+Bien.
+
+562
+00:25:45,377 --> 00:25:47,796
+Un cc entrando ahora.
+
+563
+00:25:48,672 --> 00:25:50,466
+Y le daremos un segundo para que funcione.
+
+564
+00:25:51,091 --> 00:25:52,551
+¿Cómo estás, Howard?
+
+565
+00:25:54,219 --> 00:25:56,889
+Cuando entre el tubo,
+tendrás que respirar por la nariz.
+
+566
+00:25:57,222 --> 00:25:58,723
+Oye, Howard, no te muevas.
+
+567
+00:25:58,724 --> 00:26:02,185
+Ahora voy a pasar de tus cuerdas vocales
+
+568
+00:26:02,186 --> 00:26:04,480
+hasta que veamos la carina.
+
+569
+00:26:06,440 --> 00:26:07,566
+Ogilvie.
+
+570
+00:26:07,900 --> 00:26:10,069
+Ahí. Es el tronco principal.
+
+571
+00:26:10,444 --> 00:26:12,780
+El tubo se introduce.
+
+572
+00:26:17,076 --> 00:26:20,079
+Y el endoscopio puede salir.
+
+573
+00:26:22,081 --> 00:26:23,290
+Genial.
+
+574
+00:26:23,707 --> 00:26:26,375
+Bien, inflen el globo.
+Respira hondo por la nariz.
+
+575
+00:26:26,376 --> 00:26:27,585
+Asombroso.
+
+576
+00:26:27,586 --> 00:26:28,670
+¿Estás bien?
+
+577
+00:26:29,838 --> 00:26:31,090
+Gran forma de espirado.
+
+578
+00:26:31,632 --> 00:26:34,884
+- ¿Necesita ventilador?
+- No pero su uso no le hace ningún daño.
+
+579
+00:26:34,885 --> 00:26:36,762
+Comienzo en cinco y ajusto a diez.
+
+580
+00:26:37,513 --> 00:26:39,430
+Bien, eso salió muy bien, Howard.
+
+581
+00:26:39,431 --> 00:26:40,724
+Ahora vamos a ver tu peso.
+
+582
+00:26:43,268 --> 00:26:44,519
+La enfermera examinadora
+
+583
+00:26:44,520 --> 00:26:46,687
+debe meter el kit de violación
+en esta nevera.
+
+584
+00:26:46,688 --> 00:26:49,691
+Donde se queda hasta que lo entregan
+a las fuerzas del orden.
+
+585
+00:26:49,817 --> 00:26:51,777
+Se llama preservar la cadena de evidencia.
+
+586
+00:26:52,611 --> 00:26:54,321
+¿Esto es una puta broma?
+
+587
+00:26:54,780 --> 00:26:56,698
+¿Hay algún problema?
+
+588
+00:26:56,949 --> 00:26:58,700
+Santo Cielo.
+
+589
+00:26:59,034 --> 00:27:01,870
+La policía debería recogerlos
+en no más de 72 horas.
+
+590
+00:27:02,246 --> 00:27:03,705
+Este lo hice hace dos semanas.
+
+591
+00:27:05,207 --> 00:27:06,500
+Maldita sea.
+
+592
+00:27:08,502 --> 00:27:10,504
+¿Y exactamente cómo pasó esto?
+
+593
+00:27:11,130 --> 00:27:13,757
+Íbamos a otro bar
+y nos tomamos una selfie.
+
+594
+00:27:13,882 --> 00:27:15,049
+- Qué bonito.
+- Gracias.
+
+595
+00:27:15,050 --> 00:27:17,261
+Hasta que ella levantó su cabeza.
+
+596
+00:27:19,638 --> 00:27:22,932
+Bien. La epinefrina tópica funcionó,
+no más sangre.
+
+597
+00:27:22,933 --> 00:27:24,560
+Bueno. ¿Puedo ir a casa ahora?
+
+598
+00:27:24,893 --> 00:27:26,102
+No lo creo.
+
+599
+00:27:26,103 --> 00:27:28,271
+Parece que tienes El Gran Cañón
+en medio de tu lengua.
+
+600
+00:27:28,272 --> 00:27:29,648
+Necesitas algunos puntos.
+
+601
+00:27:29,982 --> 00:27:31,692
+Yo no quiero puntos.
+
+602
+00:27:31,984 --> 00:27:33,152
+Escucha al doctor.
+
+603
+00:27:33,485 --> 00:27:35,027
+No me digas qué hacer.
+
+604
+00:27:35,028 --> 00:27:37,321
+- Todo esto es tu culpa.
+- No es cierto.
+
+605
+00:27:37,322 --> 00:27:38,698
+Sí, sí que lo es.
+
+606
+00:27:38,699 --> 00:27:40,575
+Oye, Princess. Princess, oye,
+
+607
+00:27:40,576 --> 00:27:43,744
+¿le muestras a Q dónde puede esperar
+mientras terminamos con su amiga?
+
+608
+00:27:43,745 --> 00:27:44,829
+Por supuesto.
+
+609
+00:27:44,830 --> 00:27:47,456
+Muy bien, esta inyección
+te adormecerá la punta.
+
+610
+00:27:47,457 --> 00:27:50,084
+¿La punta? Ahí no fue donde me mordí.
+
+611
+00:27:50,085 --> 00:27:51,336
+Un paso a la vez.
+
+612
+00:27:59,094 --> 00:28:00,637
+20 miligramos de tenecteplasa.
+
+613
+00:28:01,221 --> 00:28:03,098
+A las 14:39.
+
+614
+00:28:04,308 --> 00:28:05,767
+¿Sientes algo?
+
+615
+00:28:06,560 --> 00:28:07,603
+Aún no.
+
+616
+00:28:07,728 --> 00:28:09,146
+Podría tardar una hora o dos.
+
+617
+00:28:10,772 --> 00:28:13,358
+La vamos a pasar a otro cuarto
+para monitorearla mejor.
+
+618
+00:28:14,276 --> 00:28:15,360
+Doctora King.
+
+619
+00:28:18,530 --> 00:28:20,032
+Quiero que se quede con ella.
+
+620
+00:28:21,950 --> 00:28:24,244
+- ¿Por qué?
+- En caso de que haya complicaciones.
+
+621
+00:28:24,786 --> 00:28:27,163
+Estará ahí para responder pronto
+a midriasis,
+
+622
+00:28:27,164 --> 00:28:28,956
+convulsiones, estado mental alterado.
+
+623
+00:28:28,957 --> 00:28:30,792
+O podría seguir con mis registros.
+
+624
+00:28:31,460 --> 00:28:32,920
+Y mi declaración será pronto.
+
+625
+00:28:33,420 --> 00:28:35,755
+Piensa que es una oportunidad
+de tener tiempo tranquilo
+
+626
+00:28:35,756 --> 00:28:37,131
+y prepararte mentalmente.
+
+627
+00:28:37,132 --> 00:28:38,467
+Jesse, Mel irá contigo.
+
+628
+00:28:41,845 --> 00:28:43,138
+Disculpe, doctora Mohan.
+
+629
+00:28:43,764 --> 00:28:45,307
+Disculpe, doctora Mohan.
+
+630
+00:28:45,474 --> 00:28:47,309
+- En un minuto, George.
+- Yo me encargo.
+
+631
+00:28:47,851 --> 00:28:48,894
+Gracias.
+
+632
+00:28:51,438 --> 00:28:53,982
+El resultado del dímero D, es normal.
+
+633
+00:28:54,608 --> 00:28:55,900
+Y estoy listo para irme.
+
+634
+00:28:55,901 --> 00:28:57,194
+¿Se siente mejor?
+
+635
+00:28:57,819 --> 00:29:00,364
+En realidad,
+no me faltaba el aire esta vez.
+
+636
+00:29:02,574 --> 00:29:03,742
+¿Entonces por qué vino?
+
+637
+00:29:05,577 --> 00:29:08,079
+Cuando supe del coágulo en mi pierna,
+
+638
+00:29:08,080 --> 00:29:10,374
+seguía pensando
+que se iría a mi pulmón y moriría.
+
+639
+00:29:10,832 --> 00:29:13,752
+Ya hablamos antes
+sobre que el Eliquis lo evitaría.
+
+640
+00:29:13,961 --> 00:29:15,045
+Sí, lo sé.
+
+641
+00:29:16,463 --> 00:29:18,507
+Bueno, al fin seguí su consejo.
+
+642
+00:29:19,091 --> 00:29:23,804
+Salí de la casa y me uní
+al club de boliche del Frick Park.
+
+643
+00:29:24,304 --> 00:29:25,430
+- Maravilloso.
+- Sí.
+
+644
+00:29:25,639 --> 00:29:27,224
+Bueno, tiene razón, ¿sabe?
+
+645
+00:29:27,724 --> 00:29:29,059
+Todos necesitamos compañía.
+
+646
+00:29:33,522 --> 00:29:34,981
+¿Entonces qué hará?
+
+647
+00:29:34,982 --> 00:29:36,565
+Para poder curar tu lengua,
+
+648
+00:29:36,566 --> 00:29:39,277
+necesitamos jalarla
+para alcanzar la laceración.
+
+649
+00:29:39,278 --> 00:29:42,072
+- Vas a sentir que jalamos, ¿de acuerdo?
+- Eso creo.
+
+650
+00:29:44,491 --> 00:29:45,575
+Adelante.
+
+651
+00:29:46,952 --> 00:29:48,411
+¿Qué tamaño de sutura es esa?
+
+652
+00:29:48,412 --> 00:29:50,205
+Seda cero. La más grande que tenemos.
+
+653
+00:29:52,124 --> 00:29:55,043
+En cuanto corte la aguja,
+harás tracción, Joy.
+
+654
+00:30:05,137 --> 00:30:07,431
+Eso está muy profundo.
+
+655
+00:30:07,597 --> 00:30:09,016
+Ya podemos adormecer el corte.
+
+656
+00:30:09,558 --> 00:30:11,559
+- Es mejor empezar con...
+- El lado proximal primero
+
+657
+00:30:11,560 --> 00:30:13,353
+para que no sienta la inyección distal.
+
+658
+00:30:15,272 --> 00:30:17,357
+Tarda diez minutos.
+Volveré para la reparación.
+
+659
+00:30:21,820 --> 00:30:23,571
+Hay un kit de violación
+de hace dos semanas
+
+660
+00:30:23,572 --> 00:30:25,532
+que debieron recoger en 72 horas.
+
+661
+00:30:26,575 --> 00:30:28,535
+¡No me importa!
+¡Que venga alguien aquí ahora!
+
+662
+00:30:28,869 --> 00:30:31,912
+No, si quieren que tratemos
+a sus oficiales en cuanto entran,
+
+663
+00:30:31,913 --> 00:30:35,125
+envíen a un detective
+por estos kits pronto. Debo colgar.
+
+664
+00:30:35,375 --> 00:30:38,169
+Dana. Sur 19 fue a tomografía
+antes de la desconexión.
+
+665
+00:30:38,170 --> 00:30:40,339
+- Faltan resultados.
+- Bueno, enviaré un recordatorio.
+
+666
+00:30:40,714 --> 00:30:41,797
+- Oye, Dana.
+- Dana.
+
+667
+00:30:41,798 --> 00:30:42,883
+Esperen.
+
+668
+00:30:44,217 --> 00:30:47,720
+- ¿Qué pasa?
+- Ordené más analgésicos para Roxie.
+
+669
+00:30:47,721 --> 00:30:49,805
+Bueno, entonces al estante de enfermería.
+
+670
+00:30:49,806 --> 00:30:51,350
+Puse la orden, hace mucho tiempo.
+
+671
+00:30:53,226 --> 00:30:55,062
+- Muy bien, la pasaré al frente.
+- Gracias.
+
+672
+00:30:55,937 --> 00:30:59,691
+- ¿Qué es ese sonido?
+- El OVNI aterrizó, los aliens nos invaden.
+
+673
+00:30:59,858 --> 00:31:00,942
+Oye, Dana.
+
+674
+00:31:01,068 --> 00:31:02,861
+Falta la química de siete de trauma dos.
+
+675
+00:31:03,070 --> 00:31:04,488
+Déjame ver el registro.
+
+676
+00:31:06,031 --> 00:31:08,366
+Cielos. Tu química de siete
+se fue a radiología.
+
+677
+00:31:08,367 --> 00:31:12,912
+Larry, Antoine, ponen pruebas y rayos X
+en la misma solicitud,
+
+678
+00:31:12,913 --> 00:31:15,706
+hay dos hojas,
+para laboratorio y para radiología.
+
+679
+00:31:15,707 --> 00:31:16,957
+- Entendido.
+- No pasará de nuevo.
+
+680
+00:31:16,958 --> 00:31:19,168
+- La haré yo misma.
+- Usa el I-Stat ahí.
+
+681
+00:31:19,169 --> 00:31:21,588
+- No irá a tomografía sin la creatinina.
+- Perfecto.
+
+682
+00:31:22,255 --> 00:31:23,339
+Qué bien que volvieras.
+
+683
+00:31:23,340 --> 00:31:25,425
+De lujo estar aquí. ¿Sí tienes señal?
+
+684
+00:31:25,675 --> 00:31:28,470
+Solo lo escribo,
+lo enviaré desde la bahía.
+
+685
+00:31:28,637 --> 00:31:31,056
+Mi amigo mecánico, Duke, nunca llegó.
+
+686
+00:31:31,306 --> 00:31:34,976
+- Creí que vendría en la mañana.
+- Ese era el plan, creo que está ocupado.
+
+687
+00:31:36,186 --> 00:31:39,730
+¿Y si no aparece? Dime qué necesita,
+lo pasaré al nocturno.
+
+688
+00:31:39,731 --> 00:31:40,899
+No será necesario.
+
+689
+00:31:44,069 --> 00:31:45,653
+Oye, Princess.
+
+690
+00:31:45,654 --> 00:31:47,822
+Pide y recibirás.
+Tomografía craneal normal.
+
+691
+00:31:47,823 --> 00:31:49,366
+Gracias. Lo daré de alta.
+
+692
+00:31:50,283 --> 00:31:51,410
+¿Cómo va tu día?
+
+693
+00:31:52,160 --> 00:31:54,162
+Ya tengo calambre de escritor.
+
+694
+00:31:54,538 --> 00:31:55,789
+¿Estás con el grandote?
+
+695
+00:31:55,914 --> 00:31:58,125
+Sí. Es triste.
+
+696
+00:31:58,417 --> 00:32:02,170
+Un accidente de auto,
+varias operaciones, todo el estrés.
+
+697
+00:32:04,172 --> 00:32:05,881
+Inyección de lidocaína a un área sensible.
+
+698
+00:32:05,882 --> 00:32:08,510
+Una chica que salió de fiesta
+y laceró su lengua.
+
+699
+00:32:08,802 --> 00:32:11,263
+- Parece que necesita ayuda.
+- En más de una manera.
+
+700
+00:32:13,014 --> 00:32:15,934
+¿Qué tal tu primer turno de bienvenida?
+
+701
+00:32:16,768 --> 00:32:17,978
+Un día a la vez.
+
+702
+00:32:18,937 --> 00:32:21,773
+- El primer año sobrio es el más difícil.
+- Es lo que siguen diciéndome.
+
+703
+00:32:22,107 --> 00:32:24,151
+Llevo nueve años y contando.
+
+704
+00:32:28,363 --> 00:32:30,574
+Entrega especial para mi amigo.
+
+705
+00:32:31,741 --> 00:32:33,827
+Y si necesitas algo, llámame.
+
+706
+00:32:34,244 --> 00:32:35,287
+Gracias.
+
+707
+00:32:41,793 --> 00:32:43,044
+¿A dónde vas?
+
+708
+00:32:43,170 --> 00:32:44,503
+Ampollas en Norte tres.
+
+709
+00:32:44,504 --> 00:32:46,046
+Es a donde yo voy.
+
+710
+00:32:46,047 --> 00:32:47,466
+¿Te registraste para el paciente?
+
+711
+00:32:47,716 --> 00:32:50,718
+- Saqué el registro de la repisa.
+- Se supone que lo registres en la pizarra.
+
+712
+00:32:50,719 --> 00:32:52,637
+Y debes tener un portapapeles
+para el paciente.
+
+713
+00:32:53,430 --> 00:32:54,723
+Creí que enfermería lo tenía.
+
+714
+00:32:55,098 --> 00:32:56,141
+Como sea.
+
+715
+00:32:57,267 --> 00:33:00,979
+Hola. Soy el estudiante Ogilvie
+y ella es... vaya.
+
+716
+00:33:01,480 --> 00:33:02,980
+Es una fea reacción.
+
+717
+00:33:02,981 --> 00:33:04,607
+Sí, ni que lo digas.
+
+718
+00:33:04,608 --> 00:33:06,984
+Soy la estudiante de medicina Javadi.
+¿Cuándo empezó esto?
+
+719
+00:33:06,985 --> 00:33:08,068
+Anoche.
+
+720
+00:33:08,069 --> 00:33:10,654
+¿Salió a caminar recientemente
+donde hay hiedra venenosa?
+
+721
+00:33:10,655 --> 00:33:12,199
+No. No dejé la casa.
+
+722
+00:33:12,824 --> 00:33:16,535
+¿Algo nuevo como medicación,
+loción, jabón, detergente, tal vez?
+
+723
+00:33:16,536 --> 00:33:19,121
+No tomo medicina,
+ni nada nuevo de lo demás.
+
+724
+00:33:19,122 --> 00:33:20,414
+Ajá, ¿y dónde comenzó?
+
+725
+00:33:20,415 --> 00:33:22,834
+Por todos lados y a la vez.
+Sentí mucho dolor,
+
+726
+00:33:23,835 --> 00:33:24,920
+mucha picazón.
+
+727
+00:33:25,587 --> 00:33:26,630
+¿Qué es?
+
+728
+00:33:27,130 --> 00:33:28,215
+No sé aún.
+
+729
+00:33:30,050 --> 00:33:31,134
+Volvemos pronto.
+
+730
+00:33:31,384 --> 00:33:33,428
+¿Y... no pueden...? Bien.
+
+731
+00:33:37,057 --> 00:33:38,141
+¿Qué estás pensando?
+
+732
+00:33:39,309 --> 00:33:40,977
+- No tengo idea.
+- Concuerdo.
+
+733
+00:33:43,605 --> 00:33:44,939
+¿Penfigoide ampolloso?
+
+734
+00:33:44,940 --> 00:33:46,440
+¿Prurito severo autoinmune?
+
+735
+00:33:46,441 --> 00:33:48,192
+Sí, pero no tan letal como pénfigo vulgar.
+
+736
+00:33:48,193 --> 00:33:50,237
+Sin tratar, la mortalidad supera 90 %.
+
+737
+00:33:50,612 --> 00:33:52,655
+Revisemos las pústulas
+y sus membranas mucosas.
+
+738
+00:33:52,656 --> 00:33:53,949
+Y el signo de Nikolsky.
+
+739
+00:33:57,077 --> 00:33:58,119
+Aquí tienes.
+
+740
+00:34:00,080 --> 00:34:01,790
+- ¿Qué?
+- Anota el progreso.
+
+741
+00:34:03,583 --> 00:34:05,502
+¿Escuché que hay un progreso?
+
+742
+00:34:07,963 --> 00:34:09,838
+Así la decimos cuando escribimos las cosas
+
+743
+00:34:09,839 --> 00:34:11,383
+para describir un curso clínico.
+
+744
+00:34:13,635 --> 00:34:14,678
+¿Hay cambios?
+
+745
+00:34:15,428 --> 00:34:16,513
+No todavía.
+
+746
+00:34:16,930 --> 00:34:18,306
+Hora de otro examen de neurología.
+
+747
+00:34:19,307 --> 00:34:21,101
+Disculpe, doctora King, ¿tiene un momento?
+
+748
+00:34:22,644 --> 00:34:24,646
+No. Estoy observando a mi paciente ahora.
+
+749
+00:34:24,854 --> 00:34:26,356
+Serán 60 segundos máximo.
+
+750
+00:34:28,692 --> 00:34:29,901
+Revisaré pupilas.
+
+751
+00:34:30,068 --> 00:34:31,111
+Estamos bien aquí.
+
+752
+00:34:31,444 --> 00:34:32,487
+Sí.
+
+753
+00:34:37,075 --> 00:34:38,118
+Hola.
+
+754
+00:34:39,077 --> 00:34:40,829
+Ya terminé mi declaración.
+
+755
+00:34:42,956 --> 00:34:45,375
+- ¿Debo subir ahora?
+- No. Espera a que te llamen.
+
+756
+00:34:46,960 --> 00:34:50,005
+Bien. Bueno, preguntaría como te fue,
+pero no debería discutir el caso.
+
+757
+00:34:50,171 --> 00:34:51,756
+Oye, esto no es una discusión.
+
+758
+00:34:52,132 --> 00:34:54,175
+Es un monólogo. Así que cállate y escucha.
+
+759
+00:34:55,385 --> 00:34:57,678
+El caso de mala praxis es frívolo.
+
+760
+00:34:57,679 --> 00:35:00,431
+La madre del niño con sarampión
+dice que causamos declive intelectual
+
+761
+00:35:00,432 --> 00:35:02,225
+por hacerle punción lumbar.
+
+762
+00:35:02,601 --> 00:35:05,020
+Pero la punción fue perfecta
+y sin complicaciones.
+
+763
+00:35:05,729 --> 00:35:08,690
+Su hijo llegó con un estado mental
+alterado por la baja de oxígeno
+
+764
+00:35:09,024 --> 00:35:10,317
+de la neumonía por sarampión.
+
+765
+00:35:11,067 --> 00:35:13,694
+Cualquier cambio intelectual
+fue por la lesión cerebral hipóxica.
+
+766
+00:35:13,695 --> 00:35:15,238
+No tuvo que ver con la punción lumbar.
+
+767
+00:35:17,157 --> 00:35:18,158
+Fin del monólogo.
+
+768
+00:35:18,908 --> 00:35:20,535
+Y nunca discutimos el caso.
+
+769
+00:35:21,620 --> 00:35:23,038
+Debo ir a dormir.
+
+770
+00:35:23,580 --> 00:35:24,664
+- Bien.
+- Gracias.
+
+771
+00:35:26,249 --> 00:35:27,292
+Eso creo.
+
+772
+00:35:28,710 --> 00:35:30,253
+Bien, ¿listo para recostarte?
+
+773
+00:35:31,212 --> 00:35:33,339
+- Tengo su cabeza.
+- Con mucho cuidado.
+
+774
+00:35:33,340 --> 00:35:35,216
+Uno, dos, tres.
+
+775
+00:35:37,093 --> 00:35:38,803
+Bien... ¿cómo se siente?
+
+776
+00:35:41,890 --> 00:35:43,099
+Levantándolo ahora.
+
+777
+00:35:52,984 --> 00:35:54,027
+Continúen.
+
+778
+00:35:57,072 --> 00:35:59,365
+Y...
+
+779
+00:35:59,366 --> 00:36:00,492
+con eso basta, justo ahí.
+
+780
+00:36:02,410 --> 00:36:03,703
+215.
+
+781
+00:36:04,371 --> 00:36:06,164
+Sí, kilos.
+
+782
+00:36:08,458 --> 00:36:09,668
+Bien. Equipo.
+
+783
+00:36:15,507 --> 00:36:17,383
+No está muy arriba de los 200.
+
+784
+00:36:17,384 --> 00:36:18,550
+No. No podemos arriesgarnos
+
+785
+00:36:18,551 --> 00:36:20,260
+a romper el tomógrafo
+un fin de semana festivo.
+
+786
+00:36:20,261 --> 00:36:22,013
+Lo pueden trasladar si está intubado.
+
+787
+00:36:22,305 --> 00:36:23,764
+Si yo voy en el viaje.
+
+788
+00:36:23,765 --> 00:36:25,934
+Aún puedo tomar una siesta
+antes de mi turno nocturno.
+
+789
+00:36:29,896 --> 00:36:31,606
+Pesa 215 kilogramos.
+
+790
+00:36:33,233 --> 00:36:35,025
+El tomógrafo no resiste su peso,
+
+791
+00:36:35,026 --> 00:36:37,362
+pero lo enviaremos
+al Hospital Presbiteriano.
+
+792
+00:36:38,530 --> 00:36:40,031
+<i>Viaje en carretera.</i>
+
+793
+00:36:40,615 --> 00:36:42,117
+Le haré compañía todo el tiempo.
+
+794
+00:36:45,078 --> 00:36:46,579
+<i>Perdón por tanto problema.</i>
+
+795
+00:36:47,288 --> 00:36:48,373
+Está bien.
+
+796
+00:36:48,540 --> 00:36:49,582
+Es lo que hacemos.
+
+797
+00:36:55,213 --> 00:36:57,965
+La subcutánea es profunda,
+entierra ese nudo.
+
+798
+00:36:57,966 --> 00:36:59,384
+Sí, he hecho esto antes.
+
+799
+00:36:59,676 --> 00:37:01,302
+Joy, ¿cómo cortamos las puntas?
+
+800
+00:37:02,095 --> 00:37:04,638
+Cortas. Deslizamos el nudo,
+inclino 45 grados.
+
+801
+00:37:04,639 --> 00:37:05,682
+Excelente.
+
+802
+00:37:07,142 --> 00:37:09,476
+- Doctor Langdon, tenemos un caso.
+- Tendrán que esperar.
+
+803
+00:37:09,477 --> 00:37:12,313
+- Podría ser urgente.
+- Busquen a Robby o a Al-Hashimi.
+
+804
+00:37:14,691 --> 00:37:16,359
+Esta chica está perdida.
+
+805
+00:37:16,609 --> 00:37:18,652
+Ebria como cosaco.
+
+806
+00:37:18,653 --> 00:37:20,529
+¿Y si revisamos
+su nivel de alcohol en sangre?
+
+807
+00:37:20,530 --> 00:37:23,575
+No. No cambiaría lo que hacemos.
+Puede ir a casa cuando camine bien.
+
+808
+00:37:23,700 --> 00:37:24,909
+Ya pedí un análisis.
+
+809
+00:37:25,994 --> 00:37:28,163
+Joy, ¿quieres adivinar
+su nivel de alcohol?
+
+810
+00:37:28,913 --> 00:37:30,289
+¿Por qué querría hacer eso?
+
+811
+00:37:30,290 --> 00:37:31,916
+No lo sé. Porque es divertido.
+
+812
+00:37:38,214 --> 00:37:39,798
+¿Cuándo tendrás una cama?
+
+813
+00:37:39,799 --> 00:37:41,050
+No sé si necesita cama.
+
+814
+00:37:41,718 --> 00:37:42,969
+Es una infante con fiebre.
+
+815
+00:37:43,303 --> 00:37:45,471
+Que tiene más de un mes y luce asombrosa.
+
+816
+00:37:45,472 --> 00:37:47,347
+Sus pruebas son normales.
+Es un simple virus.
+
+817
+00:37:47,348 --> 00:37:50,768
+Infantes con rinovirus aún pueden tener
+una infección bacteriana seria.
+
+818
+00:37:50,769 --> 00:37:52,811
+Pero esta no. Los niños así
+se van a casa siempre.
+
+819
+00:37:52,812 --> 00:37:56,191
+Excepto que ella
+no tiene un hogar o un padre.
+
+820
+00:37:57,901 --> 00:38:00,944
+De acuerdo. No puedo poner una niña
+con un virus en los cuneros
+
+821
+00:38:00,945 --> 00:38:03,198
+y no desperdiciaré un cuarto privado
+en una bebé sana.
+
+822
+00:38:03,656 --> 00:38:05,115
+¿Entonces qué propone?
+
+823
+00:38:05,116 --> 00:38:07,869
+Servicios infantiles la puede poner
+en un hogar temporal para mañana.
+
+824
+00:38:08,119 --> 00:38:09,746
+¿Quiere dejarla aquí toda la noche?
+
+825
+00:38:10,872 --> 00:38:12,624
+Parece ser el cuidado estándar estos días.
+
+826
+00:38:13,124 --> 00:38:15,001
+- Que su médico responsable me llame.
+- Le diré.
+
+827
+00:38:15,376 --> 00:38:16,668
+No puedo creer esto.
+
+828
+00:38:16,669 --> 00:38:18,587
+Que servicios infantiles
+sepa que es muy urgente.
+
+829
+00:38:18,588 --> 00:38:19,713
+Entendido.
+
+830
+00:38:19,714 --> 00:38:21,549
+Ya se está volviendo un día terrible.
+
+831
+00:38:22,675 --> 00:38:25,720
+Bueno, estuve pensando
+en aplicar para una subespecialidad.
+
+832
+00:38:26,221 --> 00:38:27,971
+Creí que ya tenías un empleo
+en Nueva Jersey.
+
+833
+00:38:27,972 --> 00:38:29,974
+Así era. Para estar cerca de mi mamá.
+
+834
+00:38:30,225 --> 00:38:32,559
+Pero vendió la casa
+
+835
+00:38:32,560 --> 00:38:34,896
+para viajar por el mundo
+con su nuevo novio.
+
+836
+00:38:35,772 --> 00:38:37,440
+Así que, ¿qué sentido tiene Nueva Jersey?
+
+837
+00:38:37,607 --> 00:38:39,818
+Sí, buena pregunta. ¿Cuál subespecialidad?
+
+838
+00:38:40,652 --> 00:38:45,949
+La reduje a Ultrasonido,
+Toxicología y Medicina del deporte.
+
+839
+00:38:47,659 --> 00:38:50,662
+Son campos muy dispares
+que llevan a carreras muy diferentes.
+
+840
+00:38:50,829 --> 00:38:53,248
+Lo sé. Estoy un poco indecisa.
+
+841
+00:38:53,581 --> 00:38:55,165
+¿Tienes experiencia en investigación?
+
+842
+00:38:55,166 --> 00:38:58,669
+Fui parte de un estudio
+en disparidad racial en atención médica
+
+843
+00:38:58,670 --> 00:39:01,130
+hasta que la Casa Blanca
+cortó el presupuesto el año pasado.
+
+844
+00:39:01,589 --> 00:39:03,049
+Sí. No estás sola.
+
+845
+00:39:03,508 --> 00:39:06,302
+¿Has considerado
+una subespecialidad en geriatría?
+
+846
+00:39:06,886 --> 00:39:07,929
+No lo consideré.
+
+847
+00:39:08,638 --> 00:39:10,722
+He visto tu habilidad
+con los adultos mayores.
+
+848
+00:39:10,723 --> 00:39:12,683
+Y hay muchas vacantes.
+
+849
+00:39:12,684 --> 00:39:14,018
+Podría ser tu mejor oportunidad.
+
+850
+00:39:14,727 --> 00:39:15,728
+Piensa en ello.
+
+851
+00:39:17,814 --> 00:39:20,316
+- Último punto. ¿Quieres que corte?
+- Yo puedo.
+
+852
+00:39:23,236 --> 00:39:25,572
+Se ve bien. Bien.
+Saquemos la sutura de tracción.
+
+853
+00:39:25,989 --> 00:39:27,407
+Con gusto.
+
+854
+00:39:29,576 --> 00:39:30,869
+Bien, Jackie.
+
+855
+00:39:31,703 --> 00:39:33,872
+- Jackie.
+- Basta. No.
+
+856
+00:39:34,038 --> 00:39:35,164
+Todo listo.
+
+857
+00:39:35,373 --> 00:39:36,832
+¿Todo listo con qué?
+
+858
+00:39:36,833 --> 00:39:38,126
+Suturar tu lengua.
+
+859
+00:39:38,543 --> 00:39:39,878
+¿Qué le pasó a mi lengua?
+
+860
+00:39:40,211 --> 00:39:41,337
+La mordiste.
+
+861
+00:39:41,546 --> 00:39:43,423
+No, no hice eso.
+
+862
+00:39:44,173 --> 00:39:45,883
+Esa es una laguna mental.
+
+863
+00:39:45,884 --> 00:39:47,302
+¿Cuánto bebiste?
+
+864
+00:39:47,802 --> 00:39:50,012
+Un par de Bloody Marys.
+
+865
+00:39:50,013 --> 00:39:51,055
+¿Solo un par?
+
+866
+00:39:51,222 --> 00:39:52,932
+No lo sé, tal vez más.
+
+867
+00:39:53,516 --> 00:39:56,060
+Es día festivo, ruta de bares.
+
+868
+00:39:56,394 --> 00:39:58,563
+¿Sueles tomar un par de cócteles
+todos los días?
+
+869
+00:39:58,897 --> 00:40:00,105
+Solo los fines de semana.
+
+870
+00:40:00,106 --> 00:40:01,232
+¿Qué tal durante la semana?
+
+871
+00:40:01,441 --> 00:40:02,817
+No demasiado.
+
+872
+00:40:03,151 --> 00:40:04,777
+Solo vino con la cena o...
+
+873
+00:40:05,320 --> 00:40:06,905
+algunas cervezas.
+
+874
+00:40:07,989 --> 00:40:09,490
+¿Recomendamos rehabilitación?
+
+875
+00:40:11,117 --> 00:40:12,911
+Sí. Podemos tratar.
+
+876
+00:40:18,124 --> 00:40:19,208
+Listo para partir.
+
+877
+00:40:20,710 --> 00:40:21,794
+¿Cómo te sientes?
+
+878
+00:40:22,086 --> 00:40:23,545
+<i>Mi dolor está en dos.</i>
+
+879
+00:40:23,546 --> 00:40:24,922
+Hay medicación si la necesitas.
+
+880
+00:40:24,923 --> 00:40:26,798
+El escaneo será más rápido
+que el viaje al Presbi.
+
+881
+00:40:26,799 --> 00:40:28,008
+Seguiré llamando a su hermana.
+
+882
+00:40:28,009 --> 00:40:29,677
+- <i>Ustedes son los mejores.</i>
+- Nos vemos luego.
+
+883
+00:40:29,802 --> 00:40:31,470
+¿Pongo un nuevo paciente en T1?
+
+884
+00:40:31,471 --> 00:40:33,805
+No, quiero dejar una sala de trauma libre.
+
+885
+00:40:33,806 --> 00:40:36,100
+¿Por qué no duplicas el Norte
+si lo necesitas?
+
+886
+00:40:37,602 --> 00:40:38,603
+¿Señor Digby?
+
+887
+00:40:40,647 --> 00:40:41,730
+Es solo Digby.
+
+888
+00:40:41,731 --> 00:40:44,108
+Correcto. Lo buscamos por todos lados,
+¿dónde estuvo?
+
+889
+00:40:44,734 --> 00:40:45,818
+Con Louie.
+
+890
+00:40:46,361 --> 00:40:47,654
+¿Estuvo ahí por una hora?
+
+891
+00:40:48,029 --> 00:40:49,238
+Era mi amigo,
+
+892
+00:40:49,948 --> 00:40:51,157
+tenía mucho que decir.
+
+893
+00:40:51,491 --> 00:40:53,368
+Bueno, tiene que volver a su cama.
+
+894
+00:40:56,329 --> 00:40:57,580
+Louie recibió sus alas.
+
+895
+00:40:58,915 --> 00:41:01,250
+- Doctor Robby.
+- Doctor Robby. Tenemos un paciente juntos.
+
+896
+00:41:01,751 --> 00:41:04,127
+- Trabajo en equipo.
+- Es un sarpullido serio con ampollas.
+
+897
+00:41:04,128 --> 00:41:05,963
+Tal vez necesita biopsia
+para pénfigo vulgar...
+
+898
+00:41:05,964 --> 00:41:07,298
+Es fitofotodermatitis.
+
+899
+00:41:07,799 --> 00:41:09,341
+- ¿Qué?
+- Le pregunté.
+
+900
+00:41:09,342 --> 00:41:11,677
+Estaba haciendo tres litros
+de margaritas para una fiesta,
+
+901
+00:41:11,678 --> 00:41:13,429
+exprimió limones frescos bajo el sol.
+
+902
+00:41:13,930 --> 00:41:15,056
+Vamos a revisarlo.
+
+903
+00:41:15,932 --> 00:41:17,016
+No quiero verlo de nuevo.
+
+904
+00:41:20,061 --> 00:41:22,271
+- ¿Cómo va todo allá?
+- Solo hay espacio de pie.
+
+905
+00:41:22,438 --> 00:41:24,731
+Si llamo a los bomberos,
+¿liberarán la sala de espera?
+
+906
+00:41:24,732 --> 00:41:26,358
+Ojalá. ¿Qué pasa?
+
+907
+00:41:26,359 --> 00:41:28,402
+Doce pacientes requieren más medicamento.
+
+908
+00:41:28,403 --> 00:41:29,736
+¿No deberían ir con sus doctores?
+
+909
+00:41:29,737 --> 00:41:31,697
+Con los recortes de Medicaid,
+somos sus doctores.
+
+910
+00:41:31,698 --> 00:41:33,699
+No, no puedo escribirle a sus farmacias.
+
+911
+00:41:33,700 --> 00:41:35,283
+Usa un bolígrafo, como antes.
+
+912
+00:41:35,284 --> 00:41:36,452
+Dana, ¿pero en qué?
+
+913
+00:41:37,578 --> 00:41:39,997
+Nordt. ¿Tienes las recetas de seguridad?
+
+914
+00:41:39,998 --> 00:41:41,082
+Aquí están.
+
+915
+00:41:41,374 --> 00:41:42,709
+Falta la etiqueta de paciente.
+
+916
+00:41:43,126 --> 00:41:44,419
+¿Tienes otra pregunta?
+
+917
+00:41:44,794 --> 00:41:47,422
+Sí. ¿Qué hubiera pasado
+si no estuvieras aquí hoy?
+
+918
+00:41:49,007 --> 00:41:52,010
+Todos estarían en posición fetal,
+llorando como bebés.
+
+919
+00:41:53,428 --> 00:41:54,761
+¿Usaba sandalias?
+
+920
+00:41:54,762 --> 00:41:55,972
+Así es.
+
+921
+00:41:56,347 --> 00:41:57,974
+- ¿Qué tengo?
+- Fitofotodermatitis.
+
+922
+00:41:58,224 --> 00:42:00,434
+También conocida
+como quemadura de margarita.
+
+923
+00:42:00,435 --> 00:42:03,438
+Para algunos, el limón con luz solar
+causa un sarpullido horrible.
+
+924
+00:42:03,604 --> 00:42:05,064
+¿Todo esto por los limones?
+
+925
+00:42:05,523 --> 00:42:07,775
+¿Había exprimido limones
+bajo el sol antes?
+
+926
+00:42:08,401 --> 00:42:09,693
+No lo creo.
+
+927
+00:42:09,694 --> 00:42:12,237
+Se sentirá mejor con un día
+de esteroides orales,
+
+928
+00:42:12,238 --> 00:42:14,448
+pero cuando se cure, use filtro solar,
+
+929
+00:42:14,449 --> 00:42:17,869
+si no, las ampollas
+se vuelven cicatrices oscuras y tardan.
+
+930
+00:42:19,120 --> 00:42:21,414
+Traeré sus instrucciones postratamiento.
+
+931
+00:42:22,665 --> 00:42:23,791
+- Oye, Robby.
+- ¿Sí?
+
+932
+00:42:24,709 --> 00:42:27,962
+Mi paciente de hospicio,
+Roxie, aún siente mucho dolor.
+
+933
+00:42:28,796 --> 00:42:29,963
+¿Cuánto le dan de morfina?
+
+934
+00:42:29,964 --> 00:42:31,257
+Son diez miligramos por hora.
+
+935
+00:42:32,008 --> 00:42:35,886
+Bien, dale otros 2 y sube a 12.
+Le voy a avisar a Princess.
+
+936
+00:42:35,887 --> 00:42:37,095
+Doce cada hora es mucho.
+
+937
+00:42:37,096 --> 00:42:39,766
+Y con el máximo de MS Contin,
+dejaría de respirar.
+
+938
+00:42:41,684 --> 00:42:44,479
+¿Habías oído
+de la doctrina del doble efecto?
+
+939
+00:42:45,021 --> 00:42:46,105
+- No.
+- No realmente.
+
+940
+00:42:47,106 --> 00:42:49,691
+Es un principio ético
+en cuidado paliativo.
+
+941
+00:42:49,692 --> 00:42:53,195
+Tratamos el dolor y si al hacerlo,
+hay un efecto secundario negativo,
+
+942
+00:42:53,196 --> 00:42:54,238
+lo aceptamos.
+
+943
+00:42:54,363 --> 00:42:56,824
+¿Aún si el efecto negativo es la muerte?
+
+944
+00:42:57,325 --> 00:42:59,911
+En algunos casos, podría ser lo mejor.
+
+945
+00:43:04,332 --> 00:43:07,210
+- ¿Dónde está el registro de sur 15?
+- Tal vez la enfermera lo tiene.
+
+946
+00:43:07,794 --> 00:43:08,836
+¡Emma!
+
+947
+00:43:08,961 --> 00:43:10,962
+Emma, ¿has visto el registro del 15?
+
+948
+00:43:10,963 --> 00:43:13,548
+- Tal vez el fax se quedó sin papel.
+- No, tiene suficientes hojas.
+
+949
+00:43:13,549 --> 00:43:15,550
+- ¿Ese va primero?
+- Sí, los estoy acomodando.
+
+950
+00:43:15,551 --> 00:43:16,927
+- ¿Viste el estante?
+- ¿No estaba ahí?
+
+951
+00:43:16,928 --> 00:43:18,345
+No sé. Nunca había visto algo así.
+
+952
+00:43:18,346 --> 00:43:20,972
+- ¿Cómo vamos a superar este desastre?
+- Te iba a preguntar.
+
+953
+00:43:20,973 --> 00:43:22,808
+- Lo hiciste, estaba justo ahí.
+- Javadi, ¿puedes ir a rayos X?
+
+954
+00:43:22,809 --> 00:43:24,559
+- ¿A farmacia?
+- Dile a la farmacéutica.
+
+955
+00:43:24,560 --> 00:43:27,396
+- No puede dejar su puesto.
+- Pues no sé. Nadie hace lo que debe aquí.
+
+956
+00:44:51,772 --> 00:44:52,773
+Subtítulos: Iris Domínguez
+SPG Studios México
+

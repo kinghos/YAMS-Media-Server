@@ -1,0 +1,4173 @@
+1
+00:00:15,516 --> 00:00:17,266
+Beri tahu kepala departemen dahulu
+
+2
+00:00:17,267 --> 00:00:18,351
+sebelum situasi kacau.
+
+3
+00:00:18,352 --> 00:00:19,644
+Aku baru mau beri tahu.
+
+4
+00:00:19,645 --> 00:00:20,770
+JAM KEDELAPAN
+PUKUL 14.00 - 15.00
+
+5
+00:00:20,771 --> 00:00:23,022
+- Pastikan kebutuhan terpenuhi.
+- Mulai kerja.
+
+6
+00:00:23,023 --> 00:00:26,275
+TI hubungi karena terlatih pencegahan
+dan penanganan serangan siber.
+
+7
+00:00:26,276 --> 00:00:27,860
+Maka berikan perintah.
+
+8
+00:00:27,861 --> 00:00:30,321
+Tidak. Sebaiknya kepala departemen...
+
+9
+00:00:30,322 --> 00:00:31,323
+Pikirmu begitu?
+
+10
+00:00:34,368 --> 00:00:36,035
+Semua, harap berkumpul.
+
+11
+00:00:36,036 --> 00:00:37,286
+Apa yang terjadi?
+
+12
+00:00:37,287 --> 00:00:39,247
+Mungkin ada serangan siber.
+
+13
+00:00:39,248 --> 00:00:41,416
+Komputer dimatikan untuk mencegahnya.
+
+14
+00:00:43,252 --> 00:00:45,336
+Semua, harap tenang. Dengarkan.
+
+15
+00:00:45,337 --> 00:00:47,672
+Kita melakukan perubahan pengaturan
+
+16
+00:00:47,673 --> 00:00:48,674
+di area kerja pusat.
+
+17
+00:00:49,383 --> 00:00:52,134
+Komputer RS berisiko
+terkena serangan siber.
+
+18
+00:00:52,135 --> 00:00:54,262
+Jadi, pakai cara lama, analog.
+
+19
+00:00:54,263 --> 00:00:55,513
+- Berapa lama?
+- Ya.
+
+20
+00:00:55,514 --> 00:00:57,557
+Departemen TI mematikan semuanya
+
+21
+00:00:57,558 --> 00:00:59,892
+untuk memperkuat
+pertahanan siber kita.
+
+22
+00:00:59,893 --> 00:01:01,811
+Pertanyaannya, "Berapa lama?"
+
+23
+00:01:01,812 --> 00:01:04,314
+Sulit ditentukan, bisa sampai 24 jam.
+
+24
+00:01:05,190 --> 00:01:07,650
+- Astaga.
+- Jadi, tugas pertama adalah
+
+25
+00:01:07,651 --> 00:01:10,027
+menyalin daftar pasien elektronik
+
+26
+00:01:10,028 --> 00:01:11,445
+di papan tulis ini.
+
+27
+00:01:11,446 --> 00:01:13,573
+Siapa yang memotret layar?
+
+28
+00:01:13,574 --> 00:01:14,657
+Ya, ini dia.
+
+29
+00:01:14,658 --> 00:01:15,492
+Baiklah.
+
+30
+00:01:18,954 --> 00:01:21,080
+Agak kabur.
+
+31
+00:01:21,081 --> 00:01:23,083
+Itu tak terlihat sama sekali.
+
+32
+00:01:23,792 --> 00:01:25,836
+- Maaf.
+- Astaga.
+
+33
+00:01:26,753 --> 00:01:27,837
+Aku ingat.
+
+34
+00:01:27,838 --> 00:01:30,089
+Bagus. Jika semua ingat nama pasien
+
+35
+00:01:30,090 --> 00:01:32,049
+dan ruangannya, itu akan bagus.
+
+36
+00:01:32,050 --> 00:01:33,801
+Bukan. Aku bisa ingat semua.
+
+37
+00:01:33,802 --> 00:01:36,346
+- Semua apa?
+- Nama, dokter, nomor ruangan.
+
+38
+00:01:37,097 --> 00:01:39,348
+Aku punya ingatan fotografis.
+
+39
+00:01:39,349 --> 00:01:41,058
+Kau ingat seluruhnya?
+
+40
+00:01:41,059 --> 00:01:43,227
+Pusat 12, Harlow Graham,
+
+41
+00:01:43,228 --> 00:01:46,272
+pusing, sakit perut, bahasa isyarat.
+
+42
+00:01:46,273 --> 00:01:48,608
+Celaka, juru bahasa menungguku.
+
+43
+00:01:48,609 --> 00:01:50,776
+- Sekarang.
+- Demi privasi pasien,
+
+44
+00:01:50,777 --> 00:01:52,612
+singkat semua keluhan utama.
+
+45
+00:01:52,613 --> 00:01:56,032
+"SK" untuk sakit kepala, "SP"
+untuk sakit perut, dan seterusnya.
+
+46
+00:01:56,033 --> 00:01:58,909
+Tengah 10,
+Jackson Davis, penyakit jiwa.
+
+47
+00:01:58,910 --> 00:02:00,661
+Javadi yang menanganinya.
+
+48
+00:02:00,662 --> 00:02:02,455
+Abjad Yunani "Psi" untuk psikiatri.
+
+49
+00:02:02,456 --> 00:02:05,709
+Bayi Tanpa Nama, demam,
+dr. Mohan, menunggu ruang.
+
+50
+00:02:06,251 --> 00:02:08,044
+Perawat dibagi per zona.
+
+51
+00:02:08,045 --> 00:02:10,087
+- Utara, Tengah, Selatan, Trauma.
+- Dana?
+
+52
+00:02:10,088 --> 00:02:11,631
+Ada pasien kekerasan seksual.
+
+53
+00:02:11,632 --> 00:02:13,341
+Harus bereskan pemeriksaan.
+
+54
+00:02:13,342 --> 00:02:16,052
+- Ya, mungkin lama.
+- Princess bisa memimpin.
+
+55
+00:02:16,053 --> 00:02:17,511
+- Tidak.
+- Ide bagus.
+
+56
+00:02:17,512 --> 00:02:19,639
+Princess bisa bagi tugas perawat.
+
+57
+00:02:19,640 --> 00:02:21,724
+- Lanjut.
+- Tengah 9, Roxy Hemler.
+
+58
+00:02:21,725 --> 00:02:23,059
+Kanker paru stadium akhir.
+
+59
+00:02:23,060 --> 00:02:25,394
+Kami harus tunggu dia dikte papan?
+
+60
+00:02:25,395 --> 00:02:28,648
+Tidak, periksa pasien kalian,
+lalu kembali kemari.
+
+61
+00:02:28,649 --> 00:02:29,940
+Terima kasih.
+
+62
+00:02:29,941 --> 00:02:31,610
+Berapa jam pakai laptop sehari?
+
+63
+00:02:34,905 --> 00:02:37,490
+Setidaknya delapan jam.
+Aku kerja di rumah.
+
+64
+00:02:37,491 --> 00:02:39,034
+Duduk hadap meja seharian?
+
+65
+00:02:41,578 --> 00:02:46,332
+Tidak. Kadang aku duduk
+di sofa atau ranjang.
+
+66
+00:02:46,333 --> 00:02:50,002
+Kadang memangku komputer,
+semacam itu.
+
+67
+00:02:50,003 --> 00:02:51,922
+Jadi, kau sering menatap layar?
+
+68
+00:02:52,881 --> 00:02:53,798
+Ya.
+
+69
+00:02:53,799 --> 00:02:56,677
+Baiklah. Akan kuperiksa otot lehermu.
+
+70
+00:03:04,476 --> 00:03:05,394
+Sakit.
+
+71
+00:03:06,937 --> 00:03:08,814
+Baik. Kami bisa mengatasinya.
+
+72
+00:03:09,398 --> 00:03:10,774
+Kemari.
+
+73
+00:03:11,817 --> 00:03:13,109
+Baiklah. Berkumpul.
+
+74
+00:03:13,110 --> 00:03:15,486
+Dengar, Semua.
+Ini daftar pasien kita.
+
+75
+00:03:15,487 --> 00:03:18,572
+Tiap slot dan papan klip
+memiliki nomor ruangan.
+
+76
+00:03:18,573 --> 00:03:22,326
+Saat tangani pasien baru,
+ambil lembar baru.
+
+77
+00:03:22,327 --> 00:03:27,415
+Tulis laporan sesuai keluhan utama,
+pakai gambar untuk mencarinya.
+
+78
+00:03:27,416 --> 00:03:29,041
+Kenapa ada dua rak?
+
+79
+00:03:29,042 --> 00:03:31,210
+Trauma di kiri, medis di kanan.
+
+80
+00:03:31,211 --> 00:03:34,088
+Cedera kepala di kiri,
+sakit kepala di kanan.
+
+81
+00:03:34,089 --> 00:03:36,716
+- Ikan itu berenang di rumput laut?
+- Bukan.
+
+82
+00:03:36,717 --> 00:03:38,008
+Itu lebah dan rumput.
+
+83
+00:03:38,009 --> 00:03:40,845
+Untuk gigitan serangga, ruam, alergi.
+
+84
+00:03:40,846 --> 00:03:42,179
+Sebagai contoh,
+
+85
+00:03:42,180 --> 00:03:44,432
+pasien dr. Al-Hashimi sakit perut.
+
+86
+00:03:44,433 --> 00:03:49,228
+Untuk riwayat, lingkari gejala
+yang positif, misal muntah dan diare.
+
+87
+00:03:49,229 --> 00:03:50,521
+Garis miring situasinya,
+
+88
+00:03:50,522 --> 00:03:53,357
+seperti baru bepergian,
+kontak penyakit, demam.
+
+89
+00:03:53,358 --> 00:03:57,278
+Untuk pemeriksaan fisik,
+centang gejala normal di sisi kiri
+
+90
+00:03:57,279 --> 00:04:00,239
+dan lingkari temuan abnormal
+di kanan. Ada pertanyaan?
+
+91
+00:04:00,240 --> 00:04:02,743
+Program AI generatif masih berfungsi?
+
+92
+00:04:04,453 --> 00:04:05,494
+Saat ini, tidak.
+
+93
+00:04:05,495 --> 00:04:08,790
+Jangan pakai ponsel Spectralink,
+itu Telepon Internet.
+
+94
+00:04:11,877 --> 00:04:14,086
+IGD PTMC. Silakan, Pusat Medis.
+
+95
+00:04:14,087 --> 00:04:16,213
+Itu kabar pasien yang akan datang.
+
+96
+00:04:16,214 --> 00:04:18,841
+Pasien sakit perut dan demam
+dua menit lagi.
+
+97
+00:04:18,842 --> 00:04:20,342
+Semua sudah mengerti?
+
+98
+00:04:20,343 --> 00:04:21,969
+Caranya tulis prosedur?
+
+99
+00:04:21,970 --> 00:04:26,515
+Formulir prosedur rangkap tiga,
+hasil lab, rontgen, infus, obat.
+
+100
+00:04:26,516 --> 00:04:28,601
+Lab tetap bisa tes darah?
+
+101
+00:04:28,602 --> 00:04:30,603
+- Ya.
+- Pemindai CT berfungsi?
+
+102
+00:04:30,604 --> 00:04:34,231
+Ya, tapi hasilnya berupa berkas
+dari ahli radiologi.
+
+103
+00:04:34,232 --> 00:04:35,441
+Cara zaman kuno.
+
+104
+00:04:35,442 --> 00:04:39,904
+Jika ada prosedur lab atau rontgen,
+berikan ke juru tulis di sini.
+
+105
+00:04:39,905 --> 00:04:42,281
+Mereka tangani, tulis waktu tunggu,
+
+106
+00:04:42,282 --> 00:04:43,950
+beri ke bagian yang tepat.
+
+107
+00:04:44,075 --> 00:04:46,202
+- Siapa juru tulisnya?
+- Kami.
+
+108
+00:04:46,203 --> 00:04:48,621
+Larry dan Antoine tangani
+sampai ada bantuan.
+
+109
+00:04:48,622 --> 00:04:51,332
+- Kami bisa.
+- Usai dicatat, laporan dipindah
+
+110
+00:04:51,333 --> 00:04:54,794
+ke rak tindakan perawatan
+untuk infus, obat, prosedur.
+
+111
+00:04:54,795 --> 00:04:57,171
+Obat terkunci di PDS.
+
+112
+00:04:57,172 --> 00:05:00,800
+PDS akan dibuka oleh apoteker klinis,
+dr. Megan Nordt.
+
+113
+00:05:00,801 --> 00:05:02,384
+- Siap bantu.
+- Ini sulit.
+
+114
+00:05:02,385 --> 00:05:03,720
+Ada pertanyaan? Ya.
+
+115
+00:05:05,013 --> 00:05:05,930
+Tidak.
+
+116
+00:05:05,931 --> 00:05:07,223
+Apa isi rak ketiga?
+
+117
+00:05:07,224 --> 00:05:09,099
+Saat pasien siap keluar,
+
+118
+00:05:09,100 --> 00:05:10,226
+laporan ke sini.
+
+119
+00:05:10,227 --> 00:05:12,478
+Agar semua tahu ada ranjang kosong.
+
+120
+00:05:12,479 --> 00:05:14,189
+- Atau pizamu siap.
+- Jesse?
+
+121
+00:05:16,817 --> 00:05:19,026
+- Apa itu?
+- Apa itu?
+
+122
+00:05:19,027 --> 00:05:22,112
+- Itu mesin faksmile.
+- Masih berfungsi?
+
+123
+00:05:22,113 --> 00:05:23,739
+Ini komunikasi lab dan rontgen.
+
+124
+00:05:23,740 --> 00:05:26,033
+Hasilnya akan dikirim lewat faks,
+
+125
+00:05:26,034 --> 00:05:28,244
+lalu juru tulis taruh di rak. Paham?
+
+126
+00:05:28,245 --> 00:05:30,162
+- Baiklah.
+- Pasien tiba!
+
+127
+00:05:30,163 --> 00:05:33,999
+Baik. Dokter McKay,
+dr. Whitaker, Ogilvie, ikuti aku.
+
+128
+00:05:34,000 --> 00:05:35,961
+Sisanya, siapkan papan klip.
+
+129
+00:05:39,172 --> 00:05:40,381
+Howard Knox, 52,
+
+130
+00:05:40,382 --> 00:05:43,175
+sakit perut dan demam, TD 152 dan 90.
+
+131
+00:05:43,176 --> 00:05:46,387
+- Takikardia 120, tak bisa diinfus.
+- Apa sebabnya?
+
+132
+00:05:46,388 --> 00:05:49,014
+- Halo, Pak. Namaku dr. Robby.
+- Howard.
+
+133
+00:05:49,015 --> 00:05:50,182
+Ini RS pendidikan.
+
+134
+00:05:50,183 --> 00:05:52,434
+Aku mengawasi
+dr. McKay, dr. Whitaker,
+
+135
+00:05:52,435 --> 00:05:53,644
+mahasiswa Ogilvie.
+
+136
+00:05:53,645 --> 00:05:54,854
+- Halo.
+- Keadaanmu?
+
+137
+00:05:54,855 --> 00:05:56,146
+- Tak baik.
+- Baik.
+
+138
+00:05:56,147 --> 00:05:58,358
+- Princess, ada kosong?
+- Trauma 1. Perlah.
+
+139
+00:06:01,987 --> 00:06:05,114
+Berikan Mylanta dan Bupivacaine,
+Tengah 12.
+
+140
+00:06:05,115 --> 00:06:08,243
+Kami siap, dr. Santos,
+dan kau butuh stiker.
+
+141
+00:06:09,619 --> 00:06:11,537
+- Ya.
+- Taruh di rak perawatan
+
+142
+00:06:11,538 --> 00:06:13,038
+dan temui aku di PDS.
+
+143
+00:06:13,039 --> 00:06:14,415
+Ini menyebalkan.
+
+144
+00:06:14,416 --> 00:06:16,208
+Tak tahu hari ini akan lebih buruk?
+
+145
+00:06:16,209 --> 00:06:18,460
+Ini cara kerja saat aku jadi residen.
+
+146
+00:06:18,461 --> 00:06:19,879
+Pada era 1990-an?
+
+147
+00:06:19,880 --> 00:06:21,631
+Ya, penerangannya lilin.
+
+148
+00:06:22,382 --> 00:06:24,133
+Ini akan jadi pengalaman.
+
+149
+00:06:24,134 --> 00:06:25,969
+Seperti <i>Back to the Future.</i>
+
+150
+00:06:29,055 --> 00:06:30,931
+Atau mungkin <i>Titanic.</i>
+
+151
+00:06:30,932 --> 00:06:33,393
+Ini antasid. Minumlah.
+
+152
+00:06:34,102 --> 00:06:37,479
+Kutandai titik pemicu
+yang mengakibatkan sakit kepalamu.
+
+153
+00:06:37,480 --> 00:06:41,109
+Satu suntikan bius lokal di area itu
+akan meredakannya.
+
+154
+00:06:42,569 --> 00:06:44,112
+- Lakukan saja.
+- Bagus.
+
+155
+00:06:45,947 --> 00:06:50,160
+Kau akan merasa sedikit tertusuk
+dan terbakar.
+
+156
+00:06:58,668 --> 00:07:00,127
+Itu sakit sekali.
+
+157
+00:07:00,128 --> 00:07:03,213
+Suhunya 38,5, takikardia pada 128,
+
+158
+00:07:03,214 --> 00:07:04,632
+saturasi 92 dua liter.
+
+159
+00:07:04,633 --> 00:07:05,841
+Kapan mulai sakit?
+
+160
+00:07:05,842 --> 00:07:08,427
+- Muncul dan hilang sepekan ini.
+- Di mana?
+
+161
+00:07:08,428 --> 00:07:09,345
+Seluruh tubuh.
+
+162
+00:07:09,346 --> 00:07:11,680
+Mulai terasa di kiri, lalu kanan.
+
+163
+00:07:11,681 --> 00:07:14,266
+- Bagaimana demamnya?
+- Sejak semalam.
+
+164
+00:07:14,267 --> 00:07:17,478
+Aku demam, lalu menggigil parah.
+
+165
+00:07:17,479 --> 00:07:18,479
+Tak lihat vena.
+
+166
+00:07:18,480 --> 00:07:20,607
+- Coba tengah.
+- Bilang kalau sakit.
+
+167
+00:07:21,983 --> 00:07:23,984
+- Maaf.
+- Di sisi ini?
+
+168
+00:07:23,985 --> 00:07:25,402
+- Ya.
+- Maaf.
+
+169
+00:07:25,403 --> 00:07:28,656
+Otot tegang karena nyeri,
+100 mg fentanil pada otot.
+
+170
+00:07:28,657 --> 00:07:33,077
+- Prosedurnya, dr. Whitaker?
+- Tes darah, laktat, Zosyn.
+
+171
+00:07:33,078 --> 00:07:35,246
+Perlu CT untuk mengetahui sebabnya.
+
+172
+00:07:36,873 --> 00:07:38,916
+- Ya, tak menyala.
+- Benar.
+
+173
+00:07:38,917 --> 00:07:41,335
+- Tulis yang mudah dibaca.
+- Untuk pemindaian,
+
+174
+00:07:41,336 --> 00:07:43,921
+kau harus berbaring. Bisa?
+
+175
+00:07:43,922 --> 00:07:47,132
+Sepuluh tahun lalu bisa,
+tapi kini sulit bernapas.
+
+176
+00:07:47,133 --> 00:07:49,218
+Jika tak bisa berbaring, pasang slang
+
+177
+00:07:49,219 --> 00:07:51,470
+di tenggorokan untuk bernapas. Mau?
+
+178
+00:07:51,471 --> 00:07:54,264
+- Intubasi induksi cepat?
+- Tak bisa dibaringkan.
+
+179
+00:07:54,265 --> 00:07:56,600
+Slang akan dimasukkan
+ke hidung saat sadar.
+
+180
+00:07:56,601 --> 00:07:57,643
+Ya.
+
+181
+00:07:57,644 --> 00:07:59,853
+- Sakitkah?
+- Kau akan dibius total.
+
+182
+00:07:59,854 --> 00:08:01,563
+Tak akan terasa tak nyaman.
+
+183
+00:08:01,564 --> 00:08:03,858
+Apa kau mungkin tahu bobotmu?
+
+184
+00:08:04,734 --> 00:08:06,110
+180 kg lebih sedikit.
+
+185
+00:08:06,111 --> 00:08:08,654
+- Kapan terakhir diperiksa?
+- Sudah lama.
+
+186
+00:08:08,655 --> 00:08:11,240
+Mungkinkah bobotmu di atas 200 kg?
+
+187
+00:08:11,241 --> 00:08:12,158
+Bisa jadi.
+
+188
+00:08:13,493 --> 00:08:15,577
+Perlah, ambil brankar.
+
+189
+00:08:15,578 --> 00:08:18,872
+Kami akan pasang slang
+dan menyiapkanmu untuk dipindai.
+
+190
+00:08:18,873 --> 00:08:20,290
+Penyakitku parah?
+
+191
+00:08:20,291 --> 00:08:22,084
+Sulit diketahui tanpa CT.
+
+192
+00:08:22,085 --> 00:08:25,587
+Mungkin kau cuma perlu antibiotik
+atau harus operasi.
+
+193
+00:08:25,588 --> 00:08:27,006
+Jika perlu operasi,
+
+194
+00:08:27,007 --> 00:08:29,174
+bobotmu bisa agak menyulitkan.
+
+195
+00:08:29,175 --> 00:08:30,217
+Aku tahu. Maaf.
+
+196
+00:08:30,218 --> 00:08:33,388
+Jangan khawatir.
+Kami akan merawatmu. Tim.
+
+197
+00:08:34,848 --> 00:08:36,432
+Ini pereda nyeri, ya?
+
+198
+00:08:36,433 --> 00:08:40,519
+Coba cari vena basilika
+menggunakan USG.
+
+199
+00:08:40,520 --> 00:08:41,895
+USG untuk usus buntu?
+
+200
+00:08:41,896 --> 00:08:43,647
+Dia terlalu besar untuk USG.
+
+201
+00:08:43,648 --> 00:08:46,108
+Selain itu,
+CT hanya muat untuk 200 kg.
+
+202
+00:08:46,109 --> 00:08:48,445
+Jika lebih dari itu,
+dikirim ke bunbin?
+
+203
+00:08:49,696 --> 00:08:50,822
+Dia ada di sana.
+
+204
+00:08:53,450 --> 00:08:56,285
+Kabarnya,
+ada CT hewan besar di bunbin.
+
+205
+00:08:56,286 --> 00:09:00,415
+- CT Presby bisa muat 290 kg.
+- Jika Presby masih beroperasi.
+
+206
+00:09:01,708 --> 00:09:03,208
+Bukan prasangka...
+
+207
+00:09:03,209 --> 00:09:06,546
+Pernah lakukan intubasi trakea nasal
+pada pasien sadar?
+
+208
+00:09:07,005 --> 00:09:07,921
+Baiklah.
+
+209
+00:09:07,922 --> 00:09:10,090
+Perlah, panggilkan dr. Al-Hashimi.
+
+210
+00:09:10,091 --> 00:09:11,341
+Aku butuh bantuan.
+
+211
+00:09:11,342 --> 00:09:12,343
+Baiklah.
+
+212
+00:09:13,303 --> 00:09:14,512
+Maaf. Sudah terisi.
+
+213
+00:09:15,597 --> 00:09:17,139
+- Terima kasih.
+- Ranjang aula F.
+
+214
+00:09:17,140 --> 00:09:18,307
+George Francis,
+
+215
+00:09:18,308 --> 00:09:21,435
+sesak napas, dr. Mohan,
+menunggu D-dimer.
+
+216
+00:09:21,436 --> 00:09:23,312
+Dia masih bertahan?
+
+217
+00:09:23,313 --> 00:09:25,064
+Ya. Luar biasa.
+
+218
+00:09:25,065 --> 00:09:27,024
+Dokter Al, Robby memanggilmu.
+
+219
+00:09:27,025 --> 00:09:28,025
+Baiklah.
+
+220
+00:09:28,026 --> 00:09:30,236
+- Aku ke Trauma bila kau perlu.
+- Ya.
+
+221
+00:09:32,614 --> 00:09:34,948
+Siapa tangani
+jadwal jeda rontgen dan lab?
+
+222
+00:09:34,949 --> 00:09:36,409
+Kepala perawat.
+
+223
+00:09:37,827 --> 00:09:38,828
+Jangan lihat aku.
+
+224
+00:09:39,579 --> 00:09:40,455
+Aku sibuk.
+
+225
+00:09:43,500 --> 00:09:46,960
+- Orang tua Roxy Hemler.
+- Tengah 9.
+
+226
+00:09:46,961 --> 00:09:48,128
+Aku saja, Donnie.
+
+227
+00:09:48,129 --> 00:09:51,006
+Hai, aku Victoria Javadi,
+salah satu mahasiswa.
+
+228
+00:09:51,007 --> 00:09:52,966
+Aku membantu perawatan Roxy.
+
+229
+00:09:52,967 --> 00:09:56,136
+- Terima kasih. Aku Lloyd.
+- Cora.
+
+230
+00:09:56,137 --> 00:09:57,429
+Salam kenal.
+
+231
+00:09:57,430 --> 00:09:58,348
+Kakinya patah?
+
+232
+00:09:58,932 --> 00:10:01,141
+Ya, ada fraktur di pergelangan kaki.
+
+233
+00:10:01,142 --> 00:10:04,144
+Dia pakai bot khusus
+agar tidak terlalu sakit.
+
+234
+00:10:04,145 --> 00:10:05,897
+Akan kuantar ke Ruang 9.
+
+235
+00:10:11,861 --> 00:10:13,237
+Wi-Fi tak berfungsi.
+
+236
+00:10:13,238 --> 00:10:15,573
+Memang tak berfungsi saat ini. Maaf.
+
+237
+00:10:16,533 --> 00:10:18,034
+Kaki Ibu patah, Kakek.
+
+238
+00:10:18,952 --> 00:10:19,953
+Kami tahu.
+
+239
+00:10:21,329 --> 00:10:22,288
+Apa kabar?
+
+240
+00:10:25,166 --> 00:10:26,668
+Kau pasti pulih, Nak.
+
+241
+00:10:27,418 --> 00:10:28,294
+Ya.
+
+242
+00:10:29,838 --> 00:10:31,673
+Sampai kapan dia harus di sini?
+
+243
+00:10:32,298 --> 00:10:34,592
+Sampai ada ruang di atas.
+
+244
+00:10:35,677 --> 00:10:36,845
+Mungkin agak lama.
+
+245
+00:10:42,350 --> 00:10:43,851
+Tempat ini mulai ramai.
+
+246
+00:10:43,852 --> 00:10:45,894
+Kami ajak Tucker dan Shane
+beli es krim.
+
+247
+00:10:45,895 --> 00:10:48,523
+- Ya, tolong.
+- Tak usah.
+
+248
+00:10:49,607 --> 00:10:51,901
+Mungkin ibumu ingin istirahat.
+
+249
+00:10:52,569 --> 00:10:54,404
+Ya, pergilah.
+
+250
+00:10:56,656 --> 00:10:57,866
+Dia boleh makan es krim?
+
+251
+00:10:58,700 --> 00:11:00,326
+Dia boleh makan apa pun.
+
+252
+00:11:02,162 --> 00:11:03,246
+Ayo.
+
+253
+00:11:14,340 --> 00:11:15,465
+Ya.
+
+254
+00:11:15,466 --> 00:11:16,342
+Dengarkan.
+
+255
+00:11:17,218 --> 00:11:20,013
+Ini oksimetazolin
+untuk membuka pembuluh darah.
+
+256
+00:11:20,972 --> 00:11:22,681
+Kau konsumsi obat apa?
+
+257
+00:11:22,682 --> 00:11:24,601
+Lisinopril dan metformin.
+
+258
+00:11:25,351 --> 00:11:27,060
+Ozempic? Wegovy?
+
+259
+00:11:27,061 --> 00:11:28,979
+Tidak, itu mahal.
+
+260
+00:11:28,980 --> 00:11:30,939
+Kuberi gel bius di hidungmu.
+
+261
+00:11:30,940 --> 00:11:33,318
+Jika menetes ke tenggorokan, tak apa.
+
+262
+00:11:34,652 --> 00:11:36,070
+Ini, kalau kau perlu.
+
+263
+00:11:36,738 --> 00:11:39,990
+Kau merokok? Minum miras?
+
+264
+00:11:39,991 --> 00:11:41,742
+- Tidak.
+- Kau berolahraga?
+
+265
+00:11:41,743 --> 00:11:43,703
+Berjalan dari kamar ke dapur.
+
+266
+00:11:44,787 --> 00:11:45,913
+Aku mau jalan lagi,
+
+267
+00:11:45,914 --> 00:11:48,540
+tapi butuh bangku
+untuk rehat di tiap blok.
+
+268
+00:11:48,541 --> 00:11:50,083
+Sudah coba aerobik air?
+
+269
+00:11:50,084 --> 00:11:52,336
+Mari fokus merawat Pak Knox.
+
+270
+00:11:52,337 --> 00:11:53,754
+Setuju.
+
+271
+00:11:53,755 --> 00:11:55,881
+Perlu 25 tahun untuk jadi begini.
+
+272
+00:11:55,882 --> 00:12:00,637
+Tabrakan mobil, unit luka bakar,
+empat kali bedah kaki 10 tahun ini.
+
+273
+00:12:01,387 --> 00:12:03,555
+Sampai akhirnya aku dipecat.
+
+274
+00:12:03,556 --> 00:12:05,224
+Kubius bagian belakang lidah.
+
+275
+00:12:05,225 --> 00:12:06,391
+Rasanya tak enak.
+
+276
+00:12:06,392 --> 00:12:08,228
+Ada yang perlu dihubungi?
+
+277
+00:12:09,562 --> 00:12:10,897
+Anggota keluarga?
+
+278
+00:12:12,065 --> 00:12:13,524
+Orang tuaku sudah wafat.
+
+279
+00:12:14,025 --> 00:12:17,027
+- Aku lajang. Bagus, 'kan?
+- Saudara kandung?
+
+280
+00:12:17,028 --> 00:12:18,321
+Saudariku di Arizona.
+
+281
+00:12:19,447 --> 00:12:20,865
+Kami jarang mengobrol.
+
+282
+00:12:21,491 --> 00:12:23,492
+Setelah bagian belakang lidah
+mati rasa,
+
+283
+00:12:23,493 --> 00:12:25,370
+kami bius bagian dalam.
+
+284
+00:12:26,913 --> 00:12:27,829
+Maaf menyela.
+
+285
+00:12:27,830 --> 00:12:30,540
+Ada wanita paruh baya
+yang buta mendadak.
+
+286
+00:12:30,541 --> 00:12:32,251
+- Aku saja.
+- Baik.
+
+287
+00:12:32,252 --> 00:12:33,252
+Panggil Abbot.
+
+288
+00:12:33,253 --> 00:12:34,169
+- Ya.
+- Bagus.
+
+289
+00:12:34,170 --> 00:12:37,631
+- Siapa nama saudarimu?
+- Lauren Milford.
+
+290
+00:12:37,632 --> 00:12:38,549
+Arizona mana?
+
+291
+00:12:39,050 --> 00:12:40,550
+Mungkin Flagstaff.
+
+292
+00:12:40,551 --> 00:12:43,388
+Masuk lewat lidah
+untuk bius pita suaramu.
+
+293
+00:12:46,432 --> 00:12:48,977
+- Ada berapa jari?
+- Tak terlihat.
+
+294
+00:12:49,936 --> 00:12:50,812
+Sekarang?
+
+295
+00:12:51,938 --> 00:12:53,189
+Lihat sedikit cahaya.
+
+296
+00:12:54,774 --> 00:12:56,275
+Brooke, ini dr. King.
+
+297
+00:12:56,276 --> 00:12:58,193
+- Ini dr. Al-Hashimi.
+- Salam kenal.
+
+298
+00:12:58,194 --> 00:12:59,111
+Istrinya, Wendy.
+
+299
+00:12:59,112 --> 00:13:00,237
+- Halo.
+- Halo.
+
+300
+00:13:00,238 --> 00:13:02,072
+Boleh kami bahas gejalamu?
+
+301
+00:13:02,073 --> 00:13:04,324
+Asal bisa kukoreksi jika kau salah.
+
+302
+00:13:04,325 --> 00:13:05,534
+Dia pasti bisa.
+
+303
+00:13:05,535 --> 00:13:09,079
+Tiba-tiba,
+kehilangan penglihatan di mata kiri.
+
+304
+00:13:09,080 --> 00:13:12,040
+Tak ada riwayat hipokoagulasi
+atau penyakit vaskular.
+
+305
+00:13:12,041 --> 00:13:13,625
+Bisa lihat ke depan?
+
+306
+00:13:13,626 --> 00:13:15,712
+Mungkin oklusi arteri retina tengah.
+
+307
+00:13:16,421 --> 00:13:17,713
+Aku tak mengerti.
+
+308
+00:13:17,714 --> 00:13:21,341
+Gumpalan darah kecil dapat
+menyumbat arteri di belakang mata,
+
+309
+00:13:21,342 --> 00:13:22,592
+mengganggu penglihatan.
+
+310
+00:13:22,593 --> 00:13:24,094
+Kadang disebut strok mata.
+
+311
+00:13:24,095 --> 00:13:26,221
+Strok? Dia bisa lumpuh?
+
+312
+00:13:26,222 --> 00:13:28,557
+Tidak, ini hanya terbatas pada mata.
+
+313
+00:13:28,558 --> 00:13:31,269
+- Apa permanen?
+- Harus didiagnosis dahulu.
+
+314
+00:13:31,853 --> 00:13:32,769
+Cek retina?
+
+315
+00:13:32,770 --> 00:13:34,229
+Sulit memeriksanya.
+
+316
+00:13:34,230 --> 00:13:35,606
+Ambilkan FOP.
+
+317
+00:13:36,149 --> 00:13:37,358
+Apa itu?
+
+318
+00:13:39,902 --> 00:13:43,447
+Princess, butuh stiker pasien
+di tiap lembar prosedur
+
+319
+00:13:43,448 --> 00:13:45,741
+agar apotek tahu obat untuk siapa.
+
+320
+00:13:45,742 --> 00:13:46,783
+Baik.
+
+321
+00:13:46,784 --> 00:13:48,619
+Princess, funduskopi ponsel pintar.
+
+322
+00:13:49,245 --> 00:13:51,121
+- Peralatan, koridor, troli mata.
+- Ya.
+
+323
+00:13:51,122 --> 00:13:53,249
+Sepertinya kau bingung.
+
+324
+00:13:53,750 --> 00:13:55,709
+Caranya pilih pasien baru?
+
+325
+00:13:55,710 --> 00:13:58,086
+Yang teratas.
+Tertulis sesuai urutan tiba.
+
+326
+00:13:58,087 --> 00:14:01,089
+Hapus yang pertama,
+lalu tulis inisialmu di kotak dokter.
+
+327
+00:14:01,090 --> 00:14:03,008
+- Baik. Terima kasih.
+- Caleb.
+
+328
+00:14:03,009 --> 00:14:05,093
+Michael, bisa tangani kekacauan ini?
+
+329
+00:14:05,094 --> 00:14:07,805
+Mudah saja
+bila pernah bertugas di militer.
+
+330
+00:14:08,348 --> 00:14:10,641
+Ada pasien koma untuk kuajak bicara?
+
+331
+00:14:12,518 --> 00:14:13,435
+Aku bercanda.
+
+332
+00:14:13,436 --> 00:14:17,314
+- Baiklah.
+- Victoria, ini Nicole Steadman.
+
+333
+00:14:17,315 --> 00:14:19,941
+Dari grup dukungan orang tua
+untuk pasien psikiatri.
+
+334
+00:14:19,942 --> 00:14:23,195
+Ya. Putri Nicole didiagnosis
+pada tahun kedua kuliah.
+
+335
+00:14:23,196 --> 00:14:25,907
+Orang tua Jackson
+boleh mengobrol dengannya?
+
+336
+00:14:26,657 --> 00:14:27,742
+Akan kutanyakan.
+
+337
+00:14:28,368 --> 00:14:31,662
+Kini kami bisa lihat retina
+tanpa memperlebar pupil.
+
+338
+00:14:32,705 --> 00:14:36,459
+- Bukan mata yang itu.
+- Untuk perbandingan mata yang sehat.
+
+339
+00:14:38,711 --> 00:14:40,879
+- Retina bagus.
+- Kini mata yang sakit?
+
+340
+00:14:40,880 --> 00:14:42,215
+Buka mata lebar-lebar.
+
+341
+00:14:44,509 --> 00:14:45,468
+Bagaimana?
+
+342
+00:14:46,260 --> 00:14:47,552
+Pucat. Tanpa aliran darah.
+
+343
+00:14:47,553 --> 00:14:49,846
+Pijat digital 10 detik, jeda 5 detik.
+
+344
+00:14:49,847 --> 00:14:51,140
+CT kepala nonkontras.
+
+345
+00:14:54,936 --> 00:14:55,853
+Masuk.
+
+346
+00:14:57,188 --> 00:14:58,940
+Kabarnya, pasienmu minggat.
+
+347
+00:14:59,649 --> 00:15:01,984
+- Dia rehat.
+- Tunggu berapa lama lagi?
+
+348
+00:15:03,569 --> 00:15:05,320
+Tahu pemadaman internet?
+
+349
+00:15:05,321 --> 00:15:07,030
+Ya, kuharap bisa bantu,
+
+350
+00:15:07,031 --> 00:15:09,616
+tapi aku harus kumpulkan semua bukti.
+
+351
+00:15:09,617 --> 00:15:11,243
+Sedang kacau di sana.
+
+352
+00:15:11,244 --> 00:15:12,578
+Seharian ini kacau.
+
+353
+00:15:14,288 --> 00:15:15,623
+Maaf, aku akan pergi.
+
+354
+00:15:16,290 --> 00:15:17,208
+Kau tak apa?
+
+355
+00:15:18,376 --> 00:15:19,210
+Ya.
+
+356
+00:15:20,044 --> 00:15:22,671
+Senang mendengarnya. Sudah makan?
+
+357
+00:15:22,672 --> 00:15:23,589
+Belum.
+
+358
+00:15:25,675 --> 00:15:27,009
+Lanjutkan saja.
+
+359
+00:15:27,844 --> 00:15:29,971
+Baiklah.
+
+360
+00:15:37,395 --> 00:15:38,896
+- Baik.
+- Terima kasih.
+
+361
+00:15:40,731 --> 00:15:42,400
+Kenapa tak ada di IGD?
+
+362
+00:15:43,192 --> 00:15:45,528
+Pasien intubasi biasanya dibius.
+
+363
+00:15:46,946 --> 00:15:48,071
+Baik.
+
+364
+00:15:48,072 --> 00:15:51,576
+Mungkin kau bisa kurangi komentarmu
+soal berat badannya.
+
+365
+00:15:52,994 --> 00:15:56,204
+Aku ingin tahu bagaimana dia
+segemuk itu dan cara merawatnya.
+
+366
+00:15:56,205 --> 00:15:59,332
+Kita rawat dia dengan rasa hormat.
+
+367
+00:15:59,333 --> 00:16:01,835
+- Kondisi perutmu?
+- Suntikan kedua manjur.
+
+368
+00:16:01,836 --> 00:16:03,545
+Bisa ditambah kalau perlu.
+
+369
+00:16:03,546 --> 00:16:06,631
+- Gangguan fungsi usus berkurang.
+- Topik menarik dari IGD.
+
+370
+00:16:06,632 --> 00:16:09,176
+Bagus. Howard,
+kami buka saluran napas
+
+371
+00:16:09,177 --> 00:16:10,343
+untuk masukkan slang.
+
+372
+00:16:10,344 --> 00:16:12,179
+Masuk dari jari kelingkingku,
+
+373
+00:16:12,180 --> 00:16:14,639
+lalu sampai
+ke bagian belakang jariku.
+
+374
+00:16:14,640 --> 00:16:17,726
+Saat slang melewati pita suara,
+kau tak bisa bicara.
+
+375
+00:16:17,727 --> 00:16:19,478
+Namun, ini alat komunikasi.
+
+376
+00:16:19,479 --> 00:16:22,481
+Usap layar bila mau bilang sesuatu.
+
+377
+00:16:22,482 --> 00:16:24,983
+Tekan ikon untuk bicara.
+
+378
+00:16:24,984 --> 00:16:26,569
+<i>Minta obat pereda nyeri.</i>
+
+379
+00:16:27,403 --> 00:16:29,029
+<i>Nyeriku berskala sembilan.</i>
+
+380
+00:16:29,030 --> 00:16:30,531
+Bisa untuk pesan piza?
+
+381
+00:16:32,366 --> 00:16:34,784
+Ada sinyal ponsel
+di anjungan ambulans.
+
+382
+00:16:34,785 --> 00:16:36,995
+Kuhubungi saudarinya.
+Kirim pesan suara.
+
+383
+00:16:36,996 --> 00:16:38,538
+Aku akan mulai.
+
+384
+00:16:38,539 --> 00:16:39,915
+Kau siap?
+
+385
+00:16:39,916 --> 00:16:40,833
+Tidak.
+
+386
+00:16:41,459 --> 00:16:42,375
+Lakukan saja.
+
+387
+00:16:42,376 --> 00:16:44,462
+- Robby, ke sini.
+- Mundurkan kepala.
+
+388
+00:16:47,048 --> 00:16:48,173
+Perlu operasi?
+
+389
+00:16:48,174 --> 00:16:49,841
+Semoga usus buntu tak pecah.
+
+390
+00:16:49,842 --> 00:16:50,967
+Bisa pakai endoskop?
+
+391
+00:16:50,968 --> 00:16:53,512
+Mungkin, tapi bisa diobati
+dengan antibiotik saja.
+
+392
+00:16:53,513 --> 00:16:55,347
+Apa dia perlu operasi?
+
+393
+00:16:55,348 --> 00:16:58,433
+Dengan bobotnya,
+perlu laparotomi terbuka darurat,
+
+394
+00:16:58,434 --> 00:17:00,519
+tingkat kematian mendekati 50%.
+
+395
+00:17:00,520 --> 00:17:01,937
+Lakukan bertahap.
+
+396
+00:17:01,938 --> 00:17:04,814
+Terus coba hubungi
+saudarinya tiap 15 menit.
+
+397
+00:17:04,815 --> 00:17:05,733
+Harusnya bisa.
+
+398
+00:17:09,987 --> 00:17:11,531
+Setengah lembar kosong.
+
+399
+00:17:12,573 --> 00:17:13,950
+Apa maksudmu?
+
+400
+00:17:15,117 --> 00:17:16,452
+Di sini dan di sini.
+
+401
+00:17:17,411 --> 00:17:19,247
+Larry, kau memakai spidol?
+
+402
+00:17:19,830 --> 00:17:20,748
+Mungkin.
+
+403
+00:17:21,749 --> 00:17:24,168
+Tak bisa tembus
+untuk menulis salinannya.
+
+404
+00:17:25,086 --> 00:17:26,629
+Pakai pulpen saja.
+
+405
+00:17:27,255 --> 00:17:28,172
+Baiklah.
+
+406
+00:17:30,633 --> 00:17:31,883
+Digby tak ada?
+
+407
+00:17:31,884 --> 00:17:33,301
+Si pria tunawisma?
+
+408
+00:17:33,302 --> 00:17:34,804
+Butuh ranjang jika dia kabur.
+
+409
+00:17:36,514 --> 00:17:38,431
+- Butuh apa?
+- Dokter kepala.
+
+410
+00:17:38,432 --> 00:17:40,016
+- Residen senior?
+- Tidak.
+
+411
+00:17:40,017 --> 00:17:42,310
+- Dokter Al-Hashimi, mau konsultasi.
+- Ya.
+
+412
+00:17:42,311 --> 00:17:44,938
+Wanita tunarungu, 32 tahun,
+sakit kepala fasial ringan.
+
+413
+00:17:44,939 --> 00:17:46,356
+Ibuprofen sebabkan gastritis,
+
+414
+00:17:46,357 --> 00:17:48,149
+nyeri epigastrik, dan vasovagal.
+
+415
+00:17:48,150 --> 00:17:51,528
+Kini, tak nyeri setelah minum Mylanta
+dan suntikan titik pemicu.
+
+416
+00:17:51,529 --> 00:17:54,239
+Bagus. Bisa redakan nyeri
+beberapa bulan.
+
+417
+00:17:54,240 --> 00:17:56,825
+Tak akan terulang
+jika dia lihat layar setinggi mata.
+
+418
+00:17:56,826 --> 00:17:59,536
+Ada keterlambatan
+juru bahasa isyarat.
+
+419
+00:17:59,537 --> 00:18:03,415
+Aku hampir menyerah
+dan ajukan pindai CT otak dan perut.
+
+420
+00:18:03,416 --> 00:18:05,960
+- Untungnya, tidak.
+- Dokter Al-Hashimi, untukmu.
+
+421
+00:18:07,169 --> 00:18:08,588
+Kerja bagus pada titik pemicu.
+
+422
+00:18:09,422 --> 00:18:11,132
+- Ya.
+- Bagaimana formulirnya?
+
+423
+00:18:11,716 --> 00:18:13,592
+Cepat dan mudah.
+
+424
+00:18:13,593 --> 00:18:16,052
+Ya. Jangan hanya
+melingkari diagnosis.
+
+425
+00:18:16,053 --> 00:18:18,805
+Beri garis miring
+pada semua yang bukan.
+
+426
+00:18:18,806 --> 00:18:20,850
+- Baik.
+- Terima kasih banyak.
+
+427
+00:18:21,434 --> 00:18:24,019
+Princess, majukan antrean CT
+Tengah 13.
+
+428
+00:18:24,020 --> 00:18:24,936
+Ada apa?
+
+429
+00:18:24,937 --> 00:18:27,689
+Pasien buta mendadak
+alami oklusi arteri retina sentral.
+
+430
+00:18:27,690 --> 00:18:29,816
+Baru konsultasi dokter mata di VA.
+
+431
+00:18:29,817 --> 00:18:32,944
+Peneliti utama untuk trombolitik
+dalam kasus serupa.
+
+432
+00:18:32,945 --> 00:18:34,863
+Bukan perawatan biasa, agak berisiko.
+
+433
+00:18:34,864 --> 00:18:36,406
+Kami minta persetujuan.
+
+434
+00:18:36,407 --> 00:18:38,408
+Untuk selamatkan penglihatannya.
+
+435
+00:18:38,409 --> 00:18:39,826
+Pasienmu, keputusanmu.
+
+436
+00:18:39,827 --> 00:18:42,371
+Aku pasti sudah pergi
+saat ada komplikasi.
+
+437
+00:18:45,041 --> 00:18:47,084
+Kuambil dua sampel dari vagina,
+
+438
+00:18:48,669 --> 00:18:50,463
+dua sampel dari serviks.
+
+439
+00:18:54,133 --> 00:18:56,093
+Katakan jika kau tak nyaman.
+
+440
+00:18:57,053 --> 00:18:57,928
+Baiklah.
+
+441
+00:18:59,180 --> 00:19:00,680
+Tiap sampel ditandai.
+
+442
+00:19:00,681 --> 00:19:03,224
+Sampel vagina pertama dan kedua.
+
+443
+00:19:03,225 --> 00:19:05,393
+Usap kedua batang, lalu keringkan.
+
+444
+00:19:05,394 --> 00:19:06,645
+Serviks juga sama?
+
+445
+00:19:06,646 --> 00:19:08,773
+Ya, tapi keduanya tidak diusap.
+
+446
+00:19:10,524 --> 00:19:11,567
+Bagaimana kondisimu?
+
+447
+00:19:12,902 --> 00:19:14,111
+Baik.
+
+448
+00:19:16,489 --> 00:19:17,406
+Hampir selesai.
+
+449
+00:19:20,493 --> 00:19:23,453
+Semua sampel dimasukkan
+ke amplop kontak vagina.
+
+450
+00:19:23,454 --> 00:19:25,706
+- Bisa kubantu?
+- Tidak, harus aku.
+
+451
+00:19:26,540 --> 00:19:27,750
+Akan kutarik.
+
+452
+00:19:29,835 --> 00:19:30,753
+Baiklah.
+
+453
+00:19:32,046 --> 00:19:33,923
+Selesai. Kaki bisa diturunkan.
+
+454
+00:19:38,052 --> 00:19:39,136
+Sudah selesai?
+
+455
+00:19:39,970 --> 00:19:42,515
+Satu hal lagi.
+Empat usapan lagi di mulut.
+
+456
+00:19:43,724 --> 00:19:44,809
+Tadi sudah, 'kan?
+
+457
+00:19:45,393 --> 00:19:48,561
+Yang ini berbeda.
+Di dalam pipimu untuk DNA-mu.
+
+458
+00:19:48,562 --> 00:19:49,814
+Bukan pria itu.
+
+459
+00:19:52,817 --> 00:19:58,071
+Jadi, mungkin bipolar
+atau skizofrenia.
+
+460
+00:19:58,072 --> 00:20:00,365
+Dua kemungkinan yang paling mungkin.
+
+461
+00:20:00,366 --> 00:20:01,908
+Cara mengetahuinya?
+
+462
+00:20:01,909 --> 00:20:03,993
+Berdasarkan reaksi terhadap obat.
+
+463
+00:20:03,994 --> 00:20:06,663
+Juga dengan terapi
+dan observasi di bangsal.
+
+464
+00:20:06,664 --> 00:20:09,500
+Suasana hati dan interaksi
+dengan orang lain akan dipantau.
+
+465
+00:20:12,002 --> 00:20:16,589
+Adakah tes darah atau pemindaian otak
+untuk pemeriksaan itu?
+
+466
+00:20:16,590 --> 00:20:17,799
+Sayangnya, tak ada.
+
+467
+00:20:17,800 --> 00:20:19,342
+Bila diobati dengan tepat,
+
+468
+00:20:19,343 --> 00:20:22,638
+pengidap gangguan bipolar
+bisa punya karier yang sukses.
+
+469
+00:20:23,639 --> 00:20:24,890
+Jadi, semoga bipolar.
+
+470
+00:20:25,474 --> 00:20:27,600
+Doakan saja kebahagiaan putramu.
+
+471
+00:20:27,601 --> 00:20:31,271
+Dengan perawatan dini,
+20% pengidap skizofrenia
+
+472
+00:20:31,272 --> 00:20:33,398
+telah pulih sepenuhnya.
+
+473
+00:20:33,399 --> 00:20:34,733
+Jadi, 80%-nya tidak.
+
+474
+00:20:34,734 --> 00:20:36,861
+Jackson sudah berubah.
+
+475
+00:20:39,864 --> 00:20:41,490
+- Berapa usia putrimu...
+- 20.
+
+476
+00:20:42,867 --> 00:20:45,619
+Dia berkuliah arsitektur
+di Georgetown.
+
+477
+00:20:46,454 --> 00:20:47,371
+Skizofrenia.
+
+478
+00:20:48,122 --> 00:20:50,165
+Aku turut prihatin.
+
+479
+00:20:50,166 --> 00:20:51,708
+Dia sudah pulih.
+
+480
+00:20:51,709 --> 00:20:55,296
+Tinggal di rumah,
+bekerja sebagai kasir di Giant Eagle.
+
+481
+00:20:56,881 --> 00:20:58,174
+Karyawan terbaik.
+
+482
+00:20:59,300 --> 00:21:00,718
+Kadang ada masalah.
+
+483
+00:21:01,510 --> 00:21:03,929
+Namun, juga ada tawa dan cinta.
+
+484
+00:21:11,854 --> 00:21:13,104
+Selesai.
+
+485
+00:21:13,105 --> 00:21:15,648
+- Bagaimana rasanya?
+- Aneh sekali.
+
+486
+00:21:15,649 --> 00:21:17,609
+Tidak sakit, cuma aneh.
+
+487
+00:21:17,610 --> 00:21:20,111
+Langkah selanjutnya, slang dimasukkan
+
+488
+00:21:20,112 --> 00:21:24,532
+melalui hidungmu dan berhenti
+di bagian belakang lidahmu.
+
+489
+00:21:24,533 --> 00:21:25,950
+Sebaiknya jangan bicara.
+
+490
+00:21:25,951 --> 00:21:28,537
+Slang direndam air hangat
+agar lebih lentur.
+
+491
+00:21:30,206 --> 00:21:31,624
+Mau coba?
+
+492
+00:21:32,917 --> 00:21:34,626
+<i>Kini tanggal dan pukul berapa?</i>
+
+493
+00:21:34,627 --> 00:21:36,212
+4 Juli, pukul 14.31.
+
+494
+00:21:37,087 --> 00:21:38,922
+<i>Kapan slangku dicabut?</i>
+
+495
+00:21:38,923 --> 00:21:41,717
+Kami harus masukkan ini dahulu.
+
+496
+00:21:42,301 --> 00:21:43,844
+<i>Aku tahu. Cuma latihan.</i>
+
+497
+00:21:44,804 --> 00:21:46,806
+Sepertinya kau sudah mahir.
+
+498
+00:21:47,973 --> 00:21:49,225
+Sebelum tak bisa bicara,
+
+499
+00:21:51,185 --> 00:21:52,520
+aku cuma mau bilang...
+
+500
+00:21:53,646 --> 00:21:54,605
+terima kasih.
+
+501
+00:21:55,356 --> 00:21:56,273
+Atas semuanya.
+
+502
+00:21:57,691 --> 00:21:58,692
+Sama-sama.
+
+503
+00:22:05,157 --> 00:22:05,991
+Mulai.
+
+504
+00:22:11,080 --> 00:22:12,413
+Pencegahan PMS.
+
+505
+00:22:12,414 --> 00:22:16,417
+Satu suntikan perawatan gonore,
+pil untuk klamidia dan trikomonas.
+
+506
+00:22:16,418 --> 00:22:17,544
+Terima kasih.
+
+507
+00:22:17,545 --> 00:22:19,754
+Kami juga punya kontrasepsi darurat.
+
+508
+00:22:19,755 --> 00:22:20,797
+Dia pakai IUD.
+
+509
+00:22:20,798 --> 00:22:23,466
+Lebih dari 99% efektif,
+bukan seratus persen.
+
+510
+00:22:23,467 --> 00:22:24,385
+Tetap kutawarkan.
+
+511
+00:22:25,094 --> 00:22:26,386
+Tak perlu.
+
+512
+00:22:26,387 --> 00:22:27,971
+Untuk HIV, ada PEP.
+
+513
+00:22:27,972 --> 00:22:29,765
+Profilaksis Pasca-Paparan.
+
+514
+00:22:30,307 --> 00:22:33,269
+28 hari. Makin cepat dikonsumsi,
+makin efektif.
+
+515
+00:22:34,854 --> 00:22:38,274
+Emma, kau dibutuhkan di dalam.
+
+516
+00:22:39,817 --> 00:22:41,277
+Senang bertemu, Ilana.
+
+517
+00:22:42,236 --> 00:22:44,488
+- Kau wanita pemberani.
+- Ya.
+
+518
+00:22:51,871 --> 00:22:53,122
+Perawat yang baik.
+
+519
+00:22:53,581 --> 00:22:55,958
+Dia masih belajar,
+tapi pasti akan begitu.
+
+520
+00:22:58,210 --> 00:23:00,045
+- Setelah ini, selesai?
+- Ya.
+
+521
+00:23:04,842 --> 00:23:06,302
+Aku senang kau di sini.
+
+522
+00:23:11,307 --> 00:23:12,224
+Aku juga.
+
+523
+00:23:13,851 --> 00:23:16,020
+Kita harus membuat keputusan.
+
+524
+00:23:16,979 --> 00:23:20,315
+Menurut penelitian,
+sebagian penglihatan bisa dipulihkan
+
+525
+00:23:20,316 --> 00:23:22,735
+- dengan penghancur penggumpalan.
+- Berikan itu.
+
+526
+00:23:23,402 --> 00:23:25,320
+Namun, ada beberapa risiko.
+
+527
+00:23:25,321 --> 00:23:29,908
+Untuk strok mata, hanya 17% pulih
+tanpa pengobatan apa pun.
+
+528
+00:23:29,909 --> 00:23:31,826
+- Hanya 17%?
+- Ya.
+
+529
+00:23:31,827 --> 00:23:35,080
+Namun, dengan obat tersebut,
+20% pasien yang pulih.
+
+530
+00:23:36,457 --> 00:23:38,125
+Namun, mungkin ada komplikasi.
+
+531
+00:23:38,918 --> 00:23:42,378
+Kondisi 2% pasien
+yang konsumsi obat jadi memburuk
+
+532
+00:23:42,379 --> 00:23:45,883
+dan 1% mengalami kecacatan parah
+atau meninggal dunia.
+
+533
+00:23:52,848 --> 00:23:55,809
+Sayang, kau yang harus putuskan.
+
+534
+00:23:57,728 --> 00:23:59,480
+Kita putuskan berdua.
+
+535
+00:24:00,731 --> 00:24:02,191
+Kau bisa hidup tanpaku?
+
+536
+00:24:02,858 --> 00:24:04,318
+Kupikirkan caranya nanti.
+
+537
+00:24:06,987 --> 00:24:09,740
+Aku mungkin akan menangis
+selama dua tahun.
+
+538
+00:24:10,366 --> 00:24:11,492
+Hanya dua tahun?
+
+539
+00:24:13,702 --> 00:24:14,953
+Aku mau obat itu.
+
+540
+00:24:14,954 --> 00:24:15,788
+Baiklah.
+
+541
+00:24:20,542 --> 00:24:22,377
+Butuh nama lengkapmu untuk berkas.
+
+542
+00:24:22,378 --> 00:24:25,506
+Jackie Liddell.
+
+543
+00:24:26,298 --> 00:24:28,383
+- Kau siapa?
+- Temannya, Jaquie.
+
+544
+00:24:28,384 --> 00:24:29,884
+Nama kalian sama?
+
+545
+00:24:29,885 --> 00:24:31,594
+Dia Jackie dengan "CK".
+
+546
+00:24:31,595 --> 00:24:32,845
+Namaku dengan huruf "Q".
+
+547
+00:24:32,846 --> 00:24:35,598
+Kau bisa memanggilku "CK".
+
+548
+00:24:35,599 --> 00:24:37,601
+Sebaiknya jangan bicara. Tenang.
+
+549
+00:24:40,813 --> 00:24:41,771
+Apa?
+
+550
+00:24:41,772 --> 00:24:43,606
+Katanya, "Separuh lidahku tergigit."
+
+551
+00:24:43,607 --> 00:24:45,066
+Kau bisa memahaminya?
+
+552
+00:24:45,067 --> 00:24:47,694
+Lihat sikapnya
+setelah minum dua teko margarita.
+
+553
+00:24:47,695 --> 00:24:48,904
+Bicara tak jelas.
+
+554
+00:24:51,198 --> 00:24:54,325
+- Princess, mana yang kosong?
+- Selatan 15 bersih.
+
+555
+00:24:54,326 --> 00:24:57,037
+- Luka robek lidah yang parah.
+- Biar kutangani.
+
+556
+00:24:58,747 --> 00:25:01,916
+Robby dan Al-Hashimi
+sedang menangani pasien kritis.
+
+557
+00:25:01,917 --> 00:25:03,292
+Halo.
+
+558
+00:25:03,293 --> 00:25:05,963
+Aku dr. Langdon
+yang mengawasi perawatanmu.
+
+559
+00:25:08,215 --> 00:25:10,718
+Astaga, CK, doktermu tampan.
+
+560
+00:25:13,595 --> 00:25:16,222
+Slang sedalam 14 cm,
+di atas saluran pernapasan.
+
+561
+00:25:16,223 --> 00:25:18,391
+Howard, aku akan mulai.
+
+562
+00:25:18,392 --> 00:25:21,895
+Kalau kau mau aku berhenti,
+angkat saja tanganmu, ya?
+
+563
+00:25:22,980 --> 00:25:25,065
+Tanda biru artinya slang masuk.
+
+564
+00:25:28,402 --> 00:25:29,987
+Sepertinya sudah masuk.
+
+565
+00:25:30,863 --> 00:25:32,614
+Saat tarik napas, pita suara tampak.
+
+566
+00:25:33,490 --> 00:25:35,617
+Tarik napas dalam-dalam, Howard.
+
+567
+00:25:38,412 --> 00:25:40,122
+Baiklah. Indah.
+
+568
+00:25:40,789 --> 00:25:43,708
+Pita suara sensitif,
+semprotkan lidokain ke endoskopi.
+
+569
+00:25:43,709 --> 00:25:44,877
+Baiklah.
+
+570
+00:25:45,335 --> 00:25:47,921
+Satu cc dimasukkan sekarang.
+
+571
+00:25:48,630 --> 00:25:50,632
+Tunggu lidokain bekerja.
+
+572
+00:25:51,300 --> 00:25:52,551
+Apa kabar, Howard?
+
+573
+00:25:54,094 --> 00:25:57,180
+Setelah slang terpasang,
+bernapaslah melalui hidung.
+
+574
+00:25:57,181 --> 00:25:58,681
+Howard, jangan bergerak.
+
+575
+00:25:58,682 --> 00:26:01,393
+Akan kudorong melewati pita suaramu,
+
+576
+00:26:02,311 --> 00:26:04,521
+sampai menemukan karina.
+
+577
+00:26:06,398 --> 00:26:08,400
+- Ogilvie?
+- Itu dia.
+
+578
+00:26:09,109 --> 00:26:12,905
+- Batang utama kanan dan kiri.
+- Lalu masukkan slang.
+
+579
+00:26:17,201 --> 00:26:20,037
+Lalu kukeluarkan endoskopi.
+
+580
+00:26:21,955 --> 00:26:22,790
+Bagus sekali.
+
+581
+00:26:23,499 --> 00:26:24,916
+Baik. Kembangkan balon.
+
+582
+00:26:24,917 --> 00:26:26,960
+Tarik napas melalui hidung.
+Luar biasa.
+
+583
+00:26:27,544 --> 00:26:28,378
+Kau tak apa?
+
+584
+00:26:29,630 --> 00:26:31,255
+Kadar CO2-nya bagus.
+
+585
+00:26:31,256 --> 00:26:32,590
+Dia butuh ventilator?
+
+586
+00:26:32,591 --> 00:26:35,134
+Dia bernapas sendiri,
+bisa beri sedikit CPAP.
+
+587
+00:26:35,135 --> 00:26:37,345
+Mulai dari lima, titrasi hingga 10.
+
+588
+00:26:37,346 --> 00:26:39,430
+Itu berjalan sangat baik, Howard.
+
+589
+00:26:39,431 --> 00:26:41,141
+Kini kami periksa bobotmu.
+
+590
+00:26:42,976 --> 00:26:46,646
+Perawat pemeriksa harus kunci
+perlengkapan di lemari es ini
+
+591
+00:26:46,647 --> 00:26:49,816
+untuk menyimpan
+sampai diserahkan ke penegak hukum.
+
+592
+00:26:49,817 --> 00:26:52,069
+Ini disebut menjaga rantai bukti.
+
+593
+00:26:52,611 --> 00:26:54,071
+Yang benar saja!
+
+594
+00:26:54,696 --> 00:26:56,490
+Ada masalah?
+
+595
+00:26:57,116 --> 00:26:58,242
+Astaga.
+
+596
+00:26:58,992 --> 00:27:02,245
+Polisi harus ambil alat bukti
+kasus pemerkosaan dalam 72 jam.
+
+597
+00:27:02,246 --> 00:27:03,705
+Ini kubuat dua pekan lalu.
+
+598
+00:27:05,082 --> 00:27:06,083
+Berengsek.
+
+599
+00:27:08,627 --> 00:27:10,295
+Bagaimana kejadiannya?
+
+600
+00:27:11,380 --> 00:27:13,756
+Kami mau pindah pub,
+lalu potret swafoto.
+
+601
+00:27:13,757 --> 00:27:17,219
+- Bagus.
+- Lalu dia sentakkan kepalanya.
+
+602
+00:27:18,762 --> 00:27:20,513
+- Aduh.
+- Baiklah.
+
+603
+00:27:20,514 --> 00:27:22,849
+Berikan epi entopik
+untuk hentikan pendarahan.
+
+604
+00:27:22,850 --> 00:27:25,643
+- Bagus. Boleh pulang sekarang?
+- Kurasa tidak.
+
+605
+00:27:25,644 --> 00:27:28,020
+Ada banyak darah
+di bagian belakang lidahmu.
+
+606
+00:27:28,021 --> 00:27:30,941
+- Kita perlu menjahitnya.
+- Aku tidak mau dijahit.
+
+607
+00:27:31,942 --> 00:27:33,109
+Dengarkan saran dokter.
+
+608
+00:27:33,110 --> 00:27:35,027
+Jangan mendikteku.
+
+609
+00:27:35,028 --> 00:27:37,155
+- Ini salahmu.
+- Tidak.
+
+610
+00:27:37,156 --> 00:27:39,574
+- Ya, salahmu.
+- Tidak.
+
+611
+00:27:39,575 --> 00:27:42,368
+Princess, bisa tolong
+antar Q ke ruang tunggu
+
+612
+00:27:42,369 --> 00:27:44,579
+- selagi kami rawat temannya?
+- Ya.
+
+613
+00:27:44,580 --> 00:27:47,248
+Ini suntikan bius untuk ujungnya.
+
+614
+00:27:47,249 --> 00:27:48,166
+Ujung?
+
+615
+00:27:48,167 --> 00:27:50,084
+Aku tidak tergigit di situ.
+
+616
+00:27:50,085 --> 00:27:51,336
+Lakukan bertahap.
+
+617
+00:27:58,719 --> 00:28:00,554
+Berikan 20 mg TNK.
+
+618
+00:28:01,263 --> 00:28:03,056
+Diberikan pada pukul 14.39.
+
+619
+00:28:04,266 --> 00:28:05,184
+Terasa sesuatu?
+
+620
+00:28:06,268 --> 00:28:07,268
+Belum.
+
+621
+00:28:07,269 --> 00:28:08,854
+Perlu satu atau dua jam.
+
+622
+00:28:10,689 --> 00:28:13,400
+Kami pindah ke ruang lain
+agar mudah dipantau.
+
+623
+00:28:14,276 --> 00:28:15,277
+Dokter King.
+
+624
+00:28:18,530 --> 00:28:20,073
+Terus temani dia.
+
+625
+00:28:21,742 --> 00:28:22,783
+Kenapa?
+
+626
+00:28:22,784 --> 00:28:24,119
+Andai ada komplikasi.
+
+627
+00:28:24,703 --> 00:28:27,038
+Segera tangani
+jika pupil mata melebar,
+
+628
+00:28:27,039 --> 00:28:29,040
+kejang, atau perubahan status mental.
+
+629
+00:28:29,041 --> 00:28:32,586
+Atau aku bisa mencicil laporan.
+Deposisiku sebentar lagi.
+
+630
+00:28:33,378 --> 00:28:37,089
+Anggap ini cara bagus untuk
+tenangkan diri dan siapkan batin.
+
+631
+00:28:37,090 --> 00:28:38,258
+Jesse, Mel bersamamu.
+
+632
+00:28:41,678 --> 00:28:45,139
+Permisi, dr. Mohan.
+
+633
+00:28:45,140 --> 00:28:47,475
+- Sebentar lagi, George.
+- Aku saja.
+
+634
+00:28:47,476 --> 00:28:48,393
+Terima kasih.
+
+635
+00:28:51,355 --> 00:28:53,774
+Hasil D-dimer normal.
+
+636
+00:28:54,608 --> 00:28:55,816
+Aku siap pulang.
+
+637
+00:28:55,817 --> 00:28:57,069
+Kau merasa lebih baik?
+
+638
+00:28:57,778 --> 00:29:00,364
+Aku tidak sesak napas sekarang.
+
+639
+00:29:02,532 --> 00:29:03,784
+Kenapa kau kemari?
+
+640
+00:29:05,494 --> 00:29:07,787
+Saat kami tahu
+ada gumpalan darah di kakiku,
+
+641
+00:29:07,788 --> 00:29:10,790
+kupikir itu akan masuk ke paru-paruku
+dan membunuhku.
+
+642
+00:29:10,791 --> 00:29:13,751
+Kita sudah bahas
+bahwa Eliquis bisa mencegahnya.
+
+643
+00:29:13,752 --> 00:29:14,586
+Aku tahu.
+
+644
+00:29:16,964 --> 00:29:18,423
+Akhirnya kupakai saranmu.
+
+645
+00:29:19,049 --> 00:29:21,050
+Aku pergi ke luar rumah
+
+646
+00:29:21,051 --> 00:29:23,553
+dan ikut Klub Boling Frick Park Lawn.
+
+647
+00:29:24,346 --> 00:29:25,638
+- Luar biasa.
+- Ya.
+
+648
+00:29:25,639 --> 00:29:27,473
+Kau benar, tahu?
+
+649
+00:29:27,474 --> 00:29:29,351
+Kita semua butuh komunitas.
+
+650
+00:29:33,480 --> 00:29:34,939
+Kau mau melakukan apa?
+
+651
+00:29:34,940 --> 00:29:36,482
+Untuk merawat lidahmu,
+
+652
+00:29:36,483 --> 00:29:39,151
+kami harus menariknya
+untuk mengakses laserasinya.
+
+653
+00:29:39,152 --> 00:29:41,237
+Kau akan rasakan sedikit tarikan.
+
+654
+00:29:41,238 --> 00:29:42,072
+Baik, jadi...
+
+655
+00:29:44,533 --> 00:29:45,450
+Lakukan.
+
+656
+00:29:46,868 --> 00:29:48,286
+Berapa ukuran benang itu?
+
+657
+00:29:48,287 --> 00:29:50,205
+Sutra yang terbesar.
+
+658
+00:29:52,207 --> 00:29:54,835
+Begitu kupotong benangnya,
+kau akan ditarik, Joy
+
+659
+00:30:05,262 --> 00:30:09,265
+- Itu cukup dalam.
+- Kini bius lukanya.
+
+660
+00:30:09,266 --> 00:30:10,391
+Mulai dari...
+
+661
+00:30:10,392 --> 00:30:13,478
+Sisi proksimal dahulu agar suntikan
+di sisi distal tak terasa.
+
+662
+00:30:15,105 --> 00:30:17,524
+Tunggu 10 menit,
+aku akan kembali untuk menjahitnya.
+
+663
+00:30:21,737 --> 00:30:23,487
+Bukti pemerkosaan dua pekan lalu.
+
+664
+00:30:23,488 --> 00:30:25,907
+Seharusnya sudah diambil
+dalam 72 jam.
+
+665
+00:30:26,450 --> 00:30:28,534
+Aku tak peduli. Suruh ambil sekarang.
+
+666
+00:30:28,535 --> 00:30:31,787
+Tidak. Kau ingin kami rawat petugasmu
+begitu mereka tiba,
+
+667
+00:30:31,788 --> 00:30:34,206
+suruh detektif
+ambil bukti secepatnya.
+
+668
+00:30:34,207 --> 00:30:35,666
+- Sekian.
+- Dana.
+
+669
+00:30:35,667 --> 00:30:38,169
+Selatan 19 lakukan CT kepala
+sebelum pemadaman.
+
+670
+00:30:38,170 --> 00:30:39,128
+Belum ada hasil.
+
+671
+00:30:39,129 --> 00:30:40,755
+Kukirim pengingat.
+
+672
+00:30:40,756 --> 00:30:41,714
+- Hei, Dana.
+- Dana.
+
+673
+00:30:41,715 --> 00:30:42,758
+Tunggu sebentar.
+
+674
+00:30:43,800 --> 00:30:44,717
+Ada apa?
+
+675
+00:30:44,718 --> 00:30:47,720
+Kami minta obat pereda nyeri lagi
+untuk Roxy.
+
+676
+00:30:47,721 --> 00:30:49,764
+Baiklah, letakkan di rak perawat.
+
+677
+00:30:49,765 --> 00:30:51,141
+Sudah sejak tadi.
+
+678
+00:30:53,143 --> 00:30:55,728
+- Akan kupindah ke depan.
+- Terima kasih.
+
+679
+00:30:55,729 --> 00:30:56,813
+Suara apa itu?
+
+680
+00:30:57,606 --> 00:30:59,523
+UFO mendarat, alien menyerang.
+
+681
+00:30:59,524 --> 00:31:00,775
+Hei, Dana.
+
+682
+00:31:00,776 --> 00:31:02,860
+Tes darah 7 untuk Trauma 2
+belum selesai.
+
+683
+00:31:02,861 --> 00:31:04,112
+Mana rekam medisnya?
+
+684
+00:31:05,530 --> 00:31:08,282
+Astaga, pasti itu
+dibawa ke radiologi.
+
+685
+00:31:08,283 --> 00:31:09,825
+Larry, Antoine.
+
+686
+00:31:09,826 --> 00:31:12,661
+Cantumkan lab dan rontgen dada
+di formulir yang sama.
+
+687
+00:31:12,662 --> 00:31:15,790
+Butuh dua formulir,
+satu untuk lab, satu untuk radiologi.
+
+688
+00:31:15,791 --> 00:31:17,666
+- Tak akan terulang.
+- Kutulis sendiri.
+
+689
+00:31:17,667 --> 00:31:19,085
+Pakai i-STAT di samping ranjang.
+
+690
+00:31:19,086 --> 00:31:21,003
+Lakukan pemeriksaan kreatinin dahulu.
+
+691
+00:31:21,004 --> 00:31:22,046
+Sempurna.
+
+692
+00:31:22,047 --> 00:31:24,548
+- Senang kau kembali.
+- Senang bisa di sini.
+
+693
+00:31:24,549 --> 00:31:25,591
+Coba kirim pesan?
+
+694
+00:31:25,592 --> 00:31:28,636
+Hanya menulisnya.
+Akan kukirim dari jalur ambulans.
+
+695
+00:31:28,637 --> 00:31:30,930
+Teman mekanikku, Duke, belum kemari.
+
+696
+00:31:30,931 --> 00:31:32,515
+Kukira dia kemari pagi ini.
+
+697
+00:31:32,516 --> 00:31:34,684
+Itulah rencananya. Kurasa dia sibuk.
+
+698
+00:31:36,061 --> 00:31:37,186
+Kalau dia tak datang?
+
+699
+00:31:37,187 --> 00:31:39,730
+Katakan butuh apa.
+Kusampaikan ke sif malam.
+
+700
+00:31:39,731 --> 00:31:40,941
+Tak perlu.
+
+701
+00:31:43,985 --> 00:31:47,738
+Princess. Yang kau minta
+sudah keluar, CT kepala normal.
+
+702
+00:31:47,739 --> 00:31:49,366
+Terima kasih. Akan kupulangkan.
+
+703
+00:31:50,283 --> 00:31:51,368
+Bagaimana harimu?
+
+704
+00:31:52,119 --> 00:31:53,870
+Sepertinya tanganku keram
+saat menulis.
+
+705
+00:31:54,454 --> 00:31:55,288
+Kau tangani dia?
+
+706
+00:31:55,914 --> 00:31:57,081
+Ya.
+
+707
+00:31:57,082 --> 00:32:02,129
+Menyedihkan. Kecelakaan mobil parah,
+beberapa operasi, dan stres berat.
+
+708
+00:32:04,005 --> 00:32:05,798
+Suntikan lidokain ke area sensitif.
+
+709
+00:32:05,799 --> 00:32:07,968
+Pasienku wanita mabuk
+yang lidahnya terluka.
+
+710
+00:32:08,760 --> 00:32:11,513
+- Sepertinya dia butuh bantuan.
+- Dalam berbagai hal.
+
+711
+00:32:12,973 --> 00:32:15,684
+Bagaimana sif pertamamu
+setelah kembali bekerja?
+
+712
+00:32:16,643 --> 00:32:17,894
+Perlu adaptasi.
+
+713
+00:32:18,854 --> 00:32:21,605
+- Tahun pertama sadar itu sulit.
+- Semua bilang begitu.
+
+714
+00:32:21,606 --> 00:32:24,109
+Aku bertahan sembilan tahun sekarang.
+
+715
+00:32:28,363 --> 00:32:30,157
+Pengiriman khusus untuk pasienku.
+
+716
+00:32:31,783 --> 00:32:33,742
+Jika butuh sesuatu, cari aku.
+
+717
+00:32:33,743 --> 00:32:34,703
+Terima kasih.
+
+718
+00:32:41,751 --> 00:32:43,169
+Mau ke mana?
+
+719
+00:32:43,170 --> 00:32:44,462
+Lepuhan di Utara 3.
+
+720
+00:32:44,463 --> 00:32:46,005
+Aku akan pergi ke sana.
+
+721
+00:32:46,006 --> 00:32:48,966
+- Sudah daftar untuk pasien ini?
+- Kuambil rekam medis dari rak.
+
+722
+00:32:48,967 --> 00:32:50,676
+Harus tulis nama di papan.
+
+723
+00:32:50,677 --> 00:32:52,888
+Harus bawa berkas untuk pasien.
+
+724
+00:32:53,430 --> 00:32:54,680
+Kukira perawat yang bawa.
+
+725
+00:32:54,681 --> 00:32:55,849
+Terserah.
+
+726
+00:32:57,267 --> 00:33:00,019
+Hai. Aku mahasiswa kedokteran,
+Ogilvie, dan ini...
+
+727
+00:33:00,020 --> 00:33:00,936
+Wah.
+
+728
+00:33:00,937 --> 00:33:03,106
+- Itu ruam yang parah.
+- Ya.
+
+729
+00:33:03,690 --> 00:33:04,648
+Benar.
+
+730
+00:33:04,649 --> 00:33:06,984
+Mahasiswa kedokteran Javadi,
+kapan ini mulai?
+
+731
+00:33:06,985 --> 00:33:07,985
+Tadi malam.
+
+732
+00:33:07,986 --> 00:33:10,613
+Kau melintas
+di sekitar tanaman poison ivy?
+
+733
+00:33:10,614 --> 00:33:12,073
+Tidak. Tak keluar rumah.
+
+734
+00:33:12,782 --> 00:33:14,283
+Mungkin ada obat baru?
+
+735
+00:33:14,284 --> 00:33:16,452
+Karena losion, sabun, atau detergen?
+
+736
+00:33:16,453 --> 00:33:19,205
+Aku tidak konsumsi obat.
+Tak ada hal baru.
+
+737
+00:33:19,206 --> 00:33:20,539
+Dari mana ini bermula?
+
+738
+00:33:20,540 --> 00:33:23,001
+Di sekujur tubuh dan sangat sakit.
+
+739
+00:33:23,793 --> 00:33:24,711
+Gatal sekali.
+
+740
+00:33:25,253 --> 00:33:26,338
+Apa sebabnya?
+
+741
+00:33:27,047 --> 00:33:28,048
+Belum yakin.
+
+742
+00:33:29,883 --> 00:33:31,134
+Aku segera kembali.
+
+743
+00:33:37,057 --> 00:33:38,183
+Menurutmu kenapa?
+
+744
+00:33:39,226 --> 00:33:40,142
+Aku tak tahu.
+
+745
+00:33:40,143 --> 00:33:41,019
+Sama.
+
+746
+00:33:43,480 --> 00:33:44,772
+Pemfigoid bulosa?
+
+747
+00:33:44,773 --> 00:33:46,440
+Gatal parah akibat autoimun?
+
+748
+00:33:46,441 --> 00:33:48,359
+Ya. Tak semematikan
+pemfigus vulgaris.
+
+749
+00:33:48,360 --> 00:33:50,444
+Jika tak diobati,
+kematiannya lebih dari 90%.
+
+750
+00:33:50,445 --> 00:33:52,780
+Periksa pustula
+dan keterlibatan selaput lendir...
+
+751
+00:33:52,781 --> 00:33:54,074
+Juga gejala Nikolsky.
+
+752
+00:33:56,993 --> 00:33:57,911
+Ini dia.
+
+753
+00:33:59,913 --> 00:34:01,706
+- Apa?
+- Untuk catatan perkembanganmu.
+
+754
+00:34:03,542 --> 00:34:05,752
+Apa aku mendengar ada kemajuan?
+
+755
+00:34:07,629 --> 00:34:11,716
+Itu istilah untuk lembar catatan
+perkembangan klinis.
+
+756
+00:34:13,426 --> 00:34:14,302
+Ada perubahan?
+
+757
+00:34:15,387 --> 00:34:16,679
+Belum ada.
+
+758
+00:34:16,680 --> 00:34:18,431
+Saatnya pemeriksaan neurologis.
+
+759
+00:34:19,224 --> 00:34:20,809
+Permisi, dr. King, bisa bicara?
+
+760
+00:34:22,644 --> 00:34:24,895
+Tidak, aku sedang mengamati pasien.
+
+761
+00:34:24,896 --> 00:34:26,022
+Maksimal 60 detik.
+
+762
+00:34:28,650 --> 00:34:29,568
+Kuperiksa pupil.
+
+763
+00:34:30,026 --> 00:34:30,986
+Aku bisa.
+
+764
+00:34:37,200 --> 00:34:38,076
+Hei.
+
+765
+00:34:39,202 --> 00:34:40,704
+Aku baru selesai deposisi.
+
+766
+00:34:42,872 --> 00:34:43,914
+Aku ke atas sekarang?
+
+767
+00:34:43,915 --> 00:34:46,001
+- Tunggu panggilan.
+- Baiklah.
+
+768
+00:34:46,918 --> 00:34:48,335
+Aku mau tanya bagaimana tadi,
+
+769
+00:34:48,336 --> 00:34:50,588
+tapi kita tak boleh membahasnya.
+
+770
+00:34:50,589 --> 00:34:52,089
+Ini bukan diskusi.
+
+771
+00:34:52,090 --> 00:34:54,134
+Ini monolog.
+Jadi, diam dan dengarkan.
+
+772
+00:34:55,385 --> 00:34:57,344
+Gugatan malapraktik ini tak berdasar.
+
+773
+00:34:57,345 --> 00:35:00,347
+Kata ibu pasien campak,
+kita sebabkan penurunan kecerdasan
+
+774
+00:35:00,348 --> 00:35:01,725
+dengan lakukan pungsi lumbal.
+
+775
+00:35:02,517 --> 00:35:05,103
+Prosedurnya lancar, tanpa masalah.
+
+776
+00:35:05,687 --> 00:35:07,521
+Kondisi mental putranya berubah
+
+777
+00:35:07,522 --> 00:35:10,233
+akibat kekurangan oksigen
+karena pneumonia campak.
+
+778
+00:35:10,900 --> 00:35:13,319
+Perubahan intelektual
+karena cedera otak hipoksia.
+
+779
+00:35:13,320 --> 00:35:15,447
+Tak ada hubungannya
+dengan pungsi lumbal.
+
+780
+00:35:17,032 --> 00:35:17,866
+Monolog selesai.
+
+781
+00:35:18,825 --> 00:35:20,243
+Kami tak pernah membahas kasus.
+
+782
+00:35:21,578 --> 00:35:22,829
+Aku mau tidur.
+
+783
+00:35:23,872 --> 00:35:25,248
+Terima kasih.
+
+784
+00:35:26,207 --> 00:35:27,208
+Kukira.
+
+785
+00:35:28,668 --> 00:35:30,337
+Baiklah. Kau siap berbaring?
+
+786
+00:35:31,212 --> 00:35:33,297
+- Kupegang kepalamu.
+- Pelan-pelan.
+
+787
+00:35:33,298 --> 00:35:34,966
+Satu, dua, tiga.
+
+788
+00:35:37,302 --> 00:35:38,720
+Bagaimana rasanya?
+
+789
+00:35:41,723 --> 00:35:42,932
+Sekarang diangkat.
+
+790
+00:35:52,651 --> 00:35:53,860
+Ya, teruskan.
+
+791
+00:35:57,113 --> 00:36:00,283
+Dan... itu seharusnya sudah cukup.
+
+792
+00:36:02,369 --> 00:36:03,578
+Dua ratus lima belas.
+
+793
+00:36:04,663 --> 00:36:05,789
+Itu dalam kilogram.
+
+794
+00:36:08,500 --> 00:36:09,709
+Baiklah. Tim.
+
+795
+00:36:15,548 --> 00:36:17,174
+Angkanya tak jauh di atas 200 kg.
+
+796
+00:36:17,175 --> 00:36:19,968
+Jangan ambil risiko merusak CT
+saat akhir pekan hari raya.
+
+797
+00:36:19,969 --> 00:36:22,262
+Bisa ditangani petugas medis
+saat dia diintubasi?
+
+798
+00:36:22,263 --> 00:36:26,101
+Jika aku ikut, aku bisa tidur siang
+sebelum sif malamku.
+
+799
+00:36:30,021 --> 00:36:31,648
+215 kilogram.
+
+800
+00:36:33,233 --> 00:36:34,983
+CT kami tak bisa menampung bobotmu.
+
+801
+00:36:34,984 --> 00:36:37,696
+Kami akan membawamu
+ke Rumah Sakit Presbyterian.
+
+802
+00:36:38,363 --> 00:36:39,280
+<i>Perjalanan darat.</i>
+
+803
+00:36:40,156 --> 00:36:42,409
+Aku akan menemanimu.
+
+804
+00:36:44,869 --> 00:36:46,329
+<i>Maaf sudah merepotkan.</i>
+
+805
+00:36:47,288 --> 00:36:48,455
+Tak apa.
+
+806
+00:36:48,456 --> 00:36:49,624
+Ini pekerjaan kami.
+
+807
+00:36:55,213 --> 00:36:56,922
+Subkutan mulai di bawah kulit.
+
+808
+00:36:56,923 --> 00:36:59,466
+- Pendam simpulnya.
+- Ya, aku pernah melakukannya.
+
+809
+00:36:59,467 --> 00:37:01,052
+Joy, cara potong ujungnya?
+
+810
+00:37:02,011 --> 00:37:04,304
+Geser sedikit ke simpul,
+putar 45 derajat.
+
+811
+00:37:04,305 --> 00:37:05,306
+Bagus.
+
+812
+00:37:07,100 --> 00:37:08,600
+Dokter Langdon, ada kasus.
+
+813
+00:37:08,601 --> 00:37:10,436
+- Harus ditunda.
+- Mungkin mendesak.
+
+814
+00:37:10,437 --> 00:37:12,230
+Cari Robby atau Al-Hashimi.
+
+815
+00:37:14,691 --> 00:37:18,610
+- Gadis ini mabuk berat.
+- Sangat mabuk.
+
+816
+00:37:18,611 --> 00:37:20,404
+Harus periksa kadar alkoholnya?
+
+817
+00:37:20,405 --> 00:37:21,989
+Tidak. Tak ada bedanya.
+
+818
+00:37:21,990 --> 00:37:23,699
+Pulangkan jika bisa jalan stabil.
+
+819
+00:37:23,700 --> 00:37:24,617
+Satu pasien pulang.
+
+820
+00:37:25,869 --> 00:37:28,412
+Joy, mau tebak kadar alkohol
+dalam darahnya?
+
+821
+00:37:28,413 --> 00:37:29,913
+Buat apa?
+
+822
+00:37:29,914 --> 00:37:31,833
+Entahlah, karena ini seru.
+
+823
+00:37:37,964 --> 00:37:39,882
+Kapan ranjangnya akan tersedia?
+
+824
+00:37:39,883 --> 00:37:41,633
+Aku ragu dia butuh ranjang.
+
+825
+00:37:41,634 --> 00:37:42,885
+Bayi ini demam.
+
+826
+00:37:42,886 --> 00:37:45,345
+Usianya lebih dari satu bulan
+dan tampak sehat.
+
+827
+00:37:45,346 --> 00:37:47,347
+Semua normal. Dia terkena virus flu.
+
+828
+00:37:47,348 --> 00:37:50,642
+Bayi yang terinfeksi rhinovirus bisa
+mengalami infeksi bakteri serius.
+
+829
+00:37:50,643 --> 00:37:52,978
+Kami kerap memulangkan
+anak seperti ini.
+
+830
+00:37:52,979 --> 00:37:56,357
+Namun, bayi ini
+tak punya rumah atau orang tua.
+
+831
+00:37:57,942 --> 00:37:59,026
+Baiklah.
+
+832
+00:37:59,027 --> 00:38:01,028
+Tak bisa taruh anak bervirus
+di ruang bayi.
+
+833
+00:38:01,029 --> 00:38:03,655
+Tak bisa sia-siakan ruang pribadi
+untuk bayi sehat.
+
+834
+00:38:03,656 --> 00:38:04,782
+Lalu apa usulmu?
+
+835
+00:38:04,783 --> 00:38:07,826
+CYF bisa menempatkan dia
+dalam perawatan darurat besok pagi.
+
+836
+00:38:07,827 --> 00:38:09,954
+Mau ditinggal di sini semalaman?
+
+837
+00:38:10,747 --> 00:38:12,915
+Itu perawatan standar saat ini.
+
+838
+00:38:12,916 --> 00:38:15,250
+- Minta dokter jagamu menghubungiku.
+- Baik.
+
+839
+00:38:15,251 --> 00:38:16,668
+Aku tidak percaya ini.
+
+840
+00:38:16,669 --> 00:38:19,047
+- Beri tahu CYF ini mendesak.
+- Baik.
+
+841
+00:38:19,672 --> 00:38:21,508
+Hari ini sangat buruk.
+
+842
+00:38:22,675 --> 00:38:25,886
+Aku sudah berpikir
+mengajukan permohonan beasiswa.
+
+843
+00:38:25,887 --> 00:38:27,930
+Kukira kau punya pekerjaan
+di New Jersey.
+
+844
+00:38:27,931 --> 00:38:30,182
+Benar, agar dekat dengan ibuku.
+
+845
+00:38:30,183 --> 00:38:34,729
+Namun, dia menjual rumah untuk
+keliling dunia bersama pacar barunya.
+
+846
+00:38:35,688 --> 00:38:37,564
+Jadi, buat apa berada di New Jersey?
+
+847
+00:38:37,565 --> 00:38:38,899
+Ya. Pertanyaan bagus.
+
+848
+00:38:38,900 --> 00:38:39,943
+Beasiswa apa?
+
+849
+00:38:40,610 --> 00:38:45,865
+Aku persempit pilihan menjadi USG,
+toksikologi, dan kedokteran olahraga.
+
+850
+00:38:47,408 --> 00:38:50,744
+Bidang itu sangat berbeda
+dan mengarah pada beragam karier.
+
+851
+00:38:50,745 --> 00:38:53,497
+Aku tahu. Aku masih agak ragu.
+
+852
+00:38:53,498 --> 00:38:55,123
+Ada pengalaman riset?
+
+853
+00:38:55,124 --> 00:38:58,669
+Aku ikut tim studi kesenjangan rasial
+dalam layanan kesehatan
+
+854
+00:38:58,670 --> 00:39:01,047
+hingga Gedung Putih
+memangkas dananya tahun lalu.
+
+855
+00:39:01,631 --> 00:39:03,173
+Ya, kau tidak sendirian.
+
+856
+00:39:03,174 --> 00:39:06,468
+Sudah pertimbangkan
+program beasiswa geriatri?
+
+857
+00:39:06,469 --> 00:39:07,762
+Belum.
+
+858
+00:39:08,471 --> 00:39:10,514
+Aku melihat kemampuanmu
+menangani lansia.
+
+859
+00:39:10,515 --> 00:39:13,810
+Ada banyak lowongan,
+ini mungkin kesempatanmu.
+
+860
+00:39:14,686 --> 00:39:15,603
+Coba pikirkan.
+
+861
+00:39:17,730 --> 00:39:20,775
+- Jahitan terakhir. Mau kupotong?
+- Aku bisa.
+
+862
+00:39:22,986 --> 00:39:23,902
+Terlihat bagus.
+
+863
+00:39:23,903 --> 00:39:25,863
+Tarik jahitan tarikan lidah.
+
+864
+00:39:25,864 --> 00:39:27,282
+Dengan senang hati.
+
+865
+00:39:29,576 --> 00:39:30,618
+Baiklah, Jackie.
+
+866
+00:39:31,452 --> 00:39:34,037
+- Jackie.
+- Diam.
+
+867
+00:39:34,038 --> 00:39:35,372
+Sudah selesai.
+
+868
+00:39:35,373 --> 00:39:36,790
+Apanya yang selesai?
+
+869
+00:39:36,791 --> 00:39:38,001
+Menjahit lidahmu.
+
+870
+00:39:38,585 --> 00:39:40,294
+Kenapa lidahku?
+
+871
+00:39:40,295 --> 00:39:41,254
+Tergigit.
+
+872
+00:39:42,171 --> 00:39:43,298
+Tidak.
+
+873
+00:39:44,173 --> 00:39:46,133
+Itu disebut mabuk berat.
+
+874
+00:39:46,134 --> 00:39:47,718
+Berapa banyak kau minum?
+
+875
+00:39:47,719 --> 00:39:49,928
+Dua gelas Bloody Mary.
+
+876
+00:39:49,929 --> 00:39:51,179
+Hanya dua?
+
+877
+00:39:51,180 --> 00:39:52,640
+Entahlah. Mungkin lebih banyak.
+
+878
+00:39:53,266 --> 00:39:56,018
+Ini hari raya,
+kami keliling dari pub ke pub.
+
+879
+00:39:56,019 --> 00:39:58,770
+Biasanya, kau minum
+dua gelas koktail tiap hari?
+
+880
+00:39:58,771 --> 00:40:00,022
+Hanya akhir pekan.
+
+881
+00:40:00,023 --> 00:40:01,440
+Bagaimana dengan hari kerja?
+
+882
+00:40:01,441 --> 00:40:02,816
+Tidak banyak,
+
+883
+00:40:02,817 --> 00:40:06,529
+hanya minum anggur
+saat makan malam atau sejumlah bir.
+
+884
+00:40:07,906 --> 00:40:09,532
+Perlu rekomendasikan rehabilitasi?
+
+885
+00:40:11,075 --> 00:40:12,827
+Ya, kita bisa coba.
+
+886
+00:40:18,082 --> 00:40:19,125
+Siap memulai.
+
+887
+00:40:20,668 --> 00:40:22,169
+Bagaimana perasaanmu?
+
+888
+00:40:22,170 --> 00:40:23,545
+<i>Sakitku skala dua.</i>
+
+889
+00:40:23,546 --> 00:40:24,838
+Ada obat jika kau perlu.
+
+890
+00:40:24,839 --> 00:40:26,632
+Pindai lebih cepat dari perjalanan.
+
+891
+00:40:26,633 --> 00:40:28,050
+Kami terus hubungi saudarimu.
+
+892
+00:40:28,051 --> 00:40:29,635
+<i>- Kalian terbaik.</i>
+- Sampai jumpa.
+
+893
+00:40:29,636 --> 00:40:31,970
+Bisa masukkan pasien baru ke T1?
+
+894
+00:40:31,971 --> 00:40:34,014
+Tidak, aku mau sisakan
+satu ruang trauma.
+
+895
+00:40:34,015 --> 00:40:36,434
+Kalau terpaksa,
+gandakan ruang Utara saja.
+
+896
+00:40:37,518 --> 00:40:38,519
+Pak Digby?
+
+897
+00:40:40,521 --> 00:40:42,439
+- Hanya Digby.
+- Benar.
+
+898
+00:40:42,440 --> 00:40:44,691
+Kami mencarimu ke mana-mana.
+Dari mana?
+
+899
+00:40:44,692 --> 00:40:46,276
+Bersama Louie.
+
+900
+00:40:46,277 --> 00:40:48,988
+- Kau di sana selama satu jam?
+- Dia temanku.
+
+901
+00:40:49,989 --> 00:40:51,740
+Banyak yang ingin kusampaikan.
+
+902
+00:40:51,741 --> 00:40:54,035
+Kuantar kembali ke ranjangmu.
+
+903
+00:40:56,329 --> 00:40:57,914
+Louie mendapatkan sayap.
+
+904
+00:40:58,706 --> 00:41:01,375
+- Dokter Robby, kami punya pasien.
+- Dokter Robby.
+
+905
+00:41:01,376 --> 00:41:03,919
+- Kerja sama.
+- Ruam lepuh yang sangat parah.
+
+906
+00:41:03,920 --> 00:41:06,088
+Mungkin perlu biopsi
+untuk pemfigus vulgaris.
+
+907
+00:41:06,089 --> 00:41:07,506
+Itu fitofotodermatitis.
+
+908
+00:41:07,507 --> 00:41:09,633
+- Apa?
+- Sudah kutanya.
+
+909
+00:41:09,634 --> 00:41:11,802
+Dia membuat tiga galon margarita
+untuk pesta,
+
+910
+00:41:11,803 --> 00:41:13,887
+memeras jeruk nipis
+di bawah sinar mentari.
+
+911
+00:41:13,888 --> 00:41:14,973
+Mari kita lihat.
+
+912
+00:41:15,682 --> 00:41:16,808
+Aku tak mau lihat lagi.
+
+913
+00:41:20,061 --> 00:41:22,145
+- Bagaimana kabar di sana?
+- Penuh sesak.
+
+914
+00:41:22,146 --> 00:41:23,647
+Jika kuhubungi damkar,
+
+915
+00:41:23,648 --> 00:41:26,149
+- mereka pergi dari ruang tunggu?
+- Semoga. Ada apa?
+
+916
+00:41:26,150 --> 00:41:28,360
+Dua belas pasien butuh obat lagi.
+
+917
+00:41:28,361 --> 00:41:29,778
+Seharusnya ke dokter, 'kan?
+
+918
+00:41:29,779 --> 00:41:31,571
+Karena Medicaid, kami dokternya.
+
+919
+00:41:31,572 --> 00:41:33,657
+Aku tak bisa buat resep-elektronik.
+
+920
+00:41:33,658 --> 00:41:36,327
+- Ambil pulpen, pakai cara lama.
+- Dana, pakai apa?
+
+921
+00:41:37,537 --> 00:41:41,164
+- Nordt, kau bawa slip khusus?
+- Tentu saja.
+
+922
+00:41:41,165 --> 00:41:42,583
+Hanya butuh stiker pasien.
+
+923
+00:41:43,167 --> 00:41:45,377
+- Ada pertanyaan lain?
+- Ya.
+
+924
+00:41:45,378 --> 00:41:47,672
+Apa yang terjadi
+jika kau tak ada di sini hari ini?
+
+925
+00:41:49,007 --> 00:41:52,176
+Semua akan meringkuk
+dan menangis ketakutan bagai bayi.
+
+926
+00:41:53,136 --> 00:41:54,928
+Apa kau memakai sandal jepit?
+
+927
+00:41:54,929 --> 00:41:56,722
+Tadinya. Kenapa?
+
+928
+00:41:56,723 --> 00:41:58,015
+Fitofotodermitis.
+
+929
+00:41:58,016 --> 00:42:00,225
+Atau melepuh akibat margarita.
+
+930
+00:42:00,226 --> 00:42:03,103
+Kadang, jeruk nipis dan sinar mentari
+bisa sebabkan ruam.
+
+931
+00:42:03,104 --> 00:42:05,230
+Semua ini karena jeruk nipis?
+
+932
+00:42:05,231 --> 00:42:07,650
+Pernah peras jeruk nipis
+di bawah sinar mentari?
+
+933
+00:42:08,443 --> 00:42:09,651
+Tidak.
+
+934
+00:42:09,652 --> 00:42:12,195
+Kau akan membaik
+setelah mengonsumsi pil steroid.
+
+935
+00:42:12,196 --> 00:42:14,114
+Setelah sembuh, pakai tabir surya,
+
+936
+00:42:14,115 --> 00:42:17,410
+karena ruam ini bisa membekas
+dan bertahan lama jika tak dirawat.
+
+937
+00:42:19,078 --> 00:42:21,247
+Setelah ini,
+kuberi instruksi pascaperawatan.
+
+938
+00:42:22,665 --> 00:42:23,583
+- Hei, Robby.
+- Ya.
+
+939
+00:42:24,667 --> 00:42:27,962
+Pasienku, Roxy, masih merasakan
+nyeri yang sangat parah.
+
+940
+00:42:28,713 --> 00:42:31,090
+- Dosis morfinnya?
+- Sepuluh miligram per jam.
+
+941
+00:42:31,966 --> 00:42:34,301
+Tambah 2 mg lagi
+sehingga totalnya 12 mg.
+
+942
+00:42:34,302 --> 00:42:37,054
+- Kuberi tahu Princess.
+- 12 mg per jam itu banyak.
+
+943
+00:42:37,055 --> 00:42:39,849
+Selain MS Contin,
+dia bisa berhenti bernapas.
+
+944
+00:42:41,642 --> 00:42:44,395
+Kau mengerti soal doktrin efek ganda?
+
+945
+00:42:45,021 --> 00:42:45,938
+- Tidak.
+- Tidak.
+
+946
+00:42:47,065 --> 00:42:49,775
+Itu prinsip etika
+dalam perawatan paliatif.
+
+947
+00:42:49,776 --> 00:42:50,692
+Tangani nyeri.
+
+948
+00:42:50,693 --> 00:42:52,986
+Jika saat melakukannya,
+ada efek samping negatif,
+
+949
+00:42:52,987 --> 00:42:53,987
+kita menerimanya.
+
+950
+00:42:53,988 --> 00:42:56,908
+Meski efek samping negatifnya
+adalah kematian?
+
+951
+00:42:57,658 --> 00:43:00,078
+Dalam beberapa kasus,
+itu bisa jadi hasil terbaik.
+
+952
+00:43:10,213 --> 00:43:11,963
+Mungkin mesin faks kehabisan kertas?
+
+953
+00:43:11,964 --> 00:43:14,675
+Tidak, kertasnya cukup.
+Entah apa yang salah.
+
+954
+00:43:18,262 --> 00:43:19,930
+Caranya atasi kekacauan ini?
+
+955
+00:43:19,931 --> 00:43:21,099
+Aku baru mau tanya.
+
+956
+00:43:24,393 --> 00:43:25,936
+Dia tak boleh meninggalkan PDS.
+
+957
+00:43:25,937 --> 00:43:27,480
+Tak ada yang beres di sini.
+
+958
+00:44:50,730 --> 00:44:52,732
+Alih bahasa: Dyah D. Anggarini
+

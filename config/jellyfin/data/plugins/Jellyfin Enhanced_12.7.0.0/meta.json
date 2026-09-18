@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "**Build for Jellyfin 12.**\n\n- fix(activity-feed): stop active-streams poll when tab is not visible\n - fix(jellyseerr-search): stop runaway infinite-scroll fetch loop on sparse queries\n - feat(custom-icons): add Jellyfin Helper to supported plugins ([#821](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/821))\n - Details page: file size and audio languages follow the selected version ([#819](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/819))\n - fix(config-page): show why Letterboxd/*arr text mode is locked when Metadata Icons is on\n - fix(letterboxd-links): stop link from permanently failing to (re)appear\n - feat(quality-tags): add 576p resolution tag for PAL DVDs\n - fix(tag-pipeline): re-resolve stale render target instead of dropping the tag",
+  "description": "A combination of the Jellyfin Enhanced and Jellyfin Elsewhere userscripts, providing a comprehensive set of tweaks and features for Jellyfin.",
+  "guid": "f69e946a-4b3c-4e9a-8f0a-8d7c1b2c4d9b",
+  "name": "Jellyfin Enhanced",
+  "overview": "Jellyfin Enhanced and Jellyfin Elsewhere for a better Jellyfin experience.",
+  "owner": "n00bcodr",
+  "targetAbi": "12.0.0.0",
+  "timestamp": "2026-09-11T16:37:55.0000000Z",
+  "version": "12.7.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/Jellyfin Enhanced_12.7.0.0/icon.png",
+  "assemblies": []
+}

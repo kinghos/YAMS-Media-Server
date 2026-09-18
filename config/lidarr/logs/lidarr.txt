@@ -4413,3 +4413,2240 @@
 2026-09-13 19:18:54.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
 2026-09-13 19:18:54.2|Info|DownloadDecisionMaker|No results found
 2026-09-13 19:18:54.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 19:26:54.2|Info|HousekeepingService|Running housecleaning tasks
+2026-09-13 19:26:54.3|Info|TrackGroupingService|Grouping 0 tracks
+2026-09-13 19:26:54.3|Info|ImportApprovedTracks|Importing 0 tracks
+2026-09-13 19:26:54.3|Info|Database|Vacuuming Log database
+2026-09-13 19:26:54.3|Info|Database|Log database compressed
+2026-09-13 19:26:54.3|Info|Database|Vacuuming Main database
+2026-09-13 19:26:54.3|Info|Database|Main database compressed
+2026-09-13 19:33:54.3|Info|RssSyncService|Starting RSS Sync
+2026-09-13 19:33:54.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 19:33:54.3|Info|DownloadDecisionMaker|No results found
+2026-09-13 19:33:54.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 19:48:54.4|Info|RssSyncService|Starting RSS Sync
+2026-09-13 19:48:54.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 19:48:54.4|Info|DownloadDecisionMaker|No results found
+2026-09-13 19:48:54.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 20:03:54.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 20:03:54.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 20:03:54.6|Info|DownloadDecisionMaker|No results found
+2026-09-13 20:03:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 20:06:27.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 20:06:28.1|Info|ConsoleApp|Exiting main.
+2026-09-13 20:20:18.3|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-13 20:20:18.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 20:20:18.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 20:20:20.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 20:20:20.9|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 20:20:21.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 20:20:21.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 20:20:21.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 20:20:21.7|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 20:20:21.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2714291s
+2026-09-13 20:20:21.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 20:20:21.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2877021s
+2026-09-13 20:20:21.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 20:20:22.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 20:20:22.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 20:20:22.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 20:20:22.0|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 20:20:22.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0525699s
+2026-09-13 20:20:22.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 20:20:22.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0555733s
+2026-09-13 20:20:23.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-13 20:20:25.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 20:20:25.7|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 20:20:25.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-13 20:20:25.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 20:20:55.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 20:20:55.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 20:20:55.6|Info|DownloadDecisionMaker|No results found
+2026-09-13 20:20:55.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 20:33:15.2|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-13 20:33:15.5|Info|ConsoleApp|Exiting main.
+2026-09-13 20:34:13.0|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-13 20:34:13.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 20:34:13.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 20:34:14.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-13 20:34:15.6|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 20:34:15.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 20:34:16.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 20:34:16.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 20:34:16.2|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 20:34:16.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2499613s
+2026-09-13 20:34:16.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 20:34:16.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2707128s
+2026-09-13 20:34:16.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-13 20:34:16.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-13 20:34:16.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-13 20:34:16.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-13 20:34:16.5|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-13 20:34:16.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.020582s
+2026-09-13 20:34:16.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-13 20:34:16.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0210892s
+2026-09-13 20:34:17.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-13 20:34:19.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-13 20:34:19.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-13 20:34:19.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-13 20:34:19.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-13 20:36:19.7|Info|RssSyncService|Starting RSS Sync
+2026-09-13 20:36:19.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 20:36:19.8|Info|DownloadDecisionMaker|No results found
+2026-09-13 20:36:19.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 20:51:19.9|Info|RssSyncService|Starting RSS Sync
+2026-09-13 20:51:19.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 20:51:19.9|Info|DownloadDecisionMaker|No results found
+2026-09-13 20:51:19.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 21:06:20.0|Info|RssSyncService|Starting RSS Sync
+2026-09-13 21:06:20.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 21:06:20.0|Info|DownloadDecisionMaker|No results found
+2026-09-13 21:06:20.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 21:21:20.2|Info|RssSyncService|Starting RSS Sync
+2026-09-13 21:21:20.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 21:21:20.2|Info|DownloadDecisionMaker|No results found
+2026-09-13 21:21:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 21:36:20.3|Info|RssSyncService|Starting RSS Sync
+2026-09-13 21:36:20.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 21:36:20.3|Info|DownloadDecisionMaker|No results found
+2026-09-13 21:36:20.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 21:51:20.5|Info|RssSyncService|Starting RSS Sync
+2026-09-13 21:51:20.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 21:51:20.5|Info|DownloadDecisionMaker|No results found
+2026-09-13 21:51:20.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 22:06:20.6|Info|RssSyncService|Starting RSS Sync
+2026-09-13 22:06:20.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 22:06:20.6|Info|DownloadDecisionMaker|No results found
+2026-09-13 22:06:20.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 22:21:20.8|Info|RssSyncService|Starting RSS Sync
+2026-09-13 22:21:20.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 22:21:20.8|Info|DownloadDecisionMaker|No results found
+2026-09-13 22:21:20.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 22:36:21.0|Info|RssSyncService|Starting RSS Sync
+2026-09-13 22:36:21.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 22:36:21.0|Info|DownloadDecisionMaker|No results found
+2026-09-13 22:36:21.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 22:51:21.1|Info|RssSyncService|Starting RSS Sync
+2026-09-13 22:51:21.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 22:51:21.1|Info|DownloadDecisionMaker|No results found
+2026-09-13 22:51:21.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 23:06:21.3|Info|RssSyncService|Starting RSS Sync
+2026-09-13 23:06:21.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 23:06:21.3|Info|DownloadDecisionMaker|No results found
+2026-09-13 23:06:21.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 23:21:21.4|Info|RssSyncService|Starting RSS Sync
+2026-09-13 23:21:21.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 23:21:21.4|Info|DownloadDecisionMaker|No results found
+2026-09-13 23:21:21.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 23:36:21.5|Info|RssSyncService|Starting RSS Sync
+2026-09-13 23:36:21.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 23:36:21.5|Info|DownloadDecisionMaker|No results found
+2026-09-13 23:36:21.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-13 23:51:21.7|Info|RssSyncService|Starting RSS Sync
+2026-09-13 23:51:21.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-13 23:51:21.7|Info|DownloadDecisionMaker|No results found
+2026-09-13 23:51:21.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 00:06:21.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 00:06:21.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 00:06:21.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 00:06:21.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 00:21:22.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 00:21:22.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 00:21:22.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 00:21:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 00:36:22.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 00:36:22.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 00:36:22.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 00:36:22.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 00:51:22.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 00:51:22.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 00:51:22.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 00:51:22.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 01:06:22.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 01:06:22.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 01:06:22.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 01:06:22.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 01:21:22.5|Info|RssSyncService|Starting RSS Sync
+2026-09-14 01:21:22.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 01:21:22.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 01:21:22.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 01:36:22.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 01:36:22.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 01:36:22.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 01:36:22.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 01:51:22.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 01:51:22.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 01:51:22.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 01:51:22.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 02:06:23.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 02:06:23.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 02:06:23.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 02:06:23.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 02:21:23.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 02:21:23.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 02:21:23.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 02:21:23.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 02:36:23.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 02:36:23.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 02:36:23.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 02:36:23.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 02:51:23.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 02:51:23.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 02:51:23.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 02:51:23.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 03:06:23.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 03:06:23.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 03:06:23.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 03:06:23.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 03:21:23.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 03:21:23.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 03:21:23.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 03:21:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 03:36:23.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 03:36:23.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 03:36:23.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 03:36:23.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 03:51:24.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 03:51:24.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 03:51:24.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 03:51:24.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 04:06:24.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 04:06:24.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 04:06:24.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 04:06:24.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 04:21:24.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 04:21:24.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 04:21:24.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 04:21:24.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 04:36:24.5|Info|RssSyncService|Starting RSS Sync
+2026-09-14 04:36:24.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 04:36:24.5|Info|DownloadDecisionMaker|No results found
+2026-09-14 04:36:24.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 04:51:24.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 04:51:24.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 04:51:24.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 04:51:24.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 05:06:24.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 05:06:24.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 05:06:24.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 05:06:24.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 05:21:24.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 05:21:24.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 05:21:24.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 05:21:24.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 05:36:25.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 05:36:25.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 05:36:25.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 05:36:25.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 05:51:25.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 05:51:25.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 05:51:25.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 05:51:25.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 06:06:25.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 06:06:25.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 06:06:25.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 06:06:25.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 06:21:25.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 06:21:25.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 06:21:25.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 06:21:25.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 06:36:25.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 06:36:25.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 06:36:25.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 06:36:25.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 06:51:25.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 06:51:25.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 06:51:25.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 06:51:25.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 07:06:25.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 07:06:25.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 07:06:25.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 07:06:25.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 07:21:26.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 07:21:26.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 07:21:26.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 07:21:26.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 07:36:26.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 07:36:26.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 07:36:26.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 07:36:26.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 07:51:26.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 07:51:26.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 07:51:26.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 07:51:26.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 08:06:26.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 08:06:26.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 08:06:26.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 08:06:26.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 08:21:26.5|Info|RssSyncService|Starting RSS Sync
+2026-09-14 08:21:26.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 08:21:26.5|Info|DownloadDecisionMaker|No results found
+2026-09-14 08:21:26.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 08:31:17.5|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-14 08:31:18.4|Info|ConsoleApp|Exiting main.
+2026-09-14 08:31:27.5|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-14 08:31:27.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-14 08:31:27.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-14 08:31:28.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-14 08:31:29.5|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-14 08:31:30.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-14 08:31:30.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-14 08:31:30.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-14 08:31:30.3|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-14 08:31:30.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.200847s
+2026-09-14 08:31:30.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-14 08:31:30.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2200277s
+2026-09-14 08:31:30.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-14 08:31:30.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-14 08:31:30.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-14 08:31:30.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-14 08:31:30.7|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-14 08:31:30.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0295122s
+2026-09-14 08:31:30.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-14 08:31:30.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0298266s
+2026-09-14 08:31:32.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-14 08:31:34.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-14 08:31:34.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-14 08:31:34.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-14 08:31:34.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-14 08:36:34.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 08:36:34.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 08:36:34.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 08:36:34.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 08:46:50.3|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-14 08:46:50.5|Info|ConsoleApp|Exiting main.
+2026-09-14 08:47:03.2|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-14 08:47:03.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-14 08:47:03.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-14 08:47:04.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-14 08:47:05.1|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-14 08:47:05.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-14 08:47:05.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-14 08:47:05.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-14 08:47:05.9|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-14 08:47:05.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3313753s
+2026-09-14 08:47:06.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-14 08:47:06.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.3470354s
+2026-09-14 08:47:06.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-14 08:47:06.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-14 08:47:06.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-14 08:47:06.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-14 08:47:06.3|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-14 08:47:06.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0091196s
+2026-09-14 08:47:06.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-14 08:47:06.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0093421s
+2026-09-14 08:47:07.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-14 08:47:09.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-14 08:47:09.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-14 08:47:09.1|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-14 08:47:09.4|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-14 08:51:38.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 08:51:38.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 08:51:38.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 08:51:38.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 09:06:39.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 09:06:39.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 09:06:39.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 09:06:39.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 09:21:39.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 09:21:39.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 09:21:39.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 09:21:39.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 09:36:39.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 09:36:39.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 09:36:39.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 09:36:39.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 09:51:39.5|Info|RssSyncService|Starting RSS Sync
+2026-09-14 09:51:39.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 09:51:39.5|Info|DownloadDecisionMaker|No results found
+2026-09-14 09:51:39.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 10:06:39.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 10:06:39.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 10:06:39.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 10:06:39.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 10:21:39.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 10:21:39.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 10:21:39.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 10:21:39.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 10:36:39.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 10:36:39.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 10:36:40.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 10:36:40.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 10:51:40.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 10:51:40.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 10:51:40.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 10:51:40.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 11:06:40.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 11:06:40.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 11:06:40.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 11:06:40.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 11:21:40.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 11:21:40.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 11:21:40.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 11:21:40.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 11:36:40.5|Info|RssSyncService|Starting RSS Sync
+2026-09-14 11:36:40.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 11:36:40.5|Info|DownloadDecisionMaker|No results found
+2026-09-14 11:36:40.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 11:51:40.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 11:51:40.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 11:51:40.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 11:51:40.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 12:06:40.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 12:06:40.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 12:06:40.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 12:06:40.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 12:21:41.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 12:21:41.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 12:21:41.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 12:21:41.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 12:36:41.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 12:36:41.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 12:36:41.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 12:36:41.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 12:51:41.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 12:51:41.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 12:51:41.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 12:51:41.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 13:06:41.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 13:06:41.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 13:06:41.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 13:06:41.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 13:21:41.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 13:21:41.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 13:21:41.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 13:21:41.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 13:36:41.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 13:36:41.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 13:36:41.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 13:36:41.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 13:51:41.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 13:51:41.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 13:51:41.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 13:51:41.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 14:06:42.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 14:06:42.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 14:06:42.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 14:06:42.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 14:21:42.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 14:21:42.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 14:21:42.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 14:21:42.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 14:36:42.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 14:36:42.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 14:36:42.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 14:36:42.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 14:51:42.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 14:51:42.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 14:51:42.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 14:51:42.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 15:06:42.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 15:06:42.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 15:06:42.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 15:06:42.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 15:21:42.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 15:21:42.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 15:21:42.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 15:21:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 15:36:43.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 15:36:43.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 15:36:43.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 15:36:43.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 15:51:43.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 15:51:43.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 15:51:43.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 15:51:43.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 16:06:43.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 16:06:43.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 16:06:43.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 16:06:43.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 16:21:43.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 16:21:43.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 16:21:43.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 16:21:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 16:36:43.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 16:36:43.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 16:36:43.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 16:36:43.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 16:51:43.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 16:51:43.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 16:51:43.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 16:51:43.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 17:06:44.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 17:06:44.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 17:06:44.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 17:06:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 17:21:44.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 17:21:44.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 17:21:44.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 17:21:44.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 17:36:44.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 17:36:44.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 17:36:44.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 17:36:44.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 17:51:44.5|Info|RssSyncService|Starting RSS Sync
+2026-09-14 17:51:44.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 17:51:44.5|Info|DownloadDecisionMaker|No results found
+2026-09-14 17:51:44.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 18:06:44.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 18:06:44.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 18:06:44.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 18:06:44.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 18:21:44.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 18:21:44.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 18:21:44.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 18:21:44.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 18:36:45.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 18:36:45.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 18:36:45.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 18:36:45.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 18:51:45.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 18:51:45.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 18:51:45.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 18:51:45.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 19:06:45.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 19:06:45.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 19:06:45.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 19:06:45.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 19:21:45.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 19:21:45.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 19:21:45.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 19:21:45.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 19:27:15.8|Info|HousekeepingService|Running housecleaning tasks
+2026-09-14 19:27:15.9|Info|TrackGroupingService|Grouping 0 tracks
+2026-09-14 19:27:15.9|Info|ImportApprovedTracks|Importing 0 tracks
+2026-09-14 19:27:16.0|Info|Database|Vacuuming Log database
+2026-09-14 19:27:16.0|Info|Database|Log database compressed
+2026-09-14 19:27:16.0|Info|Database|Vacuuming Main database
+2026-09-14 19:27:16.0|Info|Database|Main database compressed
+2026-09-14 19:36:45.8|Info|RssSyncService|Starting RSS Sync
+2026-09-14 19:36:45.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 19:36:45.8|Info|DownloadDecisionMaker|No results found
+2026-09-14 19:36:45.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 19:51:46.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 19:51:46.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 19:51:46.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 19:51:46.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 20:06:46.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 20:06:46.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 20:06:46.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 20:06:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 20:21:46.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 20:21:46.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 20:21:46.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 20:21:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 20:36:46.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 20:36:46.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 20:36:46.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 20:36:46.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 20:51:46.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 20:51:46.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 20:51:46.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 20:51:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 21:06:46.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 21:06:46.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 21:06:46.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 21:06:46.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 21:21:46.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 21:21:46.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 21:21:46.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 21:21:46.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 21:36:47.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 21:36:47.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 21:36:47.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 21:36:47.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 21:51:47.1|Info|RssSyncService|Starting RSS Sync
+2026-09-14 21:51:47.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 21:51:47.1|Info|DownloadDecisionMaker|No results found
+2026-09-14 21:51:47.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 22:06:47.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 22:06:47.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 22:06:47.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 22:06:47.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 22:21:47.4|Info|RssSyncService|Starting RSS Sync
+2026-09-14 22:21:47.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 22:21:47.4|Info|DownloadDecisionMaker|No results found
+2026-09-14 22:21:47.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 22:36:47.6|Info|RssSyncService|Starting RSS Sync
+2026-09-14 22:36:47.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 22:36:47.6|Info|DownloadDecisionMaker|No results found
+2026-09-14 22:36:47.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 22:51:47.7|Info|RssSyncService|Starting RSS Sync
+2026-09-14 22:51:47.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 22:51:47.7|Info|DownloadDecisionMaker|No results found
+2026-09-14 22:51:47.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 23:06:47.9|Info|RssSyncService|Starting RSS Sync
+2026-09-14 23:06:47.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 23:06:47.9|Info|DownloadDecisionMaker|No results found
+2026-09-14 23:06:47.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 23:21:48.0|Info|RssSyncService|Starting RSS Sync
+2026-09-14 23:21:48.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 23:21:48.0|Info|DownloadDecisionMaker|No results found
+2026-09-14 23:21:48.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 23:36:48.2|Info|RssSyncService|Starting RSS Sync
+2026-09-14 23:36:48.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 23:36:48.2|Info|DownloadDecisionMaker|No results found
+2026-09-14 23:36:48.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-14 23:51:48.3|Info|RssSyncService|Starting RSS Sync
+2026-09-14 23:51:48.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-14 23:51:48.3|Info|DownloadDecisionMaker|No results found
+2026-09-14 23:51:48.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 00:06:48.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 00:06:48.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 00:06:48.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 00:06:48.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 00:21:48.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 00:21:48.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 00:21:48.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 00:21:48.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 00:36:48.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 00:36:48.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 00:36:48.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 00:36:48.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 00:51:48.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 00:51:48.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 00:51:48.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 00:51:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 01:06:49.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 01:06:49.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 01:06:49.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 01:06:49.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 01:21:49.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 01:21:49.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 01:21:49.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 01:21:49.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 01:36:49.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 01:36:49.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 01:36:49.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 01:36:49.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 01:51:49.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 01:51:49.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 01:51:49.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 01:51:49.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 02:06:49.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 02:06:49.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 02:06:49.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 02:06:49.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 02:21:49.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 02:21:49.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 02:21:49.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 02:21:49.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 02:36:50.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 02:36:50.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 02:36:50.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 02:36:50.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 02:51:50.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 02:51:50.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 02:51:50.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 02:51:50.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 03:06:50.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 03:06:50.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 03:06:50.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 03:06:50.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 03:21:50.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 03:21:50.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 03:21:50.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 03:21:50.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 03:36:50.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 03:36:50.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 03:36:50.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 03:36:50.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 03:51:50.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 03:51:50.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 03:51:50.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 03:51:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 04:06:50.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 04:06:50.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 04:06:50.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 04:06:50.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 04:21:51.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 04:21:51.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 04:21:51.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 04:21:51.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 04:36:51.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 04:36:51.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 04:36:51.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 04:36:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 04:51:51.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 04:51:51.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 04:51:51.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 04:51:51.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 05:06:51.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 05:06:51.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 05:06:51.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 05:06:51.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 05:21:51.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 05:21:51.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 05:21:51.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 05:21:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 05:36:51.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 05:36:51.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 05:36:51.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 05:36:51.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 05:51:52.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 05:51:52.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 05:51:52.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 05:51:52.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 06:06:52.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 06:06:52.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 06:06:52.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 06:06:52.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 06:21:52.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 06:21:52.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 06:21:52.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 06:21:52.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 06:36:52.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 06:36:52.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 06:36:52.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 06:36:52.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 06:51:52.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 06:51:52.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 06:51:52.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 06:51:52.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 07:06:52.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 07:06:52.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 07:06:52.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 07:06:52.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 07:21:52.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 07:21:52.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 07:21:52.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 07:21:52.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 07:36:53.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 07:36:53.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 07:36:53.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 07:36:53.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 07:51:53.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 07:51:53.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 07:51:53.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 07:51:53.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 08:06:53.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 08:06:53.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 08:06:53.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 08:06:53.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 08:21:53.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 08:21:53.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 08:21:53.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 08:21:53.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 08:36:53.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 08:36:53.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 08:36:53.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 08:36:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 08:51:53.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 08:51:53.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 08:51:53.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 08:51:53.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 09:06:53.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 09:06:53.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 09:06:53.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 09:06:53.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 09:21:54.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 09:21:54.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 09:21:54.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 09:21:54.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 09:36:54.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 09:36:54.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 09:36:54.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 09:36:54.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 09:51:54.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 09:51:54.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 09:51:54.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 09:51:54.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 10:06:54.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 10:06:54.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 10:06:54.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 10:06:54.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 10:21:54.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 10:21:54.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 10:21:54.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 10:21:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 10:36:54.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 10:36:54.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 10:36:54.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 10:36:54.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 10:51:55.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 10:51:55.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 10:51:55.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 10:51:55.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 11:06:55.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 11:06:55.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 11:06:55.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 11:06:55.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 11:21:55.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 11:21:55.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 11:21:55.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 11:21:55.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 11:36:55.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 11:36:55.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 11:36:55.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 11:36:55.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 11:51:55.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 11:51:55.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 11:51:55.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 11:51:55.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 12:06:55.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 12:06:55.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 12:06:55.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 12:06:55.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 12:21:55.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 12:21:55.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 12:21:55.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 12:21:55.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 12:36:56.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 12:36:56.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 12:36:56.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 12:36:56.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 12:51:56.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 12:51:56.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 12:51:56.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 12:51:56.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 13:06:56.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 13:06:56.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 13:06:56.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 13:06:56.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 13:21:56.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 13:21:56.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 13:21:56.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 13:21:56.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 13:36:56.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 13:36:56.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 13:36:56.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 13:36:56.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 13:51:56.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 13:51:56.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 13:51:56.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 13:51:56.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 14:06:57.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 14:06:57.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 14:06:57.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 14:06:57.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 14:21:57.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 14:21:57.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 14:21:57.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 14:21:57.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 14:36:57.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 14:36:57.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 14:36:57.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 14:36:57.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 14:51:57.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 14:51:57.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 14:51:57.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 14:51:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 15:06:57.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 15:06:57.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 15:06:57.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 15:06:57.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 15:21:57.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 15:21:57.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 15:21:57.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 15:21:57.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 15:36:58.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 15:36:58.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 15:36:58.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 15:36:58.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 15:51:58.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 15:51:58.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 15:51:58.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 15:51:58.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 16:06:58.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 16:06:58.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 16:06:58.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 16:06:58.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 16:21:58.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 16:21:58.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 16:21:58.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 16:21:58.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 16:36:58.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 16:36:58.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 16:36:58.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 16:36:58.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 16:51:58.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 16:51:58.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 16:51:58.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 16:51:58.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 17:06:58.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 17:06:58.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 17:06:58.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 17:06:58.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 17:21:59.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 17:21:59.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 17:21:59.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 17:21:59.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 17:36:59.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 17:36:59.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 17:36:59.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 17:36:59.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 17:51:59.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 17:51:59.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 17:51:59.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 17:51:59.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 18:06:59.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 18:06:59.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 18:06:59.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 18:06:59.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 18:21:59.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 18:21:59.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 18:21:59.6|Info|DownloadDecisionMaker|No results found
+2026-09-15 18:21:59.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 18:36:59.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 18:36:59.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 18:36:59.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 18:36:59.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 18:51:59.9|Info|RssSyncService|Starting RSS Sync
+2026-09-15 18:51:59.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 18:51:59.9|Info|DownloadDecisionMaker|No results found
+2026-09-15 18:51:59.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 19:07:00.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 19:07:00.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 19:07:00.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 19:07:00.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 19:22:00.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 19:22:00.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 19:22:00.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 19:22:00.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 19:27:30.2|Info|TrackGroupingService|Grouping 0 tracks
+2026-09-15 19:27:30.2|Info|HousekeepingService|Running housecleaning tasks
+2026-09-15 19:27:30.2|Info|ImportApprovedTracks|Importing 0 tracks
+2026-09-15 19:27:30.3|Info|Database|Vacuuming Log database
+2026-09-15 19:27:30.3|Info|Database|Log database compressed
+2026-09-15 19:27:30.3|Info|Database|Vacuuming Main database
+2026-09-15 19:27:30.3|Info|Database|Main database compressed
+2026-09-15 19:37:00.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 19:37:00.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 19:37:00.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 19:37:00.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 19:52:00.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 19:52:00.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 19:52:00.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 19:52:00.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 20:07:00.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 20:07:00.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 20:07:00.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 20:07:00.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 20:22:00.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 20:22:00.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 20:22:00.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 20:22:00.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 20:37:01.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 20:37:01.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 20:37:01.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 20:37:01.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 20:52:01.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 20:52:01.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 20:52:01.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 20:52:01.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 21:07:01.2|Info|RssSyncService|Starting RSS Sync
+2026-09-15 21:07:01.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 21:07:01.2|Info|DownloadDecisionMaker|No results found
+2026-09-15 21:07:01.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 21:22:01.4|Info|RssSyncService|Starting RSS Sync
+2026-09-15 21:22:01.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 21:22:01.4|Info|DownloadDecisionMaker|No results found
+2026-09-15 21:22:01.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 21:37:01.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 21:37:01.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 21:37:01.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 21:37:01.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 21:52:01.7|Info|RssSyncService|Starting RSS Sync
+2026-09-15 21:52:01.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 21:52:01.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 21:52:01.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 22:07:01.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 22:07:01.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 22:07:01.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 22:07:01.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 22:22:02.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 22:22:02.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 22:22:02.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 22:22:02.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 22:37:02.1|Info|RssSyncService|Starting RSS Sync
+2026-09-15 22:37:02.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 22:37:02.1|Info|DownloadDecisionMaker|No results found
+2026-09-15 22:37:02.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 22:52:02.3|Info|RssSyncService|Starting RSS Sync
+2026-09-15 22:52:02.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 22:52:02.3|Info|DownloadDecisionMaker|No results found
+2026-09-15 22:52:02.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 23:07:02.5|Info|RssSyncService|Starting RSS Sync
+2026-09-15 23:07:02.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 23:07:02.5|Info|DownloadDecisionMaker|No results found
+2026-09-15 23:07:02.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 23:22:02.6|Info|RssSyncService|Starting RSS Sync
+2026-09-15 23:22:02.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 23:22:02.7|Info|DownloadDecisionMaker|No results found
+2026-09-15 23:22:02.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 23:37:02.8|Info|RssSyncService|Starting RSS Sync
+2026-09-15 23:37:02.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 23:37:02.8|Info|DownloadDecisionMaker|No results found
+2026-09-15 23:37:02.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-15 23:52:03.0|Info|RssSyncService|Starting RSS Sync
+2026-09-15 23:52:03.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-15 23:52:03.0|Info|DownloadDecisionMaker|No results found
+2026-09-15 23:52:03.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 00:07:03.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 00:07:03.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 00:07:03.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 00:07:03.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 00:22:03.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 00:22:03.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 00:22:03.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 00:22:03.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 00:37:03.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 00:37:03.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 00:37:03.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 00:37:03.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 00:52:03.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 00:52:03.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 00:52:03.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 00:52:03.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 01:07:03.9|Info|RssSyncService|Starting RSS Sync
+2026-09-16 01:07:03.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 01:07:03.9|Info|DownloadDecisionMaker|No results found
+2026-09-16 01:07:03.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 01:22:04.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 01:22:04.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 01:22:04.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 01:22:04.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 01:37:04.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 01:37:04.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 01:37:04.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 01:37:04.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 01:52:04.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 01:52:04.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 01:52:04.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 01:52:04.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 02:07:04.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 02:07:04.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 02:07:04.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 02:07:04.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 02:22:04.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 02:22:04.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 02:22:04.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 02:22:04.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 02:37:04.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 02:37:04.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 02:37:04.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 02:37:04.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 02:52:05.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 02:52:05.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 02:52:05.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 02:52:05.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 03:07:05.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 03:07:05.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 03:07:05.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 03:07:05.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 03:22:05.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 03:22:05.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 03:22:05.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 03:22:05.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 03:37:05.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 03:37:05.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 03:37:05.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 03:37:05.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 03:52:05.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 03:52:05.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 03:52:05.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 03:52:05.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 04:07:05.9|Info|RssSyncService|Starting RSS Sync
+2026-09-16 04:07:05.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 04:07:05.9|Info|DownloadDecisionMaker|No results found
+2026-09-16 04:07:05.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 04:22:06.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 04:22:06.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 04:22:06.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 04:22:06.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 04:37:06.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 04:37:06.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 04:37:06.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 04:37:06.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 04:52:06.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 04:52:06.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 04:52:06.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 04:52:06.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 05:07:06.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 05:07:06.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 05:07:06.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 05:07:06.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 05:22:06.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 05:22:06.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 05:22:06.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 05:22:06.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 05:37:06.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 05:37:06.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 05:37:06.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 05:37:06.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 05:52:07.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 05:52:07.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 05:52:07.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 05:52:07.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 06:07:07.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 06:07:07.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 06:07:07.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 06:07:07.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 06:22:07.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 06:22:07.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 06:22:07.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 06:22:07.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 06:37:07.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 06:37:07.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 06:37:07.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 06:37:07.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 06:52:07.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 06:52:07.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 06:52:07.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 06:52:07.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 07:07:07.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 07:07:07.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 07:07:07.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 07:07:07.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 07:22:08.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 07:22:08.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 07:22:08.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 07:22:08.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 07:37:08.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 07:37:08.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 07:37:08.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 07:37:08.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 07:52:08.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 07:52:08.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 07:52:08.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 07:52:08.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 08:07:08.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 08:07:08.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 08:07:08.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 08:07:08.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 08:22:08.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 08:22:08.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 08:22:08.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 08:22:08.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 08:37:08.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 08:37:08.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 08:37:08.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 08:37:08.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 08:52:09.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 08:52:09.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 08:52:09.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 08:52:09.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 09:07:09.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 09:07:09.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 09:07:09.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 09:07:09.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 09:22:09.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 09:22:09.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 09:22:09.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 09:22:09.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 09:37:09.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 09:37:09.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 09:37:09.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 09:37:09.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 09:52:09.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 09:52:09.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 09:52:09.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 09:52:09.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 10:07:09.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 10:07:09.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 10:07:09.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 10:07:09.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 10:22:09.9|Info|RssSyncService|Starting RSS Sync
+2026-09-16 10:22:09.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 10:22:09.9|Info|DownloadDecisionMaker|No results found
+2026-09-16 10:22:09.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 10:37:10.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 10:37:10.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 10:37:10.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 10:37:10.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 10:52:10.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 10:52:10.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 10:52:10.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 10:52:10.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 11:07:10.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 11:07:10.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 11:07:10.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 11:07:10.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 11:22:10.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 11:22:10.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 11:22:10.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 11:22:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 11:37:10.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 11:37:10.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 11:37:10.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 11:37:10.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 11:52:10.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 11:52:10.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 11:52:10.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 11:52:10.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 12:07:11.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 12:07:11.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 12:07:11.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 12:07:11.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 12:22:11.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 12:22:11.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 12:22:11.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 12:22:11.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 12:37:11.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 12:37:11.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 12:37:11.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 12:37:11.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 12:52:11.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 12:52:11.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 12:52:11.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 12:52:11.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 13:07:11.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 13:07:11.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 13:07:11.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 13:07:11.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 13:22:11.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 13:22:11.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 13:22:11.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 13:22:11.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 13:37:11.9|Info|RssSyncService|Starting RSS Sync
+2026-09-16 13:37:11.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 13:37:11.9|Info|DownloadDecisionMaker|No results found
+2026-09-16 13:37:11.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 13:52:12.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 13:52:12.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 13:52:12.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 13:52:12.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 14:07:12.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 14:07:12.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 14:07:12.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 14:07:12.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 14:22:12.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 14:22:12.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 14:22:12.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 14:22:12.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 14:37:12.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 14:37:12.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 14:37:12.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 14:37:12.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 14:52:12.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 14:52:12.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 14:52:12.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 14:52:12.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 15:07:12.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 15:07:12.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 15:07:12.9|Info|DownloadDecisionMaker|No results found
+2026-09-16 15:07:12.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 15:22:13.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 15:22:13.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 15:22:13.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 15:22:13.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 15:37:13.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 15:37:13.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 15:37:13.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 15:37:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 15:52:13.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 15:52:13.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 15:52:13.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 15:52:13.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 16:07:13.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 16:07:13.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 16:07:13.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 16:07:13.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 16:22:13.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 16:22:13.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 16:22:13.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 16:22:13.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 16:37:13.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 16:37:13.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 16:37:13.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 16:37:13.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 16:52:14.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 16:52:14.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 16:52:14.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 16:52:14.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 17:07:14.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 17:07:14.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 17:07:14.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 17:07:14.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 17:22:14.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 17:22:14.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 17:22:14.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 17:22:14.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 17:37:14.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 17:37:14.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 17:37:14.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 17:37:14.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 17:52:14.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 17:52:14.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 17:52:14.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 17:52:14.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 18:07:14.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 18:07:14.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 18:07:14.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 18:07:14.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 18:22:15.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 18:22:15.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 18:22:15.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 18:22:15.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 18:37:15.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 18:37:15.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 18:37:15.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 18:37:15.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 18:52:15.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 18:52:15.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 18:52:15.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 18:52:15.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 19:07:15.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 19:07:15.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 19:07:15.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 19:07:15.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 19:22:15.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 19:22:15.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 19:22:15.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 19:22:15.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 19:27:45.7|Info|HousekeepingService|Running housecleaning tasks
+2026-09-16 19:27:45.7|Info|TrackGroupingService|Grouping 0 tracks
+2026-09-16 19:27:45.7|Info|ImportApprovedTracks|Importing 0 tracks
+2026-09-16 19:27:45.8|Info|Database|Vacuuming Log database
+2026-09-16 19:27:45.8|Info|Database|Log database compressed
+2026-09-16 19:27:45.8|Info|Database|Vacuuming Main database
+2026-09-16 19:27:45.9|Info|Database|Main database compressed
+2026-09-16 19:37:15.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 19:37:15.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 19:37:15.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 19:37:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 19:52:16.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 19:52:16.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 19:52:16.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 19:52:16.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 20:07:16.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 20:07:16.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 20:07:16.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 20:07:16.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 20:22:16.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 20:22:16.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 20:22:16.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 20:22:16.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 20:37:16.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 20:37:16.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 20:37:16.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 20:37:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 20:52:16.6|Info|RssSyncService|Starting RSS Sync
+2026-09-16 20:52:16.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 20:52:16.6|Info|DownloadDecisionMaker|No results found
+2026-09-16 20:52:16.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 21:07:16.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 21:07:16.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 21:07:16.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 21:07:16.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 21:22:16.9|Info|RssSyncService|Starting RSS Sync
+2026-09-16 21:22:16.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 21:22:16.9|Info|DownloadDecisionMaker|No results found
+2026-09-16 21:22:16.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 21:37:17.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 21:37:17.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 21:37:17.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 21:37:17.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 21:52:17.2|Info|RssSyncService|Starting RSS Sync
+2026-09-16 21:52:17.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 21:52:17.2|Info|DownloadDecisionMaker|No results found
+2026-09-16 21:52:17.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 22:07:17.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 22:07:17.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 22:07:17.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 22:07:17.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 22:22:17.5|Info|RssSyncService|Starting RSS Sync
+2026-09-16 22:22:17.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 22:22:17.5|Info|DownloadDecisionMaker|No results found
+2026-09-16 22:22:17.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 22:37:17.7|Info|RssSyncService|Starting RSS Sync
+2026-09-16 22:37:17.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 22:37:17.7|Info|DownloadDecisionMaker|No results found
+2026-09-16 22:37:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 22:52:17.8|Info|RssSyncService|Starting RSS Sync
+2026-09-16 22:52:17.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 22:52:17.8|Info|DownloadDecisionMaker|No results found
+2026-09-16 22:52:17.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 23:07:18.0|Info|RssSyncService|Starting RSS Sync
+2026-09-16 23:07:18.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 23:07:18.0|Info|DownloadDecisionMaker|No results found
+2026-09-16 23:07:18.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 23:22:18.1|Info|RssSyncService|Starting RSS Sync
+2026-09-16 23:22:18.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 23:22:18.1|Info|DownloadDecisionMaker|No results found
+2026-09-16 23:22:18.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 23:37:18.3|Info|RssSyncService|Starting RSS Sync
+2026-09-16 23:37:18.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 23:37:18.3|Info|DownloadDecisionMaker|No results found
+2026-09-16 23:37:18.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-16 23:52:18.4|Info|RssSyncService|Starting RSS Sync
+2026-09-16 23:52:18.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-16 23:52:18.4|Info|DownloadDecisionMaker|No results found
+2026-09-16 23:52:18.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 00:07:18.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 00:07:18.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 00:07:18.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 00:07:18.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 00:22:18.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 00:22:18.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 00:22:18.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 00:22:18.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 00:37:18.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 00:37:18.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 00:37:18.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 00:37:18.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 00:52:19.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 00:52:19.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 00:52:19.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 00:52:19.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 01:07:19.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 01:07:19.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 01:07:19.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 01:07:19.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 01:22:19.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 01:22:19.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 01:22:19.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 01:22:19.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 01:37:19.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 01:37:19.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 01:37:19.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 01:37:19.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 01:52:19.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 01:52:19.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 01:52:19.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 01:52:19.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 02:07:19.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 02:07:19.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 02:07:19.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 02:07:19.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 02:22:20.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 02:22:20.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 02:22:20.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 02:22:20.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 02:37:20.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 02:37:20.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 02:37:20.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 02:37:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 02:52:20.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 02:52:20.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 02:52:20.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 02:52:20.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 03:07:20.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 03:07:20.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 03:07:20.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 03:07:20.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 03:22:20.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 03:22:20.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 03:22:20.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 03:22:20.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 03:37:20.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 03:37:20.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 03:37:20.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 03:37:20.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 03:52:21.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 03:52:21.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 03:52:21.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 03:52:21.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 04:07:21.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 04:07:21.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 04:07:21.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 04:07:21.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 04:22:21.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 04:22:21.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 04:22:21.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 04:22:21.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 04:37:21.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 04:37:21.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 04:37:21.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 04:37:21.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 04:52:21.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 04:52:21.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 04:52:21.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 04:52:21.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 05:07:21.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 05:07:21.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 05:07:21.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 05:07:21.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 05:22:21.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 05:22:21.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 05:22:21.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 05:22:21.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 05:37:22.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 05:37:22.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 05:37:22.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 05:37:22.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 05:52:22.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 05:52:22.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 05:52:22.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 05:52:22.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 06:07:22.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 06:07:22.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 06:07:22.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 06:07:22.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 06:22:22.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 06:22:22.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 06:22:22.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 06:22:22.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 06:37:22.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 06:37:22.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 06:37:22.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 06:37:22.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 06:52:22.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 06:52:22.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 06:52:22.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 06:52:22.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 07:07:22.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 07:07:22.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 07:07:22.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 07:07:22.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 07:22:22.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 07:22:22.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 07:22:22.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 07:22:22.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 07:37:23.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 07:37:23.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 07:37:23.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 07:37:23.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 07:52:23.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 07:52:23.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 07:52:23.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 07:52:23.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 08:07:23.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 08:07:23.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 08:07:23.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 08:07:23.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 08:22:23.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 08:22:23.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 08:22:23.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 08:22:23.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 08:37:23.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 08:37:23.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 08:37:23.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 08:37:23.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 08:52:23.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 08:52:23.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 08:52:23.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 08:52:23.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 09:07:24.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 09:07:24.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 09:07:24.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 09:07:24.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 09:22:24.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 09:22:24.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 09:22:24.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 09:22:24.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 09:37:24.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 09:37:24.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 09:37:24.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 09:37:24.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 09:52:24.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 09:52:24.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 09:52:24.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 09:52:24.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 10:07:24.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 10:07:24.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 10:07:24.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 10:07:24.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 10:22:24.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 10:22:24.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 10:22:24.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 10:22:24.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 10:37:24.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 10:37:24.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 10:37:24.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 10:37:24.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 10:52:25.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 10:52:25.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 10:52:25.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 10:52:25.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 11:07:25.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 11:07:25.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 11:07:25.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 11:07:25.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 11:22:25.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 11:22:25.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 11:22:25.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 11:22:25.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 11:37:25.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 11:37:25.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 11:37:25.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 11:37:25.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 11:52:25.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 11:52:25.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 11:52:25.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 11:52:25.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 12:07:25.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 12:07:25.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 12:07:25.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 12:07:25.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 12:22:26.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 12:22:26.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 12:22:26.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 12:22:26.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 12:37:26.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 12:37:26.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 12:37:26.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 12:37:26.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 12:52:26.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 12:52:26.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 12:52:26.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 12:52:26.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 13:07:26.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 13:07:26.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 13:07:26.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 13:07:26.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 13:22:26.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 13:22:26.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 13:22:26.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 13:22:26.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 13:37:26.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 13:37:26.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 13:37:26.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 13:37:26.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 13:52:26.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 13:52:26.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 13:52:26.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 13:52:26.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 14:07:27.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 14:07:27.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 14:07:27.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 14:07:27.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 14:22:27.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 14:22:27.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 14:22:27.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 14:22:27.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 14:37:27.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 14:37:27.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 14:37:27.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 14:37:27.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 14:52:27.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 14:52:27.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 14:52:27.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 14:52:27.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 15:07:27.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 15:07:27.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 15:07:27.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 15:07:27.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 15:22:27.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 15:22:27.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 15:22:27.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 15:22:27.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 15:37:28.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 15:37:28.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 15:37:28.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 15:37:28.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 15:52:28.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 15:52:28.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 15:52:28.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 15:52:28.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 16:07:28.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 16:07:28.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 16:07:28.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 16:07:28.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 16:22:28.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 16:22:28.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 16:22:28.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 16:22:28.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 16:37:28.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 16:37:28.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 16:37:28.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 16:37:28.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 16:52:28.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 16:52:28.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 16:52:28.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 16:52:28.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 17:07:28.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 17:07:28.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 17:07:28.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 17:07:28.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 17:22:29.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 17:22:29.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 17:22:29.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 17:22:29.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 17:37:29.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 17:37:29.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 17:37:29.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 17:37:29.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 17:52:29.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 17:52:29.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 17:52:29.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 17:52:29.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 18:07:29.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 18:07:29.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 18:07:29.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 18:07:29.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 18:22:29.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 18:22:29.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 18:22:29.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 18:22:29.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 18:37:29.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 18:37:29.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 18:37:29.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 18:37:29.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 18:52:30.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 18:52:30.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 18:52:30.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 18:52:30.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 19:07:30.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 19:07:30.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 19:07:30.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 19:07:30.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 19:22:30.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 19:22:30.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 19:22:30.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 19:22:30.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 19:28:00.3|Info|HousekeepingService|Running housecleaning tasks
+2026-09-17 19:28:00.4|Info|TrackGroupingService|Grouping 0 tracks
+2026-09-17 19:28:00.4|Info|ImportApprovedTracks|Importing 0 tracks
+2026-09-17 19:28:00.4|Info|Database|Vacuuming Log database
+2026-09-17 19:28:00.4|Info|Database|Log database compressed
+2026-09-17 19:28:00.4|Info|Database|Vacuuming Main database
+2026-09-17 19:28:00.4|Info|Database|Main database compressed
+2026-09-17 19:37:30.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 19:37:30.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 19:37:30.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 19:37:30.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 19:52:30.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 19:52:30.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 19:52:30.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 19:52:30.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 20:07:30.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 20:07:30.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 20:07:30.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 20:07:30.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 20:22:30.9|Info|RssSyncService|Starting RSS Sync
+2026-09-17 20:22:30.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 20:22:30.9|Info|DownloadDecisionMaker|No results found
+2026-09-17 20:22:30.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 20:37:31.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 20:37:31.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 20:37:31.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 20:37:31.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 20:52:31.2|Info|RssSyncService|Starting RSS Sync
+2026-09-17 20:52:31.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 20:52:31.2|Info|DownloadDecisionMaker|No results found
+2026-09-17 20:52:31.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 21:07:31.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 21:07:31.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 21:07:31.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 21:07:31.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 21:22:31.5|Info|RssSyncService|Starting RSS Sync
+2026-09-17 21:22:31.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 21:22:31.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 21:22:31.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 21:24:06.1|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-17 21:24:06.6|Info|ConsoleApp|Exiting main.
+2026-09-17 21:24:31.5|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-17 21:24:31.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:24:31.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:24:32.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:24:32.5|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:24:32.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:24:32.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:24:32.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:24:33.0|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:24:33.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1587107s
+2026-09-17 21:24:33.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:24:33.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1716333s
+2026-09-17 21:24:33.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:24:33.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:24:33.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:24:33.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:24:33.1|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:24:33.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.008962s
+2026-09-17 21:24:33.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:24:33.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0093188s
+2026-09-17 21:24:34.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-17 21:24:36.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-17 21:24:36.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-17 21:24:36.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-17 21:24:36.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-17 21:24:53.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-17 21:24:54.1|Info|ConsoleApp|Exiting main.
+2026-09-17 21:25:08.0|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-17 21:25:08.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:25:08.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:25:09.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:25:09.9|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:25:10.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:25:10.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:25:10.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:25:10.3|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:25:10.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1286071s
+2026-09-17 21:25:10.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:25:10.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1379343s
+2026-09-17 21:25:10.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:25:10.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:25:10.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:25:10.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:25:10.4|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:25:10.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0116763s
+2026-09-17 21:25:10.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:25:10.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0120481s
+2026-09-17 21:25:11.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-17 21:25:13.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-17 21:25:13.7|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-17 21:25:13.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-17 21:25:14.0|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-17 21:29:37.6|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-17 21:29:37.9|Info|ConsoleApp|Exiting main.
+2026-09-17 21:29:51.6|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-17 21:29:51.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:29:51.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:29:52.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:29:52.5|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:29:52.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:29:52.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:29:52.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:29:52.7|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:29:52.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0881943s
+2026-09-17 21:29:52.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:29:52.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0932254s
+2026-09-17 21:29:52.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:29:52.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:29:52.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:29:52.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:29:52.8|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:29:52.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0070042s
+2026-09-17 21:29:52.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:29:52.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0073705s
+2026-09-17 21:29:53.7|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-17 21:29:55.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-17 21:29:55.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-17 21:29:55.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-17 21:29:56.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-17 21:30:09.3|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-17 21:30:09.5|Info|ConsoleApp|Exiting main.
+2026-09-17 21:30:22.9|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-17 21:30:23.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:30:23.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:30:24.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:30:24.5|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:30:24.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:30:24.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:30:24.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:30:24.8|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:30:24.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.11205s
+2026-09-17 21:30:24.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:30:24.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1220808s
+2026-09-17 21:30:25.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:30:25.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:30:25.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:30:25.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:30:25.2|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:30:25.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0178092s
+2026-09-17 21:30:25.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:30:25.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0180988s
+2026-09-17 21:30:27.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-17 21:30:29.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-17 21:30:29.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-17 21:30:29.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-17 21:30:29.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-17 21:34:59.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2026-09-17 21:34:59.9|Info|ConsoleApp|Exiting main.
+2026-09-17 21:35:10.6|Info|Bootstrap|Starting Lidarr - /app/lidarr/bin/Lidarr - Version 3.1.0.4875
+2026-09-17 21:35:11.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:35:11.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:35:12.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2026-09-17 21:35:12.5|Info|MigrationController|*** Migrating data source=/config/lidarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:35:12.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:35:12.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:35:12.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:35:12.7|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:35:12.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0980898s
+2026-09-17 21:35:12.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:35:12.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1049019s
+2026-09-17 21:35:12.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2026-09-17 21:35:12.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2026-09-17 21:35:12.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2026-09-17 21:35:12.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2026-09-17 21:35:12.8|Info|DatabaseEngineVersionCheck|SQLite 3.50.4
+2026-09-17 21:35:12.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0060619s
+2026-09-17 21:35:12.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2026-09-17 21:35:12.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0062917s
+2026-09-17 21:35:14.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8686
+2026-09-17 21:35:15.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2026-09-17 21:35:15.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2026-09-17 21:35:15.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/lidarr/bin
+2026-09-17 21:35:15.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2026-09-17 21:37:45.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 21:37:45.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 21:37:45.5|Info|DownloadDecisionMaker|No results found
+2026-09-17 21:37:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 21:52:45.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 21:52:45.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 21:52:45.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 21:52:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 22:07:45.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 22:07:45.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 22:07:45.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 22:07:45.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 22:22:46.0|Info|RssSyncService|Starting RSS Sync
+2026-09-17 22:22:46.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 22:22:46.0|Info|DownloadDecisionMaker|No results found
+2026-09-17 22:22:46.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 22:37:46.1|Info|RssSyncService|Starting RSS Sync
+2026-09-17 22:37:46.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 22:37:46.1|Info|DownloadDecisionMaker|No results found
+2026-09-17 22:37:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 22:52:46.3|Info|RssSyncService|Starting RSS Sync
+2026-09-17 22:52:46.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 22:52:46.3|Info|DownloadDecisionMaker|No results found
+2026-09-17 22:52:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 23:07:46.4|Info|RssSyncService|Starting RSS Sync
+2026-09-17 23:07:46.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 23:07:46.4|Info|DownloadDecisionMaker|No results found
+2026-09-17 23:07:46.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 23:22:46.6|Info|RssSyncService|Starting RSS Sync
+2026-09-17 23:22:46.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 23:22:46.6|Info|DownloadDecisionMaker|No results found
+2026-09-17 23:22:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 23:37:46.7|Info|RssSyncService|Starting RSS Sync
+2026-09-17 23:37:46.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 23:37:46.7|Info|DownloadDecisionMaker|No results found
+2026-09-17 23:37:46.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-17 23:52:46.8|Info|RssSyncService|Starting RSS Sync
+2026-09-17 23:52:46.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-17 23:52:46.8|Info|DownloadDecisionMaker|No results found
+2026-09-17 23:52:46.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 00:07:47.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 00:07:47.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 00:07:47.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 00:07:47.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 00:22:47.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 00:22:47.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 00:22:47.1|Info|DownloadDecisionMaker|No results found
+2026-09-18 00:22:47.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 00:37:47.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 00:37:47.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 00:37:47.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 00:37:47.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 00:52:47.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 00:52:47.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 00:52:47.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 00:52:47.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 01:07:47.6|Info|RssSyncService|Starting RSS Sync
+2026-09-18 01:07:47.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 01:07:47.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 01:07:47.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 01:22:47.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 01:22:47.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 01:22:47.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 01:22:47.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 01:37:48.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 01:37:48.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 01:37:48.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 01:37:48.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 01:52:48.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 01:52:48.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 01:52:48.1|Info|DownloadDecisionMaker|No results found
+2026-09-18 01:52:48.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 02:07:48.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 02:07:48.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 02:07:48.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 02:07:48.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 02:22:48.4|Info|RssSyncService|Starting RSS Sync
+2026-09-18 02:22:48.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 02:22:48.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 02:22:48.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 02:37:48.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 02:37:48.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 02:37:48.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 02:37:48.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 02:52:48.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 02:52:48.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 02:52:48.9|Info|DownloadDecisionMaker|No results found
+2026-09-18 02:52:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 03:07:49.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 03:07:49.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 03:07:49.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 03:07:49.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 03:22:49.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 03:22:49.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 03:22:49.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 03:22:49.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 03:37:49.4|Info|RssSyncService|Starting RSS Sync
+2026-09-18 03:37:49.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 03:37:49.4|Info|DownloadDecisionMaker|No results found
+2026-09-18 03:37:49.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 03:52:49.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 03:52:49.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 03:52:49.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 03:52:49.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 04:07:49.6|Info|RssSyncService|Starting RSS Sync
+2026-09-18 04:07:49.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 04:07:49.6|Info|DownloadDecisionMaker|No results found
+2026-09-18 04:07:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 04:22:49.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 04:22:49.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 04:22:49.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 04:22:49.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 04:37:49.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 04:37:49.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 04:37:49.9|Info|DownloadDecisionMaker|No results found
+2026-09-18 04:37:49.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 04:52:50.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 04:52:50.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 04:52:50.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 04:52:50.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 05:07:50.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 05:07:50.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 05:07:50.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 05:07:50.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 05:22:50.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 05:22:50.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 05:22:50.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 05:22:50.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 05:37:50.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 05:37:50.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 05:37:50.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 05:37:50.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 05:52:50.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 05:52:50.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 05:52:50.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 05:52:50.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 06:07:50.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 06:07:50.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 06:07:50.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 06:07:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 06:22:51.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 06:22:51.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 06:22:51.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 06:22:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 06:37:51.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 06:37:51.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 06:37:51.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 06:37:51.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 06:52:51.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 06:52:51.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 06:52:51.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 06:52:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 07:07:51.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 07:07:51.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 07:07:51.6|Info|DownloadDecisionMaker|No results found
+2026-09-18 07:07:51.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 07:22:51.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 07:22:51.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 07:22:51.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 07:22:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 07:37:51.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 07:37:51.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 07:37:51.9|Info|DownloadDecisionMaker|No results found
+2026-09-18 07:37:51.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 07:52:52.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 07:52:52.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 07:52:52.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 07:52:52.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 08:07:52.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 08:07:52.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 08:07:52.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 08:07:52.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 08:22:52.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 08:22:52.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 08:22:52.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 08:22:52.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 08:37:52.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 08:37:52.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 08:37:52.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 08:37:52.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 08:52:52.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 08:52:52.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 08:52:52.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 08:52:52.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 09:07:52.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 09:07:52.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 09:07:52.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 09:07:52.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 09:22:53.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 09:22:53.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 09:22:53.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 09:22:53.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 09:37:53.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 09:37:53.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 09:37:53.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 09:37:53.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 09:52:53.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 09:52:53.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 09:52:53.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 09:52:53.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 10:07:53.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 10:07:53.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 10:07:53.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 10:07:53.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 10:22:53.6|Info|RssSyncService|Starting RSS Sync
+2026-09-18 10:22:53.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 10:22:53.6|Info|DownloadDecisionMaker|No results found
+2026-09-18 10:22:53.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 10:37:53.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 10:37:53.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 10:37:53.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 10:37:53.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 10:52:53.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 10:52:53.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 10:52:53.9|Info|DownloadDecisionMaker|No results found
+2026-09-18 10:52:53.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 11:07:54.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 11:07:54.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 11:07:54.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 11:07:54.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 11:22:54.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 11:22:54.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 11:22:54.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 11:22:54.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 11:37:54.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 11:37:54.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 11:37:54.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 11:37:54.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 11:52:54.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 11:52:54.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 11:52:54.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 11:52:54.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 12:07:54.6|Info|RssSyncService|Starting RSS Sync
+2026-09-18 12:07:54.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 12:07:54.6|Info|DownloadDecisionMaker|No results found
+2026-09-18 12:07:54.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 12:22:54.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 12:22:54.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 12:22:54.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 12:22:54.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 12:37:54.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 12:37:55.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 12:37:55.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 12:37:55.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 12:52:55.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 12:52:55.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 12:52:55.1|Info|DownloadDecisionMaker|No results found
+2026-09-18 12:52:55.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 13:07:55.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 13:07:55.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 13:07:55.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 13:07:55.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 13:22:55.4|Info|RssSyncService|Starting RSS Sync
+2026-09-18 13:22:55.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 13:22:55.4|Info|DownloadDecisionMaker|No results found
+2026-09-18 13:22:55.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 13:37:55.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 13:37:55.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 13:37:55.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 13:37:55.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 13:52:55.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 13:52:55.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 13:52:55.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 13:52:55.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 14:07:55.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 14:07:55.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 14:07:55.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 14:07:55.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 14:22:56.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 14:22:56.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 14:22:56.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 14:22:56.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 14:37:56.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 14:37:56.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 14:37:56.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 14:37:56.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 14:52:56.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 14:52:56.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 14:52:56.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 14:52:56.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 15:07:56.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 15:07:56.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 15:07:56.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 15:07:56.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 15:22:56.6|Info|RssSyncService|Starting RSS Sync
+2026-09-18 15:22:56.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 15:22:56.6|Info|DownloadDecisionMaker|No results found
+2026-09-18 15:22:56.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 15:37:56.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 15:37:56.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 15:37:56.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 15:37:56.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 15:52:57.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 15:52:57.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 15:52:57.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 15:52:57.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 16:07:57.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 16:07:57.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 16:07:57.1|Info|DownloadDecisionMaker|No results found
+2026-09-18 16:07:57.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 16:22:57.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 16:22:57.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 16:22:57.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 16:22:57.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 16:37:57.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 16:37:57.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 16:37:57.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 16:37:57.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 16:52:57.6|Info|RssSyncService|Starting RSS Sync
+2026-09-18 16:52:57.6|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 16:52:57.6|Info|DownloadDecisionMaker|No results found
+2026-09-18 16:52:57.6|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 17:07:57.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 17:07:57.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 17:07:57.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 17:07:57.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 17:22:57.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 17:22:57.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 17:22:57.9|Info|DownloadDecisionMaker|No results found
+2026-09-18 17:22:57.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 17:37:58.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 17:37:58.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 17:37:58.1|Info|DownloadDecisionMaker|No results found
+2026-09-18 17:37:58.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 17:52:58.2|Info|RssSyncService|Starting RSS Sync
+2026-09-18 17:52:58.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 17:52:58.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 17:52:58.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 18:07:58.4|Info|RssSyncService|Starting RSS Sync
+2026-09-18 18:07:58.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 18:07:58.4|Info|DownloadDecisionMaker|No results found
+2026-09-18 18:07:58.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 18:22:58.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 18:22:58.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 18:22:58.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 18:22:58.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 18:37:58.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 18:37:58.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 18:37:58.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 18:37:58.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 18:52:58.8|Info|RssSyncService|Starting RSS Sync
+2026-09-18 18:52:58.8|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 18:52:58.8|Info|DownloadDecisionMaker|No results found
+2026-09-18 18:52:58.8|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 19:07:59.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 19:07:59.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 19:07:59.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 19:07:59.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 19:22:59.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 19:22:59.1|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 19:22:59.1|Info|DownloadDecisionMaker|No results found
+2026-09-18 19:22:59.1|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 19:28:29.5|Info|HousekeepingService|Running housecleaning tasks
+2026-09-18 19:28:29.5|Info|TrackGroupingService|Grouping 0 tracks
+2026-09-18 19:28:29.5|Info|ImportApprovedTracks|Importing 0 tracks
+2026-09-18 19:28:29.6|Info|Database|Vacuuming Log database
+2026-09-18 19:28:29.6|Info|Database|Log database compressed
+2026-09-18 19:28:29.6|Info|Database|Vacuuming Main database
+2026-09-18 19:28:29.6|Info|Database|Main database compressed
+2026-09-18 19:37:59.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 19:37:59.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 19:37:59.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 19:37:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 19:52:59.7|Info|RssSyncService|Starting RSS Sync
+2026-09-18 19:52:59.7|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 19:52:59.7|Info|DownloadDecisionMaker|No results found
+2026-09-18 19:52:59.7|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 20:07:59.9|Info|RssSyncService|Starting RSS Sync
+2026-09-18 20:07:59.9|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 20:07:59.9|Info|DownloadDecisionMaker|No results found
+2026-09-18 20:07:59.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 20:23:00.0|Info|RssSyncService|Starting RSS Sync
+2026-09-18 20:23:00.0|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 20:23:00.0|Info|DownloadDecisionMaker|No results found
+2026-09-18 20:23:00.0|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 20:38:00.1|Info|RssSyncService|Starting RSS Sync
+2026-09-18 20:38:00.2|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 20:38:00.2|Info|DownloadDecisionMaker|No results found
+2026-09-18 20:38:00.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 20:53:00.3|Info|RssSyncService|Starting RSS Sync
+2026-09-18 20:53:00.3|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 20:53:00.3|Info|DownloadDecisionMaker|No results found
+2026-09-18 20:53:00.3|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 21:08:00.4|Info|RssSyncService|Starting RSS Sync
+2026-09-18 21:08:00.4|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 21:08:00.4|Info|DownloadDecisionMaker|No results found
+2026-09-18 21:08:00.4|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2026-09-18 21:23:00.5|Info|RssSyncService|Starting RSS Sync
+2026-09-18 21:23:00.5|Warn|FetchAndParseRssService|No available indexers. check your configuration.
+2026-09-18 21:23:00.5|Info|DownloadDecisionMaker|No results found
+2026-09-18 21:23:00.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0

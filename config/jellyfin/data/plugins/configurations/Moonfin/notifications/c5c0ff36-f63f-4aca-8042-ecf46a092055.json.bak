@@ -3,7 +3,7 @@
   "notifyOnNewRequests": true,
   "notifyOnLibraryAdded": true,
   "notifyOnIssues": true,
-  "notifyOnNewMedia": false,
+  "notifyOnNewMedia": true,
   "devices": [
     {
       "token": "fITBpjhGTeitoQi4WdfBCy:APA91bH8SlCrAHzXWTYh0_lqaSICsJ30jfaKnG8cLlIZyZizoE4zaN6QAjXuufPqU-T-Z53GEPq26fMJI2uiyWEtlc-9kyQR5ghTPQVncx9kJQJQHdqQ3js",

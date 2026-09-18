@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "## Changelog\n- Multi-Episode files will now be shown with their correct index range\n- Virtual seasons will now be displayed in the preview if real files exists",
+  "description": "Adds episode preview functionality to Jellyfin.",
+  "guid": "73833d5f-0bcb-45dc-ab8b-7ce668f4345d",
+  "name": "InPlayerEpisodePreview",
+  "overview": "Adds an overview of episode data inside the video player.",
+  "owner": "Namo",
+  "targetAbi": "12.0",
+  "timestamp": "2026-09-13T10:09:42.0000000Z",
+  "version": "2.3.0.3",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/InPlayerEpisodePreview_2.3.0.3/logo.png",
+  "assemblies": []
+}

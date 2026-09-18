@@ -1,0 +1,788 @@
+{"Protocol":0,"Id":"74abc491334f8f498992ad3146dc04ad","Path":"/data/tvshows/Game Changer (2019)/Season 8/Game Changer - S08E09 - I Spy.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":2032161664,"Name":"Game Changer - S08E09 - I Spy","IsRemote":false,"ETag":"674dd28289554bada74aaef5ec19fb2b","RunTimeTicks":32101330000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"LocalizedLanguage":null,"LocalizedOriginal":null,"DisplayTitle":"1080p H264 SDR","NalLengthSize":"4","IsInterlaced":false,"IsAVC":true,"ChannelLayout":null,"BitRate":4872060,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":1080,"Width":1920,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"High","Type":1,"AspectRatio":"16:9","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":42,"IsAnamorphic":false},{"Codec":"aac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Vimeo Isopod Audio Handler","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"LocalizedLanguage":"English","LocalizedOriginal":"Original","DisplayTitle":"Vimeo Isopod Audio Handler - English - AAC - Stereo - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"stereo","BitRate":189375,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"SDH","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"SDH - English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":5064367,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -fflags +genpts  -i file:"/data/tvshows/Game Changer (2019)/Season 8/Game Changer - S08E09 - I Spy.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:1 -map -0:s -codec:v:0 copy -bsf:v h264_mp4toannexb -start_at_zero -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "37ab5d4d29070e09058cef93e991eba4-1.mp4" -start_number 0 -hls_segment_filename "/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4%d.mp4" -hls_playlist_type vod -hls_list_size 0 -hls_segment_options movflags=+frag_discont+skip_sidx -y "/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4.m3u8"
+
+
+ffmpeg version 8.1.2-Jellyfin Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 15 (Ubuntu 15.2.0-16ubuntu1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-unstable --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --disable-xlib --disable-sdl2 --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vulkan-static --enable-vaapi --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc --arch=amd64 --enable-libvpl --enable-amf
+  libavutil      60. 26.102 / 60. 26.102
+  libavcodec     62. 28.102 / 62. 28.102
+  libavformat    62. 12.102 / 62. 12.102
+  libavdevice    62.  3.102 / 62.  3.102
+  libavfilter    11. 14.102 / 11. 14.102
+  libswscale      9.  5.102 /  9.  5.102
+  libswresample   6.  3.102 /  6.  3.102
+Input #0, matroska,webm, from 'file:/data/tvshows/Game Changer (2019)/Season 8/Game Changer - S08E09 - I Spy.mkv':
+  Metadata:
+    MINOR_VERSION   : 0
+    creation_time   : 2026-09-07T23:04:43.000000Z
+    COMPATIBLE_BRANDS: dashmp42iso6avc1
+    MAJOR_BRAND     : dash
+    ENCODER         : Lavf61.7.100
+  Duration: 00:53:30.13, start: 0.000000, bitrate: 5064 kb/s
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080, SAR 1:1 DAR 16:9, 23.98 fps, 23.98 tbr, 1k tbn, start 0.043000 (default)
+    Metadata:
+      HANDLER_NAME    : Vimeo Isopod Video Handler
+      VENDOR_ID       : [0][0][0][0]
+      ENCODER         : AVC Coding
+      BPS             : 4872060
+      DURATION        : 00:53:30.082000000
+      NUMBER_OF_FRAMES: 76965
+      NUMBER_OF_BYTES : 1954964410
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(eng): Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+    Metadata:
+      HANDLER_NAME    : Vimeo Isopod Audio Handler
+      VENDOR_ID       : [0][0][0][0]
+      BPS             : 189375
+      DURATION        : 00:53:30.133000000
+      NUMBER_OF_FRAMES: 150475
+      NUMBER_OF_BYTES : 75989876
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(eng): Subtitle: subrip (srt)
+    Metadata:
+      BPS             : 140
+      DURATION        : 00:52:59.224000000
+      NUMBER_OF_FRAMES: 1713
+      NUMBER_OF_BYTES : 55770
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Subtitle: subrip (srt)
+    Metadata:
+      title           : SDH
+      BPS             : 149
+      DURATION        : 00:53:19.809000000
+      NUMBER_OF_FRAMES: 1764
+      NUMBER_OF_BYTES : 59639
+      _STATISTICS_WRITING_APP: mkvmerge v94.0 ('Initiate') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-09-07 23:04:43
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4-1.mp4' for writing
+Output #0, hls, to '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4.m3u8':
+  Metadata:
+    encoder         : Lavf62.12.102
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 23.98 tbr, 16k tbn (default)
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp (default)
+Press [q] to stop, [?] for help
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba40.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba41.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba42.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba43.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 1151992 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba44.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba45.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba46.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba47.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba48.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 2592760 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba49.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba410.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba411.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba412.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba413.mp4' for writing
+frame= 2105 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x elapsed=0:00:00.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba414.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 4321288 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba415.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 4609000 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba416.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba417.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba418.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba419.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba420.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba421.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba422.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba423.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba424.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba425.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba426.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba427.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba428.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 8354824 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba429.mp4' for writing
+frame= 4354 fps=4353 q=-1.0 size=N/A time=00:01:33.71 bitrate=N/A speed=93.7x elapsed=0:00:01.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba430.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba431.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba432.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba433.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba434.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 10082296 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba435.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba436.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba437.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba438.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba439.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba440.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba441.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba442.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba443.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 12675064 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+frame= 6356 fps=4236 q=-1.0 size=N/A time=00:02:57.21 bitrate=N/A speed= 118x elapsed=0:00:01.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba444.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 12963832 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba445.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba446.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba447.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba448.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba449.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 14402536 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba450.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba451.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba452.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba453.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba454.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba455.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba456.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba457.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba458.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 16997368 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+frame= 8616 fps=4307 q=-1.0 size=N/A time=00:04:31.48 bitrate=N/A speed= 136x elapsed=0:00:02.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba459.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba460.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba461.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba462.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba463.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba464.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba465.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba466.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba467.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba468.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba469.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 20164600 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba470.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba471.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba472.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba473.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba474.mp4' for writing
+frame=10831 fps=4331 q=-1.0 size=N/A time=00:06:03.86 bitrate=N/A speed= 146x elapsed=0:00:02.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba475.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba476.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba477.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba478.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba479.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba480.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba481.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba482.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba483.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba484.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba485.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba486.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba487.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba488.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba489.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 25926664 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+frame=13006 fps=4334 q=-1.0 size=N/A time=00:07:34.57 bitrate=N/A speed= 151x elapsed=0:00:03.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba490.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba491.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba492.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba493.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba494.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba495.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba496.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba497.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba498.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 28521448 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba499.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4100.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4101.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4102.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4103.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4104.mp4' for writing
+frame=15111 fps=4316 q=-1.0 size=N/A time=00:09:02.37 bitrate=N/A speed= 155x elapsed=0:00:03.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4105.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4106.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4107.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4108.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4109.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4110.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4111.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 32265208 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4112.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 32552968 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4113.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 32841736 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4114.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4115.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4116.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4117.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4118.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4119.mp4' for writing
+frame=17324 fps=4330 q=-1.0 size=N/A time=00:10:34.71 bitrate=N/A speed= 159x elapsed=0:00:04.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4120.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4121.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 35145736 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4122.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4123.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4124.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4125.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4126.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4127.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4128.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 37164040 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4129.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4130.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4131.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4132.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4133.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4134.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4135.mp4' for writing
+frame=19680 fps=4372 q=-1.0 size=N/A time=00:12:12.98 bitrate=N/A speed= 163x elapsed=0:00:04.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4136.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4137.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4138.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4139.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4140.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4141.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4142.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4143.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4144.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4145.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4146.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4147.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 42637288 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4148.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 42925048 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4149.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4150.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4151.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4152.mp4' for writing
+frame=22099 fps=4419 q=-1.0 size=N/A time=00:13:53.83 bitrate=N/A speed= 167x elapsed=0:00:05.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4153.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4154.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4155.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4156.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4157.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4158.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4159.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 46092280 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4160.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 46381048 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4161.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4162.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 46957576 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4163.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4164.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4165.mp4' for writing
+frame=24032 fps=4368 q=-1.0 size=N/A time=00:15:14.45 bitrate=N/A speed= 166x elapsed=0:00:05.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4166.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4167.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4168.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 48687112 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4169.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4170.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4171.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4172.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4173.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4174.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4175.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4176.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4177.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4178.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4179.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4180.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4181.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4182.mp4' for writing
+frame=26436 fps=4405 q=-1.0 size=N/A time=00:16:54.72 bitrate=N/A speed= 169x elapsed=0:00:06.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4183.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4184.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 53296120 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4185.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4186.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4187.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4188.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4189.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4190.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4191.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4192.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4193.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 55888888 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4194.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4195.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4196.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4197.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4198.mp4' for writing
+frame=28658 fps=4408 q=-1.0 size=N/A time=00:18:27.39 bitrate=N/A speed= 170x elapsed=0:00:06.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4199.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4200.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4201.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4202.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4203.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4204.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4205.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4206.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 59618296 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4207.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4208.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4209.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4210.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4211.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4212.mp4' for writing
+frame=30758 fps=4393 q=-1.0 size=N/A time=00:19:54.98 bitrate=N/A speed= 171x elapsed=0:00:07.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4213.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4214.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4215.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 62226424 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4216.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4217.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4218.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4219.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4220.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4221.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4222.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4223.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4224.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 64819192 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4225.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4226.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4227.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4228.mp4' for writing
+frame=33062 fps=4407 q=-1.0 size=N/A time=00:21:31.08 bitrate=N/A speed= 172x elapsed=0:00:07.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4229.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4230.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 66546664 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4231.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4232.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4233.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4234.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4235.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4236.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4237.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4238.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4239.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4240.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4241.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4242.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4243.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4244.mp4' for writing
+frame=35356 fps=4418 q=-1.0 size=N/A time=00:23:06.76 bitrate=N/A speed= 173x elapsed=0:00:08.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4245.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4246.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4247.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4248.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4249.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 72020968 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4250.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4251.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4252.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4253.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4254.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4255.mp4' for writing
+frame=36984 fps=4350 q=-1.0 size=N/A time=00:24:14.66 bitrate=N/A speed= 171x elapsed=0:00:08.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4256.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 74038264 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4257.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4258.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4259.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4260.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4261.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4262.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4263.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4264.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4265.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4266.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4267.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4268.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4269.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4270.mp4' for writing
+frame=39084 fps=4341 q=-1.0 size=N/A time=00:25:42.24 bitrate=N/A speed= 171x elapsed=0:00:09.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4271.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4272.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4273.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4274.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4275.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4276.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4277.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4278.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4279.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4280.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4281.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4282.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4283.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 81816568 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4284.mp4' for writing
+frame=41069 fps=4322 q=-1.0 size=N/A time=00:27:05.08 bitrate=N/A speed= 171x elapsed=0:00:09.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4285.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4286.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4287.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4288.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4289.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4290.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4291.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4292.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4293.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4294.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4295.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4296.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4297.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4298.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 86138872 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4299.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4300.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4301.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4302.mp4' for writing
+frame=43626 fps=4361 q=-1.0 size=N/A time=00:28:51.68 bitrate=N/A speed= 173x elapsed=0:00:10.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4303.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 87566344 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4304.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4305.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 88155112 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4306.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4307.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4308.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4309.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 89306104 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4310.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4311.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 89882632 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4312.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4313.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4314.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4315.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 91007992 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+frame=45584 fps=4340 q=-1.0 size=N/A time=00:30:13.35 bitrate=N/A speed= 173x elapsed=0:00:10.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4316.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4317.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4318.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4319.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4320.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4321.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4322.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4323.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4324.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4325.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 93916168 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4326.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4327.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 94471144 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4328.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 94781416 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4329.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4330.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4331.mp4' for writing
+frame=47868 fps=4350 q=-1.0 size=N/A time=00:31:48.69 bitrate=N/A speed= 173x elapsed=0:00:11.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4332.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4333.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4334.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4335.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4336.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4337.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4338.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4339.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4340.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 98236408 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4341.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 98523112 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4342.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4343.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 99101704 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4344.mp4' for writing
+frame=49744 fps=4324 q=-1.0 size=N/A time=00:33:06.94 bitrate=N/A speed= 173x elapsed=0:00:11.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4345.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 99661816 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4346.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4347.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 100254712 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4348.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4349.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4350.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 101117944 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4351.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4352.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4353.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 101960680 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4354.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4355.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4356.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4357.mp4' for writing
+frame=51529 fps=4293 q=-1.0 size=N/A time=00:34:21.31 bitrate=N/A speed= 172x elapsed=0:00:12.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4358.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4359.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4360.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4361.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4362.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4363.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4364.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4365.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4366.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4367.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4368.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4369.mp4' for writing
+frame=53244 fps=4258 q=-1.0 size=N/A time=00:35:32.83 bitrate=N/A speed= 171x elapsed=0:00:12.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4370.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4371.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4372.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4373.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4374.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4375.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4376.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4377.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 108882952 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4378.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4379.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4380.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4381.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 110048248 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4382.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4383.mp4' for writing
+frame=55332 fps=4255 q=-1.0 size=N/A time=00:36:59.92 bitrate=N/A speed= 171x elapsed=0:00:13.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4384.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4385.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4386.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 111490024 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4387.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4388.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4389.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 112353256 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4390.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4391.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4392.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4393.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4394.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4395.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4396.mp4' for writing
+frame=57273 fps=4241 q=-1.0 size=N/A time=00:38:20.88 bitrate=N/A speed= 170x elapsed=0:00:13.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4397.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4398.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4399.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 115233784 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4400.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4401.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4402.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 116082664 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4403.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4404.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4405.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4406.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4407.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4408.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4409.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4410.mp4' for writing
+frame=59279 fps=4233 q=-1.0 size=N/A time=00:39:44.54 bitrate=N/A speed= 170x elapsed=0:00:14.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4411.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 118673416 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4412.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 118979560 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4413.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4414.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4415.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4416.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4417.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4418.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4419.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4420.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4421.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4422.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4423.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4424.mp4' for writing
+frame=61302 fps=4226 q=-1.0 size=N/A time=00:41:08.92 bitrate=N/A speed= 170x elapsed=0:00:14.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4425.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4426.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 123013096 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4427.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4428.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4429.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4430.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 124165096 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4431.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4432.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4433.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4434.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4435.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4436.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4437.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4438.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4439.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4440.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4441.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4442.mp4' for writing
+frame=63890 fps=4258 q=-1.0 size=N/A time=00:42:56.86 bitrate=N/A speed= 172x elapsed=0:00:15.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4443.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4444.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4445.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4446.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4447.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4448.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4449.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 129638392 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4450.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4451.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4452.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4453.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 130791400 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4454.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4455.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 131367928 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4456.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4457.mp4' for writing
+frame=65958 fps=4254 q=-1.0 size=N/A time=00:44:23.24 bitrate=N/A speed= 172x elapsed=0:00:15.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4458.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4459.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4460.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4461.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4462.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4463.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4464.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4465.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4466.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4467.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4468.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4469.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 135399400 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4470.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4471.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4472.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4473.mp4' for writing
+frame=68317 fps=4268 q=-1.0 size=N/A time=00:46:01.50 bitrate=N/A speed= 173x elapsed=0:00:16.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4474.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4475.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4476.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4477.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4478.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4479.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4480.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4481.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4482.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4483.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4484.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4485.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4486.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4487.mp4' for writing
+frame=70318 fps=4260 q=-1.0 size=N/A time=00:47:24.96 bitrate=N/A speed= 172x elapsed=0:00:16.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4488.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4489.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4490.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4491.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4492.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4493.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4494.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4495.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 142886920 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4496.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4497.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4498.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 143756296 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4499.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4500.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 144288760 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4501.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4502.mp4' for writing
+frame=72382 fps=4256 q=-1.0 size=N/A time=00:48:51.05 bitrate=N/A speed= 172x elapsed=0:00:17.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4503.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4504.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4505.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 145772536 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4506.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4507.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4508.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4509.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4510.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4511.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4512.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 147787768 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4513.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 148076536 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4514.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4515.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4516.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4517.mp4' for writing
+frame=74641 fps=4264 q=-1.0 size=N/A time=00:50:25.35 bitrate=N/A speed= 173x elapsed=0:00:17.50    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4518.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4519.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4520.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4521.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4522.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4523.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4524.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4525.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4526.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4527.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4528.mp4' for writing
+[mp4 @ 0x5d8ff88947c0] Packet duration: -32 / dts: 152362984 in stream 1 is out of range
+[mp4 @ 0x5d8ff88947c0] pts has no value
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4529.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4530.mp4' for writing
+frame=76510 fps=4249 q=-1.0 size=N/A time=00:51:43.22 bitrate=N/A speed= 172x elapsed=0:00:18.00    
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4531.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4532.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4533.mp4' for writing
+[hls @ 0x5d8ff8867900] Opening '/config/cache/transcodes/37ab5d4d29070e09058cef93e991eba4534.mp4' for writing
+[out#0/hls @ 0x5d8ff8885700] video:1909227KiB audio:74209KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=76965 fps=4260 q=-1.0 Lsize=N/A time=00:52:02.20 bitrate=N/A speed= 173x elapsed=0:00:18.06    

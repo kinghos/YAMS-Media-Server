@@ -1,0 +1,16 @@
+{
+  "category": "MoviesAndShows",
+  "changelog": "- See the full changelog at [GitHub](https://github.com/intro-skipper/intro-skipper/releases/tag/12.0/v12.0.4.0)\n",
+  "description": "Analyzes the audio of television episodes and detects introduction sequences.",
+  "guid": "c83d86bb-a1e0-4c35-a113-e2101cf4ee6b",
+  "name": "Intro Skipper",
+  "overview": "Automatically detect and skip intros in television episodes",
+  "owner": "AbandonedCart, rlauuzo, jumoog (forked from ConfusedPolarBear)",
+  "targetAbi": "12.0.0.0",
+  "timestamp": "2026-09-11T12:15:53.0000000Z",
+  "version": "12.0.4.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/Intro Skipper_12.0.4.0/logo.png",
+  "assemblies": []
+}

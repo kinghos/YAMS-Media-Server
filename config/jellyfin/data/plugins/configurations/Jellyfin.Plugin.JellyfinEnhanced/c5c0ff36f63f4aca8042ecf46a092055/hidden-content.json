@@ -1,0 +1,22 @@
+{
+  "Items": {},
+  "Settings": {
+    "Enabled": true,
+    "FilterLibrary": true,
+    "FilterDiscovery": true,
+    "FilterUpcoming": true,
+    "FilterCalendar": true,
+    "FilterSearch": false,
+    "FilterRecommendations": true,
+    "FilterRequests": true,
+    "FilterNextUp": true,
+    "FilterContinueWatching": true,
+    "ShowHideButtons": true,
+    "ShowHideConfirmation": true,
+    "ShowButtonJellyseerr": true,
+    "ShowButtonLibrary": false,
+    "ShowButtonDetails": true,
+    "ShowButtonCast": false,
+    "ExperimentalHideCollections": false
+  }
+}

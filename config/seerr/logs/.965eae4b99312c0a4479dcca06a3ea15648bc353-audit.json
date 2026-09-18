@@ -9,6 +9,31 @@
             "date": 1789256369688,
             "name": "/app/config/logs/seerr-2026-09-13.log",
             "hash": "22d860b4bf573d33390eea87ddc99db7ab0457a3bef40abecd12dac9c9198ecd"
+        },
+        {
+            "date": 1789340400010,
+            "name": "/app/config/logs/seerr-2026-09-14.log",
+            "hash": "c2923d063d6aa797043ac106671365a98766efdb9a2579d06f6acf4274bb8f15"
+        },
+        {
+            "date": 1789426800014,
+            "name": "/app/config/logs/seerr-2026-09-15.log",
+            "hash": "71fc51879f3ae69fdc667ce07a54409014a40094d49ba2edf5d78fa3c192354b"
+        },
+        {
+            "date": 1789513200018,
+            "name": "/app/config/logs/seerr-2026-09-16.log",
+            "hash": "86b6df70dfff2ae7e41f73fd902a587b2eafc6f8bf2eb1b2acb430d8281cf3ae"
+        },
+        {
+            "date": 1789599600008,
+            "name": "/app/config/logs/seerr-2026-09-17.log",
+            "hash": "66d5c3b86656e5abd2ffb24d6b9021e2299e756e30a32e2edf071138bafbb521"
+        },
+        {
+            "date": 1789686000010,
+            "name": "/app/config/logs/seerr-2026-09-18.log",
+            "hash": "6b7e50e5a9bd80cb5c86537335a8e032bffde5b2a7e8f108a387acdd16183e17"
         }
     ],
     "hashType": "sha256"

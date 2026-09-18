@@ -1,0 +1,4112 @@
+1
+00:00:15,516 --> 00:00:17,266
+Järgmine kord teavita osakonnajuhti
+
+2
+00:00:17,267 --> 00:00:18,351
+enne, kui härg kaevus.
+
+3
+00:00:18,352 --> 00:00:19,644
+Tulin just sulle rääkima.
+
+4
+00:00:19,645 --> 00:00:20,770
+KAHEKSAS TUND
+KELL 14.00 - 15.00
+
+5
+00:00:20,771 --> 00:00:23,022
+- Vaadake, et kõik olemas oleks.
+- Teeme ära.
+
+6
+00:00:23,023 --> 00:00:26,275
+Mind kutsuti, sest läbisin
+küberrünnakute vältimise koolituse.
+
+7
+00:00:26,276 --> 00:00:27,860
+Siis ütle kõigile, mida teha.
+
+8
+00:00:27,861 --> 00:00:30,321
+Ei, aitäh. On parem,
+kui osakonnajuhataja...
+
+9
+00:00:30,322 --> 00:00:31,323
+Arvad või?
+
+10
+00:00:34,368 --> 00:00:36,035
+Kogunege kõik siia ringi.
+
+11
+00:00:36,036 --> 00:00:37,286
+Mida perset?
+
+12
+00:00:37,287 --> 00:00:39,247
+Võimalik küberrünnak.
+
+13
+00:00:39,248 --> 00:00:41,416
+Ei, kõik lülitati välja
+selle ärahoidmiseks.
+
+14
+00:00:43,252 --> 00:00:45,336
+Rahunege maha ja kuulake mind.
+
+15
+00:00:45,337 --> 00:00:47,672
+Nagu näete, oleme keskmise töötsooni
+
+16
+00:00:47,673 --> 00:00:48,674
+ümber kujundanud.
+
+17
+00:00:49,383 --> 00:00:52,134
+Haigla arvutid on küberrünnaku ohus.
+
+18
+00:00:52,135 --> 00:00:54,262
+Jätkame vana kooli stiilis analoogis.
+
+19
+00:00:54,263 --> 00:00:55,513
+- Kui kaua?
+- Hea küsimus.
+
+20
+00:00:55,514 --> 00:00:57,557
+IT-osakond lülitas kõik välja,
+
+21
+00:00:57,558 --> 00:00:59,892
+et neil oleks aega
+meie küberkaitset tugevdada.
+
+22
+00:00:59,893 --> 00:01:01,811
+Küsimus oli, et kui kauaks?
+
+23
+00:01:01,812 --> 00:01:04,314
+Raske öelda. Võibolla kuni 24 tunniks.
+
+24
+00:01:05,190 --> 00:01:07,650
+- Issand jumal.
+- Esimene ülesanne
+
+25
+00:01:07,651 --> 00:01:10,027
+on elektroonilised patsienditablood
+
+26
+00:01:10,028 --> 00:01:11,445
+tahvlitele üle kanda.
+
+27
+00:01:11,446 --> 00:01:13,573
+Palun öelge, et tabloodest tehti foto.
+
+28
+00:01:13,574 --> 00:01:14,657
+Jah, siin see on.
+
+29
+00:01:14,658 --> 00:01:15,492
+Hea küll.
+
+30
+00:01:18,954 --> 00:01:21,080
+See on veits udune.
+
+31
+00:01:21,081 --> 00:01:23,083
+Rohkem kui veits udune.
+
+32
+00:01:23,792 --> 00:01:25,836
+- Vabandust.
+- Issand.
+
+33
+00:01:26,753 --> 00:01:27,837
+Mina mäletan.
+
+34
+00:01:27,838 --> 00:01:30,089
+Oleks tore, kui kõik oma patsientide nimed
+
+35
+00:01:30,090 --> 00:01:32,049
+ja palatinumbrid meelde tuletaksid.
+
+36
+00:01:32,050 --> 00:01:33,801
+Ei, mul on see kõik meeles.
+
+37
+00:01:33,802 --> 00:01:36,346
+- Mis kõik?
+- Nimed, arstid, palatinumbrid.
+
+38
+00:01:37,097 --> 00:01:39,348
+Mul on fotograafiline mälu.
+
+39
+00:01:39,349 --> 00:01:41,058
+Tõsiselt, terve tabloo?
+
+40
+00:01:41,059 --> 00:01:43,227
+C12, Harlow Graham,
+
+41
+00:01:43,228 --> 00:01:46,272
+peavalu, kõhuvalu, ainult viipekeel.
+
+42
+00:01:46,273 --> 00:01:48,608
+Kurat, tõlk ootab mind.
+
+43
+00:01:48,609 --> 00:01:50,776
+- Kohe.
+- Patsientide privaatsuseks
+
+44
+00:01:50,777 --> 00:01:52,612
+kasutame kaebuste lühendeid.
+
+45
+00:01:52,613 --> 00:01:56,032
+Peavalu on PV, kõhuvalu KV, ja nii edasi.
+
+46
+00:01:56,033 --> 00:01:58,909
+C10, Jackson Davis, tekkiv psühhoos.
+
+47
+00:01:58,910 --> 00:02:00,661
+Javadi, läheb psühhiaatriasse.
+
+48
+00:02:00,662 --> 00:02:02,455
+Kreeka psii tähistab psühhoosi.
+
+49
+00:02:02,456 --> 00:02:05,709
+Lastepalatis on tundmatu beebi palavikuga,
+dr Mohan, ootab statsionaari.
+
+50
+00:02:06,251 --> 00:02:08,044
+Õed peavad kindla tsooni valima.
+
+51
+00:02:08,045 --> 00:02:10,087
+- N, C, S, Trauma.
+- Kus Dana on?
+
+52
+00:02:10,088 --> 00:02:11,631
+Vägistamisjuhtumi juures.
+
+53
+00:02:11,632 --> 00:02:13,341
+Ta peab läbivaatuse lõpuni jääma.
+
+54
+00:02:13,342 --> 00:02:16,052
+- See võib aega võtta.
+- Princessil on vanemõe kogemusi.
+
+55
+00:02:16,053 --> 00:02:17,511
+- Mitte väga.
+- Hea mõte.
+
+56
+00:02:17,512 --> 00:02:19,639
+Princess hakkab õdesid määrama.
+
+57
+00:02:19,640 --> 00:02:21,724
+- Järgmine.
+- C9, Roxy Hemler.
+
+58
+00:02:21,725 --> 00:02:23,059
+Lõppstaadiumis kopsuvähk.
+
+59
+00:02:23,060 --> 00:02:25,394
+Kas peame siin ootama,
+kuni ta tablood ette loeb?
+
+60
+00:02:25,395 --> 00:02:28,648
+Ei, käige patsientide juures
+ja tulge tagasi.
+
+61
+00:02:28,649 --> 00:02:29,940
+Aitäh.
+
+62
+00:02:29,941 --> 00:02:31,610
+Mitu tundi sa sülearvutiga töötad?
+
+63
+00:02:34,905 --> 00:02:37,490
+Vähemalt 8 tundi päevas. Ma töötan kodus.
+
+64
+00:02:37,491 --> 00:02:39,034
+Istud päev otsa laua taga?
+
+65
+00:02:41,578 --> 00:02:46,332
+Ei, ma istun kas diivanil
+või olen mõnikord voodis.
+
+66
+00:02:46,333 --> 00:02:50,002
+Sedasi istukil, et arvuti on süles.
+
+67
+00:02:50,003 --> 00:02:51,922
+Sa vaatad alati alla ekraanile?
+
+68
+00:02:52,881 --> 00:02:53,798
+Jah.
+
+69
+00:02:53,799 --> 00:02:56,677
+Ma katsun nüüd su kaelalihaseid.
+
+70
+00:03:04,476 --> 00:03:05,394
+See on valus.
+
+71
+00:03:06,937 --> 00:03:08,814
+Ma usun, et saame aidata.
+
+72
+00:03:09,398 --> 00:03:10,774
+Astuge ligi.
+
+73
+00:03:11,817 --> 00:03:13,109
+Kogunege siia.
+
+74
+00:03:13,110 --> 00:03:15,486
+Kuulake, see on meie kaardiriiul.
+
+75
+00:03:15,487 --> 00:03:18,572
+Nagu näete, on igal lahtril
+ja kinnitusalusel palatinumber.
+
+76
+00:03:18,573 --> 00:03:22,326
+Uut patsienti saades
+võtate uue kaardi T-süsteemist.
+
+77
+00:03:22,327 --> 00:03:27,415
+Valige kaart peamise kaebuse järgi.
+Otsige seda joonistuste abil.
+
+78
+00:03:27,416 --> 00:03:29,041
+Miks seal kaks keha on?
+
+79
+00:03:29,042 --> 00:03:31,210
+Trauma vasakul, meditsiiniline paremal.
+
+80
+00:03:31,211 --> 00:03:34,088
+Peavigastus on vasakul, peavalu paremal.
+
+81
+00:03:34,089 --> 00:03:36,716
+- Seal ujuvad kalad vetikate vahel?
+- Ei.
+
+82
+00:03:36,717 --> 00:03:38,008
+Need on mesilased rohus.
+
+83
+00:03:38,009 --> 00:03:40,845
+Putukahammustuste,
+nahalööbe ja allergiate jaoks.
+
+84
+00:03:40,846 --> 00:03:42,179
+Oletame näiteks,
+
+85
+00:03:42,180 --> 00:03:44,432
+et dr Al-Hashimil
+on uus kõhuvaluga patsient.
+
+86
+00:03:44,433 --> 00:03:49,228
+Anamneesis märkige ära kinnitatud asjad,
+nagu oksendamine ja kõhulahtisus.
+
+87
+00:03:49,229 --> 00:03:50,521
+Kaldkriipsuga tähistate
+
+88
+00:03:50,522 --> 00:03:53,357
+välistatud asju nagu reisid,
+haiged lähedased, palavik.
+
+89
+00:03:53,358 --> 00:03:57,278
+Füüsilisel läbivaatusel linnukesed
+vasakule kõige normaalse juurde
+
+90
+00:03:57,279 --> 00:04:00,239
+ja paremal ring ümber
+ebanormaalsete leidude. Küsimusi?
+
+91
+00:04:00,240 --> 00:04:02,743
+Kas generatiivse tehisaru
+programm töötab veel?
+
+92
+00:04:04,453 --> 00:04:05,494
+Mõnda aega mitte.
+
+93
+00:04:05,495 --> 00:04:08,790
+Spectralinki telefonid pange ära,
+need kasutavad netiühendust.
+
+94
+00:04:11,877 --> 00:04:14,086
+PTMC EMO. Kuulen, kiirabikeskus.
+
+95
+00:04:14,087 --> 00:04:16,213
+Nii kuuleme saabuvatest kiirabidest.
+
+96
+00:04:16,214 --> 00:04:18,841
+Aitäh. Kahe minuti pärast
+tuleb kõhuvalu ja palavik.
+
+97
+00:04:18,842 --> 00:04:20,342
+Kas kõik on seni selge?
+
+98
+00:04:20,343 --> 00:04:21,969
+Kuidas me ravimeid tellime?
+
+99
+00:04:21,970 --> 00:04:26,515
+Arsti tellimusvorm koopiatega labori,
+röntgeni, lahuste ja ravimite jaoks.
+
+100
+00:04:26,516 --> 00:04:28,601
+Kas laborid teevad vereanalüüse?
+
+101
+00:04:28,602 --> 00:04:30,603
+- Jah.
+- Kas KT-uuringud toimuvad?
+
+102
+00:04:30,604 --> 00:04:34,231
+Jah, aga radioloogid
+saadavad tulemusi paberil.
+
+103
+00:04:34,232 --> 00:04:35,441
+See on keskaeg.
+
+104
+00:04:35,442 --> 00:04:39,904
+Labori- ja röntgenitellimused
+lähevad kinnitamiseks sekretäridele.
+
+105
+00:04:39,905 --> 00:04:42,281
+Nemad kinnitavad need, lisavad seisakulehe
+
+106
+00:04:42,282 --> 00:04:43,950
+ja saadavad need õigesse osakonda.
+
+107
+00:04:44,075 --> 00:04:46,202
+- Kes on sekretärid?
+- Alati valmis.
+
+108
+00:04:46,203 --> 00:04:48,621
+Larry ja Antoine
+asendavad lisajõudude tulekuni.
+
+109
+00:04:48,622 --> 00:04:51,332
+- Saame hakkama.
+- Pärast tellimusi tõstetakse kaart
+
+110
+00:04:51,333 --> 00:04:54,794
+õdede riiulisse tilgutite,
+ravimite ja protseduuride jaoks.
+
+111
+00:04:54,795 --> 00:04:57,171
+Ravimid on automaadis kinni.
+
+112
+00:04:57,172 --> 00:05:00,800
+Automaadi avab
+kliiniline farmatseut dr Megan Nordt.
+
+113
+00:05:00,801 --> 00:05:02,384
+- Kõik toimib.
+- Seda on palju.
+
+114
+00:05:02,385 --> 00:05:03,720
+Küsimusi on? Jah.
+
+115
+00:05:05,013 --> 00:05:05,930
+Ei.
+
+116
+00:05:05,931 --> 00:05:07,223
+Mis kolmas riiul see on?
+
+117
+00:05:07,224 --> 00:05:09,099
+Kui patsient välja kirjutatakse,
+
+118
+00:05:09,100 --> 00:05:10,226
+läheb kaart siia.
+
+119
+00:05:10,227 --> 00:05:12,478
+Siis näevad kõik, et voodi jääb vabaks.
+
+120
+00:05:12,479 --> 00:05:14,189
+- Või et saab võileiba nosida.
+- Jesse?
+
+121
+00:05:16,817 --> 00:05:19,026
+- Mis see on?
+- Mis see veel on?
+
+122
+00:05:19,027 --> 00:05:22,112
+- See on faks.
+- Neid tehakse veel?
+
+123
+00:05:22,113 --> 00:05:23,739
+Ühenduseks labori ja röntgeniga.
+
+124
+00:05:23,740 --> 00:05:26,033
+Nad faksivad tulemused meile
+
+125
+00:05:26,034 --> 00:05:28,244
+ja sekretärid tõstavad
+need kaartidesse. Jah?
+
+126
+00:05:28,245 --> 00:05:30,162
+- Ju vist.
+- Patsient!
+
+127
+00:05:30,163 --> 00:05:33,999
+Hea küll. Dr McKay,
+dr Whitaker, Ogilvie minuga.
+
+128
+00:05:34,000 --> 00:05:35,961
+Teised panevad kaarte paika.
+
+129
+00:05:39,172 --> 00:05:40,381
+Howard Knox, 52,
+
+130
+00:05:40,382 --> 00:05:43,175
+kõhuvalu ja palavik, 152/90.
+
+131
+00:05:43,176 --> 00:05:46,387
+- Pulss 120, tilgutit ei saanud panna.
+- Ei tea, miks.
+
+132
+00:05:46,388 --> 00:05:49,014
+- Tere, mina olen dr Robby.
+- Howard.
+
+133
+00:05:49,015 --> 00:05:50,182
+See on õppehaigla.
+
+134
+00:05:50,183 --> 00:05:52,434
+Ma juhendan dr McKayd ja dr Whitakeri
+
+135
+00:05:52,435 --> 00:05:53,644
+ja õpilast Ogilviet.
+
+136
+00:05:53,645 --> 00:05:54,854
+- Tere.
+- Kuidas tunne on?
+
+137
+00:05:54,855 --> 00:05:56,146
+- Kehvake.
+- Olgu.
+
+138
+00:05:56,147 --> 00:05:58,358
+- Princess, mis vaba on?
+- Trauma 1. Perlah.
+
+139
+00:06:01,987 --> 00:06:05,114
+Mylantat ja bupivakaiini C12-sse.
+
+140
+00:06:05,115 --> 00:06:08,243
+Vale koht, dr Santos.
+Ja kleeps tuleb peale panna.
+
+141
+00:06:09,619 --> 00:06:11,537
+- No tore.
+- Pane õdede riiulisse
+
+142
+00:06:11,538 --> 00:06:13,038
+ja tule automaadi juurde.
+
+143
+00:06:13,039 --> 00:06:14,415
+Kui väga see imeb?
+
+144
+00:06:14,416 --> 00:06:16,208
+Arvasite, et täna ei lähe hullemaks?
+
+145
+00:06:16,209 --> 00:06:18,460
+Kui mina resident olin, käiski kõik nii.
+
+146
+00:06:18,461 --> 00:06:19,879
+Kas eelmisel sajandil?
+
+147
+00:06:19,880 --> 00:06:21,631
+Jah, kui kaarte küünlavalgel täideti.
+
+148
+00:06:22,382 --> 00:06:24,133
+Täna on seiklust oodata.
+
+149
+00:06:24,134 --> 00:06:25,969
+See on nagu "Tagasi tulevikku".
+
+150
+00:06:29,055 --> 00:06:30,931
+Või hoopis "Titanic".
+
+151
+00:06:30,932 --> 00:06:33,393
+Siin on sinu antatsiid. Terviseks.
+
+152
+00:06:34,102 --> 00:06:37,479
+Ja ma märkisin ära
+peavalu tekitava päästikpunkti.
+
+153
+00:06:37,480 --> 00:06:41,109
+Kohaliku tuimestuse süstist
+sellesse piirkonda võib abi olla.
+
+154
+00:06:42,569 --> 00:06:44,112
+- Jah, teeme ära.
+- Tore.
+
+155
+00:06:45,947 --> 00:06:50,160
+Sa tunned väikest
+nõelatorget ja kõrvetust.
+
+156
+00:06:58,668 --> 00:07:00,127
+See on väga valus.
+
+157
+00:07:00,128 --> 00:07:03,213
+Palavik 38,5, pulss 128,
+
+158
+00:07:03,214 --> 00:07:04,632
+verehapnik kahe liitriga 92.
+
+159
+00:07:04,633 --> 00:07:05,841
+Millal valu algas?
+
+160
+00:07:05,842 --> 00:07:08,427
+- Nädal aega on kestnud.
+- Kust valutab?
+
+161
+00:07:08,428 --> 00:07:09,345
+Igalt poolt.
+
+162
+00:07:09,346 --> 00:07:11,680
+Algas vasakult, aga paremalt valutab ka.
+
+163
+00:07:11,681 --> 00:07:14,266
+- Aga palavik?
+- Tekkis eile.
+
+164
+00:07:14,267 --> 00:07:17,478
+Ma olin väga tuline,
+aga siis tekkisid külmavärinad.
+
+165
+00:07:17,479 --> 00:07:18,479
+Ma ei leia veeni.
+
+166
+00:07:18,480 --> 00:07:20,607
+- Proovime kateetriga.
+- Öelge, kui valus on.
+
+167
+00:07:21,983 --> 00:07:23,984
+- Vabandust.
+- Aga siitpoolt?
+
+168
+00:07:23,985 --> 00:07:25,402
+- Jah.
+- Vabandust.
+
+169
+00:07:25,403 --> 00:07:28,656
+Pingutamine jäigastumiseta,
+100 fentanüüli lihasesse.
+
+170
+00:07:28,657 --> 00:07:33,077
+- Plaan, dr Whitaker?
+- Verekülv, laktaat, Zosyn.
+
+171
+00:07:33,078 --> 00:07:35,246
+Tuleb KT teha, et näha, mis toimub.
+
+172
+00:07:36,873 --> 00:07:38,916
+- Sedasi ei saa.
+- Jah.
+
+173
+00:07:38,917 --> 00:07:41,335
+- Kirjuta ilusa käekirjaga.
+- Howard, uuringuks
+
+174
+00:07:41,336 --> 00:07:43,921
+tuleb sind selili panna. Kas on tehtav?
+
+175
+00:07:43,922 --> 00:07:47,132
+10 aasta eest oli,
+aga nüüd on liiga raske hingata.
+
+176
+00:07:47,133 --> 00:07:49,218
+Kui pikali ei saa panna,
+paneme hingetorusse
+
+177
+00:07:49,219 --> 00:07:51,470
+hingamist hõlbustava toru. Kas sobib?
+
+178
+00:07:51,471 --> 00:07:54,264
+- Intubeerimine kiirinduktsiooniga?
+- Ta ei saa lamada.
+
+179
+00:07:54,265 --> 00:07:56,600
+Toru käib ninast sisse, kui ärkvel oled.
+
+180
+00:07:56,601 --> 00:07:57,643
+Just.
+
+181
+00:07:57,644 --> 00:07:59,853
+- On see valus?
+- Teeme tuimestuse.
+
+182
+00:07:59,854 --> 00:08:01,563
+Ebamugavustunnet pole.
+
+183
+00:08:01,564 --> 00:08:03,858
+Kas sa oma kaalu tead?
+
+184
+00:08:04,734 --> 00:08:06,110
+Pisut üle 180 kilo.
+
+185
+00:08:06,111 --> 00:08:08,654
+- Millal viimati kaalusid?
+- Päris ammu.
+
+186
+00:08:08,655 --> 00:08:11,240
+Kas sa võid üle 200 kilo kaaluda?
+
+187
+00:08:11,241 --> 00:08:12,158
+Võimalik.
+
+188
+00:08:13,493 --> 00:08:15,577
+Perlah, tellime tõstetooli.
+
+189
+00:08:15,578 --> 00:08:18,872
+Paneme toru sisse
+ja valmistame sind uuringuks ette.
+
+190
+00:08:18,873 --> 00:08:20,290
+Kas on midagi tõsist?
+
+191
+00:08:20,291 --> 00:08:22,084
+Ilma KT-ta ei või teada.
+
+192
+00:08:22,085 --> 00:08:25,587
+Ehk piisab antibiootikumidest,
+aga võite ka oppi vajada.
+
+193
+00:08:25,588 --> 00:08:27,006
+Kui opereerida tuleb,
+
+194
+00:08:27,007 --> 00:08:29,174
+muudab su kaal selle keeruliseks.
+
+195
+00:08:29,175 --> 00:08:30,217
+Ma tean. Vabandust.
+
+196
+00:08:30,218 --> 00:08:33,388
+Ole mureta, me hoolitseme
+sinu eest väga hästi. Tiim.
+
+197
+00:08:34,848 --> 00:08:36,432
+Annan valuvaigistit.
+
+198
+00:08:36,433 --> 00:08:40,519
+Proovime püsikateetrit
+küünarluumisesse nahaveeni ultraheliga.
+
+199
+00:08:40,520 --> 00:08:41,895
+Kas pimesoolepõletikku näeb?
+
+200
+00:08:41,896 --> 00:08:43,647
+Ta on ultraheli jaoks liiga suur.
+
+201
+00:08:43,648 --> 00:08:46,108
+Meie KT on ainult kuni 200 kilo jaoks.
+
+202
+00:08:46,109 --> 00:08:48,445
+Kui ta raskem on, saadame loomaaeda?
+
+203
+00:08:49,696 --> 00:08:50,822
+Ta kuuleb sind.
+
+204
+00:08:53,450 --> 00:08:56,285
+Kuulsin, et loomaaias
+on suurte loomade KT.
+
+205
+00:08:56,286 --> 00:09:00,415
+- Presby KT on kuni 300-kilostele.
+- Kui Presby veel töötab.
+
+206
+00:09:01,708 --> 00:09:03,208
+Ma ei kutsu kurja kaela...
+
+207
+00:09:03,209 --> 00:09:06,546
+Kas te olete ärkvel patsienti
+nina kaudu intubeerinud?
+
+208
+00:09:07,005 --> 00:09:07,921
+Hea küll.
+
+209
+00:09:07,922 --> 00:09:10,090
+Perlah, kutsu dr Al-Hashimi siia.
+
+210
+00:09:10,091 --> 00:09:11,341
+Mul on kedagi appi vaja.
+
+211
+00:09:11,342 --> 00:09:12,343
+Jah, kohe.
+
+212
+00:09:13,303 --> 00:09:14,512
+Vabandust. Allkirjastatud.
+
+213
+00:09:15,597 --> 00:09:17,139
+- Aitäh.
+- Koridorivoodi F,
+
+214
+00:09:17,140 --> 00:09:18,307
+George Francis.
+
+215
+00:09:18,308 --> 00:09:21,435
+Hingamisraskused,
+dr Mohan, ootab D-dimeere.
+
+216
+00:09:21,436 --> 00:09:23,312
+Tohoh, ta laseb ikka edasi?
+
+217
+00:09:23,313 --> 00:09:25,064
+Jah. Tõesti erakordne.
+
+218
+00:09:25,065 --> 00:09:27,024
+Dr Al, Robby kutsub teid.
+
+219
+00:09:27,025 --> 00:09:28,025
+Olgu.
+
+220
+00:09:28,026 --> 00:09:30,236
+- Olen traumas, kui mind vaja läheb.
+- Selge.
+
+221
+00:09:32,614 --> 00:09:34,948
+Kes seisakulehed
+röntgenisse ja laborisse viib?
+
+222
+00:09:34,949 --> 00:09:36,409
+Vanemõde.
+
+223
+00:09:37,827 --> 00:09:38,828
+Ära minu otsa vaata.
+
+224
+00:09:39,579 --> 00:09:40,455
+Mul on palju teha.
+
+225
+00:09:43,500 --> 00:09:46,960
+- Roxy Hemleri vanemad.
+- C9.
+
+226
+00:09:46,961 --> 00:09:48,128
+Ma aitan, Donnie.
+
+227
+00:09:48,129 --> 00:09:51,006
+Tere, mina olen
+arstiõpilane Victoria Javadi.
+
+228
+00:09:51,007 --> 00:09:52,966
+Olen aidanud Roxy eest hoolitseda.
+
+229
+00:09:52,967 --> 00:09:56,136
+- Suur tänu. Mina olen Lloyd.
+- Cora.
+
+230
+00:09:56,137 --> 00:09:57,429
+Väga meeldiv.
+
+231
+00:09:57,430 --> 00:09:58,348
+Ta murdis jala?
+
+232
+00:09:58,932 --> 00:10:01,141
+Jah, pahkluumurd.
+
+233
+00:10:01,142 --> 00:10:04,144
+Tal on nüüd saabas jalas,
+mis vähendab valu.
+
+234
+00:10:04,145 --> 00:10:05,897
+Ma viin teid üheksandasse.
+
+235
+00:10:11,861 --> 00:10:13,237
+Haigla wifi ei tööta.
+
+236
+00:10:13,238 --> 00:10:15,573
+See on mõnda aega maas. Vabandust.
+
+237
+00:10:16,533 --> 00:10:18,034
+Ema murdis jalaluu, vanaisa.
+
+238
+00:10:18,952 --> 00:10:19,953
+Kuulsime jah.
+
+239
+00:10:21,329 --> 00:10:22,288
+Kuidas läheb, kallis?
+
+240
+00:10:25,166 --> 00:10:26,668
+Sa pead vastu, tüdruk.
+
+241
+00:10:27,418 --> 00:10:28,294
+Jah.
+
+242
+00:10:29,838 --> 00:10:31,673
+Kui kauaks ta EMO-sse jääb?
+
+243
+00:10:32,298 --> 00:10:34,592
+Kuni üleval voodi vabaneb.
+
+244
+00:10:35,677 --> 00:10:36,845
+See võib aega võtta.
+
+245
+00:10:42,350 --> 00:10:43,851
+Siin on päris palju rahvast.
+
+246
+00:10:43,852 --> 00:10:45,894
+Viime Tuckeri ja Shane'i jäätist ostma.
+
+247
+00:10:45,895 --> 00:10:48,523
+- Jah, palun.
+- Ei, mina ei hooli.
+
+248
+00:10:49,607 --> 00:10:51,901
+Äkki soovib teie ema natuke puhata.
+
+249
+00:10:52,569 --> 00:10:54,404
+Jah, mine.
+
+250
+00:10:56,656 --> 00:10:57,866
+Kas jäätis on keelatud?
+
+251
+00:10:58,700 --> 00:11:00,326
+Ta võib süüa kõike, mida tahab.
+
+252
+00:11:02,162 --> 00:11:03,246
+Lähme siis.
+
+253
+00:11:14,340 --> 00:11:15,465
+Jah.
+
+254
+00:11:15,466 --> 00:11:16,342
+Kuulake.
+
+255
+00:11:17,218 --> 00:11:20,013
+See on oksümetasoliin,
+mis teeb nina lahti.
+
+256
+00:11:20,972 --> 00:11:22,681
+Mis ravimeid sa võtad?
+
+257
+00:11:22,682 --> 00:11:24,601
+Lisinopriili ja metformiini.
+
+258
+00:11:25,351 --> 00:11:27,060
+Ozempicut? Wegovyt?
+
+259
+00:11:27,061 --> 00:11:28,979
+Ei, need on kallid.
+
+260
+00:11:28,980 --> 00:11:30,939
+Pritsin tuimestavat geeli ninna.
+
+261
+00:11:30,940 --> 00:11:33,318
+Seda võib pisut kurku tilkuda.
+
+262
+00:11:34,652 --> 00:11:36,070
+Kui äkki vaja läheb.
+
+263
+00:11:36,738 --> 00:11:39,990
+Kas sa suitsetad? Tarvitad alkoholi?
+
+264
+00:11:39,991 --> 00:11:41,742
+- Mitte kunagi.
+- Trenni teed?
+
+265
+00:11:41,743 --> 00:11:43,703
+Liigun magamistoast kööki.
+
+266
+00:11:44,787 --> 00:11:45,913
+Ma kõnniksin rohkem,
+
+267
+00:11:45,914 --> 00:11:48,540
+aga vajan pidevalt pinke, kus puhata.
+
+268
+00:11:48,541 --> 00:11:50,083
+Aga veeaeroobika?
+
+269
+00:11:50,084 --> 00:11:52,336
+Keskendume hr Knoxi aitamisele.
+
+270
+00:11:52,337 --> 00:11:53,754
+Nõus.
+
+271
+00:11:53,755 --> 00:11:55,881
+Seis läks 25 aastaga nii hulluks.
+
+272
+00:11:55,882 --> 00:12:00,637
+Autoavarii, põletusosakond.
+Neli jalaoperatsiooni kümne aastaga.
+
+273
+00:12:01,387 --> 00:12:03,555
+Kaotasin töö, sest olin pidevalt ära.
+
+274
+00:12:03,556 --> 00:12:05,224
+Pean keelepära tuimestama.
+
+275
+00:12:05,225 --> 00:12:06,391
+See on halva maitsega.
+
+276
+00:12:06,392 --> 00:12:08,228
+Kas tahad, et helistame kellelegi?
+
+277
+00:12:09,562 --> 00:12:10,897
+On sul peret?
+
+278
+00:12:12,065 --> 00:12:13,524
+Mu vanemad on surnud.
+
+279
+00:12:14,025 --> 00:12:17,027
+- Ma olen vallaline. Oh üllatust.
+- Vennad-õed?
+
+280
+00:12:17,028 --> 00:12:18,321
+Õde elab Arizonas.
+
+281
+00:12:19,447 --> 00:12:20,865
+Me ei suhtle eriti.
+
+282
+00:12:21,491 --> 00:12:23,492
+Keelepära on tuimaks tehtud.
+
+283
+00:12:23,493 --> 00:12:25,370
+Nüüd saab sügavamalt tuimestada.
+
+284
+00:12:26,913 --> 00:12:27,829
+Andeks, et segan.
+
+285
+00:12:27,830 --> 00:12:30,540
+Mul on ootamatult
+pimedaks jäänud keskealine naine.
+
+286
+00:12:30,541 --> 00:12:32,251
+- Võin minna.
+- Hästi.
+
+287
+00:12:32,252 --> 00:12:33,252
+Saada Abbot siia.
+
+288
+00:12:33,253 --> 00:12:34,169
+- Jah.
+- Aitäh.
+
+289
+00:12:34,170 --> 00:12:37,631
+- Mis su õe nimi on?
+- Lauren Milford.
+
+290
+00:12:37,632 --> 00:12:38,549
+Kus Arizonas?
+
+291
+00:12:39,050 --> 00:12:40,550
+Vist Flagstaffis.
+
+292
+00:12:40,551 --> 00:12:43,388
+Lähen keele taha ja tuimestan häälepaelad.
+
+293
+00:12:46,432 --> 00:12:48,977
+- Mitu sõrme?
+- Ma ei näe sõrmi.
+
+294
+00:12:49,936 --> 00:12:50,812
+Aga nüüd?
+
+295
+00:12:51,938 --> 00:12:53,189
+Ma näen hämarat valgust.
+
+296
+00:12:54,774 --> 00:12:56,275
+Brooke, sa kohtusid dr Kingiga.
+
+297
+00:12:56,276 --> 00:12:58,193
+- See on dr Al-Hashimi.
+- Meeldiv.
+
+298
+00:12:58,194 --> 00:12:59,111
+Ja ta naine Wendy.
+
+299
+00:12:59,112 --> 00:13:00,237
+- Tere.
+- Tere.
+
+300
+00:13:00,238 --> 00:13:02,072
+Kas võime sümptomeid arutada?
+
+301
+00:13:02,073 --> 00:13:04,324
+Kui võin võimalikke vigu parandada.
+
+302
+00:13:04,325 --> 00:13:05,534
+Küll ta teebki seda.
+
+303
+00:13:05,535 --> 00:13:09,079
+Vasaku silma nägemine kadus
+järsku ja valutult tunni aja eest.
+
+304
+00:13:09,080 --> 00:13:12,040
+Puudub hüübimishäirete
+ja veresoonkonna haiguste minevik.
+
+305
+00:13:12,041 --> 00:13:13,625
+Vaadake otse ette.
+
+306
+00:13:13,626 --> 00:13:15,712
+Võib olla võrkkesta
+tsentraalarteri oklusioon.
+
+307
+00:13:16,421 --> 00:13:17,713
+Palun arusaadavalt.
+
+308
+00:13:17,714 --> 00:13:21,341
+Väike veretromb võib
+silmataguse arteri sulgeda
+
+309
+00:13:21,342 --> 00:13:22,592
+ja nägemist halvendada.
+
+310
+00:13:22,593 --> 00:13:24,094
+Kutsutakse ka silma insuldiks.
+
+311
+00:13:24,095 --> 00:13:26,221
+Insuldiks? Ta võib halvatuks jääda?
+
+312
+00:13:26,222 --> 00:13:28,557
+Ei, see piirduks silmaga.
+
+313
+00:13:28,558 --> 00:13:31,269
+- Kas see on püsiv?
+- Enne tuleb diagnoos panna.
+
+314
+00:13:31,853 --> 00:13:32,769
+Võrkkesta uuring?
+
+315
+00:13:32,770 --> 00:13:34,229
+Keeruline on näha.
+
+316
+00:13:34,230 --> 00:13:35,606
+Fundust on vaja.
+
+317
+00:13:36,149 --> 00:13:37,358
+Mida?
+
+318
+00:13:39,902 --> 00:13:43,447
+Princess, tellimuslehtedele
+tuleb patsiendikleepsud panna,
+
+319
+00:13:43,448 --> 00:13:45,741
+muidu ei tea apteek,
+kellele ravimeid anda.
+
+320
+00:13:45,742 --> 00:13:46,783
+Saab tehtud.
+
+321
+00:13:46,784 --> 00:13:48,619
+Princess, nutitelefoni funduskoop.
+
+322
+00:13:49,245 --> 00:13:51,121
+- Silmakäru on koridoris.
+- Aitäh.
+
+323
+00:13:51,122 --> 00:13:53,249
+Sa paistad segaduses olevat.
+
+324
+00:13:53,750 --> 00:13:55,709
+Kust ma tean, milline uus patsient võtta?
+
+325
+00:13:55,710 --> 00:13:58,086
+Ülevalt. Nad on
+saabumise järjekorras kirjas.
+
+326
+00:13:58,087 --> 00:14:01,089
+Kustutad ülemise ja lisad oma nimetähed.
+
+327
+00:14:01,090 --> 00:14:03,008
+- Olgu. Aitäh.
+- Caleb.
+
+328
+00:14:03,009 --> 00:14:05,093
+Michael, saad kaoses hakkama?
+
+329
+00:14:05,094 --> 00:14:07,805
+See on lihtne, kui lõpp juba paistab.
+
+330
+00:14:08,348 --> 00:14:10,641
+Kas on veel koomapatsiente,
+kellega rääkida?
+
+331
+00:14:12,518 --> 00:14:13,435
+Ma teen nalja.
+
+332
+00:14:13,436 --> 00:14:17,314
+- Hea küll.
+- Victoria, see on Nicole Steadman.
+
+333
+00:14:17,315 --> 00:14:19,941
+Psühhiaatriateenistuse
+vanemate tugirühmast.
+
+334
+00:14:19,942 --> 00:14:23,195
+Nicole'i tütar sai 2. kursusel diagnoosi.
+
+335
+00:14:23,196 --> 00:14:25,907
+Arvad, et Jacksoni vanemad
+sooviksid temaga rääkida?
+
+336
+00:14:26,657 --> 00:14:27,742
+Võime küll küsida.
+
+337
+00:14:28,368 --> 00:14:31,662
+Nüüd näeme tervet võrkkesta
+pupilli laiendamata.
+
+338
+00:14:32,705 --> 00:14:36,459
+- Te vaatate valet silma.
+- Alustame võrdluseks terve silmaga.
+
+339
+00:14:38,711 --> 00:14:40,879
+- Võrkkest on terve.
+- Nüüd pime silm?
+
+340
+00:14:40,880 --> 00:14:42,215
+Silmad pärani lahti.
+
+341
+00:14:44,509 --> 00:14:45,468
+Kuidas paistab?
+
+342
+00:14:46,260 --> 00:14:47,552
+Väga kahvatu, verevooluta.
+
+343
+00:14:47,553 --> 00:14:49,846
+Digitaalne massaaž 10 sekundi kaupa.
+
+344
+00:14:49,847 --> 00:14:51,140
+Pea KT kontrastaineta.
+
+345
+00:14:54,936 --> 00:14:55,853
+Sisse.
+
+346
+00:14:57,188 --> 00:14:58,940
+Tere. Kuulsin, et su patsient lahkus.
+
+347
+00:14:59,649 --> 00:15:01,984
+- Peab veidi vahet.
+- Kui kaua sa ootad?
+
+348
+00:15:03,569 --> 00:15:05,320
+Kübersulgemisest kuulsid?
+
+349
+00:15:05,321 --> 00:15:07,030
+Jah, tahaksin aidata,
+
+350
+00:15:07,031 --> 00:15:09,616
+aga jään siia, kuni asitõendid on kogutud.
+
+351
+00:15:09,617 --> 00:15:11,243
+Seal on suur jama.
+
+352
+00:15:11,244 --> 00:15:12,578
+Nagu terve see päev.
+
+353
+00:15:14,288 --> 00:15:15,623
+Vabandust, juba lähen.
+
+354
+00:15:16,290 --> 00:15:17,208
+Kõik hästi?
+
+355
+00:15:18,376 --> 00:15:19,210
+Korras.
+
+356
+00:15:20,044 --> 00:15:22,671
+Rõõm kuulda. Käisid söömas?
+
+357
+00:15:22,672 --> 00:15:23,589
+Ei.
+
+358
+00:15:25,675 --> 00:15:27,009
+Jätkame.
+
+359
+00:15:27,844 --> 00:15:29,971
+Hea küll. Jah.
+
+360
+00:15:37,395 --> 00:15:38,896
+- No nii.
+- Aitäh.
+
+361
+00:15:40,731 --> 00:15:42,400
+Miks meil seda EMO-s pole?
+
+362
+00:15:43,192 --> 00:15:45,528
+Intubeeritud patsiendid
+on tavaliselt narkoosi all.
+
+363
+00:15:46,946 --> 00:15:48,071
+Nojah.
+
+364
+00:15:48,072 --> 00:15:51,576
+Võiksid tema kaalu kohta
+vähem kommentaare pilduda.
+
+365
+00:15:52,994 --> 00:15:56,204
+Tahtsin teada, kuidas ta
+nii suureks sai ja kuidas aidata.
+
+366
+00:15:56,205 --> 00:15:59,332
+Aitab see, kui viga kindlaks teha
+ja teda austusega kohelda.
+
+367
+00:15:59,333 --> 00:16:01,835
+- Kuidas kõhuga on?
+- Teisest süstist oli abi.
+
+368
+00:16:01,836 --> 00:16:03,545
+Olgu. Kui vaja, saab juurde.
+
+369
+00:16:03,546 --> 00:16:06,631
+- Vähenenud soolehelid.
+- Parim jutt intensiivis.
+
+370
+00:16:06,632 --> 00:16:09,176
+Tore. Howard, me peame kohe kanali avama,
+
+371
+00:16:09,177 --> 00:16:10,343
+et toru sisse panna.
+
+372
+00:16:10,344 --> 00:16:12,179
+Alustan väikese sõrmega ja liigun
+
+373
+00:16:12,180 --> 00:16:14,639
+paari minutiga sügavamale,
+kuni sõrm on üleni sees.
+
+374
+00:16:14,640 --> 00:16:17,726
+Kui toru häälepaeltest möödub,
+ei saa sa rääkida.
+
+375
+00:16:17,727 --> 00:16:19,478
+Aga see on suhtlusseade.
+
+376
+00:16:19,479 --> 00:16:22,481
+Keri ekraanil, et leida, mida öelda.
+
+377
+00:16:22,482 --> 00:16:24,983
+Vajuta ikooni ja see räägib meiega.
+
+378
+00:16:24,984 --> 00:16:26,569
+<i>Ma soovin valuvaigistit.</i>
+
+379
+00:16:27,403 --> 00:16:29,029
+<i>Mu valu on üheksa.</i>
+
+380
+00:16:29,030 --> 00:16:30,531
+Kas see mulle pitsat tellib?
+
+381
+00:16:32,366 --> 00:16:34,784
+Kiirabiuksel on mobiililevi.
+
+382
+00:16:34,785 --> 00:16:36,995
+Leidsin ta õe uue numbri, jätsin sõnumi.
+
+383
+00:16:36,996 --> 00:16:38,538
+Ma alustan nüüd.
+
+384
+00:16:38,539 --> 00:16:39,915
+Oled valmis?
+
+385
+00:16:39,916 --> 00:16:40,833
+Mitte eriti.
+
+386
+00:16:41,459 --> 00:16:42,375
+Aga lase käia.
+
+387
+00:16:42,376 --> 00:16:44,462
+- Robby, siia.
+- Pea kuklasse.
+
+388
+00:16:47,048 --> 00:16:48,173
+Kas ta vajab lõikust?
+
+389
+00:16:48,174 --> 00:16:49,841
+Loodan, et pimesool pole lõhkenud.
+
+390
+00:16:49,842 --> 00:16:50,967
+Kas skoopiliselt saab?
+
+391
+00:16:50,968 --> 00:16:53,512
+Võimalik, aga võibolla
+piisab ka antibiootikumidest.
+
+392
+00:16:53,513 --> 00:16:55,347
+Kui ta opile läheb?
+
+393
+00:16:55,348 --> 00:16:58,433
+Tema suurusega on
+avatud laporotoomia puhul
+
+394
+00:16:58,434 --> 00:17:00,519
+suremus ligi 50%.
+
+395
+00:17:00,520 --> 00:17:01,937
+Üks samm korraga.
+
+396
+00:17:01,938 --> 00:17:04,814
+Helistame iga 15 minuti tagant õele.
+
+397
+00:17:04,815 --> 00:17:05,733
+Peaks õnnestuma.
+
+398
+00:17:09,987 --> 00:17:11,531
+Pooled seisakulehed on tühjad.
+
+399
+00:17:12,573 --> 00:17:13,950
+Mis mõttes?
+
+400
+00:17:15,117 --> 00:17:16,452
+Siin ja siin.
+
+401
+00:17:17,411 --> 00:17:19,247
+Larry, kas sa kasutad vildikat?
+
+402
+00:17:19,830 --> 00:17:20,748
+Võimalik.
+
+403
+00:17:21,749 --> 00:17:24,168
+Seda pole koopiatel näha.
+
+404
+00:17:25,086 --> 00:17:26,629
+Ainult pastakaga.
+
+405
+00:17:27,255 --> 00:17:28,172
+Olgu.
+
+406
+00:17:30,633 --> 00:17:31,883
+Digby on ikka kadunud?
+
+407
+00:17:31,884 --> 00:17:33,301
+See kodutu või?
+
+408
+00:17:33,302 --> 00:17:34,804
+Vajame voodit, kui ta jalga lasi.
+
+409
+00:17:36,514 --> 00:17:38,431
+- Mida vaja on?
+- Peaarsti.
+
+410
+00:17:38,432 --> 00:17:40,016
+- Või vanemresidenti?
+- Ei.
+
+411
+00:17:40,017 --> 00:17:42,310
+- Dr Al-Hashimi, kas võin kirjeldada?
+- Jah.
+
+412
+00:17:42,311 --> 00:17:44,938
+32-aastane kurt naine
+mõõduka pingepeavaluga.
+
+413
+00:17:44,939 --> 00:17:46,356
+Ibuprofeen tekitas gastriiti
+
+414
+00:17:46,357 --> 00:17:48,149
+ja epigastraalset valu, ta minestas.
+
+415
+00:17:48,150 --> 00:17:51,528
+Mylanta ja päästikpunkti
+süsti järel valu kadus.
+
+416
+00:17:51,529 --> 00:17:54,239
+Suurepärane, see võib valu
+mitmeks kuuks ära võtta.
+
+417
+00:17:54,240 --> 00:17:56,825
+Jah, kui ta ekraani
+silmade kõrgusel hoiab.
+
+418
+00:17:56,826 --> 00:17:59,536
+Viipekeele tõlgiga läks aega.
+
+419
+00:17:59,537 --> 00:18:03,415
+Peaaegu loobusin ja tellisin
+tarbetu aju ja kõhuõõne KT.
+
+420
+00:18:03,416 --> 00:18:05,960
+- Hea, et ei tellinud.
+- Dr Al-Hashimi, teile.
+
+421
+00:18:07,169 --> 00:18:08,588
+Hea töö päästikpunktiga.
+
+422
+00:18:09,422 --> 00:18:11,132
+- Tean.
+- Kuidas T-süsteemiga edeneb?
+
+423
+00:18:11,716 --> 00:18:13,592
+Kiiresti ja hõlpsalt.
+
+424
+00:18:13,593 --> 00:18:16,052
+Ära lihtsalt diagnoosile
+ringi ümber tõmba.
+
+425
+00:18:16,053 --> 00:18:18,805
+Kasuta kaldkriipsu kõigi välistuste jaoks.
+
+426
+00:18:18,806 --> 00:18:20,850
+- Saab tehtud.
+- Suur tänu.
+
+427
+00:18:21,434 --> 00:18:24,019
+Princess, lükka C13
+KT-järjekorra etteotsa.
+
+428
+00:18:24,020 --> 00:18:24,936
+Mis juhtus?
+
+429
+00:18:24,937 --> 00:18:27,689
+Pimedusega patsiendil
+on võrkkesta tsentraalarteri sulgus.
+
+430
+00:18:27,690 --> 00:18:29,816
+Vestlesin just silmaarstiga.
+
+431
+00:18:29,817 --> 00:18:32,944
+Ta soovitab trombolüütikume kasutada.
+
+432
+00:18:32,945 --> 00:18:34,863
+Riskantne. See pole tavaravi.
+
+433
+00:18:34,864 --> 00:18:36,406
+Küsime nõusolekut.
+
+434
+00:18:36,407 --> 00:18:38,408
+Parim šanss nägemist osaliselt päästa.
+
+435
+00:18:38,409 --> 00:18:39,826
+Sinu patsient ja otsus.
+
+436
+00:18:39,827 --> 00:18:42,371
+Mina olen tüsistuste ajaks läinud.
+
+437
+00:18:45,041 --> 00:18:47,084
+Ma võtan tupest kaks äiet.
+
+438
+00:18:48,669 --> 00:18:50,463
+Kaks äiet emakakaelast.
+
+439
+00:18:54,133 --> 00:18:56,093
+Ütle, kui ebamugavust tunned.
+
+440
+00:18:57,053 --> 00:18:57,928
+Olgu.
+
+441
+00:18:59,180 --> 00:19:00,680
+Iga äie saab sildi.
+
+442
+00:19:00,681 --> 00:19:03,224
+Esimene tupest, teine tupest.
+
+443
+00:19:03,225 --> 00:19:05,393
+Lase äigeslaidil õhu käes kuivada.
+
+444
+00:19:05,394 --> 00:19:06,645
+Emakakaelaga samuti?
+
+445
+00:19:06,646 --> 00:19:08,773
+Jah, aga ilma slaidita.
+
+446
+00:19:10,524 --> 00:19:11,567
+Kuidas läheb, Ilana?
+
+447
+00:19:12,902 --> 00:19:14,111
+Pean vastu.
+
+448
+00:19:16,489 --> 00:19:17,406
+Kohe on kõik.
+
+449
+00:19:20,493 --> 00:19:23,453
+Kõik need proovid
+lähevad tupekontakti ümbrikusse.
+
+450
+00:19:23,454 --> 00:19:25,706
+- Kas võin aidata?
+- Ei, seda teen mina.
+
+451
+00:19:26,540 --> 00:19:27,750
+Tõmban selle välja.
+
+452
+00:19:29,835 --> 00:19:30,753
+Hüva.
+
+453
+00:19:32,046 --> 00:19:33,923
+Kõik on korras. Võid jalad alla lasta.
+
+454
+00:19:38,052 --> 00:19:39,136
+Kas nüüd on kõik?
+
+455
+00:19:39,970 --> 00:19:42,515
+Viimane asi on neli proovi suust.
+
+456
+00:19:43,724 --> 00:19:44,809
+Sa ju tegid seda juba?
+
+457
+00:19:45,393 --> 00:19:48,561
+Järgmine on teistsugune.
+Võtan põsest sinu DNA-d.
+
+458
+00:19:48,562 --> 00:19:49,814
+Mitte mehe oma.
+
+459
+00:19:52,817 --> 00:19:58,071
+See võib seega olla
+bipolaarne häire või skisofreenia.
+
+460
+00:19:58,072 --> 00:20:00,365
+Kaks kõige tõenäolisemat võimalust.
+
+461
+00:20:00,366 --> 00:20:01,908
+Kuidas kindlaks teha, kumb on?
+
+462
+00:20:01,909 --> 00:20:03,993
+Lähtudes reaktsioonist ravimitele.
+
+463
+00:20:03,994 --> 00:20:06,663
+Lisaks teraapiale
+ja jälgimisele osakonnas.
+
+464
+00:20:06,664 --> 00:20:09,500
+Jälgitakse tema meeleolu
+ja teistega suhtlemist.
+
+465
+00:20:12,002 --> 00:20:16,589
+Kas pole vereanalüüsi
+või aju-uuringut, mis kindlalt ütleks?
+
+466
+00:20:16,590 --> 00:20:17,799
+Kahjuks mitte.
+
+467
+00:20:17,800 --> 00:20:19,342
+Õigeid ravimeid võttes
+
+468
+00:20:19,343 --> 00:20:22,638
+saab bipolaarse häirega
+edukalt karjääri teha.
+
+469
+00:20:23,639 --> 00:20:24,890
+Loodame, et on bipolaarne.
+
+470
+00:20:25,474 --> 00:20:27,600
+Lootke oma poja õnne pärast.
+
+471
+00:20:27,601 --> 00:20:31,271
+Varase raviga saavad
+20% skisofreeniaga inimestest
+
+472
+00:20:31,272 --> 00:20:33,398
+täielikult terveks.
+
+473
+00:20:33,399 --> 00:20:34,733
+Seega 80% ei saa.
+
+474
+00:20:34,734 --> 00:20:36,861
+See on nüüd Jacksoni uus versioon.
+
+475
+00:20:39,864 --> 00:20:41,490
+- Kui vanalt sinu tütar...
+- 20.
+
+476
+00:20:42,867 --> 00:20:45,619
+Õppis Georgetownis arhitektuuri.
+
+477
+00:20:46,454 --> 00:20:47,371
+Skisofreenia.
+
+478
+00:20:48,122 --> 00:20:50,165
+Tunnen kaasa.
+
+479
+00:20:50,166 --> 00:20:51,708
+Tal on kõik hästi.
+
+480
+00:20:51,709 --> 00:20:55,296
+Elab kodus, töötab
+Giant Eagle'is kassiirina.
+
+481
+00:20:56,881 --> 00:20:58,174
+Kuu parim töötaja.
+
+482
+00:20:59,300 --> 00:21:00,718
+Meil on veel raskusi.
+
+483
+00:21:01,510 --> 00:21:03,929
+Aga on ka naeru ja armastust.
+
+484
+00:21:11,854 --> 00:21:13,104
+Tehtud.
+
+485
+00:21:13,105 --> 00:21:15,648
+- Mis tunne oli?
+- Väga imelik.
+
+486
+00:21:15,649 --> 00:21:17,609
+Valus polnud, ainult imelik.
+
+487
+00:21:17,610 --> 00:21:20,111
+Järgmiseks võtame selle toru,
+
+488
+00:21:20,112 --> 00:21:24,532
+lükkame selle ninast sisse
+ja peatume keele tagaosas.
+
+489
+00:21:24,533 --> 00:21:25,950
+Sel ajal rääkida ei maksa.
+
+490
+00:21:25,951 --> 00:21:28,537
+Toru liguneb soojas vees,
+et paindlikkust lisada.
+
+491
+00:21:30,206 --> 00:21:31,624
+Tahad proovida?
+
+492
+00:21:32,917 --> 00:21:34,626
+<i>Mis päev ja kellaaeg on?</i>
+
+493
+00:21:34,627 --> 00:21:36,212
+4. juuli, kell 14.31.
+
+494
+00:21:37,087 --> 00:21:38,922
+<i>Millal toru välja võetakse?</i>
+
+495
+00:21:38,923 --> 00:21:41,717
+Enne tuleb see sisse panna.
+
+496
+00:21:42,301 --> 00:21:43,844
+<i>Ma tean. Harjutan ainult.</i>
+
+497
+00:21:44,804 --> 00:21:46,806
+Tundub, et oled juba ekspert.
+
+498
+00:21:47,973 --> 00:21:49,225
+Kuni ma veel rääkida saan,
+
+499
+00:21:51,185 --> 00:21:52,520
+tahan ainult öelda...
+
+500
+00:21:53,646 --> 00:21:54,605
+aitäh.
+
+501
+00:21:55,356 --> 00:21:56,273
+Kõige eest.
+
+502
+00:21:57,691 --> 00:21:58,692
+Võta heaks.
+
+503
+00:22:05,157 --> 00:22:05,991
+Alustame.
+
+504
+00:22:11,080 --> 00:22:12,413
+Suguhaiguste ärahoidmiseks.
+
+505
+00:22:12,414 --> 00:22:16,417
+Süst gonorröa vastu, tabletid
+klamüüdia ja trihhomoniaasi vastu.
+
+506
+00:22:16,418 --> 00:22:17,544
+Aitäh.
+
+507
+00:22:17,545 --> 00:22:19,754
+Ja vahekorra järgne
+rasestumisvastane vahend.
+
+508
+00:22:19,755 --> 00:22:20,797
+Tal on spiraal.
+
+509
+00:22:20,798 --> 00:22:23,466
+Tõhusus on üle 99%, aga mitte 100.
+
+510
+00:22:23,467 --> 00:22:24,385
+Me pakume siiski.
+
+511
+00:22:25,094 --> 00:22:26,386
+Pole vaja.
+
+512
+00:22:26,387 --> 00:22:27,971
+HIV-i jaoks on PEP.
+
+513
+00:22:27,972 --> 00:22:29,765
+Kokkupuute järgne profülaktika.
+
+514
+00:22:30,307 --> 00:22:33,269
+28 päeva. Mida varem
+alustada, seda tõhusam.
+
+515
+00:22:34,854 --> 00:22:38,274
+Emma, neil on kindlasti abikäsi vaja.
+
+516
+00:22:39,817 --> 00:22:41,277
+Oli väga meeldiv, Ilana.
+
+517
+00:22:42,236 --> 00:22:44,488
+- Sa oled väga vapper naine.
+- Jah.
+
+518
+00:22:51,871 --> 00:22:53,122
+Ta on hea õde.
+
+519
+00:22:53,581 --> 00:22:55,958
+Ta õpib alles, aga saab selleks.
+
+520
+00:22:58,210 --> 00:23:00,045
+- Pärast seda on kõik?
+- Jah.
+
+521
+00:23:04,842 --> 00:23:06,302
+Hea, et täna siin olid.
+
+522
+00:23:11,307 --> 00:23:12,224
+Võta heaks.
+
+523
+00:23:13,851 --> 00:23:16,020
+Me peame otsuse tegema.
+
+524
+00:23:16,979 --> 00:23:20,315
+Uuringud on näidanud,
+et nägemist saab osaliselt taastada
+
+525
+00:23:20,316 --> 00:23:22,735
+- trombe lõhkuvate ravimitega.
+- Andke neid.
+
+526
+00:23:23,402 --> 00:23:25,320
+Ent on võimalikke riske.
+
+527
+00:23:25,321 --> 00:23:29,908
+Silma insuldi korral
+paranevad ainult 17% ilma ravita.
+
+528
+00:23:29,909 --> 00:23:31,826
+- Ainult 17%?
+- Jah.
+
+529
+00:23:31,827 --> 00:23:35,080
+Aga ravimite abil
+paraneb veel 20% patsientidest.
+
+530
+00:23:36,457 --> 00:23:38,125
+Ent võib tüsistusi tekkida.
+
+531
+00:23:38,918 --> 00:23:42,378
+2% patsientide seisund
+halveneb ravikuuri järel,
+
+532
+00:23:42,379 --> 00:23:45,883
+ja 1% saavad tõsise puude või surevad.
+
+533
+00:23:52,848 --> 00:23:55,809
+Kullake, seda pead sina otsustama.
+
+534
+00:23:57,728 --> 00:23:59,480
+Ei, meie otsustame.
+
+535
+00:24:00,731 --> 00:24:02,191
+Mida sa ilma minuta teeksid?
+
+536
+00:24:02,858 --> 00:24:04,318
+Õpiksin hakkama saama.
+
+537
+00:24:06,987 --> 00:24:09,740
+Ja nutaksin ilmselt kaks aastat jutti.
+
+538
+00:24:10,366 --> 00:24:11,492
+Ainult kaks aastat?
+
+539
+00:24:13,702 --> 00:24:14,953
+Ma tahan seda ravimit.
+
+540
+00:24:14,954 --> 00:24:15,788
+Hea küll.
+
+541
+00:24:20,542 --> 00:24:22,377
+Kaardi jaoks on sinu täisnime vaja.
+
+542
+00:24:22,378 --> 00:24:25,506
+Jackie Liddell.
+
+543
+00:24:26,298 --> 00:24:28,383
+- Ja sina oled?
+- Tema sõber Jaquie.
+
+544
+00:24:28,384 --> 00:24:29,884
+Teil on sama nimi?
+
+545
+00:24:29,885 --> 00:24:31,594
+Ei, tema on Jackie CK-ga.
+
+546
+00:24:31,595 --> 00:24:32,845
+Mina olen Jaquie Q-ga.
+
+547
+00:24:32,846 --> 00:24:35,598
+Kutsuge mind CK-ks.
+
+548
+00:24:35,599 --> 00:24:37,601
+Parem ära räägi. Võta rahulikult.
+
+549
+00:24:40,813 --> 00:24:41,771
+Mida?
+
+550
+00:24:41,772 --> 00:24:43,606
+Ta hammustas pool keelt otsast.
+
+551
+00:24:43,607 --> 00:24:45,066
+Sa saad sellest aru?
+
+552
+00:24:45,067 --> 00:24:47,694
+Kui sa teda pärast
+kahte kannu Margaritat kuuleksid.
+
+553
+00:24:47,695 --> 00:24:48,904
+Puterdab jommis peaga.
+
+554
+00:24:51,198 --> 00:24:54,325
+- Princess, mis vaba on?
+- S15 on puhas.
+
+555
+00:24:54,326 --> 00:24:57,037
+- Sügav keelehaav.
+- Ma võin võtta.
+
+556
+00:24:58,747 --> 00:25:01,916
+Robby ja Al-Hashimi
+on kriitiliste patsientidega.
+
+557
+00:25:01,917 --> 00:25:03,292
+Tere.
+
+558
+00:25:03,293 --> 00:25:05,963
+Mina olen dr Langdon,
+tegelen teie juhtumiga.
+
+559
+00:25:08,215 --> 00:25:10,718
+Issand, CK, su arst on kuradi kuum.
+
+560
+00:25:13,595 --> 00:25:16,222
+Toru on 14 cm juures, hingamistee kohal.
+
+561
+00:25:16,223 --> 00:25:18,391
+Hea küll, Howard, ma alustan.
+
+562
+00:25:18,392 --> 00:25:21,895
+Tõsta käsi üles, kui tahad, et lõpetaksin.
+
+563
+00:25:22,980 --> 00:25:25,065
+Sinine märk ütleb, et olen torus.
+
+564
+00:25:28,402 --> 00:25:29,987
+Said vist läbi.
+
+565
+00:25:30,863 --> 00:25:32,614
+Kui ta sisse hingab, näeme häälepaelu.
+
+566
+00:25:33,490 --> 00:25:35,617
+Hinga sügavalt sisse, Howard.
+
+567
+00:25:38,412 --> 00:25:40,122
+Väga hea. Ilus.
+
+568
+00:25:40,789 --> 00:25:43,708
+Häälepaelad on tundlikud.
+Piserdame lidokaiini.
+
+569
+00:25:43,709 --> 00:25:44,877
+Hea küll.
+
+570
+00:25:45,335 --> 00:25:47,921
+Üks milliliiter läheb sisse.
+
+571
+00:25:48,630 --> 00:25:50,632
+Laseme sellel sekundi toimida.
+
+572
+00:25:51,300 --> 00:25:52,551
+Kuidas läheb, Howard?
+
+573
+00:25:54,094 --> 00:25:57,180
+Kui toru sees on, pead läbi nina hingama.
+
+574
+00:25:57,181 --> 00:25:58,681
+Howard, ole paigal.
+
+575
+00:25:58,682 --> 00:26:01,393
+Ma liigun nüüd su häälepaeltest mööda,
+
+576
+00:26:02,311 --> 00:26:04,521
+kuni me harja näeme.
+
+577
+00:26:06,398 --> 00:26:08,400
+- Ogilvie?
+- Seal.
+
+578
+00:26:09,109 --> 00:26:12,905
+- Paremas ja vasakus peabronhis.
+- Ja toru läheb sisse.
+
+579
+00:26:17,201 --> 00:26:20,037
+Ja laparoskoop tuleb välja.
+
+580
+00:26:21,955 --> 00:26:22,790
+Korras.
+
+581
+00:26:23,499 --> 00:26:24,916
+Ambukott täis.
+
+582
+00:26:24,917 --> 00:26:26,960
+- Hinga sügavalt läbi nina.
+- Imeline.
+
+583
+00:26:27,544 --> 00:26:28,378
+Kõik hästi?
+
+584
+00:26:29,630 --> 00:26:31,255
+Hea süsihappegaasi tase.
+
+585
+00:26:31,256 --> 00:26:32,590
+Hingamisaparaati on vaja?
+
+586
+00:26:32,591 --> 00:26:35,134
+Ta hingab ise, aga CPAP ei teeks halba.
+
+587
+00:26:35,135 --> 00:26:37,345
+Alustan viiega, tiitrida kümneni.
+
+588
+00:26:37,346 --> 00:26:39,430
+See läks väga hästi, Howard.
+
+589
+00:26:39,431 --> 00:26:41,141
+Nüüd kontrollime su kaalu.
+
+590
+00:26:42,976 --> 00:26:46,646
+Eriõde peab vägistamiskomplekti
+sellesse külmikusse luku taha panema.
+
+591
+00:26:46,647 --> 00:26:49,816
+See jääb sinna politseile üleandmiseni.
+
+592
+00:26:49,817 --> 00:26:52,069
+See on asitõendite ahela säilitamine.
+
+593
+00:26:52,611 --> 00:26:54,071
+Mis kuradi nali see on?
+
+594
+00:26:54,696 --> 00:26:56,490
+Kas midagi on viltu?
+
+595
+00:26:57,116 --> 00:26:58,242
+Issand jumal.
+
+596
+00:26:58,992 --> 00:27:02,245
+Politsei peab vägistamiskomplektil
+72 tunni jooksul järel käima.
+
+597
+00:27:02,246 --> 00:27:03,705
+See on kaks nädalat vana.
+
+598
+00:27:05,082 --> 00:27:06,083
+Kurat võtaks.
+
+599
+00:27:08,627 --> 00:27:10,295
+Kuidas see täpselt juhtus?
+
+600
+00:27:11,380 --> 00:27:13,756
+Tegime pubisid vahetades selfit.
+
+601
+00:27:13,757 --> 00:27:17,219
+- Väga ilus.
+- Kuni ta pea püsti lõi.
+
+602
+00:27:18,762 --> 00:27:20,513
+- Valus.
+- Hea küll.
+
+603
+00:27:20,514 --> 00:27:22,849
+Lokaalepinefriin toimis. Verejooks peatus.
+
+604
+00:27:22,850 --> 00:27:25,643
+- Kas ma saan nüüd koju?
+- Vaevalt küll.
+
+605
+00:27:25,644 --> 00:27:28,020
+Sul on keele tagaosas nagu Suur kanjon.
+
+606
+00:27:28,021 --> 00:27:30,941
+- Peame õmblema.
+- Ma ei taha õmblusi.
+
+607
+00:27:31,942 --> 00:27:33,109
+Kuula arsti sõna.
+
+608
+00:27:33,110 --> 00:27:35,027
+Ära tule kamandama.
+
+609
+00:27:35,028 --> 00:27:37,155
+- See on sinu süü.
+- Ei ole.
+
+610
+00:27:37,156 --> 00:27:39,574
+- Jah, on küll.
+- Ei ole.
+
+611
+00:27:39,575 --> 00:27:42,368
+Princess? Näita Q-le, kus oodata,
+
+612
+00:27:42,369 --> 00:27:44,579
+- kuni ta sõpra õmbleme.
+- Muidugi.
+
+613
+00:27:44,580 --> 00:27:47,248
+See süst teeb keeleotsa tuimaks.
+
+614
+00:27:47,249 --> 00:27:48,166
+Otsa?
+
+615
+00:27:48,167 --> 00:27:50,084
+Ma ei hammustanud keeleotsa.
+
+616
+00:27:50,085 --> 00:27:51,336
+Üks samm korraga.
+
+617
+00:27:58,719 --> 00:28:00,554
+20 mg tenekteplaasi.
+
+618
+00:28:01,263 --> 00:28:03,056
+Manustatud kell 14.39.
+
+619
+00:28:04,266 --> 00:28:05,184
+Tunned midagi?
+
+620
+00:28:06,268 --> 00:28:07,268
+Veel mitte.
+
+621
+00:28:07,269 --> 00:28:08,854
+Võib minna tund või kaks.
+
+622
+00:28:10,689 --> 00:28:13,400
+Viime teid paremaks
+jälgimiseks teise palatisse.
+
+623
+00:28:14,276 --> 00:28:15,277
+Dr King.
+
+624
+00:28:18,530 --> 00:28:20,073
+Jää tema juurde.
+
+625
+00:28:21,742 --> 00:28:22,783
+Miks?
+
+626
+00:28:22,784 --> 00:28:24,119
+Tüsistuste puhuks.
+
+627
+00:28:24,703 --> 00:28:27,038
+Saad kiiresti reageerida
+lõhkenud pupillile
+
+628
+00:28:27,039 --> 00:28:29,040
+või atakile, segadusseisundile.
+
+629
+00:28:29,041 --> 00:28:32,586
+Võin ka haiguslugusid täita.
+Ja mu istung algab varsti.
+
+630
+00:28:33,378 --> 00:28:37,089
+See on hea võimalus
+rahus ja vaikuses vaimselt valmistuda.
+
+631
+00:28:37,090 --> 00:28:38,258
+Jesse, Mel on sinuga.
+
+632
+00:28:41,678 --> 00:28:43,679
+Vabandust, dr Mohan.
+
+633
+00:28:43,680 --> 00:28:45,139
+Vabandust. Dr Mohan.
+
+634
+00:28:45,140 --> 00:28:47,475
+- Kohe, George.
+- Ma räägin temaga.
+
+635
+00:28:47,476 --> 00:28:48,393
+Aitäh.
+
+636
+00:28:51,355 --> 00:28:53,774
+D-dimeerid olid normis.
+
+637
+00:28:54,608 --> 00:28:55,816
+Olen valmis minema.
+
+638
+00:28:55,817 --> 00:28:57,069
+Kas enesetunne paranes?
+
+639
+00:28:57,778 --> 00:29:00,364
+Seekord ma ei jäänud tegelikult hingetuks.
+
+640
+00:29:02,532 --> 00:29:03,784
+Miks sa siis tulid?
+
+641
+00:29:05,494 --> 00:29:07,787
+Kui ma kuulsin, et jalas on tromb,
+
+642
+00:29:07,788 --> 00:29:10,790
+kujutasin ette,
+et see liigub kopsu ja tapab mind.
+
+643
+00:29:10,791 --> 00:29:13,751
+Me rääkisime varem,
+et Eliquis hoiab seda ära.
+
+644
+00:29:13,752 --> 00:29:14,586
+Ma tean.
+
+645
+00:29:16,964 --> 00:29:18,423
+Võtsin viimaks nõu kuulda.
+
+646
+00:29:19,049 --> 00:29:21,050
+Tulin majast välja
+
+647
+00:29:21,051 --> 00:29:23,553
+ja liitusin Frick Parki murukeegliklubiga.
+
+648
+00:29:24,346 --> 00:29:25,638
+- Imetore.
+- Jah.
+
+649
+00:29:25,639 --> 00:29:27,473
+Sul on õigus, tead?
+
+650
+00:29:27,474 --> 00:29:29,351
+Me kõik vajame kogukonda.
+
+651
+00:29:33,480 --> 00:29:34,939
+Mida sa teed?
+
+652
+00:29:34,940 --> 00:29:36,482
+Sinu keele ravimiseks
+
+653
+00:29:36,483 --> 00:29:39,151
+tuleb see ettepoole tõmmata,
+et haavale ligi pääseda.
+
+654
+00:29:39,152 --> 00:29:41,237
+Sa tunned sikutamist.
+
+655
+00:29:41,238 --> 00:29:42,072
+Olgu, et siis...
+
+656
+00:29:44,533 --> 00:29:45,450
+Alusta.
+
+657
+00:29:46,868 --> 00:29:48,286
+Kui suur niit see on?
+
+658
+00:29:48,287 --> 00:29:50,205
+Siid, meie jämedaim niit.
+
+659
+00:29:52,207 --> 00:29:54,835
+Kohe, kui ma niidi läbi lõikan,
+pead sina hoidma, Joy.
+
+660
+00:30:05,262 --> 00:30:09,265
+- See on päris sügav.
+- Nüüd võime haavapiirkonda tuimestada.
+
+661
+00:30:09,266 --> 00:30:10,391
+Parem on alustada...
+
+662
+00:30:10,392 --> 00:30:13,478
+Eesmise otsaga,
+et ta tagumist süsti ei tunneks.
+
+663
+00:30:15,105 --> 00:30:17,524
+Tulen kümne minuti pärast parandama.
+
+664
+00:30:21,737 --> 00:30:23,487
+Komplekt on kaks nädalat oodanud.
+
+665
+00:30:23,488 --> 00:30:25,907
+Pidite 72 tunni jooksul järele tulema.
+
+666
+00:30:26,450 --> 00:30:28,534
+Vahet pole. Saatke keegi otsekohe.
+
+667
+00:30:28,535 --> 00:30:31,787
+Ei. Meie peame politseinikke
+kohe ravima, kui nad tulevad.
+
+668
+00:30:31,788 --> 00:30:34,206
+Saatke uurija kohe komplektidele järele.
+
+669
+00:30:34,207 --> 00:30:35,666
+- Ma pean lõpetama.
+- Dana.
+
+670
+00:30:35,667 --> 00:30:38,169
+S19 tegi enne väljalülitamist pea-KT.
+
+671
+00:30:38,170 --> 00:30:39,128
+Tulemusi veel pole.
+
+672
+00:30:39,129 --> 00:30:40,755
+Saadame meeldetuletuse.
+
+673
+00:30:40,756 --> 00:30:41,714
+- Kuule, Dana.
+- Dana.
+
+674
+00:30:41,715 --> 00:30:42,758
+Oodake.
+
+675
+00:30:43,800 --> 00:30:44,717
+Mis vaja?
+
+676
+00:30:44,718 --> 00:30:47,720
+Tellisime Roxyle rohkem valuvaigisteid.
+
+677
+00:30:47,721 --> 00:30:49,764
+Pane see õdede riiulisse.
+
+678
+00:30:49,765 --> 00:30:51,141
+Panin juba ammu.
+
+679
+00:30:53,143 --> 00:30:55,728
+- Tõstan selle ette.
+- Aitäh.
+
+680
+00:30:55,729 --> 00:30:56,813
+Mis hääl see on?
+
+681
+00:30:57,606 --> 00:30:59,523
+Ufo maandus, tulnukate sissetung.
+
+682
+00:30:59,524 --> 00:31:00,775
+Kuule, Dana.
+
+683
+00:31:00,776 --> 00:31:02,860
+Trauma 2 verekeemia pole tulnud.
+
+684
+00:31:02,861 --> 00:31:04,112
+Näita kaarti.
+
+685
+00:31:05,530 --> 00:31:08,282
+Issand, see tellimus läks radioloogiasse.
+
+686
+00:31:08,283 --> 00:31:09,825
+Larry, Antoine.
+
+687
+00:31:09,826 --> 00:31:12,661
+Te panite vereanalüüsi ja röntgeni
+samale seisakulehele.
+
+688
+00:31:12,662 --> 00:31:15,790
+Laborisse ja radioloogiasse
+lähevad eraldi lehed.
+
+689
+00:31:15,791 --> 00:31:17,666
+- Enam ei juhtu.
+- Viin selle ise alla.
+
+690
+00:31:17,667 --> 00:31:19,085
+Kasuta voodi kõrval i-STAT-i.
+
+691
+00:31:19,086 --> 00:31:21,003
+Nad ei võta teda kreatiniinita KT-sse.
+
+692
+00:31:21,004 --> 00:31:22,046
+Väga hea.
+
+693
+00:31:22,047 --> 00:31:24,548
+- Tore, et tagasi oled.
+- Suurima rõõmuga.
+
+694
+00:31:24,549 --> 00:31:25,591
+Püüad sõnumit saata?
+
+695
+00:31:25,592 --> 00:31:28,636
+Kirjutan valmis. Saadan väljast.
+
+696
+00:31:28,637 --> 00:31:30,930
+Minu mehaanikust sõber Duke ei tulnudki.
+
+697
+00:31:30,931 --> 00:31:32,515
+Ta pidi hommikul tulema.
+
+698
+00:31:32,516 --> 00:31:34,684
+Plaanis oli küll. Ilmselt on tal kiire.
+
+699
+00:31:36,061 --> 00:31:37,186
+Äkki ei tulegi?
+
+700
+00:31:37,187 --> 00:31:39,730
+Ütle, mida ta vajab.
+Ütlen öövahetusele edasi.
+
+701
+00:31:39,731 --> 00:31:40,941
+Pole vaja.
+
+702
+00:31:43,985 --> 00:31:47,738
+Princess. Küsija suu pihta ei lööda.
+Normaalne pea-KT.
+
+703
+00:31:47,739 --> 00:31:49,366
+Aitäh. Kirjutan ta välja.
+
+704
+00:31:50,283 --> 00:31:51,368
+Kuidas päev edeneb?
+
+705
+00:31:52,119 --> 00:31:53,870
+Käsi on kirjutamisest krampis.
+
+706
+00:31:54,454 --> 00:31:55,288
+Said selle paksu?
+
+707
+00:31:55,914 --> 00:31:57,081
+Jah.
+
+708
+00:31:57,082 --> 00:32:02,129
+Kurb lugu. Hull autoavarii,
+mitu operatsiooni, palju stressi.
+
+709
+00:32:04,005 --> 00:32:05,798
+Lidokaiinisüst õrna kohta.
+
+710
+00:32:05,799 --> 00:32:07,968
+Mul on keelehaavaga
+padujoodikust peoplika.
+
+711
+00:32:08,760 --> 00:32:11,513
+- Tal oleks abi vaja.
+- Mitmes mõttes.
+
+712
+00:32:12,973 --> 00:32:15,684
+Kuidas esimene vahetus
+pärast pausi edeneb?
+
+713
+00:32:16,643 --> 00:32:17,894
+Üks päev korraga.
+
+714
+00:32:18,854 --> 00:32:21,605
+- Esimene aasta kainena on raskeim.
+- Kuuldavasti.
+
+715
+00:32:21,606 --> 00:32:24,109
+Minul läheb üheksas aasta.
+
+716
+00:32:28,363 --> 00:32:30,157
+Erisaadetis minu mehele.
+
+717
+00:32:31,783 --> 00:32:33,742
+Anna teada, kui midagi vajad.
+
+718
+00:32:33,743 --> 00:32:34,703
+Aitäh.
+
+719
+00:32:41,751 --> 00:32:43,169
+Kuhu sina lähed?
+
+720
+00:32:43,170 --> 00:32:44,462
+N3 villide juurde.
+
+721
+00:32:44,463 --> 00:32:46,005
+Mina lähen sinna.
+
+722
+00:32:46,006 --> 00:32:48,966
+- Panid oma nime kirja?
+- Võtsin kaardi riiulist.
+
+723
+00:32:48,967 --> 00:32:50,676
+Nimi tuleb tahvlile kirjutada.
+
+724
+00:32:50,677 --> 00:32:52,888
+Patsiendi kaarti on vaja.
+
+725
+00:32:53,430 --> 00:32:54,680
+Arvasin, et õed võtsid.
+
+726
+00:32:54,681 --> 00:32:55,849
+Mida iganes.
+
+727
+00:32:57,267 --> 00:33:00,019
+Tere, mina olen
+arstiõpilane Ogilvie, ja see on...
+
+728
+00:33:00,020 --> 00:33:00,936
+Vau!
+
+729
+00:33:00,937 --> 00:33:03,106
+- Päris hull lööve.
+- Jah.
+
+730
+00:33:03,690 --> 00:33:04,648
+Ära sa märgi.
+
+731
+00:33:04,649 --> 00:33:06,984
+Arstiõpilane Javadi. Millal see algas?
+
+732
+00:33:06,985 --> 00:33:07,985
+Eile õhtul.
+
+733
+00:33:07,986 --> 00:33:10,613
+Kas olete matkates
+mürgipuuga kokku puutunud?
+
+734
+00:33:10,614 --> 00:33:12,073
+Ei, pole kodust väljas käinud.
+
+735
+00:33:12,782 --> 00:33:14,283
+Uusi ravimeid olete võtnud?
+
+736
+00:33:14,284 --> 00:33:16,452
+Kreemid, seebid või pesupulbrid?
+
+737
+00:33:16,453 --> 00:33:19,205
+Ma ei võta ravimeid.
+Kõik muu on vana kraam.
+
+738
+00:33:19,206 --> 00:33:20,539
+Ja kust see algas?
+
+739
+00:33:20,540 --> 00:33:23,001
+Igalt poolt korraga. Väga valus on.
+
+740
+00:33:23,793 --> 00:33:24,711
+Sügeleb meeletult.
+
+741
+00:33:25,253 --> 00:33:26,338
+Mis see on?
+
+742
+00:33:27,047 --> 00:33:28,048
+Ma ei tea veel.
+
+743
+00:33:29,883 --> 00:33:31,134
+Tuleme kohe tagasi.
+
+744
+00:33:37,057 --> 00:33:38,183
+Mida sa arvad?
+
+745
+00:33:39,226 --> 00:33:40,142
+Mul pole aimugi.
+
+746
+00:33:40,143 --> 00:33:41,019
+Nõus.
+
+747
+00:33:43,480 --> 00:33:44,772
+Villiline pemfigoid?
+
+748
+00:33:44,773 --> 00:33:46,440
+Äge autoimmuunne pruriigo?
+
+749
+00:33:46,441 --> 00:33:48,359
+Mitte nii surmav kui harilik villtõbi.
+
+750
+00:33:48,360 --> 00:33:50,444
+Ravita on suremus üle 90%.
+
+751
+00:33:50,445 --> 00:33:52,780
+Peame analüüsima mädaville, limaskesta...
+
+752
+00:33:52,781 --> 00:33:54,074
+Ja Nikolsky sümptomit.
+
+753
+00:33:56,993 --> 00:33:57,911
+Ole hea.
+
+754
+00:33:59,913 --> 00:34:01,706
+- Mida?
+- Sinu edenemisleht.
+
+755
+00:34:03,542 --> 00:34:05,752
+Kas kuulsin, et asi edeneb?
+
+756
+00:34:07,629 --> 00:34:11,716
+Nii nimetatakse lehte,
+mis kliinilist seisundit kirjeldab.
+
+757
+00:34:13,426 --> 00:34:14,302
+Kas on muutusi?
+
+758
+00:34:15,387 --> 00:34:16,679
+Seni mitte.
+
+759
+00:34:16,680 --> 00:34:18,431
+Järgmise neurokontrolli aeg.
+
+760
+00:34:19,224 --> 00:34:20,809
+Vabandust, dr King, kas on aega?
+
+761
+00:34:22,644 --> 00:34:24,895
+Ei, ma jälgin praegu patsienti.
+
+762
+00:34:24,896 --> 00:34:26,022
+Mitte üle 60 sekundi.
+
+763
+00:34:28,650 --> 00:34:29,568
+Kontrollin pupille.
+
+764
+00:34:30,026 --> 00:34:30,986
+Saame hakkama.
+
+765
+00:34:37,200 --> 00:34:38,076
+Hei.
+
+766
+00:34:39,202 --> 00:34:40,704
+Andsin just oma tunnistuse.
+
+767
+00:34:42,872 --> 00:34:43,914
+Kas lähen kohe üles?
+
+768
+00:34:43,915 --> 00:34:46,001
+- Oota, kuni kutsutakse.
+- Olgu.
+
+769
+00:34:46,918 --> 00:34:48,335
+Küsiksin, kuidas läks,
+
+770
+00:34:48,336 --> 00:34:50,588
+aga me ei tohi juhtumit arutada.
+
+771
+00:34:50,589 --> 00:34:52,089
+See pole arutelu.
+
+772
+00:34:52,090 --> 00:34:54,134
+Pean monoloogi. Ole vait ja kuula.
+
+773
+00:34:55,385 --> 00:34:57,344
+Väärravi juhtum on põhjendamatu.
+
+774
+00:34:57,345 --> 00:35:00,347
+Leetripoisi ema väidab
+intellektuaalse allakäigu tekitamist
+
+775
+00:35:00,348 --> 00:35:01,725
+lumbaalpunktsiooniga.
+
+776
+00:35:02,517 --> 00:35:05,103
+Aga punktsioon läks hästi ja tüsistusteta.
+
+777
+00:35:05,687 --> 00:35:07,521
+Tema poeg toodi segadusseisundis
+
+778
+00:35:07,522 --> 00:35:10,233
+leetrikopsupõletiku tekitatud
+hapnikuvaeguse tõttu.
+
+779
+00:35:10,900 --> 00:35:13,319
+Intellektimuutusi põhjustas
+hüpoksiline ajuvigastus.
+
+780
+00:35:13,320 --> 00:35:15,447
+See polnud sinu
+lumbaalpunktsiooniga seotud.
+
+781
+00:35:17,032 --> 00:35:17,866
+Monoloogi lõpp.
+
+782
+00:35:18,825 --> 00:35:20,243
+Me pole juhtumit arutanud.
+
+783
+00:35:21,578 --> 00:35:22,829
+Pean magama minema.
+
+784
+00:35:23,872 --> 00:35:25,248
+Aitäh.
+
+785
+00:35:26,207 --> 00:35:27,208
+Küllap vist.
+
+786
+00:35:28,668 --> 00:35:30,337
+Kas oled valmis pikali heitma?
+
+787
+00:35:31,212 --> 00:35:33,297
+- Ma hoian su pead.
+- Tasakesi.
+
+788
+00:35:33,298 --> 00:35:34,966
+Üks, kaks, kolm.
+
+789
+00:35:37,302 --> 00:35:38,720
+Hea küll. Mis tunne on?
+
+790
+00:35:41,723 --> 00:35:42,932
+Hakkan tõstma.
+
+791
+00:35:52,651 --> 00:35:53,860
+Lase edasi.
+
+792
+00:35:57,113 --> 00:36:00,283
+Ja... peaks piisama, just nii.
+
+793
+00:36:02,369 --> 00:36:03,578
+215.
+
+794
+00:36:04,663 --> 00:36:05,789
+Kilodes.
+
+795
+00:36:08,500 --> 00:36:09,709
+Hea küll, tiim.
+
+796
+00:36:15,548 --> 00:36:17,174
+Pole just palju üle 200.
+
+797
+00:36:17,175 --> 00:36:19,968
+Me ei saa riskida pühade
+nädalavahetusel KT lõhkumisega.
+
+798
+00:36:19,969 --> 00:36:22,262
+Kas kiirabi saab teda
+intubeeritult vedada?
+
+799
+00:36:22,263 --> 00:36:26,101
+Kui kaasa sõidan, jõuan veel
+enne öövahetust tukastada.
+
+800
+00:36:30,021 --> 00:36:31,648
+215 kilo.
+
+801
+00:36:33,233 --> 00:36:34,983
+Sa oled meie KT jaoks liiga raske.
+
+802
+00:36:34,984 --> 00:36:37,696
+Viime sind Presbyteriani haiglasse.
+
+803
+00:36:38,363 --> 00:36:39,280
+<i>Automatk.</i>
+
+804
+00:36:40,156 --> 00:36:42,409
+Olen kogu aeg seltsiks.
+
+805
+00:36:44,869 --> 00:36:46,329
+<i>Vabandust, et tüli teen.</i>
+
+806
+00:36:47,288 --> 00:36:48,455
+Pole hullu.
+
+807
+00:36:48,456 --> 00:36:49,624
+See ongi meie töö.
+
+808
+00:36:55,213 --> 00:36:56,922
+Nahaalune õmblus algab sügavalt.
+
+809
+00:36:56,923 --> 00:36:59,466
+- Sõlm peab peitu jääma.
+- Olen varemgi teinud.
+
+810
+00:36:59,467 --> 00:37:01,052
+Joy, kuidas otsad ära lõigata?
+
+811
+00:37:02,011 --> 00:37:04,304
+Pöörame sõlme 45 kraadi võrra.
+
+812
+00:37:04,305 --> 00:37:05,306
+Suurepärane.
+
+813
+00:37:07,100 --> 00:37:08,600
+Dr Langdon, meil on üks juhtum.
+
+814
+00:37:08,601 --> 00:37:10,436
+- Peate ootama.
+- Võib pakiline olla.
+
+815
+00:37:10,437 --> 00:37:12,230
+Otsige Robby või Al-Hashimi üles.
+
+816
+00:37:14,691 --> 00:37:18,610
+- See tüdruk on maani täis.
+- Täis nagu tarakan.
+
+817
+00:37:18,611 --> 00:37:20,404
+Kas mõõta verealkoholi taset?
+
+818
+00:37:20,405 --> 00:37:21,989
+Ei. See ei muuda meie tööd.
+
+819
+00:37:21,990 --> 00:37:23,699
+Saab koju, kui käia suudab.
+
+820
+00:37:23,700 --> 00:37:24,617
+Saatsin sõbra ära.
+
+821
+00:37:25,869 --> 00:37:28,412
+Joy, kas sa tahad ta promilli pakkuda?
+
+822
+00:37:28,413 --> 00:37:29,913
+Mis hea pärast?
+
+823
+00:37:29,914 --> 00:37:31,833
+Ma ei tea, pulli pärast.
+
+824
+00:37:37,964 --> 00:37:39,882
+Millal voodi vabaneb?
+
+825
+00:37:39,883 --> 00:37:41,633
+Ma ei tea, kas ta vajab seda.
+
+826
+00:37:41,634 --> 00:37:42,885
+Ta on palavikus imik.
+
+827
+00:37:42,886 --> 00:37:45,345
+Kes on üle kuu aja vana ja näeb hea välja.
+
+828
+00:37:45,346 --> 00:37:47,347
+Kõik on normis. Ta sai viiruse.
+
+829
+00:37:47,348 --> 00:37:50,642
+Rinoviirusega imikutel võib
+tekkida tõsine bakteriaalne nakkus.
+
+830
+00:37:50,643 --> 00:37:52,978
+Temal mitte.
+Saadame selliseid alatasa koju.
+
+831
+00:37:52,979 --> 00:37:56,357
+Aga temal pole kodu ega lapsevanemat.
+
+832
+00:37:57,942 --> 00:37:59,026
+Hea küll.
+
+833
+00:37:59,027 --> 00:38:01,028
+Ma ei saa viirusega last osakonda panna.
+
+834
+00:38:01,029 --> 00:38:03,655
+Tervele beebile
+ei saa ka erapalatit raisata.
+
+835
+00:38:03,656 --> 00:38:04,782
+Mis ettepanek sul on?
+
+836
+00:38:04,783 --> 00:38:07,826
+Hommikuks saab ta
+kiirkorras kasuperesse paigutada.
+
+837
+00:38:07,827 --> 00:38:09,954
+Sa tahad ta ööseks siia jätta?
+
+838
+00:38:10,747 --> 00:38:12,915
+See näib nüüd tüüpiline olevat.
+
+839
+00:38:12,916 --> 00:38:15,250
+- Lase oma peaarstil helistada.
+- Hästi.
+
+840
+00:38:15,251 --> 00:38:16,668
+Uskumatu.
+
+841
+00:38:16,669 --> 00:38:19,047
+- Teata lasteametile, et asjaga on kiire.
+- Selge.
+
+842
+00:38:19,672 --> 00:38:21,508
+On see vast alles päev.
+
+843
+00:38:22,675 --> 00:38:25,886
+Ma olen kaalunud
+stipendiumile kandideerimist.
+
+844
+00:38:25,887 --> 00:38:27,930
+Sind pidi New Jerseys töö ootama.
+
+845
+00:38:27,931 --> 00:38:30,182
+Jah, et emale lähedal olla.
+
+846
+00:38:30,183 --> 00:38:34,729
+Aga ta müüs meie maja maha,
+et oma uue peigmehega ringi reisida.
+
+847
+00:38:35,688 --> 00:38:37,564
+Mis mõttega New Jerseysse minna?
+
+848
+00:38:37,565 --> 00:38:38,899
+Jah, hea küsimus.
+
+849
+00:38:38,900 --> 00:38:39,943
+Milline stipendium?
+
+850
+00:38:40,610 --> 00:38:45,865
+Sõelale on jäänud ultraheli,
+toksikoloogia ja spordimeditsiin.
+
+851
+00:38:47,408 --> 00:38:50,744
+Need on väga erinevad alad
+väga erinevate karjääridega.
+
+852
+00:38:50,745 --> 00:38:53,497
+Ma tean. Ma ei suuda otsustada.
+
+853
+00:38:53,498 --> 00:38:55,123
+Kas sul on teadustöö kogemusi?
+
+854
+00:38:55,124 --> 00:38:58,669
+Osalesin tervishoiu
+rassilise ebavõrdsuse uuringus,
+
+855
+00:38:58,670 --> 00:39:01,047
+kuni Valge Maja
+eelmisel aastal rahastuse peatas.
+
+856
+00:39:01,631 --> 00:39:03,173
+Jah, sa pole ainus.
+
+857
+00:39:03,174 --> 00:39:06,468
+Kas sa oled kaalunud
+geriaatria stipendiumit?
+
+858
+00:39:06,469 --> 00:39:07,762
+Ei ole.
+
+859
+00:39:08,471 --> 00:39:10,514
+Ma olen sind eakatega näinud.
+
+860
+00:39:10,515 --> 00:39:13,810
+Seal on palju vabu kohti.
+See võib su parim võimalus olla.
+
+861
+00:39:14,686 --> 00:39:15,603
+Kaalu seda.
+
+862
+00:39:17,730 --> 00:39:20,775
+- Viimane õmblus. Kas lõikan läbi?
+- Saan ise.
+
+863
+00:39:22,986 --> 00:39:23,902
+Näeb hea välja.
+
+864
+00:39:23,903 --> 00:39:25,863
+Eemaldame kinnihoidva niidi.
+
+865
+00:39:25,864 --> 00:39:27,282
+Heameelega.
+
+866
+00:39:29,576 --> 00:39:30,618
+Hea küll, Jackie.
+
+867
+00:39:31,452 --> 00:39:34,037
+- Jackie.
+- Jää vait.
+
+868
+00:39:34,038 --> 00:39:35,372
+Tehtud.
+
+869
+00:39:35,373 --> 00:39:36,790
+Mis on tehtud?
+
+870
+00:39:36,791 --> 00:39:38,001
+Keele õmblemine.
+
+871
+00:39:38,585 --> 00:39:40,294
+Mis mu keelega juhtus?
+
+872
+00:39:40,295 --> 00:39:41,254
+Sa hammustasid seda.
+
+873
+00:39:42,171 --> 00:39:43,298
+Ei hammustanud.
+
+874
+00:39:44,173 --> 00:39:46,133
+See on mälulünk.
+
+875
+00:39:46,134 --> 00:39:47,718
+Kui palju sa jõid?
+
+876
+00:39:47,719 --> 00:39:49,928
+Paar Verist Maryt.
+
+877
+00:39:49,929 --> 00:39:51,179
+Ainult paar?
+
+878
+00:39:51,180 --> 00:39:52,640
+Ma ei tea, võibolla rohkem.
+
+879
+00:39:53,266 --> 00:39:56,018
+Pühad, pubituur.
+
+880
+00:39:56,019 --> 00:39:58,770
+Kas sa jood iga päev paar kokteili?
+
+881
+00:39:58,771 --> 00:40:00,022
+Ainult nädalavahetustel.
+
+882
+00:40:00,023 --> 00:40:01,440
+Aga nädala sees?
+
+883
+00:40:01,441 --> 00:40:02,816
+Ei midagi erilist,
+
+884
+00:40:02,817 --> 00:40:06,529
+ainult veini söögi kõrvale või paar õlut.
+
+885
+00:40:07,906 --> 00:40:09,532
+Kas soovitame võõrutusravi?
+
+886
+00:40:11,075 --> 00:40:12,827
+Jah, võime üritada.
+
+887
+00:40:18,082 --> 00:40:19,125
+Võime minna.
+
+888
+00:40:20,668 --> 00:40:22,169
+Kuidas enesetunne on?
+
+889
+00:40:22,170 --> 00:40:23,545
+<i>Minu valu on kaks.</i>
+
+890
+00:40:23,546 --> 00:40:24,838
+Valuvaigisteid võib saada.
+
+891
+00:40:24,839 --> 00:40:26,632
+Uuring on kiirem, kui Presbysse sõit.
+
+892
+00:40:26,633 --> 00:40:28,050
+Püüame su õde kätte saada.
+
+893
+00:40:28,051 --> 00:40:29,635
+<i>- Te olete parimad.</i>
+- Nägemist.
+
+894
+00:40:29,636 --> 00:40:31,970
+Kas T1-e võib uue patsiendi panna?
+
+895
+00:40:31,971 --> 00:40:34,014
+Ei, tahan ühe traumapalati vabaks jätta.
+
+896
+00:40:34,015 --> 00:40:36,434
+Kui vaja, pane N-i topelt.
+
+897
+00:40:37,518 --> 00:40:38,519
+Hr Digby?
+
+898
+00:40:40,521 --> 00:40:42,439
+- Lihtsalt Digby.
+- Nojah.
+
+899
+00:40:42,440 --> 00:40:44,691
+Oleme sind igalt poolt otsinud.
+Kus sa käisid?
+
+900
+00:40:44,692 --> 00:40:46,276
+Louie juures.
+
+901
+00:40:46,277 --> 00:40:48,988
+- Sa olid seal tund aega?
+- Ta oli mu sõber.
+
+902
+00:40:49,989 --> 00:40:51,740
+Mul oli palju öelda.
+
+903
+00:40:51,741 --> 00:40:54,035
+Mine tagasi voodisse.
+
+904
+00:40:56,329 --> 00:40:57,914
+Louie sai tiivad.
+
+905
+00:40:58,706 --> 00:41:01,375
+- Dr Robby, võtsime koos ühe patsiendi.
+- Dr Robby.
+
+906
+00:41:01,376 --> 00:41:03,919
+- Meeskonnatöö.
+- Murettekitav villiline lööve.
+
+907
+00:41:03,920 --> 00:41:06,088
+Vajame vist hariliku villtõve biopsiat.
+
+908
+00:41:06,089 --> 00:41:07,506
+See on fotokontaktdermatiit.
+
+909
+00:41:07,507 --> 00:41:09,633
+- Mida?
+- Ma küsisin.
+
+910
+00:41:09,634 --> 00:41:11,802
+Ta segas peo jaoks
+suurt Margaritade laari,
+
+911
+00:41:11,803 --> 00:41:13,887
+pigistas päikese käes värskeid laime.
+
+912
+00:41:13,888 --> 00:41:14,973
+Lähme vaatama.
+
+913
+00:41:15,682 --> 00:41:16,808
+Ei taha uuesti näha.
+
+914
+00:41:20,061 --> 00:41:22,145
+- Kuidas edeneb?
+- Ainult seisma mahub.
+
+915
+00:41:22,146 --> 00:41:23,647
+Kui tuletõrje kutsuda,
+
+916
+00:41:23,648 --> 00:41:26,149
+- kas nad löövad platsi puhtaks?
+- Looda sa. Mis mureks?
+
+917
+00:41:26,150 --> 00:41:28,360
+12 patsienti tulid retsepte pikendama.
+
+918
+00:41:28,361 --> 00:41:29,778
+Kas perearstid ei tee seda?
+
+919
+00:41:29,779 --> 00:41:31,571
+Medicaidi kärbete järel olemegi need.
+
+920
+00:41:31,572 --> 00:41:33,657
+Ma ei saa digiretsepte koostada.
+
+921
+00:41:33,658 --> 00:41:36,327
+- Kirjuta pastakaga nagu vanasti.
+- Mille peale?
+
+922
+00:41:37,537 --> 00:41:41,164
+- Nordt, sul turvasilte leidub?
+- Ikka on.
+
+923
+00:41:41,165 --> 00:41:42,583
+Patsiendikleepse on vaja.
+
+924
+00:41:43,167 --> 00:41:45,377
+- Kas on veel küsimusi?
+- Jah.
+
+925
+00:41:45,378 --> 00:41:47,672
+Mis siis, kui sind poleks täna olnud?
+
+926
+00:41:49,007 --> 00:41:52,176
+Te oleksite kägaras maas
+ja tönniksite nagu beebid.
+
+927
+00:41:53,136 --> 00:41:54,928
+Kas plätud olid jalas?
+
+928
+00:41:54,929 --> 00:41:56,722
+Jah. Mis see on?
+
+929
+00:41:56,723 --> 00:41:58,015
+Fotokontaktdermatiit.
+
+930
+00:41:58,016 --> 00:42:00,225
+Teisisõnu Margarita-põletus.
+
+931
+00:42:00,226 --> 00:42:03,103
+Laimimahl tekitab osal inimestest
+päikese käes suure lööbe.
+
+932
+00:42:03,104 --> 00:42:05,230
+See juhtus laimide pärast?
+
+933
+00:42:05,231 --> 00:42:07,650
+Kas oled varem
+päikese käes laime pigistanud?
+
+934
+00:42:08,443 --> 00:42:09,651
+Ega vist.
+
+935
+00:42:09,652 --> 00:42:12,195
+Steroidtabletid parandavad enesetunnet.
+
+936
+00:42:12,196 --> 00:42:14,114
+Aga pärast tuleb päikesekreemi kasutada,
+
+937
+00:42:14,115 --> 00:42:17,410
+muidu muutuvad villid
+püsivateks tumedateks armideks.
+
+938
+00:42:19,078 --> 00:42:21,247
+Tulen kohe järelravijuhistega.
+
+939
+00:42:22,665 --> 00:42:23,583
+- Robby.
+- Jah.
+
+940
+00:42:24,667 --> 00:42:27,962
+Hospiitsipatsiendil Roxyl
+on ikka väga valus.
+
+941
+00:42:28,713 --> 00:42:31,090
+- Palju ta morfiini saab?
+- 10 mg tunnis.
+
+942
+00:42:31,966 --> 00:42:34,301
+Võid ta doosi 12-ni tõsta.
+
+943
+00:42:34,302 --> 00:42:37,054
+- Teatan Princessile.
+- 12 tunnis on palju.
+
+944
+00:42:37,055 --> 00:42:39,849
+Ta saab MS Continit ka.
+Hingamine võib seiskuda.
+
+945
+00:42:41,642 --> 00:42:44,395
+Kas te olete kursis
+topeltmõju doktriiniga?
+
+946
+00:42:45,021 --> 00:42:45,938
+- Ei ole.
+- Ei.
+
+947
+00:42:47,065 --> 00:42:49,775
+See on palliatiivravi eetiline põhimõte.
+
+948
+00:42:49,776 --> 00:42:50,692
+Me ravime valu.
+
+949
+00:42:50,693 --> 00:42:52,986
+Kui sellel on negatiivne kõrvalmõju,
+
+950
+00:42:52,987 --> 00:42:53,987
+lepime sellega.
+
+951
+00:42:53,988 --> 00:42:56,908
+Isegi kui negatiivne kõrvalmõju on surm?
+
+952
+00:42:57,658 --> 00:43:00,078
+Vahel võib see parim tagajärg olla.
+
+953
+00:43:10,213 --> 00:43:11,963
+Äkki sai faksipaber otsa?
+
+954
+00:43:11,964 --> 00:43:14,675
+Ei, paberit on piisavalt.
+Ma ei tea, mis viga on.
+
+955
+00:43:18,262 --> 00:43:19,930
+Kuidas me selle jama üle elame?
+
+956
+00:43:19,931 --> 00:43:21,099
+Tahtsin sinult küsida.
+
+957
+00:43:24,393 --> 00:43:25,936
+Ta peab automaati valvama.
+
+958
+00:43:25,937 --> 00:43:27,480
+Siin ei tehta midagi.
+
+959
+00:44:50,730 --> 00:44:52,732
+Subtiitrid tõlkinud Janno Buschmann
+

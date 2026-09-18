@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "Id": "Jellyfin.Plugin.JellyfinEnhanced.DownloadsPage",
+      "Url": "/JellyfinEnhanced/downloadsPage",
+      "DisplayText": "Requests",
+      "Icon": "download",
+      "Version": 1
+    },
+    {
+      "Id": "Jellyfin.Plugin.JellyfinEnhanced.RecommendationsPage",
+      "Url": "/JellyfinEnhanced/recommendationsPage",
+      "DisplayText": "Recommendations",
+      "Icon": "auto_awesome",
+      "Version": 1
+    }
+  ]
+}

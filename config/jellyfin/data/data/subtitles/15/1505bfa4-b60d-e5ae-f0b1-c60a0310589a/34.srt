@@ -1,0 +1,4129 @@
+1
+00:00:15,516 --> 00:00:17,266
+Bir dahakine ortalık karışmadan önce
+
+2
+00:00:17,267 --> 00:00:18,351
+şefe söylersin.
+
+3
+00:00:18,352 --> 00:00:19,644
+Tam söyleyecektim.
+
+4
+00:00:19,645 --> 00:00:20,770
+8. SAAT
+14.00 - 15.00
+
+5
+00:00:20,771 --> 00:00:23,022
+- Her şeyi alın.
+- Hadi bakalım.
+
+6
+00:00:23,023 --> 00:00:26,275
+Siber saldırı eğitimim olduğu için
+BT beni aradı.
+
+7
+00:00:26,276 --> 00:00:27,860
+Ne yapacağız, söyle madem.
+
+8
+00:00:27,861 --> 00:00:30,321
+Yok, sağ ol.
+Bölüm şefi söylerse daha iyi...
+
+9
+00:00:30,322 --> 00:00:31,323
+Öyle mi?
+
+10
+00:00:34,368 --> 00:00:36,035
+Pekâlâ millet, toplanın.
+
+11
+00:00:36,036 --> 00:00:37,286
+Ne oluyor?
+
+12
+00:00:37,287 --> 00:00:39,247
+Siber saldırı riski altındayız.
+
+13
+00:00:39,248 --> 00:00:41,416
+Saldırıyı engellemek için
+her şeyi kapattık.
+
+14
+00:00:43,252 --> 00:00:45,336
+Peki millet. Sakinleşin, dinleyin.
+
+15
+00:00:45,337 --> 00:00:47,672
+Gördüğünüz gibi ana çalışma alanında
+
+16
+00:00:47,673 --> 00:00:48,674
+değişiklikler var.
+
+17
+00:00:49,383 --> 00:00:52,134
+Hastane bilgisayarları
+siber saldırı riski altında.
+
+18
+00:00:52,135 --> 00:00:54,262
+Bu yüzden eski usule, analoğa dönüyoruz.
+
+19
+00:00:54,263 --> 00:00:55,513
+- Ne kadar?
+- İyi soru.
+
+20
+00:00:55,514 --> 00:00:57,557
+BT departmanımız
+
+21
+00:00:57,558 --> 00:00:59,892
+savunmayı güçlendirmek için
+her şeyi kapattı.
+
+22
+00:00:59,893 --> 00:01:01,811
+"Ne kadar sürer?" diye sormuştu.
+
+23
+00:01:01,812 --> 00:01:04,314
+Söylemesi zor, saatler sürebilir.
+
+24
+00:01:05,190 --> 00:01:07,650
+- İnanılır gibi değil.
+- İlk işimiz,
+
+25
+00:01:07,651 --> 00:01:10,027
+elektronik hasta panolarını
+
+26
+00:01:10,028 --> 00:01:11,445
+beyaz panoya kopyalamak.
+
+27
+00:01:11,446 --> 00:01:13,573
+Lütfen biri
+panonun fotoğrafını çekmiş olsun.
+
+28
+00:01:13,574 --> 00:01:14,657
+Evet, bende var.
+
+29
+00:01:14,658 --> 00:01:15,492
+Pekâlâ.
+
+30
+00:01:18,954 --> 00:01:21,080
+Biraz bulanık çıkmış.
+
+31
+00:01:21,081 --> 00:01:23,083
+Biraz değil, çok bulanık.
+
+32
+00:01:23,792 --> 00:01:25,836
+- Üzgünüm.
+- Tanrım.
+
+33
+00:01:26,753 --> 00:01:27,837
+Ben hatırlıyorum.
+
+34
+00:01:27,838 --> 00:01:30,089
+Harika. Diğer herkes de hasta isimlerini,
+
+35
+00:01:30,090 --> 00:01:32,049
+oda numaralarını hatırlarsa harika olur.
+
+36
+00:01:32,050 --> 00:01:33,801
+Hayır, hepsini hatırlıyorum.
+
+37
+00:01:33,802 --> 00:01:36,346
+- Hepsini derken?
+- İsimler, doktorlar, oda numaraları.
+
+38
+00:01:37,097 --> 00:01:39,348
+Fotoğrafik hafızam var.
+
+39
+00:01:39,349 --> 00:01:41,058
+Tüm panoyu mu gerçekten?
+
+40
+00:01:41,059 --> 00:01:43,227
+Merkez 12, Harlow Graham,
+
+41
+00:01:43,228 --> 00:01:46,272
+baş ve karın ağrısı şikâyeti var,
+sadece işaret dili biliyor.
+
+42
+00:01:46,273 --> 00:01:48,608
+Eyvah, bir tercüman beni bekliyordu.
+
+43
+00:01:48,609 --> 00:01:50,776
+- Hemen.
+- Hasta mahremiyeti için
+
+44
+00:01:50,777 --> 00:01:52,612
+ana şikâyetleri kısaltacağız.
+
+45
+00:01:52,613 --> 00:01:56,032
+Baş ağrısı için "BA",
+karın ağrısı için "KA" yazın.
+
+46
+00:01:56,033 --> 00:01:58,909
+Merkez 10, Jackson Davis,
+yeni başlangıç psikoz.
+
+47
+00:01:58,910 --> 00:02:00,661
+Javadi'de, psikiyatri yatışlı.
+
+48
+00:02:00,662 --> 00:02:02,455
+Psikiyatri için "Psi".
+
+49
+00:02:02,456 --> 00:02:05,709
+Kimliği belirsiz bebeğin ateşi var,
+Doktor Mohan, yatış bekliyor.
+
+50
+00:02:06,251 --> 00:02:08,044
+Hemşireler alan savunmasına geçsin.
+
+51
+00:02:08,045 --> 00:02:10,087
+- Kuzey, Merkez, Güney, Travma.
+- Dana?
+
+52
+00:02:10,088 --> 00:02:11,631
+Cinsel saldırı vakası var.
+
+53
+00:02:11,632 --> 00:02:13,341
+Muayene bitmeden gelemez.
+
+54
+00:02:13,342 --> 00:02:16,052
+- Evet, uzun sürer.
+- Prenses'in tecrübesi var.
+
+55
+00:02:16,053 --> 00:02:17,511
+- Sayılmaz.
+- Süper fikir.
+
+56
+00:02:17,512 --> 00:02:19,639
+İş Prenses'te.
+Hemşire görevlerini atarsın.
+
+57
+00:02:19,640 --> 00:02:21,724
+- Sonraki?
+- Merkez 9, Roxy Hemler.
+
+58
+00:02:21,725 --> 00:02:23,059
+Son evre akciğer kanseri.
+
+59
+00:02:23,060 --> 00:02:25,394
+Pano okunurken burada mı bekleyeceğiz?
+
+60
+00:02:25,395 --> 00:02:28,648
+Hayır. Gidip hastalarınızı kontrol edin,
+sonra buraya gelin.
+
+61
+00:02:28,649 --> 00:02:29,940
+Teşekkürler.
+
+62
+00:02:29,941 --> 00:02:31,610
+Günde kaç saat bilgisayardasınız?
+
+63
+00:02:34,905 --> 00:02:37,490
+En az sekiz saat. Evden çalışıyorum.
+
+64
+00:02:37,491 --> 00:02:39,034
+Bütün gün masada mısınız?
+
+65
+00:02:41,578 --> 00:02:46,332
+Hayır. Ya koltukta otururum
+ya da bazen yatakta.
+
+66
+00:02:46,333 --> 00:02:50,002
+Bilgisayar kucağımda arkama yaslanırım,
+öyle şeyler işte.
+
+67
+00:02:50,003 --> 00:02:51,922
+Yani hep aşağı doğru ekrana bakıyorsunuz.
+
+68
+00:02:52,881 --> 00:02:53,798
+Evet.
+
+69
+00:02:53,799 --> 00:02:56,677
+Tamam. Boyun kaslarınızı kontrol edeceğim.
+
+70
+00:03:04,476 --> 00:03:05,394
+Canı yanmış.
+
+71
+00:03:06,937 --> 00:03:08,814
+Tamam. Sanırım yardımcı olabiliriz.
+
+72
+00:03:09,398 --> 00:03:10,774
+Buraya gelin.
+
+73
+00:03:11,817 --> 00:03:13,109
+Tamam, toplanın.
+
+74
+00:03:13,110 --> 00:03:15,486
+Dinleyin, bu bizim dosya rafımız.
+
+75
+00:03:15,487 --> 00:03:18,572
+Gördüğünüz gibi, her bölme ve panoda
+bir oda numarası var.
+
+76
+00:03:18,573 --> 00:03:22,326
+Yeni hasta aldığınızda
+T-sisteminden boş bir form alıyorsunuz.
+
+77
+00:03:22,327 --> 00:03:27,415
+Dosyanızı ana şikâyete göre seçin.
+Bulmak için resimleri kullanın.
+
+78
+00:03:27,416 --> 00:03:29,041
+Neden iki vücut var?
+
+79
+00:03:29,042 --> 00:03:31,210
+Soldaki travma, sağdaki tıbbi.
+
+80
+00:03:31,211 --> 00:03:34,088
+Kafa yaralanmasıysa sola,
+baş ağrısıysa sağa.
+
+81
+00:03:34,089 --> 00:03:36,716
+- Yosun arasında yüzen balık mı onlar?
+- Hayır.
+
+82
+00:03:36,717 --> 00:03:38,008
+Onlar arı ve ot.
+
+83
+00:03:38,009 --> 00:03:40,845
+Böcek ısırığı, döküntü ve alerji bölümü.
+
+84
+00:03:40,846 --> 00:03:42,179
+Diyelim ki
+
+85
+00:03:42,180 --> 00:03:44,432
+Dr. Al-Hashimi'nin
+karın ağrılı hastası var.
+
+86
+00:03:44,433 --> 00:03:49,228
+Öyküde, kusma ve ishal gibi
+pozitif bulguları daire içine alın.
+
+87
+00:03:49,229 --> 00:03:50,521
+Yakınlarda seyahat,
+
+88
+00:03:50,522 --> 00:03:53,357
+hasta teması, ateş gibi
+negatif bulguların üstünü çizin.
+
+89
+00:03:53,358 --> 00:03:57,278
+Fizik muayenede,
+normalleri sola işaretleyin,
+
+90
+00:03:57,279 --> 00:04:00,239
+anormal bulguları
+sağda daireye alın. Sorunuz?
+
+91
+00:04:00,240 --> 00:04:02,743
+YZ programınız hâlâ çalışıyor olacak mı?
+
+92
+00:04:04,453 --> 00:04:05,494
+Bir süre hayır.
+
+93
+00:04:05,495 --> 00:04:08,790
+Spectralink telefonlarınızı bırakın.
+Onlar internet üzerinden çalışıyor.
+
+94
+00:04:11,877 --> 00:04:14,086
+PTTM, acil. Dinliyorum tıbbi merkez.
+
+95
+00:04:14,087 --> 00:04:16,213
+Gelen vakaları böyle öğreneceğiz.
+
+96
+00:04:16,214 --> 00:04:18,841
+Sağ olun. İki dakikaya
+karın ağrılı ve ateşli hasta.
+
+97
+00:04:18,842 --> 00:04:20,342
+Buraya kadar anlaşıldı mı?
+
+98
+00:04:20,343 --> 00:04:21,969
+Talepleri nasıl yazacağız?
+
+99
+00:04:21,970 --> 00:04:26,515
+Üç nüshalı doktor istem formuyla.
+Tahlil, röntgen, serum, ilaç.
+
+100
+00:04:26,516 --> 00:04:28,601
+Laboratuvar hâlâ
+kan tahlili yapabilecek mi?
+
+101
+00:04:28,602 --> 00:04:30,603
+- Evet.
+- Tomografi hâlâ çalışıyor mu?
+
+102
+00:04:30,604 --> 00:04:34,231
+Evet ama sonuçlar
+radyologdan kâğıt üzerinde gelecek.
+
+103
+00:04:34,232 --> 00:04:35,441
+Resmen Orta Çağ.
+
+104
+00:04:35,442 --> 00:04:39,904
+Tahlil veya röntgen talebi varsa
+şuradaki kayıt memuru dosyasına gidiyor.
+
+105
+00:04:39,905 --> 00:04:42,281
+Onlar onaylayacak. Bir fiş ekleyip
+
+106
+00:04:42,282 --> 00:04:43,950
+doğru servise gönderecekler.
+
+107
+00:04:44,075 --> 00:04:46,202
+- Bir saniye, memurlar kim?
+- Hizmetinizdeyiz.
+
+108
+00:04:46,203 --> 00:04:48,621
+Larry ve Antoine
+yardım gelene kadar idare ediyor.
+
+109
+00:04:48,622 --> 00:04:51,332
+- Bizde o iş.
+- Kayıt işlemlerinden sonra dosya
+
+110
+00:04:51,333 --> 00:04:54,794
+serum, ilaç ve işlemler için
+şuradaki hemşire istem rafına geçiyor.
+
+111
+00:04:54,795 --> 00:04:57,171
+İlaçlar PDS'te kilitli.
+
+112
+00:04:57,172 --> 00:05:00,800
+PDS, klinik eczacı
+Dr. Megan Nordt tarafından açılıyor.
+
+113
+00:05:00,801 --> 00:05:02,384
+- Yanınızdayız.
+- Çok şey var.
+
+114
+00:05:02,385 --> 00:05:03,720
+Sorusu olan? Evet.
+
+115
+00:05:05,013 --> 00:05:05,930
+Yok.
+
+116
+00:05:05,931 --> 00:05:07,223
+Üçüncü rafın olayı ne?
+
+117
+00:05:07,224 --> 00:05:09,099
+Hasta taburcu olmaya hazırsa
+
+118
+00:05:09,100 --> 00:05:10,226
+dosya buraya gelir.
+
+119
+00:05:10,227 --> 00:05:12,478
+Bu ses yatağın boşalacağını haber verir.
+
+120
+00:05:12,479 --> 00:05:14,189
+- Ya da yemeğin ısındığını.
+- Jesse?
+
+121
+00:05:16,817 --> 00:05:19,026
+- O ne?
+- O ne?
+
+122
+00:05:19,027 --> 00:05:22,112
+- Bir faks makinesi.
+- Hâlâ yapıyorlar mı?
+
+123
+00:05:22,113 --> 00:05:23,739
+Can damarımız sayılır.
+
+124
+00:05:23,740 --> 00:05:26,033
+Sonuçları bize faks çekecekler,
+
+125
+00:05:26,034 --> 00:05:28,244
+memurlar da dosyalara ekleyecek. Tamam mı?
+
+126
+00:05:28,245 --> 00:05:30,162
+- Öyle diyorsanız.
+- Vaka geliyor!
+
+127
+00:05:30,163 --> 00:05:33,999
+Tamam, Dr. McKay,
+Dr. Whitaker, Ogilvie benimlesiniz.
+
+128
+00:05:34,000 --> 00:05:35,961
+Kalanlar, dosyalarınızı hazırlayın.
+
+129
+00:05:39,172 --> 00:05:40,381
+Howard Knox, 52,
+
+130
+00:05:40,382 --> 00:05:43,175
+karın ağrısı ve ateş var.
+Tansiyon 152'ye 90.
+
+131
+00:05:43,176 --> 00:05:46,387
+- Nabız 110, damar yolu açamadık.
+- Neden acaba?
+
+132
+00:05:46,388 --> 00:05:49,014
+- Merhaba efendim. Ben Dr. Robby.
+- Howard.
+
+133
+00:05:49,015 --> 00:05:50,182
+Eğitim hastanesiyiz.
+
+134
+00:05:50,183 --> 00:05:52,434
+Dr. McKay, Dr. Whitaker ve Dr. Ogilvie'nin
+
+135
+00:05:52,435 --> 00:05:53,644
+denetimini yapacağım.
+
+136
+00:05:53,645 --> 00:05:54,854
+- Merhaba.
+- Nasılsınız?
+
+137
+00:05:54,855 --> 00:05:56,146
+- Pek iyi değilim.
+- Peki.
+
+138
+00:05:56,147 --> 00:05:58,358
+- Prenses, neresi boş?
+- Travma 1. Perlah.
+
+139
+00:06:01,987 --> 00:06:05,114
+Merkez 12 için
+Mylanta ve Bupivakain talepleri.
+
+140
+00:06:05,115 --> 00:06:08,243
+Yanlış yer Dr. Santos.
+Ayrıca etiket gerekli.
+
+141
+00:06:09,619 --> 00:06:11,537
+- Harika.
+- Hemşire talep rafına koy.
+
+142
+00:06:11,538 --> 00:06:13,038
+Benimle PDS'te buluş.
+
+143
+00:06:13,039 --> 00:06:14,415
+Ne kadar berbat.
+
+144
+00:06:14,416 --> 00:06:16,208
+Daha da kötüleşebilirmiş demek ki.
+
+145
+00:06:16,209 --> 00:06:18,460
+Ben asistanken işler böyleydi.
+
+146
+00:06:18,461 --> 00:06:19,879
+1900'lü yıllar mıydı?
+
+147
+00:06:19,880 --> 00:06:21,631
+Evet, dosyalar mum ışığında yazılırdı.
+
+148
+00:06:22,382 --> 00:06:24,133
+Bugün bir macera olacak.
+
+149
+00:06:24,134 --> 00:06:25,969
+<i>Geleceğe Dönüş</i> gibi düşünün.
+
+150
+00:06:29,055 --> 00:06:30,931
+Ya da <i>Titanik</i> gibi.
+
+151
+00:06:30,932 --> 00:06:33,393
+İşte antasidiniz. Buyurun.
+
+152
+00:06:34,102 --> 00:06:37,479
+Baş ağrınızı tetikleyen
+noktayı işaretledim.
+
+153
+00:06:37,480 --> 00:06:41,109
+Oraya yapılacak bir lokal anestezi iğnesi
+çok iyi gelebilir.
+
+154
+00:06:42,569 --> 00:06:44,112
+- Evet, yapalım.
+- Harika.
+
+155
+00:06:45,947 --> 00:06:50,160
+Küçük bir iğne batması
+ve biraz yanma hissedeceksiniz.
+
+156
+00:06:58,668 --> 00:07:00,127
+Çok acımış.
+
+157
+00:07:00,128 --> 00:07:03,213
+Ateşi 38,5. Nabız 128 ile taşikardik.
+
+158
+00:07:03,214 --> 00:07:04,632
+Satürasyon 92.
+
+159
+00:07:04,633 --> 00:07:05,841
+Ağrı ne zaman başladı?
+
+160
+00:07:05,842 --> 00:07:08,427
+- Bir haftadır oluyordu.
+- Neresi peki?
+
+161
+00:07:08,428 --> 00:07:09,345
+Her yerim.
+
+162
+00:07:09,346 --> 00:07:11,680
+Solda başladı, şimdi sağda da var.
+
+163
+00:07:11,681 --> 00:07:14,266
+- Peki ya ateş?
+- Dün geceden beri.
+
+164
+00:07:14,267 --> 00:07:17,478
+Önce ateşlendim. Sonra fena titreme geldi.
+
+165
+00:07:17,479 --> 00:07:18,479
+Damar bulamıyorum.
+
+166
+00:07:18,480 --> 00:07:20,607
+- Midline deneyeceğiz.
+- Acırsa söyleyin.
+
+167
+00:07:21,983 --> 00:07:23,984
+- Pardon.
+- Bu taraf mı?
+
+168
+00:07:23,985 --> 00:07:25,402
+- Evet.
+- Pardon.
+
+169
+00:07:25,403 --> 00:07:28,656
+Defans var, rijidite yok.
+Ağrı için 100 fentanil IM.
+
+170
+00:07:28,657 --> 00:07:33,077
+- Plan nedir Dr. Whitaker?
+- Kan kültürleri, laktat, Zosyn.
+
+171
+00:07:33,078 --> 00:07:35,246
+Neler olduğunu anlamak için BT gerekecek.
+
+172
+00:07:36,873 --> 00:07:38,916
+- Evet, çalışmıyor.
+- Evet.
+
+173
+00:07:38,917 --> 00:07:41,335
+- Okunaklı yazman önemli.
+- Howard, tarama için
+
+174
+00:07:41,336 --> 00:07:43,921
+sırtüstü yatmalısın. Yapabilir misin?
+
+175
+00:07:43,922 --> 00:07:47,132
+10 yıl önce yapabilirdim
+ama artık nefes almak çok zor.
+
+176
+00:07:47,133 --> 00:07:49,218
+Düz yatıramazsak nefes almanız için
+
+177
+00:07:49,219 --> 00:07:51,470
+soluk boruna tüp takılmalı, kabul mü?
+
+178
+00:07:51,471 --> 00:07:54,264
+- Hızlı ardışık indüksiyonla entübasyon mu?
+- Uyutamayız.
+
+179
+00:07:54,265 --> 00:07:56,600
+Tüp uyanıkken burnunuzdan takılır.
+
+180
+00:07:56,601 --> 00:07:57,643
+Doğru.
+
+181
+00:07:57,644 --> 00:07:59,853
+- Canım acır mı?
+- Tamamen uyuşacak.
+
+182
+00:07:59,854 --> 00:08:01,563
+Rahatsızlık duymayacaksınız.
+
+183
+00:08:01,564 --> 00:08:03,858
+Kilonuzu biliyor musunuz?
+
+184
+00:08:04,734 --> 00:08:06,110
+180'den biraz fazla.
+
+185
+00:08:06,111 --> 00:08:08,654
+- En son ne zaman tartıldınız?
+- Epey oldu.
+
+186
+00:08:08,655 --> 00:08:11,240
+200 kilo üzerinde olabilir misiniz?
+
+187
+00:08:11,241 --> 00:08:12,158
+Olabilir.
+
+188
+00:08:13,493 --> 00:08:15,577
+Perlah, Hoyer isteyelim.
+
+189
+00:08:15,578 --> 00:08:18,872
+Tüpü yerleştirip
+sizi taramaya hazırlayacağız.
+
+190
+00:08:18,873 --> 00:08:20,290
+Ciddi bir şey mi bu?
+
+191
+00:08:20,291 --> 00:08:22,084
+BT olmadan söylemek zor.
+
+192
+00:08:22,085 --> 00:08:25,587
+Antibiyotikle de çözülebilir,
+ameliyat da gerekebilir.
+
+193
+00:08:25,588 --> 00:08:27,006
+Ameliyat gerekirse
+
+194
+00:08:27,007 --> 00:08:29,174
+kilonuz işleri zorlaştırabilir.
+
+195
+00:08:29,175 --> 00:08:30,217
+Evet. Üzgünüm.
+
+196
+00:08:30,218 --> 00:08:33,388
+Endişelenmeyin.
+Size çok iyi bakacağız. Ekip.
+
+197
+00:08:34,848 --> 00:08:36,432
+Ağrı kesici yapıyorum.
+
+198
+00:08:36,433 --> 00:08:40,519
+Ultrasonla bazilik ven için
+midline deneyelim.
+
+199
+00:08:40,520 --> 00:08:41,895
+Ultrasonla bakılır mı?
+
+200
+00:08:41,896 --> 00:08:43,647
+Ultrason için fazla iri.
+
+201
+00:08:43,648 --> 00:08:46,108
+Bizdeki BT en çok 200 kilo taşıyabilir.
+
+202
+00:08:46,109 --> 00:08:48,445
+Yani 200'den ağırsa hayvanat bahçesine mi?
+
+203
+00:08:49,696 --> 00:08:50,822
+Hasta yanındasın.
+
+204
+00:08:53,450 --> 00:08:56,285
+Hayvanat bahçesinde
+büyük hayvan BT'si varmış.
+
+205
+00:08:56,286 --> 00:09:00,415
+- Presby'nin BT'si 300'e kadar çıkar.
+- Eğer hâlâ çalışıyorsa.
+
+206
+00:09:01,708 --> 00:09:03,208
+Dilimi ısırayım, sadece...
+
+207
+00:09:03,209 --> 00:09:06,546
+Hiç uyanık nazotrakeal yapan oldu mu?
+
+208
+00:09:07,005 --> 00:09:07,921
+Tamam.
+
+209
+00:09:07,922 --> 00:09:10,090
+Perlah, Dr. Al-Hashimi'yi çağırır mısın?
+
+210
+00:09:10,091 --> 00:09:11,341
+Yardım gerekecek.
+
+211
+00:09:11,342 --> 00:09:12,343
+Peki, tamamdır.
+
+212
+00:09:13,303 --> 00:09:14,512
+Pardon. İmzalandı.
+
+213
+00:09:15,597 --> 00:09:17,139
+- Teşekkürler.
+- Koridor yatak F.
+
+214
+00:09:17,140 --> 00:09:18,307
+George Francis,
+
+215
+00:09:18,308 --> 00:09:21,435
+nefes darlığı, Dr. Mohan,
+D-dimer bekleniyor.
+
+216
+00:09:21,436 --> 00:09:23,312
+Hayret. Hâlâ devam mı ediyor?
+
+217
+00:09:23,313 --> 00:09:25,064
+Evet. Gerçekten olağanüstü.
+
+218
+00:09:25,065 --> 00:09:27,024
+Dr. Al, Robby sizi çağırıyor.
+
+219
+00:09:27,025 --> 00:09:28,025
+Tamam.
+
+220
+00:09:28,026 --> 00:09:30,236
+- İhtiyaç olursa Travma'dayım.
+- Tamam.
+
+221
+00:09:32,614 --> 00:09:34,948
+Fişleri röntgen ve laboratuvara
+kim götürecek?
+
+222
+00:09:34,949 --> 00:09:36,409
+Sorumlu hemşire.
+
+223
+00:09:37,827 --> 00:09:38,828
+Bana bakmayın.
+
+224
+00:09:39,579 --> 00:09:40,455
+Çok doluyum.
+
+225
+00:09:43,500 --> 00:09:46,960
+- Roxy Hemler'ın ailesi.
+- Merkez 9.
+
+226
+00:09:46,961 --> 00:09:48,128
+Ben ilgilenirim Donnie.
+
+227
+00:09:48,129 --> 00:09:51,006
+Merhaba, ben Victoria Javadi,
+stajyer doktorum.
+
+228
+00:09:51,007 --> 00:09:52,966
+Roxy'nin bakımıyla ilgileniyorum.
+
+229
+00:09:52,967 --> 00:09:56,136
+- Teşekkür ederiz. Ben Lloyd.
+- Cora.
+
+230
+00:09:56,137 --> 00:09:57,429
+Memnun oldum.
+
+231
+00:09:57,430 --> 00:09:58,348
+Bacağı mı kırıldı?
+
+232
+00:09:58,932 --> 00:10:01,141
+Evet. Bileğine yakın bir kırık var.
+
+233
+00:10:01,142 --> 00:10:04,144
+Bot alçıya alındı,
+yani o kadar çok ağrısı yok.
+
+234
+00:10:04,145 --> 00:10:05,897
+Sizi götüreyim. 9 numarada.
+
+235
+00:10:11,861 --> 00:10:13,237
+WiFi çalışmıyor.
+
+236
+00:10:13,238 --> 00:10:15,573
+Bir süre çalışmayacak. Üzgünüm.
+
+237
+00:10:16,533 --> 00:10:18,034
+Annem bacağını kırmış dede.
+
+238
+00:10:18,952 --> 00:10:19,953
+Duyduk.
+
+239
+00:10:21,329 --> 00:10:22,288
+Nasılsın tatlım?
+
+240
+00:10:25,166 --> 00:10:26,668
+Atlatacaksın evlat.
+
+241
+00:10:27,418 --> 00:10:28,294
+Evet.
+
+242
+00:10:29,838 --> 00:10:31,673
+Acilde ne kadar kalacak?
+
+243
+00:10:32,298 --> 00:10:34,592
+Yukarıda yatak açılana kadar.
+
+244
+00:10:35,677 --> 00:10:36,845
+Biraz sürebilir.
+
+245
+00:10:42,350 --> 00:10:43,851
+Burası kalabalıklaştı.
+
+246
+00:10:43,852 --> 00:10:45,894
+Tucker ve Shane'e dondurma yedirelim.
+
+247
+00:10:45,895 --> 00:10:48,523
+- Evet, lütfen.
+- Hayır. Ben iyiyim.
+
+248
+00:10:49,607 --> 00:10:51,901
+Belki anneniz dinlenmek istiyordur.
+
+249
+00:10:52,569 --> 00:10:54,404
+Evet, gidin.
+
+250
+00:10:56,656 --> 00:10:57,866
+O dondurma yiyebilir mi?
+
+251
+00:10:58,700 --> 00:11:00,326
+Ne isterse yiyebilir.
+
+252
+00:11:02,162 --> 00:11:03,246
+Hadi, gidelim.
+
+253
+00:11:14,340 --> 00:11:15,465
+Evet.
+
+254
+00:11:15,466 --> 00:11:16,342
+Dinleyin.
+
+255
+00:11:17,218 --> 00:11:20,013
+Bu oksimetazolin. Kanalları açacak.
+
+256
+00:11:20,972 --> 00:11:22,681
+Hangi ilaçları kullanıyorsunuz?
+
+257
+00:11:22,682 --> 00:11:24,601
+Lisinopril ve metformin.
+
+258
+00:11:25,351 --> 00:11:27,060
+Ozempic? Wegovy?
+
+259
+00:11:27,061 --> 00:11:28,979
+Hayır. Biraz pahalılar.
+
+260
+00:11:28,980 --> 00:11:30,939
+Burnunuza uyuşturucu jel sıkacağım.
+
+261
+00:11:30,940 --> 00:11:33,318
+Boğazınıza kaçarsa sorun olmaz.
+
+262
+00:11:34,652 --> 00:11:36,070
+Lazım olursa burada.
+
+263
+00:11:36,738 --> 00:11:39,990
+Sigara içer misiniz? Alkol?
+
+264
+00:11:39,991 --> 00:11:41,742
+- Asla.
+- Egzersiz yapar mısınız?
+
+265
+00:11:41,743 --> 00:11:43,703
+Yatak odasından mutfağa kadar.
+
+266
+00:11:44,787 --> 00:11:45,913
+Daha çok yürürdüm
+
+267
+00:11:45,914 --> 00:11:48,540
+ama her blokta dinlenecek
+bir bank gerekiyor.
+
+268
+00:11:48,541 --> 00:11:50,083
+Su aerobiği nasıl?
+
+269
+00:11:50,084 --> 00:11:52,336
+Bay Knox'a yardım etmeye odaklanalım.
+
+270
+00:11:52,337 --> 00:11:53,754
+Katılıyorum.
+
+271
+00:11:53,755 --> 00:11:55,881
+Bu hâle gelmem 20 yılımı aldı.
+
+272
+00:11:55,882 --> 00:12:00,637
+Araba kazası, yanık ünitesi,
+beş yılda dört bacak ameliyatı.
+
+273
+00:12:01,387 --> 00:12:03,555
+Beni o kadar bağladı ki işimi kaybettim.
+
+274
+00:12:03,556 --> 00:12:05,224
+Dil arkasını uyuşturmalıyım.
+
+275
+00:12:05,225 --> 00:12:06,391
+Tadı biraz kötüdür.
+
+276
+00:12:06,392 --> 00:12:08,228
+Aramamızı istediğiniz biri var mı?
+
+277
+00:12:09,562 --> 00:12:10,897
+Ailenizden kimse?
+
+278
+00:12:12,065 --> 00:12:13,524
+Ebeveynlerim vefat etti.
+
+279
+00:12:14,025 --> 00:12:17,027
+- Bekârım. Şansa bak.
+- Kardeşiniz?
+
+280
+00:12:17,028 --> 00:12:18,321
+Arizona'da ablam var.
+
+281
+00:12:19,447 --> 00:12:20,865
+Ama pek konuşmuyoruz.
+
+282
+00:12:21,491 --> 00:12:23,492
+Dilinizin arkası uyuştuğuna göre
+
+283
+00:12:23,493 --> 00:12:25,370
+biraz daha derini uyuşturabiliriz.
+
+284
+00:12:26,913 --> 00:12:27,829
+Bölüyorum, pardon.
+
+285
+00:12:27,830 --> 00:12:30,540
+Ani körlük şikâyeti olan hastam var.
+
+286
+00:12:30,541 --> 00:12:32,251
+- Ben bakarım.
+- Tamam.
+
+287
+00:12:32,252 --> 00:12:33,252
+Abbot nerede?
+
+288
+00:12:33,253 --> 00:12:34,169
+- Bakayım.
+- Sağ ol.
+
+289
+00:12:34,170 --> 00:12:37,631
+- Ablanızın adı ne?
+- Lauren Milford.
+
+290
+00:12:37,632 --> 00:12:38,549
+Arizona'da nerede?
+
+291
+00:12:39,050 --> 00:12:40,550
+Flagstaff sanırım.
+
+292
+00:12:40,551 --> 00:12:43,388
+Dilinizin arkasını uyuşturup
+ses tellerinizi uyuşturacağım.
+
+293
+00:12:46,432 --> 00:12:48,977
+- Kaç parmak görüyorsun?
+- Parmak görmüyorum.
+
+294
+00:12:49,936 --> 00:12:50,812
+Peki ya şimdi?
+
+295
+00:12:51,938 --> 00:12:53,189
+Çok az ışık görebiliyorum.
+
+296
+00:12:54,774 --> 00:12:56,275
+Brooke, Dr. King ile tanıştın.
+
+297
+00:12:56,276 --> 00:12:58,193
+- Bu da Dr. Al-Hashimi.
+- Memnun oldum.
+
+298
+00:12:58,194 --> 00:12:59,111
+Ve karısı Wendy.
+
+299
+00:12:59,112 --> 00:13:00,237
+- Selam.
+- Selam.
+
+300
+00:13:00,238 --> 00:13:02,072
+Belirtilerinizi konuşalım mı?
+
+301
+00:13:02,073 --> 00:13:04,324
+Hata yaparsanız düzeltirim ama.
+
+302
+00:13:04,325 --> 00:13:05,534
+Güvenin bana, düzeltir.
+
+303
+00:13:05,535 --> 00:13:09,079
+Sol gözde bir saattir süren
+ani, ağrısız görme kaybı.
+
+304
+00:13:09,080 --> 00:13:12,040
+Hiperkoagülabilite
+veya vasküler hastalık öyküsü yok.
+
+305
+00:13:12,041 --> 00:13:13,625
+Dümdüz karşıya bakın.
+
+306
+00:13:13,626 --> 00:13:15,712
+Santral retinal arter oklüzyonu olabilir.
+
+307
+00:13:16,421 --> 00:13:17,713
+Dilimizi konuşsanız?
+
+308
+00:13:17,714 --> 00:13:21,341
+Küçük bir kan pıhtısı
+gözün arkasındaki arteri tıkayıp
+
+309
+00:13:21,342 --> 00:13:22,592
+görmenizi azaltabilir.
+
+310
+00:13:22,593 --> 00:13:24,094
+Göz felci de denir.
+
+311
+00:13:24,095 --> 00:13:26,221
+Felç mi? Felç mi kalacak yani?
+
+312
+00:13:26,222 --> 00:13:28,557
+Hayır, bu sadece gözle sınırlı.
+
+313
+00:13:28,558 --> 00:13:31,269
+- Kalıcı mı peki?
+- Önce teşhis koymamız lazım.
+
+314
+00:13:31,853 --> 00:13:32,769
+Retinal muayene?
+
+315
+00:13:32,770 --> 00:13:34,229
+Net görüntü almak zor.
+
+316
+00:13:34,230 --> 00:13:35,606
+FOP lazım.
+
+317
+00:13:36,149 --> 00:13:37,358
+O ne?
+
+318
+00:13:39,902 --> 00:13:43,447
+Prenses, her istem formuna
+hasta etiketi yapıştırmazsak
+
+319
+00:13:43,448 --> 00:13:45,741
+eczane ilacı kime vereceğini bilemez.
+
+320
+00:13:45,742 --> 00:13:46,783
+Hallediyoruz.
+
+321
+00:13:46,784 --> 00:13:48,619
+Prenses, akıllı telefon fundoskobu?
+
+322
+00:13:49,245 --> 00:13:51,121
+- Ekipman koridoru, göz arabası.
+- Sağ ol.
+
+323
+00:13:51,122 --> 00:13:53,249
+Biraz kafan karışmış gibi.
+
+324
+00:13:53,750 --> 00:13:55,709
+Hangi hastayı alacağımı nasıl anlarım?
+
+325
+00:13:55,710 --> 00:13:58,086
+Panonun en üstünde.
+Geliş sırasına göre dizililer.
+
+326
+00:13:58,087 --> 00:14:01,089
+İlkini silip doktor kutusuna
+isminin baş harflerini yazıyorsun.
+
+327
+00:14:01,090 --> 00:14:03,008
+- Tamam, teşekkürler.
+- Caleb.
+
+328
+00:14:03,009 --> 00:14:05,093
+Michael, bu kaosla başa çıkabiliyor musun?
+
+329
+00:14:05,094 --> 00:14:07,805
+Görev sürenin bitmesine az kalınca
+her şey kolay.
+
+330
+00:14:08,348 --> 00:14:10,641
+Sohbet edebileceğim
+başka komada hasta var mı?
+
+331
+00:14:12,518 --> 00:14:13,435
+Şaka yaptım.
+
+332
+00:14:13,436 --> 00:14:17,314
+- Peki.
+- Victoria, bu Nicole Steadman.
+
+333
+00:14:17,315 --> 00:14:19,941
+Psikiyatri servisi için
+aile destek grubunu yönetiyorum.
+
+334
+00:14:19,942 --> 00:14:23,195
+Evet, Nicole'un kızına
+üniversite ikinci sınıfta teşhis konmuştu.
+
+335
+00:14:23,196 --> 00:14:25,907
+Jackson'ın ailesi
+onunla bir konuşsa nasıl olur?
+
+336
+00:14:26,657 --> 00:14:27,742
+Sorabilirim.
+
+337
+00:14:28,368 --> 00:14:31,662
+Artık göz bebeğini büyütmeden
+tüm retinayı görebiliyoruz.
+
+338
+00:14:32,705 --> 00:14:36,459
+- Yanlış göze bakıyorsunuz.
+- Karşılaştırma için iyi olanla başlarız.
+
+339
+00:14:38,711 --> 00:14:40,879
+- Retina harika görünüyor.
+- Şimdi kötü göz mü?
+
+340
+00:14:40,880 --> 00:14:42,215
+Gözleri iyice açalım.
+
+341
+00:14:44,509 --> 00:14:45,468
+Nasıl görünüyor?
+
+342
+00:14:46,260 --> 00:14:47,552
+Çok soluk, kan akışı yok.
+
+343
+00:14:47,553 --> 00:14:49,846
+Dijital masaj,
+10 saniye bas, 5 saniye bırak.
+
+344
+00:14:49,847 --> 00:14:51,140
+Kontrastsız beyin BT.
+
+345
+00:14:54,936 --> 00:14:55,853
+Gir.
+
+346
+00:14:57,188 --> 00:14:58,940
+Merhaba. Hastan kaçmış.
+
+347
+00:14:59,649 --> 00:15:01,984
+- Mola verdi.
+- Ne kadar bekleyeceksin?
+
+348
+00:15:03,569 --> 00:15:05,320
+Siber saldırıyı duydun mu?
+
+349
+00:15:05,321 --> 00:15:07,030
+Evet. Yardım etmek isterdim
+
+350
+00:15:07,031 --> 00:15:09,616
+ama deliller toplanana dek
+burada kalmalıyım.
+
+351
+00:15:09,617 --> 00:15:11,243
+Dışarısı tam bir curcuna.
+
+352
+00:15:11,244 --> 00:15:12,578
+Bütün gün öyle.
+
+353
+00:15:14,288 --> 00:15:15,623
+Pardon, ben de çıkıyordum.
+
+354
+00:15:16,290 --> 00:15:17,208
+İyi misin?
+
+355
+00:15:18,376 --> 00:15:19,210
+İyiyim.
+
+356
+00:15:20,044 --> 00:15:22,671
+Buna sevindim. Bir şeyler yedin mi?
+
+357
+00:15:22,672 --> 00:15:23,589
+Hayır.
+
+358
+00:15:25,675 --> 00:15:27,009
+Devam edelim.
+
+359
+00:15:27,844 --> 00:15:29,971
+Tamam. Evet.
+
+360
+00:15:37,395 --> 00:15:38,896
+- Pekâlâ.
+- Teşekkürler.
+
+361
+00:15:40,731 --> 00:15:42,400
+Birini acilde tutsak ya?
+
+362
+00:15:43,192 --> 00:15:45,528
+Entübe hastalarımız genelde uyutulur.
+
+363
+00:15:46,946 --> 00:15:48,071
+Doğru.
+
+364
+00:15:48,072 --> 00:15:51,576
+Belki kilosu hakkındaki yorumlarını
+biraz azaltabilirsin.
+
+365
+00:15:52,994 --> 00:15:56,204
+Kilo alma sebebini
+ve yardım yollarını merak ettim.
+
+366
+00:15:56,205 --> 00:15:59,332
+Neyi olduğunu bulup
+ona saygılı davranarak yardım edebiliriz.
+
+367
+00:15:59,333 --> 00:16:01,835
+- Karnın nasıl?
+- İkinci ağrı kesici iyi geldi.
+
+368
+00:16:01,836 --> 00:16:03,545
+Tamam. Gerekirse dahası da var.
+
+369
+00:16:03,546 --> 00:16:06,631
+- Bağırsak sesleri azalmış.
+- Yoğun bakımdan VidaTalk.
+
+370
+00:16:06,632 --> 00:16:09,176
+Süper. Howard, şimdi o kanalı açmalıyız ki
+
+371
+00:16:09,177 --> 00:16:10,343
+tüpü geçirebilelim.
+
+372
+00:16:10,344 --> 00:16:12,179
+Serçe parmakla başlayıp birazdan
+
+373
+00:16:12,180 --> 00:16:14,639
+yavaşça, eklem yerime kadar
+daha derine gideceğim.
+
+374
+00:16:14,640 --> 00:16:17,726
+Tüp, ses tellerinden geçince
+konuşamayacaksınız.
+
+375
+00:16:17,727 --> 00:16:19,478
+Ama bu bir iletişim cihazı.
+
+376
+00:16:19,479 --> 00:16:22,481
+Söylemek istediğiniz her şey için
+ekranı kaydırın.
+
+377
+00:16:22,482 --> 00:16:24,983
+İkona dokunun, bizimle konuşur.
+
+378
+00:16:24,984 --> 00:16:26,569
+<i>Ağrı kesici istiyorum.</i>
+
+379
+00:16:27,403 --> 00:16:29,029
+<i>Ağrım dokuz şiddetinde.</i>
+
+380
+00:16:29,030 --> 00:16:30,531
+Pizza sipariş edebilir miyim?
+
+381
+00:16:32,366 --> 00:16:34,784
+Ambulans girişinde telefon çekiyor.
+
+382
+00:16:34,785 --> 00:16:36,995
+Ablasının numarasını buldum,
+mesaj bıraktım.
+
+383
+00:16:36,996 --> 00:16:38,538
+Tamam, başlıyorum.
+
+384
+00:16:38,539 --> 00:16:39,915
+Hazır mısın?
+
+385
+00:16:39,916 --> 00:16:40,833
+Pek sayılmaz.
+
+386
+00:16:41,459 --> 00:16:42,375
+Ama başla.
+
+387
+00:16:42,376 --> 00:16:44,462
+- Robby, gelir misin?
+- Kafa arkaya.
+
+388
+00:16:47,048 --> 00:16:48,173
+Cerrahi mi sence?
+
+389
+00:16:48,174 --> 00:16:49,841
+Umarım apandisit patlamamıştır.
+
+390
+00:16:49,842 --> 00:16:50,967
+Kapalı ameliyat olsa?
+
+391
+00:16:50,968 --> 00:16:53,512
+Belki. Ama sadece antibiyotikle de
+tedavi edilebilir.
+
+392
+00:16:53,513 --> 00:16:55,347
+Ya ameliyat gerekirse?
+
+393
+00:16:55,348 --> 00:16:58,433
+Bu cüsseyle acil bir açık laparotomide
+
+394
+00:16:58,434 --> 00:17:00,519
+ölüm oranı %50'ye yakındır.
+
+395
+00:17:00,520 --> 00:17:01,937
+Tamam, adım adım gidelim.
+
+396
+00:17:01,938 --> 00:17:04,814
+15 dakikada bir
+ablasını aramaya devam edin.
+
+397
+00:17:04,815 --> 00:17:05,733
+Açacaktır.
+
+398
+00:17:09,987 --> 00:17:11,531
+Kesinti fişlerinin yarısı boş.
+
+399
+00:17:12,573 --> 00:17:13,950
+Neden bahsediyorsun?
+
+400
+00:17:15,117 --> 00:17:16,452
+Burası ve burası.
+
+401
+00:17:17,411 --> 00:17:19,247
+Larry, keçeli kalem mi o?
+
+402
+00:17:19,830 --> 00:17:20,748
+Belki.
+
+403
+00:17:21,749 --> 00:17:24,168
+Kopyalara geçmiyor.
+
+404
+00:17:25,086 --> 00:17:26,629
+Sadece tükenmez kalem.
+
+405
+00:17:27,255 --> 00:17:28,172
+Tamam.
+
+406
+00:17:30,633 --> 00:17:31,883
+Digby hâlâ kayıp mı?
+
+407
+00:17:31,884 --> 00:17:33,301
+Şu evsiz adam mı?
+
+408
+00:17:33,302 --> 00:17:34,804
+Tüydüyse yatağı lazım.
+
+409
+00:17:36,514 --> 00:17:38,431
+- Ne lazımdı?
+- Bir uzman doktor.
+
+410
+00:17:38,432 --> 00:17:40,016
+- Kıdemli asistan?
+- Yok, böyle iyi.
+
+411
+00:17:40,017 --> 00:17:42,310
+- Dr. Al-Hashimi, vakayı sunabilir miyim?
+- Evet.
+
+412
+00:17:42,311 --> 00:17:44,938
+Miyofasiyal baş ağrılı
+30 yaşında işitme engelli kadın.
+
+413
+00:17:44,939 --> 00:17:46,356
+Ibuprofen,
+
+414
+00:17:46,357 --> 00:17:48,149
+gastrit ve epigastrik ağrı yapmış.
+
+415
+00:17:48,150 --> 00:17:51,528
+Mylanta ve tetik nokta enjeksiyonu sonrası
+şu an ağrısız ama.
+
+416
+00:17:51,529 --> 00:17:54,239
+Harika. Bu, ağrıyı birkaç ay dindirebilir.
+
+417
+00:17:54,240 --> 00:17:56,825
+Evet. Ekranı
+göz hizasında tutarsa tekrarlamaz.
+
+418
+00:17:56,826 --> 00:17:59,536
+İşaret dili tercümanı biraz gecikti.
+
+419
+00:17:59,537 --> 00:18:03,415
+Az daha vazgeçip gereksiz yere
+beyin ve batın BT'si isteyecektim.
+
+420
+00:18:03,416 --> 00:18:05,960
+- Neyse ki yapmadın.
+- Dr. Al-Hashimi, size.
+
+421
+00:18:07,169 --> 00:18:08,588
+Tetik noktası iyiymiş.
+
+422
+00:18:09,422 --> 00:18:11,132
+- Evet, biliyorum.
+- T-sistemi nasıl?
+
+423
+00:18:11,716 --> 00:18:13,592
+Hızlı ve kolay.
+
+424
+00:18:13,593 --> 00:18:16,052
+Karar formlarında
+sadece teşhisi daire içine alma.
+
+425
+00:18:16,053 --> 00:18:18,805
+Elediğin her şeyin de üzerini çiz.
+
+426
+00:18:18,806 --> 00:18:20,850
+- Sorun değil.
+- Çok teşekkürler.
+
+427
+00:18:21,434 --> 00:18:24,019
+Prenses, Merkez 13'ü
+BT sırasının en önüne alalım.
+
+428
+00:18:24,020 --> 00:18:24,936
+Neyiniz var?
+
+429
+00:18:24,937 --> 00:18:27,689
+Ani körlük vakasında
+santral retinal arter oklüzyonu var.
+
+430
+00:18:27,690 --> 00:18:29,816
+GH'den bir oftalmologla konuştum.
+
+431
+00:18:29,817 --> 00:18:32,944
+Bu vakalarda
+trombolitik kullanımını araştırıyor.
+
+432
+00:18:32,945 --> 00:18:34,863
+Standart tedavi sayılmaz, biraz riskli.
+
+433
+00:18:34,864 --> 00:18:36,406
+Aydınlatılmış onam alacağız.
+
+434
+00:18:36,407 --> 00:18:38,408
+Görmesini kurtarmak için en iyi şansımız.
+
+435
+00:18:38,409 --> 00:18:39,826
+Senin hastan, senin kararın.
+
+436
+00:18:39,827 --> 00:18:42,371
+Herhangi bir komplikasyonda
+buralarda olmayacağım.
+
+437
+00:18:45,041 --> 00:18:47,084
+Vajinadan iki sürüntü,
+
+438
+00:18:48,669 --> 00:18:50,463
+rahim ağzından iki sürüntü alacağım.
+
+439
+00:18:54,133 --> 00:18:56,093
+Rahatsızlık hissedersen söyle.
+
+440
+00:18:57,053 --> 00:18:57,928
+Tamam.
+
+441
+00:18:59,180 --> 00:19:00,680
+Her sürüntü etiketlenir.
+
+442
+00:19:00,681 --> 00:19:03,224
+Birinci vajinal, ikinci vajinal diye.
+
+443
+00:19:03,225 --> 00:19:05,393
+İkisini de bir lama yay ve kurumaya bırak.
+
+444
+00:19:05,394 --> 00:19:06,645
+Rahim ağzı için de mi?
+
+445
+00:19:06,646 --> 00:19:08,773
+Evet ama lam gerekmiyor.
+
+446
+00:19:10,524 --> 00:19:11,567
+Nasılsın Ilana?
+
+447
+00:19:12,902 --> 00:19:14,111
+Dayanıyorum işte.
+
+448
+00:19:16,489 --> 00:19:17,406
+Bitti sayılır.
+
+449
+00:19:20,493 --> 00:19:23,453
+Tüm bu örnekler
+vajinal temas zarfına giriyor.
+
+450
+00:19:23,454 --> 00:19:25,706
+- Yardım edebilirim.
+- Hayır. Ben yapmalıyım.
+
+451
+00:19:26,540 --> 00:19:27,750
+Şunu çıkarıyorum.
+
+452
+00:19:29,835 --> 00:19:30,753
+Tamam.
+
+453
+00:19:32,046 --> 00:19:33,923
+Burada bitti. Bacaklarını indirebilirsin.
+
+454
+00:19:38,052 --> 00:19:39,136
+Bitti mi?
+
+455
+00:19:39,970 --> 00:19:42,515
+Son bir şey.
+Ağız içinden dört sürüntü daha.
+
+456
+00:19:43,724 --> 00:19:44,809
+Zaten yapmadın mı?
+
+457
+00:19:45,393 --> 00:19:48,561
+Bu farklı. Yanak içinden senin DNA'n için.
+
+458
+00:19:48,562 --> 00:19:49,814
+Onun değil.
+
+459
+00:19:52,817 --> 00:19:58,071
+Bipolar ya da şizofreni mi yani?
+
+460
+00:19:58,072 --> 00:20:00,365
+En olası iki ihtimal bunlar.
+
+461
+00:20:00,366 --> 00:20:01,908
+Hangisi, nasıl anlayacaklar?
+
+462
+00:20:01,909 --> 00:20:03,993
+İlaca verdiği yanıtla.
+
+463
+00:20:03,994 --> 00:20:06,663
+Ayrıca servisteki terapi ve gözleme göre.
+
+464
+00:20:06,664 --> 00:20:09,500
+Ruh hâlini
+ve başkalarıyla etkileşimini izleyecekler.
+
+465
+00:20:12,002 --> 00:20:16,589
+Kesin olarak söyleyecek bir kan testi
+veya beyin taraması yok mu?
+
+466
+00:20:16,590 --> 00:20:17,799
+Maalesef hayır.
+
+467
+00:20:17,800 --> 00:20:19,342
+Doğru ilaçla
+
+468
+00:20:19,343 --> 00:20:22,638
+bipolar bozukluğu olanlar
+başarılı kariyerlere sahip olabilirler.
+
+469
+00:20:23,639 --> 00:20:24,890
+Bipolar olmasını mı umalım?
+
+470
+00:20:25,474 --> 00:20:27,600
+Oğlunuzun mutluluğunu umabilirsiniz.
+
+471
+00:20:27,601 --> 00:20:31,271
+Erken tedaviyle
+şizofreni hastalarının %20'si
+
+472
+00:20:31,272 --> 00:20:33,398
+tamamen iyileşiyor.
+
+473
+00:20:33,399 --> 00:20:34,733
+%80'i iyileşmiyor mu?
+
+474
+00:20:34,734 --> 00:20:36,861
+Jackson'ın yeni bir versiyonu bu.
+
+475
+00:20:39,864 --> 00:20:41,490
+- Kızınız kaç yaşındaydı?
+- 20.
+
+476
+00:20:42,867 --> 00:20:45,619
+Georgetown'da mimarlık okuyordu.
+
+477
+00:20:46,454 --> 00:20:47,371
+Şizofreni.
+
+478
+00:20:48,122 --> 00:20:50,165
+Çok üzüldüm.
+
+479
+00:20:50,166 --> 00:20:51,708
+Durumu iyi.
+
+480
+00:20:51,709 --> 00:20:55,296
+Evde yaşıyor,
+Giant Eagle'da kasiyerlik yapıyor.
+
+481
+00:20:56,881 --> 00:20:58,174
+Ayın çalışanı seçildi.
+
+482
+00:20:59,300 --> 00:21:00,718
+Hâlâ zorluklarımız var
+
+483
+00:21:01,510 --> 00:21:03,929
+ama gülmek ve sevmek de var.
+
+484
+00:21:11,854 --> 00:21:13,104
+Hazırız.
+
+485
+00:21:13,105 --> 00:21:15,648
+- Nasıl hissettirdi?
+- Çok garip.
+
+486
+00:21:15,649 --> 00:21:17,609
+Acı yok, sadece tuhaf.
+
+487
+00:21:17,610 --> 00:21:20,111
+Tamam, bir sonraki adımda
+
+488
+00:21:20,112 --> 00:21:24,532
+bu tüpü burnunuzdan geçirip
+dilinizin arkasında duracağız.
+
+489
+00:21:24,533 --> 00:21:25,950
+O sırada konuşmayın.
+
+490
+00:21:25,951 --> 00:21:28,537
+Daha esnek olması için
+tüpü ılık suda beklettik.
+
+491
+00:21:30,206 --> 00:21:31,624
+Denemek ister misiniz?
+
+492
+00:21:32,917 --> 00:21:34,626
+<i>Günlerden ne ve saat kaç?</i>
+
+493
+00:21:34,627 --> 00:21:36,212
+4 Temmuz, saat 14.31.
+
+494
+00:21:37,087 --> 00:21:38,922
+<i>Tüpüm ne zaman çıkacak?</i>
+
+495
+00:21:38,923 --> 00:21:41,717
+Önce bir takmamız lazım.
+
+496
+00:21:42,301 --> 00:21:43,844
+<i>Biliyorum. Sadece pratik yaptım.</i>
+
+497
+00:21:44,804 --> 00:21:46,806
+Anlaşılan uzman olmuşsunuz bile.
+
+498
+00:21:47,973 --> 00:21:49,225
+Konuşamaz hâle gelmeden
+
+499
+00:21:51,185 --> 00:21:52,520
+şunu demek isterim...
+
+500
+00:21:53,646 --> 00:21:54,605
+Teşekkürler.
+
+501
+00:21:55,356 --> 00:21:56,273
+Her şey için.
+
+502
+00:21:57,691 --> 00:21:58,692
+Rica ederiz.
+
+503
+00:22:05,157 --> 00:22:05,991
+Başlıyoruz.
+
+504
+00:22:11,080 --> 00:22:12,413
+CYBH önleme.
+
+505
+00:22:12,414 --> 00:22:16,417
+Belsoğukluğu için bir iğne,
+klamidya ve trikomonas için haplar.
+
+506
+00:22:16,418 --> 00:22:17,544
+Teşekkürler.
+
+507
+00:22:17,545 --> 00:22:19,754
+Ertesi gün hapımız da var.
+
+508
+00:22:19,755 --> 00:22:20,797
+Spirali var.
+
+509
+00:22:20,798 --> 00:22:23,466
+%99 etkili, %100 değil.
+
+510
+00:22:23,467 --> 00:22:24,385
+Ama teklif ediyoruz.
+
+511
+00:22:25,094 --> 00:22:26,386
+Kalsın.
+
+512
+00:22:26,387 --> 00:22:27,971
+HIV için PEP var.
+
+513
+00:22:27,972 --> 00:22:29,765
+Temas Sonrası Profilaksi.
+
+514
+00:22:30,307 --> 00:22:33,269
+28 gün. Ne kadar erken başlanırsa
+o kadar etkili.
+
+515
+00:22:34,854 --> 00:22:38,274
+Emma, eminim dışarıda
+fazladan birine ihtiyaçları vardır.
+
+516
+00:22:39,817 --> 00:22:41,277
+Memnun oldum Ilana.
+
+517
+00:22:42,236 --> 00:22:44,488
+- Çok cesur bir kadınsın.
+- Evet.
+
+518
+00:22:51,871 --> 00:22:53,122
+İyi bir hemşire.
+
+519
+00:22:53,581 --> 00:22:55,958
+Hâlâ öğreniyor ama olacak.
+
+520
+00:22:58,210 --> 00:23:00,045
+- Bundan sonra bitiyor mu?
+- Evet.
+
+521
+00:23:04,842 --> 00:23:06,302
+Burada olmana seviniyorum.
+
+522
+00:23:11,307 --> 00:23:12,224
+Ben de.
+
+523
+00:23:13,851 --> 00:23:16,020
+Bir karar vermemiz gerekiyor.
+
+524
+00:23:16,979 --> 00:23:20,315
+Çalışmalar pıhtı eritici ilaçla görmenin
+
+525
+00:23:20,316 --> 00:23:22,735
+- kısmen düzelebileceğini gösteriyor.
+- Verin o zaman.
+
+526
+00:23:23,402 --> 00:23:25,320
+Ama olası riskler var.
+
+527
+00:23:25,321 --> 00:23:29,908
+Göz felcinde hiç tedavi olmadan
+sadece %17 iyileşme görülür.
+
+528
+00:23:29,909 --> 00:23:31,826
+- Sadece %17 mi?
+- Evet.
+
+529
+00:23:31,827 --> 00:23:35,080
+Evet. Ama ilaçla
+bir %25 daha iyileşebilir.
+
+530
+00:23:36,457 --> 00:23:38,125
+Ama komplikasyonlar olabilir.
+
+531
+00:23:38,918 --> 00:23:42,378
+İlacı alanların %2'si kötüleşiyor
+
+532
+00:23:42,379 --> 00:23:45,883
+ve %1'inde
+ağır sakatlık veya ölüm görülüyor.
+
+533
+00:23:52,848 --> 00:23:55,809
+Tatlım, bu senin kararın olmalı.
+
+534
+00:23:57,728 --> 00:23:59,480
+Hayır, bizim kararımız.
+
+535
+00:24:00,731 --> 00:24:02,191
+Bensiz ne yapardın?
+
+536
+00:24:02,858 --> 00:24:04,318
+Başımın çaresine bakardım.
+
+537
+00:24:06,987 --> 00:24:09,740
+Ve muhtemelen
+tam iki yıl boyunca ağlardım.
+
+538
+00:24:10,366 --> 00:24:11,492
+İki yıl mı? O kadar mı?
+
+539
+00:24:13,702 --> 00:24:14,953
+İlacı istiyorum.
+
+540
+00:24:14,954 --> 00:24:15,788
+Tamam.
+
+541
+00:24:20,542 --> 00:24:22,377
+Dosya için tam adınız gerek.
+
+542
+00:24:22,378 --> 00:24:25,506
+Jackie Liddell.
+
+543
+00:24:26,298 --> 00:24:28,383
+- Peki ya siz?
+- Arkadaşı Jaquie.
+
+544
+00:24:28,384 --> 00:24:29,884
+Adınız aynı mı?
+
+545
+00:24:29,885 --> 00:24:31,594
+Hayır, onun adı "CK" ile Jackie.
+
+546
+00:24:31,595 --> 00:24:32,845
+Ben "Q" ile Jaquie.
+
+547
+00:24:32,846 --> 00:24:35,598
+Bana "CK" diyebilirsiniz.
+
+548
+00:24:35,599 --> 00:24:37,601
+Konuşmasan daha iyi CK, rahatla.
+
+549
+00:24:40,813 --> 00:24:41,771
+Ne?
+
+550
+00:24:41,772 --> 00:24:43,606
+"Dilimin yarısı koptu" dedi.
+
+551
+00:24:43,607 --> 00:24:45,066
+Anlayabiliyor musun?
+
+552
+00:24:45,067 --> 00:24:47,694
+Siz onu
+iki şişe margarita devirince görün.
+
+553
+00:24:47,695 --> 00:24:48,904
+Asıl o zaman anlaşılmıyor.
+
+554
+00:24:51,198 --> 00:24:54,325
+- Prenses, neresi boş?
+- Güney 15 temiz.
+
+555
+00:24:54,326 --> 00:24:57,037
+- Dilde derin kesi.
+- Ben ilgilenebilirim.
+
+556
+00:24:58,747 --> 00:25:01,916
+Robby ve Al-Hashimi'nin
+kritik hastaları var.
+
+557
+00:25:01,917 --> 00:25:03,292
+Merhaba.
+
+558
+00:25:03,293 --> 00:25:05,963
+Dr. Langdon,
+tedavinizden sorumlu olacağım.
+
+559
+00:25:08,215 --> 00:25:10,718
+Vay be CK, doktorun çok yakışıklıymış.
+
+560
+00:25:13,595 --> 00:25:16,222
+Tüp 14 cm'de, tam solunum yolu üzerinde.
+
+561
+00:25:16,223 --> 00:25:18,391
+Tamam Howard, şimdi başlıyorum.
+
+562
+00:25:18,392 --> 00:25:21,895
+Durmamı istersen
+elini kaldırman yeterli, tamam mı?
+
+563
+00:25:22,980 --> 00:25:25,065
+Mavi işaret tüpte olduğumu gösteriyor.
+
+564
+00:25:28,402 --> 00:25:29,987
+Geçti galiba.
+
+565
+00:25:30,863 --> 00:25:32,614
+Nefes alırsa telleri görmeliyiz.
+
+566
+00:25:33,490 --> 00:25:35,617
+Tamam Howard, derin bir nefes al.
+
+567
+00:25:38,412 --> 00:25:40,122
+Pekâlâ. Çok güzel.
+
+568
+00:25:40,789 --> 00:25:43,708
+Teller hassastır,
+o yüzden skoba lidokain sıkıyoruz.
+
+569
+00:25:43,709 --> 00:25:44,877
+Tamam.
+
+570
+00:25:45,335 --> 00:25:47,921
+1 cc geliyor.
+
+571
+00:25:48,630 --> 00:25:50,632
+Etki göstermesi için bekleyelim.
+
+572
+00:25:51,300 --> 00:25:52,551
+Nasıl gidiyor Howard?
+
+573
+00:25:54,094 --> 00:25:57,180
+Tüp takılınca
+burnunuzdan nefes almanız gerekecek.
+
+574
+00:25:57,181 --> 00:25:58,681
+Tamam Howard, kıpırdama.
+
+575
+00:25:58,682 --> 00:26:01,393
+Şimdi ses tellerini geçip
+
+576
+00:26:02,311 --> 00:26:04,521
+karinayı görene kadar ilerliyorum.
+
+577
+00:26:06,398 --> 00:26:08,400
+- Ogilvie?
+- Orada.
+
+578
+00:26:09,109 --> 00:26:12,905
+- Sağ ve sol ana bronşlar.
+- Ve tüp içeri kayıyor.
+
+579
+00:26:17,201 --> 00:26:20,037
+Ve skop çıkıyor.
+
+580
+00:26:21,955 --> 00:26:22,790
+Harika.
+
+581
+00:26:23,499 --> 00:26:24,916
+Tamam, balonu şişirin.
+
+582
+00:26:24,917 --> 00:26:26,960
+Burundan derin nefes al. Müthiş.
+
+583
+00:26:27,544 --> 00:26:28,378
+İyi misiniz?
+
+584
+00:26:29,630 --> 00:26:31,255
+Endtidal dalga formu harika.
+
+585
+00:26:31,256 --> 00:26:32,590
+Ventilatör lazım mı?
+
+586
+00:26:32,591 --> 00:26:35,134
+Kendi nefes alıyor
+ama biraz CPAP'ın zararı olmaz.
+
+587
+00:26:35,135 --> 00:26:37,345
+5'ten başlayıp 10'a çıkarıyorum.
+
+588
+00:26:37,346 --> 00:26:39,430
+Tamam, bu çok iyi geçti Howard.
+
+589
+00:26:39,431 --> 00:26:41,141
+Şimdi kilonu öğreneceğiz.
+
+590
+00:26:42,976 --> 00:26:46,646
+Adli muayene hemşiresi
+tecavüz kitini şu dolaba kilitliyor,
+
+591
+00:26:46,647 --> 00:26:49,816
+emniyete teslim edilene kadar da
+orada kalıyor.
+
+592
+00:26:49,817 --> 00:26:52,069
+Buna "delil zincirini korumak" deniyor.
+
+593
+00:26:52,611 --> 00:26:54,071
+Şaka mı bu ya?
+
+594
+00:26:54,696 --> 00:26:56,490
+Bir sorun mu var?
+
+595
+00:26:57,116 --> 00:26:58,242
+Yüce Tanrım.
+
+596
+00:26:58,992 --> 00:27:02,245
+Polisin tecavüz kitlerini
+72 saat içinde alması gerekir.
+
+597
+00:27:02,246 --> 00:27:03,705
+Şunu iki hafta önce yapmıştım.
+
+598
+00:27:05,082 --> 00:27:06,083
+Lanet olsun.
+
+599
+00:27:08,627 --> 00:27:10,295
+Tam olarak nasıl oldu bu?
+
+600
+00:27:11,380 --> 00:27:13,756
+Mekânlar arasında selfie çekiliyorduk.
+
+601
+00:27:13,757 --> 00:27:17,219
+- Ne hoş.
+- Ta ki kafasını aniden kaldırana kadar.
+
+602
+00:27:18,762 --> 00:27:20,513
+- Uf.
+- Tamam.
+
+603
+00:27:20,514 --> 00:27:22,849
+Topikal epi işe yaradı. Kanama durdu.
+
+604
+00:27:22,850 --> 00:27:25,643
+- Güzel. Artık eve gidebilir miyim?
+- Sanmıyorum.
+
+605
+00:27:25,644 --> 00:27:28,020
+Dilinin arkası Büyük Kanyon gibi.
+
+606
+00:27:28,021 --> 00:27:30,941
+- Dikiş atmamız gerekiyor.
+- Dikiş istemiyorum.
+
+607
+00:27:31,942 --> 00:27:33,109
+Doktoru dinle.
+
+608
+00:27:33,110 --> 00:27:35,027
+Bana ne yapacağımı söyleme.
+
+609
+00:27:35,028 --> 00:27:37,155
+- Hepsi senin suçun.
+- Hayır, değil.
+
+610
+00:27:37,156 --> 00:27:39,574
+- Evet, öyle.
+- Hayır, değil.
+
+611
+00:27:39,575 --> 00:27:42,368
+Prenses, biz arkadaşına bakarken
+Q'ya nerede bekleyeceğini
+
+612
+00:27:42,369 --> 00:27:44,579
+- gösterir misin?
+- Tabii ki.
+
+613
+00:27:44,580 --> 00:27:47,248
+Tamam, bu ucuna yapılacak uyuşturucu iğne.
+
+614
+00:27:47,249 --> 00:27:48,166
+Ucuna mı?
+
+615
+00:27:48,167 --> 00:27:50,084
+Orayı ısırmadım ki.
+
+616
+00:27:50,085 --> 00:27:51,336
+Adım adım gidelim.
+
+617
+00:27:58,719 --> 00:28:00,554
+Bu 20 miligram TNK.
+
+618
+00:28:01,263 --> 00:28:03,056
+Saat 14.39'da.
+
+619
+00:28:04,266 --> 00:28:05,184
+Değişiklik var mı?
+
+620
+00:28:06,268 --> 00:28:07,268
+Henüz yok.
+
+621
+00:28:07,269 --> 00:28:08,854
+Bir iki saat sürebilir.
+
+622
+00:28:10,689 --> 00:28:13,400
+Sizi daha iyi izlemek için
+başka bir odaya alacağız.
+
+623
+00:28:14,276 --> 00:28:15,277
+Dr. King.
+
+624
+00:28:18,530 --> 00:28:20,073
+Onunla kalmanızı istiyorum.
+
+625
+00:28:21,742 --> 00:28:22,783
+Niye?
+
+626
+00:28:22,784 --> 00:28:24,119
+Komplikasyon olursa diye.
+
+627
+00:28:24,703 --> 00:28:27,038
+Geniş göz bebeği,
+nöbet veya bilinç değişikliğine
+
+628
+00:28:27,039 --> 00:28:29,040
+hemen müdahale edebilmen için.
+
+629
+00:28:29,041 --> 00:28:32,586
+Ya da dosyalarımı bitirebilirim.
+Hem ifademe de az kaldı.
+
+630
+00:28:33,378 --> 00:28:37,089
+Kafa dinlemek ve zihnen hazırlanmak için
+iyi bir fırsat olarak düşün.
+
+631
+00:28:37,090 --> 00:28:38,258
+Jesse, Mel seninle.
+
+632
+00:28:41,678 --> 00:28:43,679
+Affedersiniz Dr. Mohan.
+
+633
+00:28:43,680 --> 00:28:45,139
+Bakar mısınız Dr. Mohan?
+
+634
+00:28:45,140 --> 00:28:47,475
+- Bir dakika George.
+- Ben ilgilenirim.
+
+635
+00:28:47,476 --> 00:28:48,393
+Teşekkürler.
+
+636
+00:28:51,355 --> 00:28:53,774
+D-dimer sonucu normal çıkmış.
+
+637
+00:28:54,608 --> 00:28:55,816
+Artık gidebilirim.
+
+638
+00:28:55,817 --> 00:28:57,069
+Daha iyi misin?
+
+639
+00:28:57,778 --> 00:29:00,364
+Aslında bu kez pek nefes darlığım yoktu.
+
+640
+00:29:02,532 --> 00:29:03,784
+Peki neden geldin?
+
+641
+00:29:05,494 --> 00:29:07,787
+Ateşli bir bacağım olduğunu öğrenince
+
+642
+00:29:07,788 --> 00:29:10,790
+sürekli akciğerlerime gidip
+beni öldüreceğini düşündüm.
+
+643
+00:29:10,791 --> 00:29:13,751
+Eliquis'in bunu önleyeceğini konuşmuştuk.
+
+644
+00:29:13,752 --> 00:29:14,586
+Biliyorum.
+
+645
+00:29:16,964 --> 00:29:18,423
+Sonunda tavsiyeni dinledim.
+
+646
+00:29:19,049 --> 00:29:21,050
+Evden çıktım,
+
+647
+00:29:21,051 --> 00:29:23,553
+Frick Park Çim Bovling Kulübü'ne katıldım.
+
+648
+00:29:24,346 --> 00:29:25,638
+- Çok güzel.
+- Evet.
+
+649
+00:29:25,639 --> 00:29:27,473
+Yani haklıymışsın.
+
+650
+00:29:27,474 --> 00:29:29,351
+Hepimizin çevreye ihtiyacı var.
+
+651
+00:29:33,480 --> 00:29:34,939
+Ne yapacağım dediniz?
+
+652
+00:29:34,940 --> 00:29:36,482
+Dilini dikmek için
+
+653
+00:29:36,483 --> 00:29:39,151
+kesiğe ulaşmak adına
+onu öne çekmemiz lazım.
+
+654
+00:29:39,152 --> 00:29:41,237
+Çekilme hissedeceksin, tamam mı?
+
+655
+00:29:41,238 --> 00:29:42,072
+Tamam, peki...
+
+656
+00:29:44,533 --> 00:29:45,450
+Hadi.
+
+657
+00:29:46,868 --> 00:29:48,286
+İplik numarası kaç?
+
+658
+00:29:48,287 --> 00:29:50,205
+İpek, elimizdeki en büyüğü.
+
+659
+00:29:52,207 --> 00:29:54,835
+İğneyi keser kesmez çekme işi sende Joy.
+
+660
+00:30:05,262 --> 00:30:09,265
+- Epey derinmiş.
+- Şimdi kesiği uyuşturabiliriz.
+
+661
+00:30:09,266 --> 00:30:10,391
+En iyisi şuradan...
+
+662
+00:30:10,392 --> 00:30:13,478
+Önce proksimal taraf,
+distal enjeksiyonu hissetmesin.
+
+663
+00:30:15,105 --> 00:30:17,524
+10 dakika verin. Müdahale için dönerim.
+
+664
+00:30:21,737 --> 00:30:23,487
+72 saatte alınması gereken
+
+665
+00:30:23,488 --> 00:30:25,907
+ama iki haftadır bekleyen
+bir tecavüz kiti var.
+
+666
+00:30:26,450 --> 00:30:28,534
+Bana ne? Hemen birini gönderin!
+
+667
+00:30:28,535 --> 00:30:31,787
+Hayır. Memurlar gelince
+hemen bakmamızı bekliyorsunuz,
+
+668
+00:30:31,788 --> 00:30:34,206
+kitleri alması için
+hemen bir dedektif gönderin.
+
+669
+00:30:34,207 --> 00:30:35,666
+- Kapatmam lazım.
+- Dana.
+
+670
+00:30:35,667 --> 00:30:38,169
+Güney 19 sistem gitmeden
+beyin BT çektirmişti.
+
+671
+00:30:38,170 --> 00:30:39,128
+Sonuçlar hâlâ yok.
+
+672
+00:30:39,129 --> 00:30:40,755
+Hatırlatma gönderiyorum.
+
+673
+00:30:40,756 --> 00:30:41,714
+- Hey, Dana.
+- Dana.
+
+674
+00:30:41,715 --> 00:30:42,758
+Bekleyin.
+
+675
+00:30:43,800 --> 00:30:44,717
+Ne oldu?
+
+676
+00:30:44,718 --> 00:30:47,720
+Roxy için
+daha fazla ağrı kesici talebi girdik.
+
+677
+00:30:47,721 --> 00:30:49,764
+Tamam, hemşire rafına koyun.
+
+678
+00:30:49,765 --> 00:30:51,141
+Ben koydum. Epey oldu.
+
+679
+00:30:53,143 --> 00:30:55,728
+- Tamam. En öne alıyorum.
+- Teşekkürler.
+
+680
+00:30:55,729 --> 00:30:56,813
+O ses de ne?
+
+681
+00:30:57,606 --> 00:30:59,523
+UFO indi. Uzaylı istilası.
+
+682
+00:30:59,524 --> 00:31:00,775
+Hey, Dana.
+
+683
+00:31:00,776 --> 00:31:02,860
+Travma 2'nin tahlil sonucu gelmedi.
+
+684
+00:31:02,861 --> 00:31:04,112
+Dosyaya bakayım.
+
+685
+00:31:05,530 --> 00:31:08,282
+Hay aksi. Tahlil kâğıdın
+kesin radyolojiye gitmiştir.
+
+686
+00:31:08,283 --> 00:31:09,825
+Larry, Antoine.
+
+687
+00:31:09,826 --> 00:31:12,661
+Tahlil ve akciğer filmi
+aynı fişe yazılmış.
+
+688
+00:31:12,662 --> 00:31:15,790
+İki fiş lazım.
+Biri tahlil, biri radyoloji için.
+
+689
+00:31:15,791 --> 00:31:17,666
+- Bir daha olmaz.
+- Hemen götürüyorum.
+
+690
+00:31:17,667 --> 00:31:19,085
+Yatak başı i-STAT kullanın.
+
+691
+00:31:19,086 --> 00:31:21,003
+Kreatinin görmeden BT'ye almazlar.
+
+692
+00:31:21,004 --> 00:31:22,046
+Harika.
+
+693
+00:31:22,047 --> 00:31:24,548
+- Dönmene sevindim.
+- Bayılıyorum buraya.
+
+694
+00:31:24,549 --> 00:31:25,591
+Mesaj mı yazıyorsun?
+
+695
+00:31:25,592 --> 00:31:28,636
+Sadece taslak hazırlıyorum.
+Girişten göndereceğim.
+
+696
+00:31:28,637 --> 00:31:30,930
+Tamirci arkadaşım Duke hâlâ gelmedi.
+
+697
+00:31:30,931 --> 00:31:32,515
+Sabah gelmeyecek miydi?
+
+698
+00:31:32,516 --> 00:31:34,684
+Planımız oydu. Herhâlde işi çıktı.
+
+699
+00:31:36,061 --> 00:31:37,186
+Ya gelmezse?
+
+700
+00:31:37,187 --> 00:31:39,730
+Ne lazımsa söyle,
+gece vardiyasına ileteyim.
+
+701
+00:31:39,731 --> 00:31:40,941
+Gerek kalmayacak.
+
+702
+00:31:43,985 --> 00:31:47,738
+Prenses. İstedin ve geldi.
+Beyin BT normal.
+
+703
+00:31:47,739 --> 00:31:49,366
+Sağ ol. Hemen taburcu ediyorum.
+
+704
+00:31:50,283 --> 00:31:51,368
+Günün nasıl geçiyor?
+
+705
+00:31:52,119 --> 00:31:53,870
+Sanırım elime kramp giriyor.
+
+706
+00:31:54,454 --> 00:31:55,288
+İri adam sende mi?
+
+707
+00:31:55,914 --> 00:31:57,081
+Evet.
+
+708
+00:31:57,082 --> 00:32:02,129
+Üzücü bir durum. Kötü bir kaza,
+bir sürü ameliyat, aşırı stres.
+
+709
+00:32:04,005 --> 00:32:05,798
+Hassas yere lidokain iğnesi.
+
+710
+00:32:05,799 --> 00:32:07,968
+Dili kesilmiş bir parti kızı var da.
+
+711
+00:32:08,760 --> 00:32:11,513
+- Yardıma ihtiyacı var gibi.
+- Hem de her yönden.
+
+712
+00:32:12,973 --> 00:32:15,684
+Dönüşten sonraki ilk vardiyan nasıl?
+
+713
+00:32:16,643 --> 00:32:17,894
+Günü atlatalım da.
+
+714
+00:32:18,854 --> 00:32:21,605
+- Ayık kalınan ilk yıl en zorudur.
+- Öyle diyorlar.
+
+715
+00:32:21,606 --> 00:32:24,109
+Benim dokuz yıl oldu.
+
+716
+00:32:28,363 --> 00:32:30,157
+Hastama özel teslimatım var.
+
+717
+00:32:31,783 --> 00:32:33,742
+Bir şey lazım olursa ara beni.
+
+718
+00:32:33,743 --> 00:32:34,703
+Sağ ol.
+
+719
+00:32:41,751 --> 00:32:43,169
+Nereye gidiyorsun?
+
+720
+00:32:43,170 --> 00:32:44,462
+Kuzey 3'teki döküntüye.
+
+721
+00:32:44,463 --> 00:32:46,005
+Ben de oraya gidiyorum.
+
+722
+00:32:46,006 --> 00:32:48,966
+- Hasta için ismini yazdın mı?
+- Dosyayı raftan aldım.
+
+723
+00:32:48,967 --> 00:32:50,676
+Beyaz panoya kaydolmalıydın.
+
+724
+00:32:50,677 --> 00:32:52,888
+Senin de hasta için
+panon olması gerekiyordu.
+
+725
+00:32:53,430 --> 00:32:54,680
+Hemşirelerdedir sandım.
+
+726
+00:32:54,681 --> 00:32:55,849
+Neyse.
+
+727
+00:32:57,267 --> 00:33:00,019
+Selam. Ben stajyer doktor Ogilvie.
+Bu da...
+
+728
+00:33:00,020 --> 00:33:00,936
+Vay canına.
+
+729
+00:33:00,937 --> 00:33:03,106
+- Döküntüye bak.
+- Evet.
+
+730
+00:33:03,690 --> 00:33:04,648
+Hiç sorma.
+
+731
+00:33:04,649 --> 00:33:06,984
+Stajyer doktor Javadi. Ne zaman başladı?
+
+732
+00:33:06,985 --> 00:33:07,985
+Dün gece.
+
+733
+00:33:07,986 --> 00:33:10,613
+Zehirli sarmaşıklı bir yerde
+dolaştınız mı?
+
+734
+00:33:10,614 --> 00:33:12,073
+Yok. Evden hiç çıkmadım.
+
+735
+00:33:12,782 --> 00:33:14,283
+Peki yeni bir ilaç?
+
+736
+00:33:14,284 --> 00:33:16,452
+Losyon, sabun, hatta deterjan?
+
+737
+00:33:16,453 --> 00:33:19,205
+İlaç kullanmam. Yani başka bir şey de yok.
+
+738
+00:33:19,206 --> 00:33:20,539
+Peki nerede başladı?
+
+739
+00:33:20,540 --> 00:33:23,001
+Her yerde birden. Çok acıyor.
+
+740
+00:33:23,793 --> 00:33:24,711
+Çok kaşınıyor.
+
+741
+00:33:25,253 --> 00:33:26,338
+Nedir bu?
+
+742
+00:33:27,047 --> 00:33:28,048
+Henüz bilmiyorum.
+
+743
+00:33:29,883 --> 00:33:31,134
+Hemen döneceğiz.
+
+744
+00:33:37,057 --> 00:33:38,183
+Ne düşünüyorsun?
+
+745
+00:33:39,226 --> 00:33:40,142
+Hiçbir fikrim yok.
+
+746
+00:33:40,143 --> 00:33:41,019
+Benim de.
+
+747
+00:33:43,480 --> 00:33:44,772
+Büllöz pemfigoid?
+
+748
+00:33:44,773 --> 00:33:46,440
+Otoimmün ağır pruritus?
+
+749
+00:33:46,441 --> 00:33:48,359
+Pemfigus vulgaris kadar ölümcül değil.
+
+750
+00:33:48,360 --> 00:33:50,444
+Tedavi edilmezse ölüm oranı %90 üzerinde.
+
+751
+00:33:50,445 --> 00:33:52,780
+Püstülleri ve mukoza tutulumunu
+kontrol edelim.
+
+752
+00:33:52,781 --> 00:33:54,074
+Bir de Nikolsky belirtisini.
+
+753
+00:33:56,993 --> 00:33:57,911
+Al bakalım.
+
+754
+00:33:59,913 --> 00:34:01,706
+- Ne?
+- Gelişim notun için.
+
+755
+00:34:03,542 --> 00:34:05,752
+Yoksa gelişme mi kaydettik?
+
+756
+00:34:07,629 --> 00:34:11,716
+Klinik süreci tanımlamak için
+yazdığımız notlara öyle diyoruz.
+
+757
+00:34:13,426 --> 00:34:14,302
+Değişiklik var mı?
+
+758
+00:34:15,387 --> 00:34:16,679
+Henüz yok.
+
+759
+00:34:16,680 --> 00:34:18,431
+Sıradaki nörolojik kontrol zamanı.
+
+760
+00:34:19,224 --> 00:34:20,809
+Dr. King, vaktiniz var mı?
+
+761
+00:34:22,644 --> 00:34:24,895
+Yok, bir hastayı gözlemliyorum.
+
+762
+00:34:24,896 --> 00:34:26,022
+En fazla 60 saniye.
+
+763
+00:34:28,650 --> 00:34:29,568
+Ben bakarım.
+
+764
+00:34:30,026 --> 00:34:30,986
+Sorun yok.
+
+765
+00:34:37,200 --> 00:34:38,076
+Hey.
+
+766
+00:34:39,202 --> 00:34:40,704
+İfademi yeni bitirdim.
+
+767
+00:34:42,872 --> 00:34:43,914
+Çıkayım mı?
+
+768
+00:34:43,915 --> 00:34:46,001
+- Telefon gelene kadar bekle.
+- Tamam.
+
+769
+00:34:46,918 --> 00:34:48,335
+Nasıl geçtiğini sorardım
+
+770
+00:34:48,336 --> 00:34:50,588
+ama vakayı tartışmamamız gerekiyor.
+
+771
+00:34:50,589 --> 00:34:52,089
+Bu bir tartışma değil.
+
+772
+00:34:52,090 --> 00:34:54,134
+Bir monolog, yani sus ve dinle.
+
+773
+00:34:55,385 --> 00:34:57,344
+Malpraktis davası saçmalıktan ibaret.
+
+774
+00:34:57,345 --> 00:35:00,347
+Kızamıklı çocuğun annesi,
+belinden aldığımız sıvı için
+
+775
+00:35:00,348 --> 00:35:01,725
+zekâ geriliği yaptı, diyor.
+
+776
+00:35:02,517 --> 00:35:05,103
+Ama işlem kusursuzdu, komplikasyon olmadı.
+
+777
+00:35:05,687 --> 00:35:07,521
+Çocuk kızamık zatürresinden kaynaklı
+
+778
+00:35:07,522 --> 00:35:10,233
+düşük oksijenle bilinci bulanık gelmişti.
+
+779
+00:35:10,900 --> 00:35:13,319
+Zekâ değişikliği
+hipoksik beyin hasarındandı.
+
+780
+00:35:13,320 --> 00:35:15,447
+Kısaca sen her şeyi doğru yaptın.
+
+781
+00:35:17,032 --> 00:35:17,866
+Monolog bitti.
+
+782
+00:35:18,825 --> 00:35:20,243
+Vakayı hiç tartışmadık.
+
+783
+00:35:21,578 --> 00:35:22,829
+Biraz uyumam lazım.
+
+784
+00:35:23,872 --> 00:35:25,248
+Teşekkürler.
+
+785
+00:35:26,207 --> 00:35:27,208
+Sanırım.
+
+786
+00:35:28,668 --> 00:35:30,337
+Tamam, uzanmaya hazır mısın?
+
+787
+00:35:31,212 --> 00:35:33,297
+- Başını tutuyorum.
+- Yavaşça.
+
+788
+00:35:33,298 --> 00:35:34,966
+Bir, iki, üç.
+
+789
+00:35:37,302 --> 00:35:38,720
+Tamam. Nasıldı?
+
+790
+00:35:41,723 --> 00:35:42,932
+Kaldırıyoruz.
+
+791
+00:35:52,651 --> 00:35:53,860
+Tamam, devam.
+
+792
+00:35:57,113 --> 00:36:00,283
+Evet... Tamam herhâlde. Oldu.
+
+793
+00:36:02,369 --> 00:36:03,578
+215 kg.
+
+794
+00:36:04,663 --> 00:36:05,789
+Kilogram olarak.
+
+795
+00:36:08,500 --> 00:36:09,709
+Pekâlâ ekip.
+
+796
+00:36:15,548 --> 00:36:17,174
+180 kilonun pek üzerinde değil.
+
+797
+00:36:17,175 --> 00:36:19,968
+Hayır, tatil haftasında
+BT'yi bozma riskini alamayız.
+
+798
+00:36:19,969 --> 00:36:22,262
+Sağlık ekipleri
+o entübeyken götürebilir mi?
+
+799
+00:36:22,263 --> 00:36:26,101
+Ben de onlarla giderim.
+Gece vardiyamdan önce kestirmiş olurum.
+
+800
+00:36:30,021 --> 00:36:31,648
+474 libre.
+
+801
+00:36:33,233 --> 00:36:34,983
+BT'miz kilonuzu kaldıramıyor
+
+802
+00:36:34,984 --> 00:36:37,696
+ama sizi
+Presbyterian Hastanesi'ne götüreceğiz.
+
+803
+00:36:38,363 --> 00:36:39,280
+<i>Uzun gezi.</i>
+
+804
+00:36:40,156 --> 00:36:42,409
+Yol boyunca sana eşlik edeceğim.
+
+805
+00:36:44,869 --> 00:36:46,329
+<i>Sizi de zahmete soktum.</i>
+
+806
+00:36:47,288 --> 00:36:48,455
+Sorun değil.
+
+807
+00:36:48,456 --> 00:36:49,624
+İşimiz bu.
+
+808
+00:36:55,213 --> 00:36:56,922
+Deri altı dikişi derinden başlar.
+
+809
+00:36:56,923 --> 00:36:59,466
+- Düğümü gömmek lazım.
+- Evet, daha önce yapmıştım.
+
+810
+00:36:59,467 --> 00:37:01,052
+Joy, uçları nasıl kesiyoruz?
+
+811
+00:37:02,011 --> 00:37:04,304
+Kısa. Düğümden kaydır. 45 derece döndür.
+
+812
+00:37:04,305 --> 00:37:05,306
+Mükemmel.
+
+813
+00:37:07,100 --> 00:37:08,600
+Dr. Langdon, bir vakamız var.
+
+814
+00:37:08,601 --> 00:37:10,436
+- Beklesin.
+- Acil olabilir.
+
+815
+00:37:10,437 --> 00:37:12,230
+Robby veya Al-Hashimi'yi bulun.
+
+816
+00:37:14,691 --> 00:37:18,610
+- Kız iyi dağıtmış.
+- Çok sarhoş.
+
+817
+00:37:18,611 --> 00:37:20,404
+Alkol oranına bakmak gerekir mi?
+
+818
+00:37:20,405 --> 00:37:21,989
+Hayır, yapacağımız şey aynı.
+
+819
+00:37:21,990 --> 00:37:23,699
+Yürüyüşü düzelince eve gidebilir.
+
+820
+00:37:23,700 --> 00:37:24,617
+Biri gitti bile.
+
+821
+00:37:25,869 --> 00:37:28,412
+Joy, alkol oranını
+tahmin etmek ister misin?
+
+822
+00:37:28,413 --> 00:37:29,913
+Neden böyle bir şey yapayım ki?
+
+823
+00:37:29,914 --> 00:37:31,833
+Bilmem. Eğlenceli olabilir.
+
+824
+00:37:37,964 --> 00:37:39,882
+Yatak ne zaman açılır?
+
+825
+00:37:39,883 --> 00:37:41,633
+Yatağa ihtiyacı yok bence.
+
+826
+00:37:41,634 --> 00:37:42,885
+Ateşli bir bebek.
+
+827
+00:37:42,886 --> 00:37:45,345
+Bir aylıktan büyük ve gayet iyi görünüyor.
+
+828
+00:37:45,346 --> 00:37:47,347
+Değerleri iyi. Soğuk algınlığı virüsü var.
+
+829
+00:37:47,348 --> 00:37:50,642
+Rinovirüsü olan bebeklerde
+hâlâ ciddi bakteriyel enfeksiyon olabilir.
+
+830
+00:37:50,643 --> 00:37:52,978
+Bunda yok.
+Böyle çocukları hep eve gönderiyoruz.
+
+831
+00:37:52,979 --> 00:37:56,357
+Ama bunun bir evi veya ebeveyni yok.
+
+832
+00:37:57,942 --> 00:37:59,026
+Pekâlâ.
+
+833
+00:37:59,027 --> 00:38:01,028
+Virüslü bir çocuğu
+yenidoğan servisine alıp
+
+834
+00:38:01,029 --> 00:38:03,655
+sağlıklı bir bebek için
+özel odayı harcayamam.
+
+835
+00:38:03,656 --> 00:38:04,782
+Peki önerin ne?
+
+836
+00:38:04,783 --> 00:38:07,826
+Sosyal Hizmetler sabaha kadar
+onu acil koruyucu aileye verebilir.
+
+837
+00:38:07,827 --> 00:38:09,954
+Geceyi burada mı geçirsin?
+
+838
+00:38:10,747 --> 00:38:12,915
+Şu sıralar standart prosedür bu gibi.
+
+839
+00:38:12,916 --> 00:38:15,250
+- Uzman doktorun beni bir arasın.
+- Peki.
+
+840
+00:38:15,251 --> 00:38:16,668
+İnanamıyorum.
+
+841
+00:38:16,669 --> 00:38:19,047
+- Sosyal Hizmetler'e acil olduğunu iletin.
+- Tamam.
+
+842
+00:38:19,672 --> 00:38:21,508
+Bugün çekilecek cefamız varmış.
+
+843
+00:38:22,675 --> 00:38:25,886
+Yan dal uzmanlığına
+başvurmayı düşünüyordum.
+
+844
+00:38:25,887 --> 00:38:27,930
+New Jersey'de
+bir işin olduğunu sanıyordum.
+
+845
+00:38:27,931 --> 00:38:30,182
+Vardı. Anneme yakın olmak için.
+
+846
+00:38:30,183 --> 00:38:34,729
+Ama evini satıp yeni erkek arkadaşıyla
+dünyayı gezmeye gitti.
+
+847
+00:38:35,688 --> 00:38:37,564
+New Jersey'nin ne anlamı kaldı ki?
+
+848
+00:38:37,565 --> 00:38:38,899
+Evet, güzel soru.
+
+849
+00:38:38,900 --> 00:38:39,943
+Hangi yan dal?
+
+850
+00:38:40,610 --> 00:38:45,865
+Daraltabildiğim kadarıyla
+ultrason, toksikoloji veya spor hekimliği.
+
+851
+00:38:47,408 --> 00:38:50,744
+Hepsi çok farklı alanlar,
+kariyerleri de çok başka olur.
+
+852
+00:38:50,745 --> 00:38:53,497
+Biliyorum. Biraz kararsızım.
+
+853
+00:38:53,498 --> 00:38:55,123
+Araştırma deneyimin var mı?
+
+854
+00:38:55,124 --> 00:38:58,669
+Sağlıkta ırksal eşitsizlikler üzerine
+bir çalışmadaydım,
+
+855
+00:38:58,670 --> 00:39:01,047
+ta ki geçen yıl
+Beyaz Saray fonları kesene kadar.
+
+856
+00:39:01,631 --> 00:39:03,173
+Evet. Yalnız değilsin.
+
+857
+00:39:03,174 --> 00:39:06,468
+Geriatri uzmanlığını düşündün mü hiç?
+
+858
+00:39:06,469 --> 00:39:07,762
+Düşünmemiştim.
+
+859
+00:39:08,471 --> 00:39:10,514
+Yaşlılarla iletişimini gördüm.
+
+860
+00:39:10,515 --> 00:39:13,810
+Orada çok açık var.
+En iyi şansın bu olabilir.
+
+861
+00:39:14,686 --> 00:39:15,603
+Bir düşün.
+
+862
+00:39:17,730 --> 00:39:20,775
+- Son dikiş. Kesmemi ister misin?
+- Hallediyorum.
+
+863
+00:39:22,986 --> 00:39:23,902
+Güzel oldu.
+
+864
+00:39:23,903 --> 00:39:25,863
+Tamam. Çekme dikişini alalım.
+
+865
+00:39:25,864 --> 00:39:27,282
+Büyük zevkle.
+
+866
+00:39:29,576 --> 00:39:30,618
+Tamam Jackie.
+
+867
+00:39:31,452 --> 00:39:34,037
+- Jackie.
+- Bırakın beni.
+
+868
+00:39:34,038 --> 00:39:35,372
+Bitti bile.
+
+869
+00:39:35,373 --> 00:39:36,790
+Ne bitti?
+
+870
+00:39:36,791 --> 00:39:38,001
+Dilini diktik.
+
+871
+00:39:38,585 --> 00:39:40,294
+Dilime ne oldu ki?
+
+872
+00:39:40,295 --> 00:39:41,254
+Isırdın.
+
+873
+00:39:42,171 --> 00:39:43,298
+Hayır, ısırmadım.
+
+874
+00:39:44,173 --> 00:39:46,133
+Buna bilinç kaybı deniyor.
+
+875
+00:39:46,134 --> 00:39:47,718
+Ne kadar içtin sen?
+
+876
+00:39:47,719 --> 00:39:49,928
+Birkaç Bloody Mary.
+
+877
+00:39:49,929 --> 00:39:51,179
+Birkaç tane mi?
+
+878
+00:39:51,180 --> 00:39:52,640
+Bilmem, belki daha çok.
+
+879
+00:39:53,266 --> 00:39:56,018
+Tatil günü mekânları geziyorduk.
+
+880
+00:39:56,019 --> 00:39:58,770
+Normalde her gün içer misin peki?
+
+881
+00:39:58,771 --> 00:40:00,022
+Sadece hafta sonları.
+
+882
+00:40:00,023 --> 00:40:01,440
+Peki hafta içi?
+
+883
+00:40:01,441 --> 00:40:02,816
+Pek içmem.
+
+884
+00:40:02,817 --> 00:40:06,529
+Sadece yemekle şarap veya birkaç bira.
+
+885
+00:40:07,906 --> 00:40:09,532
+Belki rehabilitasyon önermeliyiz.
+
+886
+00:40:11,075 --> 00:40:12,827
+Evet. Deneyebiliriz.
+
+887
+00:40:18,082 --> 00:40:19,125
+Harekete hazırız.
+
+888
+00:40:20,668 --> 00:40:22,169
+Nasıl hissediyorsun?
+
+889
+00:40:22,170 --> 00:40:23,545
+<i>Ağrım iki şiddetinde.</i>
+
+890
+00:40:23,546 --> 00:40:24,838
+Gerekirse ilacımız var.
+
+891
+00:40:24,839 --> 00:40:26,632
+Tarama Presby'ye gidişten kısa sürer.
+
+892
+00:40:26,633 --> 00:40:28,050
+Ablanı arayacağız.
+
+893
+00:40:28,051 --> 00:40:29,635
+<i>- Sizler harikasınız.</i>
+- Görüşürüz.
+
+894
+00:40:29,636 --> 00:40:31,970
+T1'e yeni hasta alabilir miyim?
+
+895
+00:40:31,971 --> 00:40:34,014
+Hayır, travma odası boş kalsın.
+
+896
+00:40:34,015 --> 00:40:36,434
+Gerekirse Kuzey'i ikiye katla.
+
+897
+00:40:37,518 --> 00:40:38,519
+Bay Digby?
+
+898
+00:40:40,521 --> 00:40:42,439
+- Sadece Digby yeterli.
+- Tamam.
+
+899
+00:40:42,440 --> 00:40:44,691
+Her yerde seni aradık. Neredeydin?
+
+900
+00:40:44,692 --> 00:40:46,276
+Louie'nin yanında.
+
+901
+00:40:46,277 --> 00:40:48,988
+- Bir saattir orada mıydın?
+- Arkadaşımdı.
+
+902
+00:40:49,989 --> 00:40:51,740
+Söyleyecek çok şey vardı.
+
+903
+00:40:51,741 --> 00:40:54,035
+Hadi seni yatağına götürelim.
+
+904
+00:40:56,329 --> 00:40:57,914
+Louie kanatlarını taktı.
+
+905
+00:40:58,706 --> 00:41:01,375
+- Dr. Robby, beraber bir hasta aldık.
+- Dr. Robby.
+
+906
+00:41:01,376 --> 00:41:03,919
+- Ekip çalışması.
+- Endişe verici büllöz döküntüsü var.
+
+907
+00:41:03,920 --> 00:41:06,088
+Pemphigus vulgaris için
+biyopsi gerekebilir.
+
+908
+00:41:06,089 --> 00:41:07,506
+Fitofotodermatit o.
+
+909
+00:41:07,507 --> 00:41:09,633
+- Ne?
+- Sordum.
+
+910
+00:41:09,634 --> 00:41:11,802
+Parti için üç galon margarita yapıyormuş,
+
+911
+00:41:11,803 --> 00:41:13,887
+güneşin altında taze misket limonu sıkmış.
+
+912
+00:41:13,888 --> 00:41:14,973
+Hadi gidip bakalım.
+
+913
+00:41:15,682 --> 00:41:16,808
+Görmeme gerek yok.
+
+914
+00:41:20,061 --> 00:41:22,145
+- Dışarısı ne âlemde?
+- Hıncahınç.
+
+915
+00:41:22,146 --> 00:41:23,647
+İtfaiyeyi arasam
+
+916
+00:41:23,648 --> 00:41:26,149
+- şu bekleme odasını boşaltırlar mı?
+- Keşke. Ne oldu?
+
+917
+00:41:26,150 --> 00:41:28,360
+12 hastanın ilaç yenilemesi lazım.
+
+918
+00:41:28,361 --> 00:41:29,778
+Doktorları görmeyecek mi?
+
+919
+00:41:29,779 --> 00:41:31,571
+Kesintiler yüzünden doktorları biziz.
+
+920
+00:41:31,572 --> 00:41:33,657
+Hayır, eczanelerine
+e-reçete gönderemiyorum.
+
+921
+00:41:33,658 --> 00:41:36,327
+- O zaman kalemini çıkar. Eski usul yap.
+- Dana, neye?
+
+922
+00:41:37,537 --> 00:41:41,164
+- Nordt, sende güvenlikli reçete var mı?
+- Var.
+
+923
+00:41:41,165 --> 00:41:42,583
+Sadece hasta etiketi lazım.
+
+924
+00:41:43,167 --> 00:41:45,377
+- Başka soru?
+- Evet.
+
+925
+00:41:45,378 --> 00:41:47,672
+Bugün sen olmasaydın ne olurdu?
+
+926
+00:41:49,007 --> 00:41:52,176
+Hepiniz köşeye büzülüp
+bebekler gibi ağlardınız.
+
+927
+00:41:53,136 --> 00:41:54,928
+Parmak arası terlik mi giyiyordun?
+
+928
+00:41:54,929 --> 00:41:56,722
+Evet. Nedir bu?
+
+929
+00:41:56,723 --> 00:41:58,015
+Fitofotodermatit.
+
+930
+00:41:58,016 --> 00:42:00,225
+Diğer adıyla margarita yanığı.
+
+931
+00:42:00,226 --> 00:42:03,103
+Güneş ve misket limonu
+bazılarında kötü döküntü yapabiliyor.
+
+932
+00:42:03,104 --> 00:42:05,230
+Bütün bunlar limon yüzünden mi?
+
+933
+00:42:05,231 --> 00:42:07,650
+Hiç güneş altında limon sıkmış mıydın?
+
+934
+00:42:08,443 --> 00:42:09,651
+Hiç sanmıyorum.
+
+935
+00:42:09,652 --> 00:42:12,195
+Bir gün steroid içince
+daha iyi hissedeceksin.
+
+936
+00:42:12,196 --> 00:42:14,114
+Ama iyileşince güneş kremi sürmelisin.
+
+937
+00:42:14,115 --> 00:42:17,410
+Güneş kremi sürmezsen
+bu kabarcıklar leke kalabilir.
+
+938
+00:42:19,078 --> 00:42:21,247
+Hemen bakım talimatlarıyla dönerim.
+
+939
+00:42:22,665 --> 00:42:23,583
+- Hey, Robby.
+- Evet.
+
+940
+00:42:24,667 --> 00:42:27,962
+Bakımını üstlendiğim hastam Roxy
+hâlâ çok acı çekiyor.
+
+941
+00:42:28,713 --> 00:42:31,090
+- Morfinde ne durumdayız?
+- Saatte 10 mg.
+
+942
+00:42:31,966 --> 00:42:34,301
+Tamam, bir 2'lik bolus yapıp
+12'ye çıkabilirsin.
+
+943
+00:42:34,302 --> 00:42:37,054
+- Prenses'e haber veririm.
+- Saatte 12 çok fazla.
+
+944
+00:42:37,055 --> 00:42:39,849
+Evet, diğer ilaçlarla beraber
+solunumu durabilir.
+
+945
+00:42:41,642 --> 00:42:44,395
+"Çift etki ilkesi"ni biliyor musun?
+
+946
+00:42:45,021 --> 00:42:45,938
+- Pek sayılmaz.
+- Yok.
+
+947
+00:42:47,065 --> 00:42:49,775
+Palyatif bakımda etik bir ilkedir.
+
+948
+00:42:49,776 --> 00:42:50,692
+Ağrıyı gideririz.
+
+949
+00:42:50,693 --> 00:42:52,986
+Bunu yaparken
+olumsuz bir yan etki oluşursa
+
+950
+00:42:52,987 --> 00:42:53,987
+bunu kabul ederiz.
+
+951
+00:42:53,988 --> 00:42:56,908
+Olumsuz yan etki ölüm olsa bile mi?
+
+952
+00:42:57,658 --> 00:43:00,078
+Bazı durumlarda en iyi sonuç bu olabilir.
+
+953
+00:43:10,213 --> 00:43:11,963
+Belki faksın kâğıdı bitmiştir?
+
+954
+00:43:11,964 --> 00:43:14,675
+Hayır, yeterince vardı.
+Ne oldu, anlamadım.
+
+955
+00:43:18,262 --> 00:43:19,930
+Bu karmaşadan nasıl çıkacağız?
+
+956
+00:43:19,931 --> 00:43:21,099
+Ben de onu soracaktım.
+
+957
+00:43:24,393 --> 00:43:25,936
+PDS'ten ayrılamaz.
+
+958
+00:43:25,937 --> 00:43:27,480
+Burada hiçbir iş yürümüyor.
+
+959
+00:44:50,730 --> 00:44:52,732
+Çevirmen: Pınar Batum
+Alt yazılar: Sabiha Filis
+

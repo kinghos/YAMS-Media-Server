@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-09-17T21:42:47.7409261Z","EndTimeUtc":"2026-09-17T21:42:47.7430664Z","Status":"Completed","Name":"Refresh Translation Cache","Key":"JellyfinEnhancedClearTranslationCache","Id":"525cb8db0179f31721e6426442a88b94"}

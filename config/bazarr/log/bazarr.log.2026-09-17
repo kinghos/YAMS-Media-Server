@@ -1,0 +1,60 @@
+2026-09-17 01:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 01:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-17 02:41:42|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 02:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-17 04:00:00|INFO    |root                            |BAZARR All existing movie subtitles indexed from disk.|
+2026-09-17 04:00:02|INFO    |root                            |BAZARR All existing episode subtitles indexed from disk.|
+2026-09-17 06:12:55|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-17 07:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 07:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-17 08:41:42|INFO    |root                            |Using opensubtitlescom again after 12 hours, (disabled because: AuthenticationError)|
+2026-09-17 08:41:44|INFO    |root                            |Throttling opensubtitlescom for 12 hours, until 26/09/17 20:41, because of: AuthenticationError. Exception info: "'Login failed' ~ opensubtitlescom.py@560"|
+2026-09-17 08:41:44|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-17 11:12:02|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 13:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 13:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-17 14:41:43|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 14:41:43|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-17 18:12:55|INFO    |root                            |BAZARR Finished searching for Subtitles to upgrade. Check History for more information.|
+2026-09-17 19:51:03|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 19:51:03|INFO    |root                            |BAZARR Finished searching for missing Series Subtitles. Check History for more information.|
+2026-09-17 20:41:42|INFO    |root                            |BAZARR All providers are throttled|
+2026-09-17 20:41:42|INFO    |root                            |BAZARR Finished searching for missing Movies Subtitles. Check History for more information.|
+2026-09-17 21:24:58|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-17 21:25:00|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-17 21:25:00|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-17 21:25:00|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-17 21:25:00|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-17 21:25:00|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-17 21:25:29|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-17 21:25:31|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-17 21:25:31|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-17 21:25:31|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-17 21:25:31|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-17 21:25:31|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-17 21:25:31|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-17 21:25:31|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-17 21:30:16|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-17 21:30:18|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-17 21:30:18|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-17 21:30:18|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-17 21:30:18|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-17 21:30:18|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-17 21:30:45|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-17 21:30:47|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-17 21:30:47|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-17 21:30:47|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-17 21:30:47|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-17 21:30:47|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-17 21:30:47|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-17 21:30:47|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|
+2026-09-17 21:35:02|ERROR   |root                            |BAZARR SignalR client for Radarr connection as been lost. Trying to reconnect...|
+2026-09-17 21:35:02|ERROR   |root                            |BAZARR SignalR client for Sonarr connection as been lost. Trying to reconnect...|
+2026-09-17 21:35:30|INFO    |root                            |Scheduler will use this timezone: Etc/UTC|
+2026-09-17 21:35:32|INFO    |root                            |Interactive jobs queue started and waiting for tasks|
+2026-09-17 21:35:32|INFO    |root                            |BAZARR trying to connect to Sonarr SignalR feed...|
+2026-09-17 21:35:32|INFO    |root                            |BAZARR trying to connect to Radarr SignalR feed...|
+2026-09-17 21:35:32|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2026-09-17 21:35:32|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
+2026-09-17 21:35:32|INFO    |root                            |BAZARR SignalR client for Radarr is connected and waiting for events.|
+2026-09-17 21:35:32|INFO    |root                            |BAZARR SignalR client for Sonarr is connected and waiting for events.|

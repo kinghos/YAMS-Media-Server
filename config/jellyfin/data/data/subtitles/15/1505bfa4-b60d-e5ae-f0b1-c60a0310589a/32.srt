@@ -1,0 +1,4145 @@
+1
+00:00:15,516 --> 00:00:17,266
+Informera klinikchefen nästa gång,
+
+2
+00:00:17,267 --> 00:00:18,351
+innan allt går åt helvete.
+
+3
+00:00:18,352 --> 00:00:19,644
+Jag var på väg för att berätta.
+
+4
+00:00:19,645 --> 00:00:20,770
+TIMME ÅTTA
+KL. 14.00 - 15.00
+
+5
+00:00:20,771 --> 00:00:23,022
+- Se till att ni får allt ni behöver.
+- Nu kör vi.
+
+6
+00:00:23,023 --> 00:00:26,275
+IT ringde mig för att jag
+är utbildad i att hantera cyberattacker.
+
+7
+00:00:26,276 --> 00:00:27,860
+Då kan du berätta vad alla ska göra.
+
+8
+00:00:27,861 --> 00:00:30,321
+Nej, tack. Det är bäst om klinikchefen...
+
+9
+00:00:30,322 --> 00:00:31,323
+Tror du?
+
+10
+00:00:34,368 --> 00:00:36,035
+Okej, allihop. Samlas här.
+
+11
+00:00:36,036 --> 00:00:37,286
+Vad fan?
+
+12
+00:00:37,287 --> 00:00:39,247
+Vi kan ha blivit utsatta för
+en cyberattack.
+
+13
+00:00:39,248 --> 00:00:41,416
+Vi stängde ner
+för att förhindra en cyberattack.
+
+14
+00:00:43,252 --> 00:00:45,336
+Okej allihop, lugna ner er och lyssna.
+
+15
+00:00:45,337 --> 00:00:47,672
+Som ni ser håller vi på att göra om lite
+
+16
+00:00:47,673 --> 00:00:48,674
+i arbetsutrymmena.
+
+17
+00:00:49,383 --> 00:00:52,134
+Datorerna riskerar
+att utsättas för en cyberattack.
+
+18
+00:00:52,135 --> 00:00:54,262
+Så vi kör <i>old school,</i> analogt.
+
+19
+00:00:54,263 --> 00:00:55,513
+- Hur länge?
+- Bra fråga.
+
+20
+00:00:55,514 --> 00:00:57,557
+IT-avdelningen har stängt ner allting
+
+21
+00:00:57,558 --> 00:00:59,892
+för att kunna förstärka systemen.
+
+22
+00:00:59,893 --> 00:01:01,811
+Jag tror att frågan var: "Hur länge?"
+
+23
+00:01:01,812 --> 00:01:04,314
+Svårt att säga.
+Kan bli upp till 24 timmar.
+
+24
+00:01:05,190 --> 00:01:07,650
+- Jisses.
+- Först och främst
+
+25
+00:01:07,651 --> 00:01:10,027
+måste vi återskapa
+de elektroniska patienttavlorna
+
+26
+00:01:10,028 --> 00:01:11,445
+på de här whiteboardtavlorna.
+
+27
+00:01:11,446 --> 00:01:13,573
+Säg att någon har en bild på tavlorna.
+
+28
+00:01:13,574 --> 00:01:14,657
+Ja, jag har det.
+
+29
+00:01:14,658 --> 00:01:15,492
+Okej.
+
+30
+00:01:18,954 --> 00:01:21,080
+Det är lite suddigt.
+
+31
+00:01:21,081 --> 00:01:23,083
+Det är mer än lite suddigt.
+
+32
+00:01:23,792 --> 00:01:25,836
+- Förlåt.
+- Herregud.
+
+33
+00:01:26,753 --> 00:01:27,837
+Jag kommer ihåg.
+
+34
+00:01:27,838 --> 00:01:30,089
+Bra, om alla kan komma ihåg
+sina patienters namn
+
+35
+00:01:30,090 --> 00:01:32,049
+och rumsnummer vore det toppen.
+
+36
+00:01:32,050 --> 00:01:33,801
+Nej, jag kommer ihåg allt.
+
+37
+00:01:33,802 --> 00:01:36,346
+- Allt vad?
+- Namn, läkare, rumsnummer.
+
+38
+00:01:37,097 --> 00:01:39,348
+Jag har fotografiskt minne.
+
+39
+00:01:39,349 --> 00:01:41,058
+Allvarligt, hela tavlan?
+
+40
+00:01:41,059 --> 00:01:43,227
+Centrum 12, Harlow Graham,
+
+41
+00:01:43,228 --> 00:01:46,272
+huvudvärk, buksmärta, bara teckenspråk.
+
+42
+00:01:46,273 --> 00:01:48,608
+Fan, jag har en tolk som väntar.
+
+43
+00:01:48,609 --> 00:01:50,776
+- Gå.
+- Av integritetsskäl
+
+44
+00:01:50,777 --> 00:01:52,612
+kommer alla huvudsymtom att förkortas.
+
+45
+00:01:52,613 --> 00:01:56,032
+Så "HV" för huvudvärk, "BS"
+för buksmärta och så vidare.
+
+46
+00:01:56,033 --> 00:01:58,909
+Centrum 10, Jackson Davis,
+nytillkommen psykos.
+
+47
+00:01:58,910 --> 00:02:00,661
+Javadi, psykintag.
+
+48
+00:02:00,662 --> 00:02:02,455
+Grekiska bokstaven "psi" för psyk.
+
+49
+00:02:02,456 --> 00:02:05,709
+Barn är den okända bebisen, feber,
+dr Mohan, inväntar inläggning.
+
+50
+00:02:06,251 --> 00:02:08,044
+Sköterskorna byter till zonindelat arbete.
+
+51
+00:02:08,045 --> 00:02:10,087
+- Nord, Centrum, Syd, Trauma.
+- Var är Dana?
+
+52
+00:02:10,088 --> 00:02:11,631
+Med ett sexualbrottsärende.
+
+53
+00:02:11,632 --> 00:02:13,341
+Får inte gå förrän undersökningen är klar.
+
+54
+00:02:13,342 --> 00:02:16,052
+- Det kan ta ett tag.
+- Princess har erfarenhet som ansvarig.
+
+55
+00:02:16,053 --> 00:02:17,511
+- Inte riktigt.
+- Det är en bra idé.
+
+56
+00:02:17,512 --> 00:02:19,639
+Du gör vårdfördelningen.
+
+57
+00:02:19,640 --> 00:02:21,724
+- Nästa.
+- Centrum 9, Roxy Hemler.
+
+58
+00:02:21,725 --> 00:02:23,059
+Slutstadium lungcancer.
+
+59
+00:02:23,060 --> 00:02:25,394
+Måste vi stå här
+medan hon rabblar hela tavlan?
+
+60
+00:02:25,395 --> 00:02:28,648
+Nej. Kolla era patienter,
+kom sen tillbaka.
+
+61
+00:02:28,649 --> 00:02:29,940
+Tack.
+
+62
+00:02:29,941 --> 00:02:31,610
+Hur många timmar sitter du framför datorn?
+
+63
+00:02:34,905 --> 00:02:37,490
+Minst åtta timmar. Jag arbetar hemifrån.
+
+64
+00:02:37,491 --> 00:02:39,034
+Sitter du vid skrivbordet?
+
+65
+00:02:41,578 --> 00:02:46,332
+Nej. Antingen sitter jag i soffan
+eller ibland i sängen.
+
+66
+00:02:46,333 --> 00:02:50,002
+Sitter med datorn i knät, typ så.
+
+67
+00:02:50,003 --> 00:02:51,922
+Så, du tittar alltid ner på skärmen?
+
+68
+00:02:52,881 --> 00:02:53,798
+Ja.
+
+69
+00:02:53,799 --> 00:02:56,677
+Okej, Jag ska kolla
+muskulaturen i din nacke.
+
+70
+00:03:04,476 --> 00:03:05,394
+Det gör ont.
+
+71
+00:03:06,937 --> 00:03:08,814
+Jag tror att vi kan hjälpa dig.
+
+72
+00:03:09,398 --> 00:03:10,774
+Kom hit.
+
+73
+00:03:11,817 --> 00:03:13,109
+Okej, samlas här.
+
+74
+00:03:13,110 --> 00:03:15,486
+Lyssna allihop. Det här är journalhyllan.
+
+75
+00:03:15,487 --> 00:03:18,572
+Alla fack och skrivplattor
+har ett rumsnummer.
+
+76
+00:03:18,573 --> 00:03:22,326
+När ni tar en ny patient
+tar ni en ny journal från T-systemet.
+
+77
+00:03:22,327 --> 00:03:27,415
+Välj journal efter huvudsymtom,
+kolla på teckningarna för att hitta rätt.
+
+78
+00:03:27,416 --> 00:03:29,041
+Varför två kroppar?
+
+79
+00:03:29,042 --> 00:03:31,210
+Trauma till vänster,
+medicinska fall till höger.
+
+80
+00:03:31,211 --> 00:03:34,088
+Alltså: huvudskador till vänster,
+huvudvärk till höger.
+
+81
+00:03:34,089 --> 00:03:36,716
+- Simmar fiskarna i sjögräs?
+- Nej.
+
+82
+00:03:36,717 --> 00:03:38,008
+Det är bin och gräs.
+
+83
+00:03:38,009 --> 00:03:40,845
+Avdelningen för insektsbett,
+utslag och allergier.
+
+84
+00:03:40,846 --> 00:03:42,179
+Vi säger att
+
+85
+00:03:42,180 --> 00:03:44,432
+dr Al-Hashimi har
+en ny patient med magsmärtor.
+
+86
+00:03:44,433 --> 00:03:49,228
+Under anamnes ringar ni in positiva fynd,
+som kräkningar och diarré.
+
+87
+00:03:49,229 --> 00:03:50,521
+Stryk över negativa,
+
+88
+00:03:50,522 --> 00:03:53,357
+som nylig resa, smittkontakt och feber.
+
+89
+00:03:53,358 --> 00:03:57,278
+Vid kroppsundersökning
+bockar ni av normala fynd till vänster
+
+90
+00:03:57,279 --> 00:04:00,239
+och ringar in avvikande fynd till höger.
+Frågor?
+
+91
+00:04:00,240 --> 00:04:02,743
+Fungerar ditt generativa
+AI-program fortfarande?
+
+92
+00:04:04,453 --> 00:04:05,494
+Inte på ett tag.
+
+93
+00:04:05,495 --> 00:04:08,790
+Och dumpa Spectralink-lurarna,
+de går över internet.
+
+94
+00:04:11,877 --> 00:04:14,086
+PTMC, akuten. Kör, medicinsk ledning.
+
+95
+00:04:14,087 --> 00:04:16,213
+Det är så vi får reda på inkommande.
+
+96
+00:04:16,214 --> 00:04:18,841
+Tack. Två minuter bort,
+magsmärta och feber.
+
+97
+00:04:18,842 --> 00:04:20,342
+Okej, har alla förstått?
+
+98
+00:04:20,343 --> 00:04:21,969
+Hur ger vi ordinationer?
+
+99
+00:04:21,970 --> 00:04:26,515
+Läkarordinationer i tre exemplar
+för prover, röntgen, dropp och läkemedel.
+
+100
+00:04:26,516 --> 00:04:28,601
+Kan labbet köra blodprover?
+
+101
+00:04:28,602 --> 00:04:30,603
+- Ja.
+- Fungerar DT fortfarande?
+
+102
+00:04:30,604 --> 00:04:34,231
+Ja, men resultaten kommer
+på papper från radiologen.
+
+103
+00:04:34,232 --> 00:04:35,441
+Det är medeltiden.
+
+104
+00:04:35,442 --> 00:04:39,904
+Så ordinationer för prover och röntgen
+ska läggas i adminfacket.
+
+105
+00:04:39,905 --> 00:04:42,281
+De signerar dem
+
+106
+00:04:42,282 --> 00:04:43,950
+och ser till att de hamnar
+på rätt avdelning.
+
+107
+00:04:44,075 --> 00:04:46,202
+- Förlåt. Vilka är admin?
+- Till er tjänst.
+
+108
+00:04:46,203 --> 00:04:48,621
+Larry och Antoine hjälper till så länge.
+
+109
+00:04:48,622 --> 00:04:51,332
+- Vi har det här.
+- När admin är klara kommer journalen
+
+110
+00:04:51,333 --> 00:04:54,794
+hit till sköterskorna när det gäller
+dropp, läkemedel, åtgärder.
+
+111
+00:04:54,795 --> 00:04:57,171
+Läkemedlen förvaras låsta
+i läkemedelsautomaten.
+
+112
+00:04:57,172 --> 00:05:00,800
+Den kan låsas upp
+av vår kliniska farmaceut, dr Megan Nordt.
+
+113
+00:05:00,801 --> 00:05:02,384
+- Vi finns här.
+- Det är mycket.
+
+114
+00:05:02,385 --> 00:05:03,720
+Några frågor? Ja?
+
+115
+00:05:05,013 --> 00:05:05,930
+Nej.
+
+116
+00:05:05,931 --> 00:05:07,223
+Och det tredje stället?
+
+117
+00:05:07,224 --> 00:05:09,099
+När er patient kan skrivas ut,
+
+118
+00:05:09,100 --> 00:05:10,226
+ställ journalen här.
+
+119
+00:05:10,227 --> 00:05:12,478
+Då vet alla att en säng snart är ledig.
+
+120
+00:05:12,479 --> 00:05:14,189
+- Eller att ens macka är klar.
+- Jesse?
+
+121
+00:05:16,817 --> 00:05:19,026
+Vad är det där?
+
+122
+00:05:19,027 --> 00:05:22,112
+- Det där är en fax.
+- Tillverkas de fortfarande?
+
+123
+00:05:22,113 --> 00:05:23,739
+Det är vår livlina till labb och röntgen.
+
+124
+00:05:23,740 --> 00:05:26,033
+När resultaten är klara faxar de oss,
+
+125
+00:05:26,034 --> 00:05:28,244
+och admin skriver in dem
+i journalerna, okej?
+
+126
+00:05:28,245 --> 00:05:30,162
+- Om du säger så.
+- Inkommande!
+
+127
+00:05:30,163 --> 00:05:33,999
+Okej, dr McKay, dr Whitaker,
+Ogilvie, med mig.
+
+128
+00:05:34,000 --> 00:05:35,961
+Resten, ordna era skrivplattor.
+
+129
+00:05:39,172 --> 00:05:40,381
+Howard Knox, 52,
+
+130
+00:05:40,382 --> 00:05:43,175
+magsmärtor och feber, 152 över 90.
+
+131
+00:05:43,176 --> 00:05:46,387
+- Takykardi, puls 120. Ingen infart.
+- Jag undrar varför.
+
+132
+00:05:46,388 --> 00:05:49,014
+- Hej, jag är dr Robby,
+- Howard.
+
+133
+00:05:49,015 --> 00:05:50,182
+Vi undervisar här.
+
+134
+00:05:50,183 --> 00:05:52,434
+Jag handleder dr McKay, dr Whitaker,
+
+135
+00:05:52,435 --> 00:05:53,644
+och läkarstudent Ogilvie.
+
+136
+00:05:53,645 --> 00:05:54,854
+- Hej.
+- Hur mår du?
+
+137
+00:05:54,855 --> 00:05:56,146
+- Inte toppen.
+- Okej.
+
+138
+00:05:56,147 --> 00:05:58,358
+- Princess, vad är ledigt?
+- Trauma 1. Perlah.
+
+139
+00:06:01,987 --> 00:06:05,114
+Ordination på antacida
+och bupivakain, Centrum 12.
+
+140
+00:06:05,115 --> 00:06:08,243
+Fel plats, dr Santos,
+och du behöver en etikett.
+
+141
+00:06:09,619 --> 00:06:11,537
+- Perfekt.
+- Lägg den i sköterskornas ställ
+
+142
+00:06:11,538 --> 00:06:13,038
+och möt mig vid läkemedelsautomaten.
+
+143
+00:06:13,039 --> 00:06:14,415
+Hur mycket suger det här?
+
+144
+00:06:14,416 --> 00:06:16,208
+Jag trodde inte att dagen kunde bli värre.
+
+145
+00:06:16,209 --> 00:06:18,460
+Så här jobbade vi när jag var underläkare.
+
+146
+00:06:18,461 --> 00:06:19,879
+Var det på 1900-talet?
+
+147
+00:06:19,880 --> 00:06:21,631
+Ja, när journalerna
+skrevs vid levande ljus.
+
+148
+00:06:22,382 --> 00:06:24,133
+Idag kommer att bli ett äventyr.
+
+149
+00:06:24,134 --> 00:06:25,969
+Tänk <i>Tillbaka till framtiden.</i>
+
+150
+00:06:29,055 --> 00:06:30,931
+Eller kanske <i>Titanic.</i>
+
+151
+00:06:30,932 --> 00:06:33,393
+Här är antacida. Skål.
+
+152
+00:06:34,102 --> 00:06:37,479
+Och jag har markerat triggerpunkten
+som utlöser din huvudvärk.
+
+153
+00:06:37,480 --> 00:06:41,109
+En injektion med lokalbedövning
+i det området borde hjälpa.
+
+154
+00:06:42,569 --> 00:06:44,112
+- Ja, gör det.
+- Toppen.
+
+155
+00:06:45,947 --> 00:06:50,160
+Det kommer att sticka och bränna lite.
+
+156
+00:06:58,668 --> 00:07:00,127
+Det gör jätteont.
+
+157
+00:07:00,128 --> 00:07:03,213
+Temp 38,6, takykardi med puls 128,
+
+158
+00:07:03,214 --> 00:07:04,632
+syremättnad 92 på två liter.
+
+159
+00:07:04,633 --> 00:07:05,841
+När började smärtorna?
+
+160
+00:07:05,842 --> 00:07:08,427
+- I cirka en vecka, till och från.
+- Var känns det?
+
+161
+00:07:08,428 --> 00:07:09,345
+Överallt.
+
+162
+00:07:09,346 --> 00:07:11,680
+Det började på vänster sida,
+sen lite på höger.
+
+163
+00:07:11,681 --> 00:07:14,266
+- Och febern?
+- Sedan igår kväll.
+
+164
+00:07:14,267 --> 00:07:17,478
+Jag var stekhet
+och sedan fick jag rejäl frossa.
+
+165
+00:07:17,479 --> 00:07:18,479
+Jag hittar ingen ven.
+
+166
+00:07:18,480 --> 00:07:20,607
+- Vi provar en midline.
+- Säg till om det gör ont.
+
+167
+00:07:21,983 --> 00:07:23,984
+- Förlåt.
+- Och på den här sidan?
+
+168
+00:07:23,985 --> 00:07:25,402
+- Ja.
+- Förlåt.
+
+169
+00:07:25,403 --> 00:07:28,656
+Smärtbetingat bukförsvar.
+100 mikrogram fentanyl intramuskulärt.
+
+170
+00:07:28,657 --> 00:07:33,077
+- Plan, dr Whitaker?
+- Blododlingar, laktat, piperacillin.
+
+171
+00:07:33,078 --> 00:07:35,246
+Vi behöver en DT
+för att ta reda på vad som pågår.
+
+172
+00:07:36,873 --> 00:07:38,916
+- Det fungerar ju inte.
+- Nej.
+
+173
+00:07:38,917 --> 00:07:41,335
+- Skriv prydligt.
+- Howard, under röntgen
+
+174
+00:07:41,336 --> 00:07:43,921
+måste du ligga platt på rygg.
+Klarar du det?
+
+175
+00:07:43,922 --> 00:07:47,132
+Det kunde jag för tio år sedan,
+nu får jag svårt att andas.
+
+176
+00:07:47,133 --> 00:07:49,218
+Om du inte kan ligga plant
+måste vi sätta en slang
+
+177
+00:07:49,219 --> 00:07:51,470
+i luftstrupen för att hjälpa
+dig andas. Är det okej?
+
+178
+00:07:51,471 --> 00:07:54,264
+- Intubation med RSI?
+- Nej, vi kan inte lägga honom ner.
+
+179
+00:07:54,265 --> 00:07:56,600
+Tuben går in genom näsan
+medan du är vaken.
+
+180
+00:07:56,601 --> 00:07:57,643
+Okej.
+
+181
+00:07:57,644 --> 00:07:59,853
+- Gör det ont?
+- Du kommer att vara bedövad.
+
+182
+00:07:59,854 --> 00:08:01,563
+Du kommer inte att känna obehag.
+
+183
+00:08:01,564 --> 00:08:03,858
+Vet du hur mycket du väger?
+
+184
+00:08:04,734 --> 00:08:06,110
+Lite över 180 kg.
+
+185
+00:08:06,111 --> 00:08:08,654
+- När vägde du dig senast?
+- Det var ett tag sedan.
+
+186
+00:08:08,655 --> 00:08:11,240
+Är det möjligt att du väger över 200 kg?
+
+187
+00:08:11,241 --> 00:08:12,158
+Möjligen.
+
+188
+00:08:13,493 --> 00:08:15,577
+Perlah, ring efter en Hoyer.
+
+189
+00:08:15,578 --> 00:08:18,872
+Då sätter vi tuben
+och gör dig redo för undersökningen.
+
+190
+00:08:18,873 --> 00:08:20,290
+Är det något allvarligt?
+
+191
+00:08:20,291 --> 00:08:22,084
+Svårt att säga utan en DT.
+
+192
+00:08:22,085 --> 00:08:25,587
+Det kan räcka med antibiotika,
+eller så kan du behöva opereras.
+
+193
+00:08:25,588 --> 00:08:27,006
+Om kirurgi behövs,
+
+194
+00:08:27,007 --> 00:08:29,174
+gör din vikt det mer komplicerat.
+
+195
+00:08:29,175 --> 00:08:30,217
+Jag vet, förlåt.
+
+196
+00:08:30,218 --> 00:08:33,388
+Oroa dig inte,
+vi ska ta god hand om dig. Team.
+
+197
+00:08:36,433 --> 00:08:40,519
+Vi provar med en midline
+i basilikavenen med hjälp av ultraljud.
+
+198
+00:08:40,520 --> 00:08:41,895
+Ultraljud för appendicit?
+
+199
+00:08:41,896 --> 00:08:43,647
+Han är lite för stor för ultraljud.
+
+200
+00:08:43,648 --> 00:08:46,108
+Dessutom tar vår DT max 200 kilo.
+
+201
+00:08:46,109 --> 00:08:48,445
+Så, om han väger mer
+skickar vi honom till zoo?
+
+202
+00:08:49,696 --> 00:08:50,822
+Han ligger ju där.
+
+203
+00:08:53,450 --> 00:08:56,285
+Jag har hört att det finns
+en DT för stora djur på zoo.
+
+204
+00:08:56,286 --> 00:09:00,415
+- Presbys DT klarar 300.
+- Om Presby fortfarande är igång.
+
+205
+00:09:01,708 --> 00:09:03,208
+Det är ingen jinx, det...
+
+206
+00:09:03,209 --> 00:09:06,546
+Har någon av er gjort
+en vaken nasotrakeal intubation?
+
+207
+00:09:07,005 --> 00:09:07,921
+Okej.
+
+208
+00:09:07,922 --> 00:09:10,090
+Kan du be dr Al-Hashimi att komma?
+
+209
+00:09:10,091 --> 00:09:11,341
+Jag behöver en assistent.
+
+210
+00:09:11,342 --> 00:09:12,343
+Jag löser det.
+
+211
+00:09:13,303 --> 00:09:14,512
+Så där. Signerad.
+
+212
+00:09:15,597 --> 00:09:17,139
+- Tack.
+- Korridorsäng "F".
+
+213
+00:09:17,140 --> 00:09:18,307
+George Francis.
+
+214
+00:09:18,308 --> 00:09:21,435
+Andfåddhet, dr Mohan, inväntar D-dimer.
+
+215
+00:09:21,436 --> 00:09:23,312
+Oj, håller hon på fortfarande?
+
+216
+00:09:23,313 --> 00:09:25,064
+Ja. Rätt otroligt, faktiskt.
+
+217
+00:09:25,065 --> 00:09:27,024
+Dr Robby frågar efter dig.
+
+218
+00:09:27,025 --> 00:09:28,025
+Okej.
+
+219
+00:09:28,026 --> 00:09:30,236
+- I Trauma om jag behövs.
+- Uppfattat.
+
+220
+00:09:32,614 --> 00:09:34,948
+Vem tar blanketterna
+till röntgen och labb?
+
+221
+00:09:34,949 --> 00:09:36,409
+Ansvarig sköterska.
+
+222
+00:09:37,827 --> 00:09:38,828
+Titta inte på mig.
+
+223
+00:09:39,579 --> 00:09:40,455
+Jag är upptagen.
+
+224
+00:09:43,500 --> 00:09:46,960
+- Roxy Hemlers föräldrar.
+- Centrum 9.
+
+225
+00:09:46,961 --> 00:09:48,128
+Jag tar det, Donnie.
+
+226
+00:09:48,129 --> 00:09:51,006
+Hej, Victoria Javadi.
+Jag är läkarstudent här.
+
+227
+00:09:51,007 --> 00:09:52,966
+Jag har hjälpt till med Roxys vård.
+
+228
+00:09:52,967 --> 00:09:56,136
+- Tack. Jag heter Lloyd.
+- Cora.
+
+229
+00:09:56,137 --> 00:09:57,429
+Trevligt att träffas.
+
+230
+00:09:57,430 --> 00:09:58,348
+Bröt hon benet?
+
+231
+00:09:58,932 --> 00:10:01,141
+Ja, hon har en fraktur på fotleden.
+
+232
+00:10:01,142 --> 00:10:04,144
+Hon har en ortos nu,
+så det gör inte så ont.
+
+233
+00:10:04,145 --> 00:10:05,897
+Jag visar er dit, hon är i 9.
+
+234
+00:10:11,861 --> 00:10:13,237
+Sjukhusets wifi funkar inte.
+
+235
+00:10:13,238 --> 00:10:15,573
+Det kommer att ligga nere ett tag. Ledsen.
+
+236
+00:10:16,533 --> 00:10:18,034
+Mamma bröt benet, morfar.
+
+237
+00:10:18,952 --> 00:10:19,953
+Vi hörde det.
+
+238
+00:10:21,329 --> 00:10:22,288
+Hur är det, älskling?
+
+239
+00:10:25,166 --> 00:10:26,668
+Du grejar det här, raring.
+
+240
+00:10:27,418 --> 00:10:28,294
+Ja.
+
+241
+00:10:29,838 --> 00:10:31,673
+Hur länge blir hon kvar på akuten?
+
+242
+00:10:32,298 --> 00:10:34,592
+Tills det blir något ledigt där uppe.
+
+243
+00:10:35,677 --> 00:10:36,845
+Det kan ta ett tag.
+
+244
+00:10:42,350 --> 00:10:43,851
+Det börjar bli ganska fullt här inne.
+
+245
+00:10:43,852 --> 00:10:45,894
+Vi tar med Tucker och Shane
+och äter glass.
+
+246
+00:10:45,895 --> 00:10:48,523
+- Ja, tack.
+- Nej, jag behöver ingen.
+
+247
+00:10:49,607 --> 00:10:51,901
+Din mamma vill kanske vila lite.
+
+248
+00:10:52,569 --> 00:10:54,404
+Ja, gå.
+
+249
+00:10:56,656 --> 00:10:57,866
+Får hon äta glass?
+
+250
+00:10:58,700 --> 00:11:00,326
+Hon får äta vad hon vill.
+
+251
+00:11:02,162 --> 00:11:03,246
+Kom nu, vi går.
+
+252
+00:11:14,340 --> 00:11:15,465
+Ja.
+
+253
+00:11:15,466 --> 00:11:16,342
+Lyssna nu.
+
+254
+00:11:17,218 --> 00:11:20,013
+Det här är oxymetazolin,
+det öppnar upp luftvägarna.
+
+255
+00:11:20,972 --> 00:11:22,681
+Vilka läkemedel tar du?
+
+256
+00:11:22,682 --> 00:11:24,601
+Lisinopril och metformin.
+
+257
+00:11:25,351 --> 00:11:27,060
+Ozempic? Wegovy?
+
+258
+00:11:27,061 --> 00:11:28,979
+Nej, det är för dyrt.
+
+259
+00:11:28,980 --> 00:11:30,939
+Jag sprutar in bedövningsgel i näsan.
+
+260
+00:11:30,940 --> 00:11:33,318
+Om det rinner ner i halsen gör det inget.
+
+261
+00:11:34,652 --> 00:11:36,070
+Här, om det behövs.
+
+262
+00:11:36,738 --> 00:11:39,990
+Röker du? Alkohol?
+
+263
+00:11:39,991 --> 00:11:41,742
+- Aldrig.
+- Tränar du?
+
+264
+00:11:41,743 --> 00:11:43,703
+Rör mig från sovrummet till köket.
+
+265
+00:11:44,787 --> 00:11:45,913
+Jag skulle gärna gå mer,
+
+266
+00:11:45,914 --> 00:11:48,540
+men jag behöver en bänk varje kvarter.
+
+267
+00:11:48,541 --> 00:11:50,083
+Vattengympa då?
+
+268
+00:11:50,084 --> 00:11:52,336
+Nu fokuserar vi på att hjälpa mr Knox.
+
+269
+00:11:52,337 --> 00:11:53,754
+Jag håller med.
+
+270
+00:11:53,755 --> 00:11:55,881
+Det tog 25 år att bli så här.
+
+271
+00:11:55,882 --> 00:12:00,637
+Bilolycka, brännskadeavdelning,
+fyra benoperationer på tio år.
+
+272
+00:12:01,387 --> 00:12:03,555
+Det slog ut mig så mycket
+att jag förlorade jobbet.
+
+273
+00:12:03,556 --> 00:12:05,224
+Jag behöver bedöva tungroten.
+
+274
+00:12:05,225 --> 00:12:06,391
+Det kommer att smaka illa.
+
+275
+00:12:06,392 --> 00:12:08,228
+Finns det någon vi kan ringa?
+
+276
+00:12:09,562 --> 00:12:10,897
+Någon familj?
+
+277
+00:12:12,065 --> 00:12:13,524
+Mina föräldrar är döda.
+
+278
+00:12:14,025 --> 00:12:17,027
+- Jag är singel. Konstigt va?
+- Syskon?
+
+279
+00:12:17,028 --> 00:12:18,321
+Syster i Arizona.
+
+280
+00:12:19,447 --> 00:12:20,865
+Vi har inte mycket kontakt.
+
+281
+00:12:21,491 --> 00:12:23,492
+Nu när vi har bedövat tungroten
+
+282
+00:12:23,493 --> 00:12:25,370
+kan vi bedöva lite längre ner.
+
+283
+00:12:26,913 --> 00:12:27,829
+Ledsen att avbryta.
+
+284
+00:12:27,830 --> 00:12:30,540
+En medelålders kvinna
+med nytillkommen blindhet.
+
+285
+00:12:30,541 --> 00:12:32,251
+- Jag kan gå.
+- Okej.
+
+286
+00:12:32,252 --> 00:12:33,252
+Se om Abbot är kvar.
+
+287
+00:12:33,253 --> 00:12:34,169
+- Ja.
+- Tack.
+
+288
+00:12:34,170 --> 00:12:37,631
+- Vad heter din syster?
+- Lauren Milford.
+
+289
+00:12:37,632 --> 00:12:38,549
+Var i Arizona?
+
+290
+00:12:39,050 --> 00:12:40,550
+Flagstaff, tror jag.
+
+291
+00:12:40,551 --> 00:12:43,388
+Jag går in över tungan
+och bedövar stämbanden.
+
+292
+00:12:46,432 --> 00:12:48,977
+- Hur många fingrar?
+- Jag ser inga fingrar.
+
+293
+00:12:49,936 --> 00:12:50,812
+Och nu?
+
+294
+00:12:51,938 --> 00:12:53,189
+Jag kan se lite ljus.
+
+295
+00:12:54,774 --> 00:12:56,275
+Brooke, du har träffat dr King.
+
+296
+00:12:56,276 --> 00:12:58,193
+- Det här är dr Al-Hashimi.
+- Trevligt.
+
+297
+00:12:58,194 --> 00:12:59,111
+Och hennes fru, Wendy.
+
+298
+00:12:59,112 --> 00:13:00,237
+- Hej.
+- Hej.
+
+299
+00:13:00,238 --> 00:13:02,072
+Kan vi diskutera dina symptom?
+
+300
+00:13:02,073 --> 00:13:04,324
+Så länge jag får rätta dig om du har fel.
+
+301
+00:13:04,325 --> 00:13:05,534
+Tro mig, det gör hon.
+
+302
+00:13:05,535 --> 00:13:09,079
+En timme av plötslig, smärtfri
+synförlust på vänster öga.
+
+303
+00:13:09,080 --> 00:13:12,040
+Ingen känd koagulationsrubbning
+eller kärlsjukdom.
+
+304
+00:13:12,041 --> 00:13:13,625
+Titta rakt fram.
+
+305
+00:13:13,626 --> 00:13:15,712
+Kan vara central näthinneartärocklusion.
+
+306
+00:13:16,421 --> 00:13:17,713
+Tala klarspråk, tack.
+
+307
+00:13:17,714 --> 00:13:21,341
+En liten blodpropp
+kan blockera artären längst bak i ögat
+
+308
+00:13:21,342 --> 00:13:22,592
+och försämra synen.
+
+309
+00:13:22,593 --> 00:13:24,094
+Det kallas ibland för ögonstroke.
+
+310
+00:13:24,095 --> 00:13:26,221
+Stroke? Kan hon bli förlamad?
+
+311
+00:13:26,222 --> 00:13:28,557
+Nej, det här är begränsat till ögat.
+
+312
+00:13:28,558 --> 00:13:31,269
+- Är det permanent?
+- Först måste vi ställa diagnos.
+
+313
+00:13:31,853 --> 00:13:32,769
+Näthinneundersökning?
+
+314
+00:13:32,770 --> 00:13:34,229
+Svårt att få bra sikt.
+
+315
+00:13:34,230 --> 00:13:35,606
+Vi behöver FOP:en.
+
+316
+00:13:36,149 --> 00:13:37,358
+Vad?
+
+317
+00:13:39,902 --> 00:13:43,447
+Vi behöver patientetiketter
+på varje ordinationsblad,
+
+318
+00:13:43,448 --> 00:13:45,741
+annars vet apoteket inte
+vem läkemedlen ska ges till.
+
+319
+00:13:45,742 --> 00:13:46,783
+Vi ordnar det.
+
+320
+00:13:46,784 --> 00:13:48,619
+Mobilfunduskameran?
+
+321
+00:13:49,245 --> 00:13:51,121
+- Utrustning, korridoren, ögonvagnen.
+- Tack.
+
+322
+00:13:51,122 --> 00:13:53,249
+Du verkar lite förvirrad.
+
+323
+00:13:53,750 --> 00:13:55,709
+Hur vet jag vilken patient jag ska ta?
+
+324
+00:13:55,710 --> 00:13:58,086
+Högst upp. De är listade i ankomstordning.
+
+325
+00:13:58,087 --> 00:14:01,089
+Du suddar den första
+och skriver dina initialer i MD-rutan.
+
+326
+00:14:01,090 --> 00:14:03,008
+- Okej, tack.
+- Caleb.
+
+327
+00:14:03,009 --> 00:14:05,093
+Michael, har du koll på kaoset?
+
+328
+00:14:05,094 --> 00:14:07,805
+Tja, det är ganska lätt
+när man är korttidare.
+
+329
+00:14:08,348 --> 00:14:10,641
+Fler medvetslösa jag ska prata med?
+
+330
+00:14:12,518 --> 00:14:13,435
+Jag skämtar.
+
+331
+00:14:13,436 --> 00:14:17,314
+- Okej.
+- Victoria, det här är Nicole Steadman.
+
+332
+00:14:17,315 --> 00:14:19,941
+Jag leder föräldrastödsgruppen
+inom psykiatrin.
+
+333
+00:14:19,942 --> 00:14:23,195
+Nicoles dotter fick sin diagnos
+under andra året på college.
+
+334
+00:14:23,196 --> 00:14:25,907
+Jacksons föräldrar kanske
+vill prata med henne?
+
+335
+00:14:26,657 --> 00:14:27,742
+Vi kan fråga.
+
+336
+00:14:28,368 --> 00:14:31,662
+Nu kan vi se hela näthinnan
+utan att vidga pupillen.
+
+337
+00:14:32,705 --> 00:14:36,459
+- Ni tittar i fel öga.
+- Vi börjar med det friska ögat och jämför.
+
+338
+00:14:38,711 --> 00:14:40,879
+- Näthinnan ser fin ut.
+- Och det dåliga ögat?
+
+339
+00:14:40,880 --> 00:14:42,215
+Håll ögonen vidöppna.
+
+340
+00:14:44,509 --> 00:14:45,468
+Hur ser det ut?
+
+341
+00:14:46,260 --> 00:14:47,552
+Extremt blekt. Inget blodflöde.
+
+342
+00:14:47,553 --> 00:14:49,846
+Fingermassage,
+tio sekunder tryck, fem paus.
+
+343
+00:14:49,847 --> 00:14:51,140
+Beställ DT-hjärna utan kontrast.
+
+344
+00:14:54,936 --> 00:14:55,853
+Kom in.
+
+345
+00:14:57,188 --> 00:14:58,940
+Jag hörde att din patient gick.
+
+346
+00:14:59,649 --> 00:15:01,984
+- Hon tar en liten paus.
+- Hur länge ska du vänta?
+
+347
+00:15:03,569 --> 00:15:05,320
+Vet du om IT-nedstängningen?
+
+348
+00:15:05,321 --> 00:15:07,030
+Ja, jag önskar att jag kunde hjälpa,
+
+349
+00:15:07,031 --> 00:15:09,616
+men jag stannar här
+tills all bevisning är insamlad.
+
+350
+00:15:09,617 --> 00:15:11,243
+Det är kaos där ute.
+
+351
+00:15:11,244 --> 00:15:12,578
+Hela dagen är det.
+
+352
+00:15:14,288 --> 00:15:15,623
+Förlåt, jag skulle precis gå.
+
+353
+00:15:16,290 --> 00:15:17,208
+Hur mår du?
+
+354
+00:15:18,376 --> 00:15:19,210
+Jag mår bra.
+
+355
+00:15:20,044 --> 00:15:22,671
+Glad att höra. Tog du något att äta?
+
+356
+00:15:22,672 --> 00:15:23,589
+Nej.
+
+357
+00:15:25,675 --> 00:15:27,009
+Vi fortsätter.
+
+358
+00:15:27,844 --> 00:15:29,971
+Okej. Ja.
+
+359
+00:15:37,395 --> 00:15:38,896
+- Då så.
+- Tack.
+
+360
+00:15:40,731 --> 00:15:42,400
+Varför har vi inte en på akuten?
+
+361
+00:15:43,192 --> 00:15:45,528
+För att våra intuberade patienter
+vanligtvis är nedsövda.
+
+362
+00:15:46,946 --> 00:15:48,071
+Just det.
+
+363
+00:15:48,072 --> 00:15:51,576
+Du kanske kan hålla tillbaka
+dina kommentarer om hans vikt.
+
+364
+00:15:52,994 --> 00:15:56,204
+Jag undrade bara hur han blev så stor
+och hur vi kunde hjälpa.
+
+365
+00:15:56,205 --> 00:15:59,332
+Genom att ta reda på vad som är fel
+och bemöta honom med respekt.
+
+366
+00:15:59,333 --> 00:16:01,835
+- Hur känns magen?
+- Den andra sprutan hjälpte.
+
+367
+00:16:01,836 --> 00:16:03,545
+Det finns mer om du behöver.
+
+368
+00:16:03,546 --> 00:16:06,631
+- Svaga tarmljud.
+- Den mest pratsamma på IVA.
+
+369
+00:16:06,632 --> 00:16:09,176
+Toppen. Vi måste öppna passagen nu,
+
+370
+00:16:09,177 --> 00:16:10,343
+för att lägga in slangen.
+
+371
+00:16:10,344 --> 00:16:12,179
+Jag börjar med lillfingret
+
+372
+00:16:12,180 --> 00:16:14,639
+och går gradvis djupare,
+ända bak till knogen.
+
+373
+00:16:14,640 --> 00:16:17,726
+När slangen har passerat stämbanden
+kan du inte prata.
+
+374
+00:16:17,727 --> 00:16:19,478
+Det här är ett kommunikationshjälpmedel.
+
+375
+00:16:19,479 --> 00:16:22,481
+Svep på skärmen till det du vill säga.
+
+376
+00:16:22,482 --> 00:16:24,983
+Tryck på ikonen så pratar den med oss.
+
+377
+00:16:24,984 --> 00:16:26,569
+<i>Jag vill ha smärtlindring.</i>
+
+378
+00:16:27,403 --> 00:16:29,029
+<i>Min smärta är en nia.</i>
+
+379
+00:16:29,030 --> 00:16:30,531
+Kan den beställa pizza?
+
+380
+00:16:32,366 --> 00:16:34,784
+Det finns mottagning i ambulansintaget.
+
+381
+00:16:34,785 --> 00:16:36,995
+Lämnade ett meddelande hos systern.
+
+382
+00:16:36,996 --> 00:16:38,538
+Okej, jag börjar.
+
+383
+00:16:38,539 --> 00:16:39,915
+Redo?
+
+384
+00:16:39,916 --> 00:16:40,833
+Inte riktigt.
+
+385
+00:16:41,459 --> 00:16:42,375
+Men börja du.
+
+386
+00:16:42,376 --> 00:16:44,462
+- Robby, här borta.
+- Huvudet bakåt.
+
+387
+00:16:47,048 --> 00:16:48,173
+Kan det vara kirurgiskt?
+
+388
+00:16:48,174 --> 00:16:49,841
+Hoppas på en ickeperforerad appendicit.
+
+389
+00:16:49,842 --> 00:16:50,967
+Kan du göra det med titthål?
+
+390
+00:16:50,968 --> 00:16:53,512
+Kanske, men han kan behandlas
+med bara antibiotika.
+
+391
+00:16:53,513 --> 00:16:55,347
+Och om han behöver opereras?
+
+392
+00:16:55,348 --> 00:16:58,433
+Med hans storlek innebär
+en akut öppen laparotomi
+
+393
+00:16:58,434 --> 00:17:00,519
+en dödlighet på nära 50 %.
+
+394
+00:17:00,520 --> 00:17:01,937
+Okej, en sak i taget.
+
+395
+00:17:01,938 --> 00:17:04,814
+Vi försöker nå hans syster varje kvart.
+
+396
+00:17:04,815 --> 00:17:05,733
+Vi fixar det.
+
+397
+00:17:09,987 --> 00:17:11,531
+Hälften av följelapparna är tomma.
+
+398
+00:17:12,573 --> 00:17:13,950
+Vad pratar du om?
+
+399
+00:17:15,117 --> 00:17:16,452
+Här och här.
+
+400
+00:17:17,411 --> 00:17:19,247
+Larry, använder du tuschpenna?
+
+401
+00:17:19,830 --> 00:17:20,748
+Kanske.
+
+402
+00:17:21,749 --> 00:17:24,168
+Det går inte igenom till kopiorna.
+
+403
+00:17:25,086 --> 00:17:26,629
+Bara kulspetspenna.
+
+404
+00:17:27,255 --> 00:17:28,172
+Okej.
+
+405
+00:17:30,633 --> 00:17:31,883
+Saknas Digby fortfarande?
+
+406
+00:17:31,884 --> 00:17:33,301
+Är det den hemlösa?
+
+407
+00:17:33,302 --> 00:17:34,804
+Vi behöver sängen om han har stuckit.
+
+408
+00:17:36,514 --> 00:17:38,431
+- Vad behöver du?
+- En överläkare.
+
+409
+00:17:38,432 --> 00:17:40,016
+- Eller en ST-läkare?
+- Nej, tack.
+
+410
+00:17:40,017 --> 00:17:42,310
+- Dr Al-Hashimi, får jag presentera?
+- Ja.
+
+411
+00:17:42,311 --> 00:17:44,938
+32-årig döv kvinna
+med lindrig myofasciell huvudvärk.
+
+412
+00:17:44,939 --> 00:17:46,356
+Ibuprofen orsakade gastrit,
+
+413
+00:17:46,357 --> 00:17:48,149
+epigastrisk smärta och vasovagal reaktion.
+
+414
+00:17:48,150 --> 00:17:51,528
+Nu smärtfri efter antacida
+och triggerpunktsinjektion.
+
+415
+00:17:51,529 --> 00:17:54,239
+Utmärkt, det kan ta hand om smärtan
+i flera månader.
+
+416
+00:17:54,240 --> 00:17:56,825
+Det bör inte återkomma
+om hon håller skärmen i ögonhöjd.
+
+417
+00:17:56,826 --> 00:17:59,536
+Det blev en fördröjning med tolken
+
+418
+00:17:59,537 --> 00:18:03,415
+och jag var nära att ge upp
+och beställa en onödig DT.
+
+419
+00:18:03,416 --> 00:18:05,960
+- Bra att du inte gjorde det.
+- Dr Al-Hashimi, till dig.
+
+420
+00:18:07,169 --> 00:18:08,588
+Bra jobbat med triggerpunkten.
+
+421
+00:18:09,422 --> 00:18:11,132
+- Jag vet.
+- Hur går det med T-systemet?
+
+422
+00:18:11,716 --> 00:18:13,592
+Snabbt och enkelt.
+
+423
+00:18:13,593 --> 00:18:16,052
+Ringa inte bara in diagnosen.
+
+424
+00:18:16,053 --> 00:18:18,805
+Stryk över allt som du har uteslutit.
+
+425
+00:18:18,806 --> 00:18:20,850
+- Okej, visst.
+- Tack så mycket.
+
+426
+00:18:21,434 --> 00:18:24,019
+Flytta Centrum 13 längst fram i DT-kön.
+
+427
+00:18:24,020 --> 00:18:24,936
+Vad har du?
+
+428
+00:18:24,937 --> 00:18:27,689
+Plötslig synförlust,
+central näthinneartärocklusion.
+
+429
+00:18:27,690 --> 00:18:29,816
+Jag pratade med en ögonläkare på VA.
+
+430
+00:18:29,817 --> 00:18:32,944
+Huvudansvarig för trombolys
+i sådana här fall.
+
+431
+00:18:32,945 --> 00:18:34,863
+Inte direkt standardbehandling,
+ganska riskabelt.
+
+432
+00:18:34,864 --> 00:18:36,406
+Med informerat samtycke.
+
+433
+00:18:36,407 --> 00:18:38,408
+Det är vår bästa chans att rädda synen.
+
+434
+00:18:38,409 --> 00:18:39,826
+Din patient, ditt beslut.
+
+435
+00:18:39,827 --> 00:18:42,371
+Jag är inte här länge nog
+för komplikationer.
+
+436
+00:18:45,041 --> 00:18:47,084
+Jag tar två prover från slidan
+
+437
+00:18:48,669 --> 00:18:50,463
+och två från livmoderhalsen.
+
+438
+00:18:54,133 --> 00:18:56,093
+Säg till om det känns obehagligt.
+
+439
+00:18:57,053 --> 00:18:57,928
+Okej.
+
+440
+00:18:59,180 --> 00:19:00,680
+Varje tops märks.
+
+441
+00:19:00,681 --> 00:19:03,224
+Första vaginala, andra vaginala.
+
+442
+00:19:03,225 --> 00:19:05,393
+Stryk ut på objektglas och låt lufttorka.
+
+443
+00:19:05,394 --> 00:19:06,645
+Samma för livmoderhalsen?
+
+444
+00:19:06,646 --> 00:19:08,773
+Ja, men utan objektglas.
+
+445
+00:19:10,524 --> 00:19:11,567
+Hur går det, Ilana?
+
+446
+00:19:12,902 --> 00:19:14,111
+Jag står ut.
+
+447
+00:19:16,489 --> 00:19:17,406
+Nästan färdiga.
+
+448
+00:19:20,493 --> 00:19:23,453
+Proverna läggs i kuvertet
+för vaginal kontakt.
+
+449
+00:19:23,454 --> 00:19:25,706
+- Kan jag hjälpa till?
+- Nej, det måste vara jag.
+
+450
+00:19:26,540 --> 00:19:27,750
+Jag tar ut den här.
+
+451
+00:19:29,835 --> 00:19:30,753
+Okej.
+
+452
+00:19:32,046 --> 00:19:33,923
+Så där. Benen kan komma ner.
+
+453
+00:19:38,052 --> 00:19:39,136
+Är vi klara?
+
+454
+00:19:39,970 --> 00:19:42,515
+En sista sak. Fyra topsar till i munnen.
+
+455
+00:19:43,724 --> 00:19:44,809
+Har du inte gjort det?
+
+456
+00:19:45,393 --> 00:19:48,561
+Nästa är annorlunda.
+Insidan av kinden för ditt DNA.
+
+457
+00:19:48,562 --> 00:19:49,814
+Inte hans.
+
+458
+00:19:52,817 --> 00:19:58,071
+Så det kan vara bipolär sjukdom
+eller schizofreni.
+
+459
+00:19:58,072 --> 00:20:00,365
+Det är de mest sannolika alternativen.
+
+460
+00:20:00,366 --> 00:20:01,908
+Hur vet de vilket det är?
+
+461
+00:20:01,909 --> 00:20:03,993
+Utifrån hans svar på läkemedel.
+
+462
+00:20:03,994 --> 00:20:06,663
+Och med terapi och observation
+på en avdelning.
+
+463
+00:20:06,664 --> 00:20:09,500
+De följer hans stämningsläge
+och hur han samspelar med andra.
+
+464
+00:20:12,002 --> 00:20:16,589
+Finns det något blodprov eller en
+hjärnundersökning som kan ge svar?
+
+465
+00:20:16,590 --> 00:20:17,799
+Tyvärr inte.
+
+466
+00:20:17,800 --> 00:20:19,342
+Med rätt medicinering
+
+467
+00:20:19,343 --> 00:20:22,638
+kan människor med bipolär sjukdom
+ha framgångsrika karriärer.
+
+468
+00:20:23,639 --> 00:20:24,890
+Så vi hoppas på bipolär.
+
+469
+00:20:25,474 --> 00:20:27,600
+Ni kan hoppas på er sons lycka.
+
+470
+00:20:27,601 --> 00:20:31,271
+Med tidig behandling får 20 %
+av personer med schizofreni
+
+471
+00:20:31,272 --> 00:20:33,398
+ett fullständigt tillfrisknande.
+
+472
+00:20:33,399 --> 00:20:34,733
+Så 80 % får det inte.
+
+473
+00:20:34,734 --> 00:20:36,861
+Det här är en ny version av Jackson.
+
+474
+00:20:39,864 --> 00:20:41,490
+- Hur gammal var din dotter...
+- Tjugo.
+
+475
+00:20:42,867 --> 00:20:45,619
+Studerade arkitektur på Georgetown.
+
+476
+00:20:46,454 --> 00:20:47,371
+Schizofreni.
+
+477
+00:20:48,122 --> 00:20:50,165
+Jag beklagar.
+
+478
+00:20:50,166 --> 00:20:51,708
+Hon har det bra.
+
+479
+00:20:51,709 --> 00:20:55,296
+Bor hemma, jobbar i kassan på Giant Eagle.
+
+480
+00:20:56,881 --> 00:20:58,174
+Månadens anställda.
+
+481
+00:20:59,300 --> 00:21:00,718
+Det finns fortfarande utmaningar.
+
+482
+00:21:01,510 --> 00:21:03,929
+Men även skratt och kärlek.
+
+483
+00:21:11,854 --> 00:21:13,104
+Färdig att köra.
+
+484
+00:21:13,105 --> 00:21:15,648
+- Hur kändes det där?
+- Väldigt konstigt.
+
+485
+00:21:15,649 --> 00:21:17,609
+Inte ont, bara konstigt.
+
+486
+00:21:17,610 --> 00:21:20,111
+Nästa steg är att vi för in
+den här slangen
+
+487
+00:21:20,112 --> 00:21:24,532
+genom näsan och stannar bakom tungan.
+
+488
+00:21:24,533 --> 00:21:25,950
+Försök att inte prata.
+
+489
+00:21:25,951 --> 00:21:28,537
+Slangen ligger i varmt vatten
+så den blir mer flexibel.
+
+490
+00:21:30,206 --> 00:21:31,624
+Vill du prova den?
+
+491
+00:21:32,917 --> 00:21:34,626
+<i>Vilket datum och tid är det?</i>
+
+492
+00:21:34,627 --> 00:21:36,212
+Fjärde juli, 14.31.
+
+493
+00:21:37,087 --> 00:21:38,922
+<i>När tas slangen ut?</i>
+
+494
+00:21:38,923 --> 00:21:41,717
+Vi måste stoppa in den först.
+
+495
+00:21:42,301 --> 00:21:43,844
+<i>Jag vet. Jag övar bara.</i>
+
+496
+00:21:44,804 --> 00:21:46,806
+Du är redan en expert.
+
+497
+00:21:47,973 --> 00:21:49,225
+Innan jag inte kan prata,
+
+498
+00:21:51,185 --> 00:21:52,520
+vill jag bara säga
+
+499
+00:21:53,646 --> 00:21:54,605
+tack.
+
+500
+00:21:55,356 --> 00:21:56,273
+För allt.
+
+501
+00:21:57,691 --> 00:21:58,692
+Det var så lite.
+
+502
+00:22:05,157 --> 00:22:05,991
+Då kör vi.
+
+503
+00:22:11,080 --> 00:22:12,413
+Förebyggande mot könssjukdomar.
+
+504
+00:22:12,414 --> 00:22:16,417
+En spruta mot gonorré
+och tabletter mot klamydia och trikomonas.
+
+505
+00:22:16,418 --> 00:22:17,544
+Tack.
+
+506
+00:22:17,545 --> 00:22:19,754
+Vi har också dagen efter-piller.
+
+507
+00:22:19,755 --> 00:22:20,797
+Hon har spiral.
+
+508
+00:22:20,798 --> 00:22:23,466
+Över 99 % effektiv, men inte hundra.
+
+509
+00:22:23,467 --> 00:22:24,385
+Vi erbjuder ändå.
+
+510
+00:22:25,094 --> 00:22:26,386
+Jag står över.
+
+511
+00:22:26,387 --> 00:22:27,971
+För hiv har vi PEP,
+
+512
+00:22:27,972 --> 00:22:29,765
+postexpositionsprofylax.
+
+513
+00:22:30,307 --> 00:22:33,269
+Tjugoåtta dagar. Ju tidigare man börjar,
+desto mer effektivt.
+
+514
+00:22:34,854 --> 00:22:38,274
+Emma, de kan nog ha nytta av
+ett extra par händer där ute.
+
+515
+00:22:39,817 --> 00:22:41,277
+Det var trevligt att träffas.
+
+516
+00:22:42,236 --> 00:22:44,488
+- Du är en väldigt modig kvinna.
+- Ja.
+
+517
+00:22:51,871 --> 00:22:53,122
+Hon är en bra sköterska.
+
+518
+00:22:53,581 --> 00:22:55,958
+Hon lär sig, men hon kommer att bli det.
+
+519
+00:22:58,210 --> 00:23:00,045
+- Är vi klara efter det här?
+- Ja.
+
+520
+00:23:04,842 --> 00:23:06,302
+Jag är glad att du var här idag.
+
+521
+00:23:11,307 --> 00:23:12,224
+Jag också.
+
+522
+00:23:13,851 --> 00:23:16,020
+Vi måste fatta ett beslut.
+
+523
+00:23:16,979 --> 00:23:20,315
+Studier har visat
+att viss syn kan återställas
+
+524
+00:23:20,316 --> 00:23:22,735
+- med proppslösande läkemedel.
+- Så ge det.
+
+525
+00:23:23,402 --> 00:23:25,320
+Men det finns möjliga risker.
+
+526
+00:23:25,321 --> 00:23:29,908
+Vid ögonstroke blir
+bara 17 % bättre utan behandling.
+
+527
+00:23:29,909 --> 00:23:31,826
+- Bara 17 %?
+- Ja.
+
+528
+00:23:31,827 --> 00:23:35,080
+Men med medicinering
+blir ytterligare 20 % bättre.
+
+529
+00:23:36,457 --> 00:23:38,125
+Men det kan uppstå komplikationer.
+
+530
+00:23:38,918 --> 00:23:42,378
+2 % av patienterna
+som får medicinerna försämras,
+
+531
+00:23:42,379 --> 00:23:45,883
+och 1 % får svåra komplikationer
+eller avlider.
+
+532
+00:23:52,848 --> 00:23:55,809
+Älskling, det här är ditt beslut.
+
+533
+00:23:57,728 --> 00:23:59,480
+Nej, det är vårt beslut.
+
+534
+00:24:00,731 --> 00:24:02,191
+Vad skulle du göra utan mig?
+
+535
+00:24:02,858 --> 00:24:04,318
+Jag skulle nog klara mig.
+
+536
+00:24:06,987 --> 00:24:09,740
+Och jag skulle nog gråta två år i sträck.
+
+537
+00:24:10,366 --> 00:24:11,492
+Två år, är det allt?
+
+538
+00:24:13,702 --> 00:24:14,953
+Jag vill ta medicinen.
+
+539
+00:24:14,954 --> 00:24:15,788
+Okej.
+
+540
+00:24:20,542 --> 00:24:22,377
+<i>Ditt fullständiga namn för journalen.</i>
+
+541
+00:24:22,378 --> 00:24:25,506
+Jackie Liddell.
+
+542
+00:24:26,298 --> 00:24:28,383
+- Och du är?
+- Hennes vän, Jaquie.
+
+543
+00:24:28,384 --> 00:24:29,884
+Heter ni likadant?
+
+544
+00:24:29,885 --> 00:24:31,594
+Nej, hon stavar Jackie med "CK".
+
+545
+00:24:31,595 --> 00:24:32,845
+Jag med "Q".
+
+546
+00:24:32,846 --> 00:24:35,598
+Ni kan kalla mig "CK".
+
+547
+00:24:35,599 --> 00:24:37,601
+Bäst att inte prata, CK. Slappna bara av.
+
+548
+00:24:40,813 --> 00:24:41,771
+Va?
+
+549
+00:24:41,772 --> 00:24:43,606
+Hon sa: "Jag bet av halva tungan."
+
+550
+00:24:43,607 --> 00:24:45,066
+Förstår du det där?
+
+551
+00:24:45,067 --> 00:24:47,694
+Du skulle höra henne
+efter två kannor margarita.
+
+552
+00:24:47,695 --> 00:24:48,904
+Helt packad och sluddrar.
+
+553
+00:24:51,198 --> 00:24:54,325
+- Vad är ledigt?
+- Syd 15 är städad.
+
+554
+00:24:54,326 --> 00:24:57,037
+- Djup sårskada i tungan.
+- Jag kan ta den här.
+
+555
+00:24:58,747 --> 00:25:01,916
+Robby och Al-Hashimi
+är båda med kritiska patienter.
+
+556
+00:25:01,917 --> 00:25:03,292
+Hej.
+
+557
+00:25:03,293 --> 00:25:05,963
+Jag heter dr Langdon.
+Jag ska ansvara för din vård.
+
+558
+00:25:08,215 --> 00:25:10,718
+Jösses, CK, din läkare är ju skitsnygg.
+
+559
+00:25:13,595 --> 00:25:16,222
+Tuben ligger på 14 centimeter,
+strax ovanför luftvägen.
+
+560
+00:25:16,223 --> 00:25:18,391
+Okej, Howard, jag börjar nu.
+
+561
+00:25:18,392 --> 00:25:21,895
+Vill du att jag ska sluta
+så räcker du upp handen, okej?
+
+562
+00:25:22,980 --> 00:25:25,065
+Blå markering visar att jag är i tuben.
+
+563
+00:25:28,402 --> 00:25:29,987
+Ser ut som att du är förbi.
+
+564
+00:25:30,863 --> 00:25:32,614
+Om han andas in borde vi se stämbanden.
+
+565
+00:25:33,490 --> 00:25:35,617
+Okej, ta ett djupt andetag, Howard.
+
+566
+00:25:38,412 --> 00:25:40,122
+Så där ja. Vackert.
+
+567
+00:25:40,789 --> 00:25:43,708
+Stämbanden är känsliga,
+så vi sprayar lidokain i skopet.
+
+568
+00:25:43,709 --> 00:25:44,877
+Okej.
+
+569
+00:25:45,335 --> 00:25:47,921
+En milliliter går in nu.
+
+570
+00:25:48,630 --> 00:25:50,632
+Vi ger det en sekund att verka.
+
+571
+00:25:51,300 --> 00:25:52,551
+Hur går det, Howard?
+
+572
+00:25:54,094 --> 00:25:57,180
+När tuben är inne,
+måste du andas genom näsan.
+
+573
+00:25:57,181 --> 00:25:58,681
+Okej, Howard, stilla.
+
+574
+00:25:58,682 --> 00:26:01,393
+Jag går nu in mellan stämbanden,
+
+575
+00:26:02,311 --> 00:26:04,521
+tills vi ser carina.
+
+576
+00:26:06,398 --> 00:26:08,400
+- Ogilvie?
+- Där.
+
+577
+00:26:09,109 --> 00:26:12,905
+- Höger och vänster huvudbronk.
+- Och slangen glider in.
+
+578
+00:26:17,201 --> 00:26:20,037
+Och skopet kommer ut.
+
+579
+00:26:21,955 --> 00:26:22,790
+Toppen.
+
+580
+00:26:23,499 --> 00:26:24,916
+Okej, fyll blåsan.
+
+581
+00:26:24,917 --> 00:26:26,960
+Djupa andetag genom näsan. Fantastiskt.
+
+582
+00:26:27,544 --> 00:26:28,378
+Mår du bra?
+
+583
+00:26:29,630 --> 00:26:31,255
+Bra endtidal-kurva.
+
+584
+00:26:31,256 --> 00:26:32,590
+Behöver han ventilator?
+
+585
+00:26:32,591 --> 00:26:35,134
+Han andas själv,
+men lite CPAP skadar inte.
+
+586
+00:26:35,135 --> 00:26:37,345
+Starta på fem, titrera till tio.
+
+587
+00:26:37,346 --> 00:26:39,430
+Det där gick riktigt bra.
+
+588
+00:26:39,431 --> 00:26:41,141
+Nu ska vi kolla din vikt.
+
+589
+00:26:42,976 --> 00:26:46,646
+Undersökande sjuksköterska
+ska låsa in våldtäktskitet i kylskåpet
+
+590
+00:26:46,647 --> 00:26:49,816
+tills det lämnas över till polisen.
+
+591
+00:26:49,817 --> 00:26:52,069
+Det kallas att säkra beviskedjan.
+
+592
+00:26:52,611 --> 00:26:54,071
+Vad fan, skämtar ni?
+
+593
+00:26:54,696 --> 00:26:56,490
+Är det något problem?
+
+594
+00:26:57,116 --> 00:26:58,242
+Herregud.
+
+595
+00:26:58,992 --> 00:27:02,245
+Polisen ska hämta
+våldtäktskit inom 72 timmar.
+
+596
+00:27:02,246 --> 00:27:03,705
+Det här tog jag för två veckor sen.
+
+597
+00:27:05,082 --> 00:27:06,083
+För helvete.
+
+598
+00:27:08,627 --> 00:27:10,295
+Så hur hände det här, exakt?
+
+599
+00:27:11,380 --> 00:27:13,756
+Vi var mellan pubar och tog en selfie.
+
+600
+00:27:13,757 --> 00:27:17,219
+- Snyggt.
+- Tills hon ryckte upp huvudet.
+
+601
+00:27:18,762 --> 00:27:20,513
+- Aj.
+- Okej.
+
+602
+00:27:20,514 --> 00:27:22,849
+Lokalt adrenalin funkade.
+Blödningen har slutat.
+
+603
+00:27:22,850 --> 00:27:25,643
+- Skönt. Kan jag åka hem nu?
+- Tror inte det.
+
+604
+00:27:25,644 --> 00:27:28,020
+Det ser ut som Grand Canyon
+längst bak på tungan.
+
+605
+00:27:28,021 --> 00:27:30,941
+- Vi måste sätta några stygn.
+- Jag vill inte sys.
+
+606
+00:27:31,942 --> 00:27:33,109
+Lyssna på doktorn.
+
+607
+00:27:33,110 --> 00:27:35,027
+Säg inte åt mig vad jag ska göra.
+
+608
+00:27:35,028 --> 00:27:37,155
+- Allt är ditt fel.
+- Nej.
+
+609
+00:27:37,156 --> 00:27:39,574
+- Jo, det är det.
+- Nej, det är det inte.
+
+610
+00:27:39,575 --> 00:27:42,368
+Princess, kan du visa Q var hon kan vänta,
+
+611
+00:27:42,369 --> 00:27:44,579
+- medan vi lappar ihop hennes vän.
+- Självklart.
+
+612
+00:27:44,580 --> 00:27:47,248
+Det här är bedövning för tungspetsen.
+
+613
+00:27:47,249 --> 00:27:48,166
+Tungspetsen?
+
+614
+00:27:48,167 --> 00:27:50,084
+Det var inte där jag bet mig.
+
+615
+00:27:50,085 --> 00:27:51,336
+En sak i taget.
+
+616
+00:27:58,719 --> 00:28:00,554
+20 milligram tenekteplas.
+
+617
+00:28:01,263 --> 00:28:03,056
+Inne kl. 14.39.
+
+618
+00:28:04,266 --> 00:28:05,184
+Känner du något?
+
+619
+00:28:06,268 --> 00:28:07,268
+Inte än.
+
+620
+00:28:07,269 --> 00:28:08,854
+Kan ta en timme eller två.
+
+621
+00:28:10,689 --> 00:28:13,400
+Vi flyttar dig till ett rum
+där vi kan övervaka dig bättre.
+
+622
+00:28:14,276 --> 00:28:15,277
+Dr King.
+
+623
+00:28:18,530 --> 00:28:20,073
+Stanna med henne.
+
+624
+00:28:21,742 --> 00:28:22,783
+Varför?
+
+625
+00:28:22,784 --> 00:28:24,119
+Ifall det uppstår komplikationer.
+
+626
+00:28:24,703 --> 00:28:27,038
+Då kan du agera snabbt vid vidgad pupill,
+
+627
+00:28:27,039 --> 00:28:29,040
+kramp eller medvetandepåverkan.
+
+628
+00:28:29,041 --> 00:28:32,586
+Eller så kan jag skriva journaler.
+Och mitt vittnesmål.
+
+629
+00:28:33,378 --> 00:28:37,089
+Se det som lite lugn och ro
+för att förbereda dig mentalt.
+
+630
+00:28:37,090 --> 00:28:38,258
+Jesse, Mel är med dig.
+
+631
+00:28:41,678 --> 00:28:45,139
+Ursäkta mig, dr Mohan.
+
+632
+00:28:45,140 --> 00:28:47,475
+- Om en stund, George.
+- Jag tar det.
+
+633
+00:28:47,476 --> 00:28:48,393
+Tack.
+
+634
+00:28:51,355 --> 00:28:53,774
+D-dimer är tillbaka. Normal.
+
+635
+00:28:54,608 --> 00:28:55,816
+Jag är redo att gå.
+
+636
+00:28:55,817 --> 00:28:57,069
+Mår du bättre?
+
+637
+00:28:57,778 --> 00:29:00,364
+Jag var inte andfådd den här gången.
+
+638
+00:29:02,532 --> 00:29:03,784
+Så varför kom du in?
+
+639
+00:29:05,494 --> 00:29:07,787
+När vi fick veta om proppen i benet,
+
+640
+00:29:07,788 --> 00:29:10,790
+tänkte jag hela tiden att den skulle
+hamna i lungan och döda mig.
+
+641
+00:29:10,791 --> 00:29:13,751
+Vi har ju pratat om
+att Eliquis förebygger det.
+
+642
+00:29:13,752 --> 00:29:14,586
+Jag vet.
+
+643
+00:29:16,964 --> 00:29:18,423
+Jag följde ditt råd.
+
+644
+00:29:19,049 --> 00:29:21,050
+Jag tog mig ut
+
+645
+00:29:21,051 --> 00:29:23,553
+och gick med i Lawn Bowling-klubben.
+
+646
+00:29:24,346 --> 00:29:25,638
+- Underbart.
+- Ja.
+
+647
+00:29:25,639 --> 00:29:27,473
+Jag menar, du har ju rätt.
+
+648
+00:29:27,474 --> 00:29:29,351
+Vi behöver alla en gemenskap.
+
+649
+00:29:33,480 --> 00:29:34,939
+Du ska göra vad?
+
+650
+00:29:34,940 --> 00:29:36,482
+För att åtgärda tungan
+
+651
+00:29:36,483 --> 00:29:39,151
+behöver vi föra den framåt
+så att vi kommer åt såret.
+
+652
+00:29:39,152 --> 00:29:41,237
+Du kommer att känna något som drar.
+
+653
+00:29:41,238 --> 00:29:42,072
+Okej, så...
+
+654
+00:29:44,533 --> 00:29:45,450
+Kör.
+
+655
+00:29:46,868 --> 00:29:48,286
+Vad är det för tråd?
+
+656
+00:29:48,287 --> 00:29:50,205
+Silke, den största vi har.
+
+657
+00:29:52,207 --> 00:29:54,835
+När jag klipper nålen, så drar du, Joy.
+
+658
+00:30:05,262 --> 00:30:09,265
+- Det är ganska djupt.
+- Och nu kan vi bedöva såret.
+
+659
+00:30:09,266 --> 00:30:10,391
+Det är bäst att börja med...
+
+660
+00:30:10,392 --> 00:30:13,478
+Proximala sidan först, så att hon inte
+känner den distala injektionen.
+
+661
+00:30:15,105 --> 00:30:17,524
+Ge det tio minuter, jag kommer tillbaka.
+
+662
+00:30:21,737 --> 00:30:23,487
+Ett våldtäktskit har legat här
+i två veckor.
+
+663
+00:30:23,488 --> 00:30:25,907
+Det skulle ha hämtats inom 72 timmar.
+
+664
+00:30:26,450 --> 00:30:28,534
+Det struntar jag i. Skicka hit någon nu.
+
+665
+00:30:28,535 --> 00:30:31,787
+Nej. Ni förväntar er
+att vi tar hand om era poliser direkt,
+
+666
+00:30:31,788 --> 00:30:34,206
+då ser ni till
+att en utredare hämtar kiten omedelbart.
+
+667
+00:30:34,207 --> 00:30:35,666
+- Jag måste gå.
+- Dana.
+
+668
+00:30:35,667 --> 00:30:38,169
+Syd 19 fick huvud-DT
+innan systemets stängdes av.
+
+669
+00:30:38,170 --> 00:30:39,128
+Inga resultat.
+
+670
+00:30:39,129 --> 00:30:40,755
+Vi skickar en påminnelse.
+
+671
+00:30:40,756 --> 00:30:41,714
+- Du, Dana.
+- Dana.
+
+672
+00:30:41,715 --> 00:30:42,758
+Vänta.
+
+673
+00:30:43,800 --> 00:30:44,717
+Vad händer?
+
+674
+00:30:44,718 --> 00:30:47,720
+Vi la in ordination
+för smärtstillande till Roxy.
+
+675
+00:30:47,721 --> 00:30:49,764
+Okej, lägg den i sköterskestället.
+
+676
+00:30:49,765 --> 00:30:51,141
+Det gjorde jag för länge sedan.
+
+677
+00:30:53,143 --> 00:30:55,728
+- Okej. Jag lägger dig först.
+- Tack.
+
+678
+00:30:55,729 --> 00:30:56,813
+Vad är det för oljud?
+
+679
+00:30:57,606 --> 00:30:59,523
+Utomjordingar invaderar.
+
+680
+00:30:59,524 --> 00:31:00,775
+Du, Dana?
+
+681
+00:31:00,776 --> 00:31:02,860
+Blodstatus är inte tillbaka
+på Trauma 2 än.
+
+682
+00:31:02,861 --> 00:31:04,112
+Får jag se journalen?
+
+683
+00:31:05,530 --> 00:31:08,282
+Jag slår vad om
+att provrören gick till röntgen.
+
+684
+00:31:08,283 --> 00:31:09,825
+Larry, Antoine.
+
+685
+00:31:09,826 --> 00:31:12,661
+Ni har lagt labb och röntgen
+på samma blankett.
+
+686
+00:31:12,662 --> 00:31:15,790
+Ni behöver två lappar,
+en för labb och en för röntgen.
+
+687
+00:31:15,791 --> 00:31:17,666
+- Det händer inte igen.
+- Jag springer ner.
+
+688
+00:31:17,667 --> 00:31:19,085
+Använd i-STAT hos patienten.
+
+689
+00:31:19,086 --> 00:31:21,003
+DT tar honom inte utan kreatininvärde.
+
+690
+00:31:21,004 --> 00:31:22,046
+Perfekt.
+
+691
+00:31:22,047 --> 00:31:24,548
+- Skönt att ha dig tillbaka.
+- Glad att vara här.
+
+692
+00:31:24,549 --> 00:31:25,591
+Försöker du messa?
+
+693
+00:31:25,592 --> 00:31:28,636
+Jag skriver bara.
+Jag ska skicka från intaget.
+
+694
+00:31:28,637 --> 00:31:30,930
+Min mekanikervän Duke dök aldrig upp.
+
+695
+00:31:30,931 --> 00:31:32,515
+Han skulle väl komma i morse?
+
+696
+00:31:32,516 --> 00:31:34,684
+Det var planen. Han var väl upptagen.
+
+697
+00:31:36,061 --> 00:31:37,186
+Och om han inte kommer?
+
+698
+00:31:37,187 --> 00:31:39,730
+Säg vad han behöver.
+Jag säger till nattpasset.
+
+699
+00:31:39,731 --> 00:31:40,941
+Det behövs inte.
+
+700
+00:31:43,985 --> 00:31:47,738
+Be och du ska få, normal huvud-DT.
+
+701
+00:31:47,739 --> 00:31:49,366
+Tack. Jag skriver ut honom.
+
+702
+00:31:50,283 --> 00:31:51,368
+Hur går det för dig?
+
+703
+00:31:52,119 --> 00:31:53,870
+Jag håller på att få skrivkramp.
+
+704
+00:31:54,454 --> 00:31:55,288
+Är du med den store?
+
+705
+00:31:55,914 --> 00:31:57,081
+Ja.
+
+706
+00:31:57,082 --> 00:32:02,129
+Tragiskt. Bilolycka, flera operationer,
+massor av stress.
+
+707
+00:32:04,005 --> 00:32:05,798
+Lidokainspruta på ett känsligt ställe.
+
+708
+00:32:05,799 --> 00:32:07,968
+En partybrud som bet sig i tungan.
+
+709
+00:32:08,760 --> 00:32:11,513
+- Hon verkar behöva hjälp.
+- På fler sätt än ett.
+
+710
+00:32:12,973 --> 00:32:15,684
+Hur går ditt första pass
+tillbaka på jobbet?
+
+711
+00:32:16,643 --> 00:32:17,894
+En dag i taget.
+
+712
+00:32:18,854 --> 00:32:21,605
+- Första året nykter är svårast.
+- Det är vad de säger.
+
+713
+00:32:21,606 --> 00:32:24,109
+Jag är på år nio.
+
+714
+00:32:28,363 --> 00:32:30,157
+Specialleverans till min kille.
+
+715
+00:32:31,783 --> 00:32:33,742
+Behöver du något, ring mig.
+
+716
+00:32:33,743 --> 00:32:34,703
+Tack.
+
+717
+00:32:41,751 --> 00:32:43,169
+Vart ska du?
+
+718
+00:32:43,170 --> 00:32:44,462
+Blåsor i Nord 3.
+
+719
+00:32:44,463 --> 00:32:46,005
+Det är dit jag ska.
+
+720
+00:32:46,006 --> 00:32:48,966
+- Skrev du upp dig på patienten?
+- Jag tog journalen från stället.
+
+721
+00:32:48,967 --> 00:32:50,676
+Du ska skriva upp dig på tavlan.
+
+722
+00:32:50,677 --> 00:32:52,888
+Du ska ha en skrivplatta.
+
+723
+00:32:53,430 --> 00:32:54,680
+Är det inte sköterskornas?
+
+724
+00:32:54,681 --> 00:32:55,849
+Skitsamma.
+
+725
+00:32:57,267 --> 00:33:00,019
+Hej, jag är läkarstudent Ogilvie,
+det här är...
+
+726
+00:33:00,020 --> 00:33:00,936
+Wow.
+
+727
+00:33:00,937 --> 00:33:03,106
+- Ordentliga utslag.
+- Ja.
+
+728
+00:33:03,690 --> 00:33:04,648
+Tro mig, jag vet.
+
+729
+00:33:04,649 --> 00:33:06,984
+Läkarstudent Javadi, när började det?
+
+730
+00:33:06,985 --> 00:33:07,985
+I går kväll.
+
+731
+00:33:07,986 --> 00:33:10,613
+Har du vandrat nyligen
+i områden med klättersumak?
+
+732
+00:33:10,614 --> 00:33:12,073
+Nej. Jag har inte lämnat huset.
+
+733
+00:33:12,782 --> 00:33:14,283
+Och nya mediciner?
+
+734
+00:33:14,284 --> 00:33:16,452
+Hudkräm, tvål, tvättmedel?
+
+735
+00:33:16,453 --> 00:33:19,205
+Jag tar inga mediciner.
+Inget nytt av det där andra.
+
+736
+00:33:19,206 --> 00:33:20,539
+Var började det?
+
+737
+00:33:20,540 --> 00:33:23,001
+Överallt, på en gång. En massa smärta.
+
+738
+00:33:23,793 --> 00:33:24,711
+Och kliande.
+
+739
+00:33:25,253 --> 00:33:26,338
+Vad är det?
+
+740
+00:33:27,047 --> 00:33:28,048
+Är inte säker än.
+
+741
+00:33:29,883 --> 00:33:31,134
+Jag är strax tillbaka.
+
+742
+00:33:37,057 --> 00:33:38,183
+Vad tror du?
+
+743
+00:33:39,226 --> 00:33:40,142
+Ingen aning.
+
+744
+00:33:40,143 --> 00:33:41,019
+Håller med.
+
+745
+00:33:43,480 --> 00:33:44,772
+Bullös pemfigoid?
+
+746
+00:33:44,773 --> 00:33:46,440
+Svår autoimmun pruritus?
+
+747
+00:33:46,441 --> 00:33:48,359
+Men inte lika dödligt
+som pemfigus vulgaris.
+
+748
+00:33:48,360 --> 00:33:50,444
+Obehandlat är dödligheten över 90 %.
+
+749
+00:33:50,445 --> 00:33:52,780
+Vi behöver kontrollera
+pustler, slemhinnor...
+
+750
+00:33:52,781 --> 00:33:54,074
+Och Nikolskys tecken.
+
+751
+00:33:56,993 --> 00:33:57,911
+Varsågod.
+
+752
+00:33:59,913 --> 00:34:01,706
+- Vad?
+- Till din framstegsanteckning.
+
+753
+00:34:03,542 --> 00:34:05,752
+Hörde jag att vi gör framsteg?
+
+754
+00:34:07,629 --> 00:34:11,716
+Det är vad vi kallar
+det som beskriver det kliniska förloppet.
+
+755
+00:34:13,426 --> 00:34:14,302
+Någon förändring?
+
+756
+00:34:15,387 --> 00:34:16,679
+Inte än så länge.
+
+757
+00:34:16,680 --> 00:34:18,431
+Dags för nästa neurokontroll.
+
+758
+00:34:19,224 --> 00:34:20,809
+Dr King, har du en minut?
+
+759
+00:34:22,644 --> 00:34:24,895
+Nej, jag övervakar en patient.
+
+760
+00:34:24,896 --> 00:34:26,022
+Sextio sekunder, max.
+
+761
+00:34:28,650 --> 00:34:29,568
+Jag kollar pupillerna.
+
+762
+00:34:30,026 --> 00:34:30,986
+Det är okej.
+
+763
+00:34:37,200 --> 00:34:38,076
+Hej.
+
+764
+00:34:39,202 --> 00:34:40,704
+Jag är klar med mitt vittnesmål.
+
+765
+00:34:42,872 --> 00:34:43,914
+Ska jag gå upp?
+
+766
+00:34:43,915 --> 00:34:46,001
+- Vänta tills de ringer.
+- Okej.
+
+767
+00:34:46,918 --> 00:34:48,335
+Jag skulle fråga hur det gick,
+
+768
+00:34:48,336 --> 00:34:50,588
+men vi ska ju inte diskutera fallet.
+
+769
+00:34:50,589 --> 00:34:52,089
+Det här är ingen diskussion.
+
+770
+00:34:52,090 --> 00:34:54,134
+Det är en monolog. Så var tyst och lyssna.
+
+771
+00:34:55,385 --> 00:34:57,344
+Målet om vårdskada är grundlöst.
+
+772
+00:34:57,345 --> 00:35:00,347
+Mamman påstår att mässlingbarnets
+intellektuella försämring
+
+773
+00:35:00,348 --> 00:35:01,725
+beror på ett ryggvätskeprov.
+
+774
+00:35:02,517 --> 00:35:05,103
+Men provet gjordes korrekt,
+utan komplikationer.
+
+775
+00:35:05,687 --> 00:35:07,521
+Barnets hjärnpåverkan
+
+776
+00:35:07,522 --> 00:35:10,233
+var på grund av syrebrist
+från mässlingspneumoni.
+
+777
+00:35:10,900 --> 00:35:13,319
+Den intellektuella förändringen
+berodde på hypoxisk hjärnskada.
+
+778
+00:35:13,320 --> 00:35:15,447
+Det hade inget
+med ditt ryggvätskeprov att göra.
+
+779
+00:35:17,032 --> 00:35:17,866
+Slut på monolog.
+
+780
+00:35:18,825 --> 00:35:20,243
+Vi diskuterade aldrig fallet.
+
+781
+00:35:21,578 --> 00:35:22,829
+Jag måste sova.
+
+782
+00:35:23,872 --> 00:35:25,248
+Tack.
+
+783
+00:35:26,207 --> 00:35:27,208
+Antar jag.
+
+784
+00:35:28,668 --> 00:35:30,337
+Är du redo att lägga dig ner?
+
+785
+00:35:31,212 --> 00:35:33,297
+- Jag har huvudet.
+- Lugnt och försiktigt.
+
+786
+00:35:33,298 --> 00:35:34,966
+Ett, två, tre.
+
+787
+00:35:37,302 --> 00:35:38,720
+Okej. Hur känns det?
+
+788
+00:35:41,723 --> 00:35:42,932
+Lyfter nu.
+
+789
+00:35:52,651 --> 00:35:53,860
+Fortsätt.
+
+790
+00:35:57,113 --> 00:36:00,283
+Det borde räcka, precis där.
+
+791
+00:36:02,369 --> 00:36:03,578
+215.
+
+792
+00:36:04,663 --> 00:36:05,789
+Det är kilo.
+
+793
+00:36:08,500 --> 00:36:09,709
+Okej, team.
+
+794
+00:36:15,548 --> 00:36:17,174
+Det är inte mycket över 200.
+
+795
+00:36:17,175 --> 00:36:19,968
+Vi kan inte riskera
+att ha sönder DT:n på en helg.
+
+796
+00:36:19,969 --> 00:36:22,262
+Tar sjukvårdarna honom
+när han är intuberad?
+
+797
+00:36:22,263 --> 00:36:26,101
+Om jag följer med
+hinner jag sova lite innan nattpasset.
+
+798
+00:36:30,021 --> 00:36:31,648
+Tvåhundrafemton.
+
+799
+00:36:33,233 --> 00:36:34,983
+Vår DT klarar inte din vikt,
+
+800
+00:36:34,984 --> 00:36:37,696
+men vi tar dig till Presbyterian Hospital.
+
+801
+00:36:38,363 --> 00:36:39,280
+<i>Roadtrip.</i>
+
+802
+00:36:40,156 --> 00:36:42,409
+Jag håller dig sällskap hela tiden.
+
+803
+00:36:44,869 --> 00:36:46,329
+<i>Ledsen för allt besvär.</i>
+
+804
+00:36:47,288 --> 00:36:48,455
+Det är okej.
+
+805
+00:36:48,456 --> 00:36:49,624
+Det är vad vi gör.
+
+806
+00:36:55,213 --> 00:36:56,922
+Sub-Q börjar djupt.
+
+807
+00:36:56,923 --> 00:36:59,466
+- Du vill gömma knuten.
+- Jag har gjort det här förut.
+
+808
+00:36:59,467 --> 00:37:01,052
+Hur klipper vi ändarna?
+
+809
+00:37:02,011 --> 00:37:04,304
+Skjut fram kort till knuten
+och vrid 45 grader.
+
+810
+00:37:04,305 --> 00:37:05,306
+Utmärkt.
+
+811
+00:37:07,100 --> 00:37:08,600
+Vi har ett fall.
+
+812
+00:37:08,601 --> 00:37:10,436
+- Det får vänta.
+- Kan vara brådskande.
+
+813
+00:37:10,437 --> 00:37:12,230
+Hitta Robby eller Al-Hashimi.
+
+814
+00:37:14,691 --> 00:37:18,610
+- Den här tjejen är packad.
+- Full som en kastrull.
+
+815
+00:37:18,611 --> 00:37:20,404
+Ska vi kolla alkoholvärden?
+
+816
+00:37:20,405 --> 00:37:21,989
+Nej, det påverkar inte vad vi gör.
+
+817
+00:37:21,990 --> 00:37:23,699
+Hon kan åka hem när hon går stadigt.
+
+818
+00:37:23,700 --> 00:37:24,617
+En är redan hemskickad.
+
+819
+00:37:25,869 --> 00:37:28,412
+Vill du gissa alkoholnivån?
+
+820
+00:37:28,413 --> 00:37:29,913
+Varför skulle jag göra det?
+
+821
+00:37:29,914 --> 00:37:31,833
+Vet inte, för att det är kul.
+
+822
+00:37:37,964 --> 00:37:39,882
+När har ni en säng?
+
+823
+00:37:39,883 --> 00:37:41,633
+Om hon behöver en.
+
+824
+00:37:41,634 --> 00:37:42,885
+Hon är ett spädbarn med feber.
+
+825
+00:37:42,886 --> 00:37:45,345
+Som är över en månad gammal
+och mår jättebra.
+
+826
+00:37:45,346 --> 00:37:47,347
+Alla prover är normala. Hon är förkyld.
+
+827
+00:37:47,348 --> 00:37:50,642
+Spädbarn med rhinovirus kan ändå ha
+en allvarlig bakteriell infektion.
+
+828
+00:37:50,643 --> 00:37:52,978
+Inte den här.
+Vi skickar hem barn som hon hela tiden.
+
+829
+00:37:52,979 --> 00:37:56,357
+Men den här har varken
+ett hem eller föräldrar.
+
+830
+00:37:57,942 --> 00:37:59,026
+Okej.
+
+831
+00:37:59,027 --> 00:38:01,028
+Jag kan inte lägga
+ett barn med virus på BB
+
+832
+00:38:01,029 --> 00:38:03,655
+och jag kan inte slösa
+ett enkelrum på en frisk bebis.
+
+833
+00:38:03,656 --> 00:38:04,782
+Så vad föreslår du?
+
+834
+00:38:04,783 --> 00:38:07,826
+Socialtjänsten kan ordna
+familjehemsplacering i morgon bitti.
+
+835
+00:38:07,827 --> 00:38:09,954
+Vill du lämna henne här i natt?
+
+836
+00:38:10,747 --> 00:38:12,915
+Det verkar vara standardvård nu för tiden.
+
+837
+00:38:12,916 --> 00:38:15,250
+- Be din överläkare att ringa mig.
+- Visst.
+
+838
+00:38:15,251 --> 00:38:16,668
+Det här är ju helt sjukt.
+
+839
+00:38:16,669 --> 00:38:19,047
+- Låt socialtjänsten veta att det är akut.
+- Absolut.
+
+840
+00:38:19,672 --> 00:38:21,508
+Det här verkar bli en jäkla dag.
+
+841
+00:38:22,675 --> 00:38:25,886
+Jag har funderat på
+att söka en specialistutbildning.
+
+842
+00:38:25,887 --> 00:38:27,930
+Jag trodde du hade
+ett jobb på gång i New Jersey.
+
+843
+00:38:27,931 --> 00:38:30,182
+Det hade jag, för att vara nära mamma.
+
+844
+00:38:30,183 --> 00:38:34,729
+Men hon sålde vårt hus för att resa
+jorden runt med sin nya pojkvän.
+
+845
+00:38:35,688 --> 00:38:37,564
+Så vad är vitsen med New Jersey?
+
+846
+00:38:37,565 --> 00:38:38,899
+Ja. Bra fråga.
+
+847
+00:38:38,900 --> 00:38:39,943
+Vilken specialistutbildning?
+
+848
+00:38:40,610 --> 00:38:45,865
+Det står mellan ultraljud,
+toxikologi och idrottsmedicin.
+
+849
+00:38:47,408 --> 00:38:50,744
+Det är vitt skilda fält
+med mycket olika yrkesbanor.
+
+850
+00:38:50,745 --> 00:38:53,497
+Jag vet. Jag har svårt att bestämma mig.
+
+851
+00:38:53,498 --> 00:38:55,123
+Har du erfarenhet av forskning?
+
+852
+00:38:55,124 --> 00:38:58,669
+Jag var med i en studie
+om rasrelaterade skillnader i vården
+
+853
+00:38:58,670 --> 00:39:01,047
+tills Vita huset drog in finansieringen
+förra året.
+
+854
+00:39:01,631 --> 00:39:03,173
+Ja, du är inte ensam.
+
+855
+00:39:03,174 --> 00:39:06,468
+Har du övervägt
+en specialistutbildning i geriatrik?
+
+856
+00:39:06,469 --> 00:39:07,762
+Det har jag inte.
+
+857
+00:39:08,471 --> 00:39:10,514
+Du är bra med de äldre.
+
+858
+00:39:10,515 --> 00:39:13,810
+Det finns många tjänster,
+det kan vara din bästa chans.
+
+859
+00:39:14,686 --> 00:39:15,603
+Tänk på saken.
+
+860
+00:39:17,730 --> 00:39:20,775
+- Sista stygnet. Ska jag klippa?
+- Jag tar det.
+
+861
+00:39:22,986 --> 00:39:23,902
+Ser bra ut.
+
+862
+00:39:23,903 --> 00:39:25,863
+Okej, då tar vi dragsuturen.
+
+863
+00:39:25,864 --> 00:39:27,282
+Med nöje.
+
+864
+00:39:29,576 --> 00:39:30,618
+Okej, Jackie.
+
+865
+00:39:31,452 --> 00:39:34,037
+- Jackie.
+- Håll käften.
+
+866
+00:39:34,038 --> 00:39:35,372
+Vi är klara.
+
+867
+00:39:35,373 --> 00:39:36,790
+Klara med vad?
+
+868
+00:39:36,791 --> 00:39:38,001
+Att sy ihop din tunga.
+
+869
+00:39:38,585 --> 00:39:40,294
+Vad hände med min tunga?
+
+870
+00:39:40,295 --> 00:39:41,254
+Du bet dig i den.
+
+871
+00:39:42,171 --> 00:39:43,298
+Nej, det gjorde jag inte.
+
+872
+00:39:44,173 --> 00:39:46,133
+Det kallas blackout.
+
+873
+00:39:46,134 --> 00:39:47,718
+Hur mycket drack du?
+
+874
+00:39:47,719 --> 00:39:49,928
+Några Bloody Mary.
+
+875
+00:39:49,929 --> 00:39:51,179
+Bara några?
+
+876
+00:39:51,180 --> 00:39:52,640
+Vet inte. Kanske fler.
+
+877
+00:39:53,266 --> 00:39:56,018
+Det är en helgdag, en pubrunda.
+
+878
+00:39:56,019 --> 00:39:58,770
+Brukar du dricka några drinkar varje dag?
+
+879
+00:39:58,771 --> 00:40:00,022
+Bara på helgerna.
+
+880
+00:40:00,023 --> 00:40:01,440
+Och i veckorna?
+
+881
+00:40:01,441 --> 00:40:02,816
+Inte så mycket.
+
+882
+00:40:02,817 --> 00:40:06,529
+Bara vin till middagen eller några öl.
+
+883
+00:40:07,906 --> 00:40:09,532
+Ska vi rekommendera rehab?
+
+884
+00:40:11,075 --> 00:40:12,827
+Ja, vi kan försöka.
+
+885
+00:40:18,082 --> 00:40:19,125
+Vi är redo.
+
+886
+00:40:20,668 --> 00:40:22,169
+Hur mår du?
+
+887
+00:40:22,170 --> 00:40:23,545
+<i>Min smärta ligger på två.</i>
+
+888
+00:40:23,546 --> 00:40:24,838
+Vi har mediciner om du behöver.
+
+889
+00:40:24,839 --> 00:40:26,632
+Skanningen går snabbare
+än turen till Presby.
+
+890
+00:40:26,633 --> 00:40:28,050
+Vi försöker att nå din syster.
+
+891
+00:40:28,051 --> 00:40:29,635
+<i>- Ni är bäst.</i>
+- Ses senare.
+
+892
+00:40:29,636 --> 00:40:31,970
+Kan jag lägga en ny patient i T1?
+
+893
+00:40:31,971 --> 00:40:34,014
+Nej, jag vill ha ett traumarum ledigt.
+
+894
+00:40:34,015 --> 00:40:36,434
+Du kan väl dubbla i Nord om du måste?
+
+895
+00:40:37,518 --> 00:40:38,519
+Mr Digby?
+
+896
+00:40:40,521 --> 00:40:42,439
+- Det är bara Digby.
+- Just det.
+
+897
+00:40:42,440 --> 00:40:44,691
+Vi har letat. Var har du varit?
+
+898
+00:40:44,692 --> 00:40:46,276
+Med Louie.
+
+899
+00:40:46,277 --> 00:40:48,988
+- Har du varit där en timme?
+- Han var min vän.
+
+900
+00:40:49,989 --> 00:40:51,740
+Jag hade mycket att säga.
+
+901
+00:40:51,741 --> 00:40:54,035
+Låt oss få dig i säng.
+
+902
+00:40:56,329 --> 00:40:57,914
+Louie fick sina vingar.
+
+903
+00:40:58,706 --> 00:41:01,375
+- Dr Robby.
+- Dr Robby, vi valde patient tillsammans.
+
+904
+00:41:01,376 --> 00:41:03,919
+- Teamwork.
+- Det är ett oroande bullöst utslag.
+
+905
+00:41:03,920 --> 00:41:06,088
+Vi kan behöva ta en biopsi
+för pemfigus vulgaris.
+
+906
+00:41:06,089 --> 00:41:07,506
+Det är fytofotodermatit.
+
+907
+00:41:07,507 --> 00:41:09,633
+- Va?
+- Jag frågade.
+
+908
+00:41:09,634 --> 00:41:11,802
+Han gjorde tolv liter
+margarita till en fest
+
+909
+00:41:11,803 --> 00:41:13,887
+och pressade färsk lime i solen.
+
+910
+00:41:13,888 --> 00:41:14,973
+Vi tar en titt.
+
+911
+00:41:15,682 --> 00:41:16,808
+Jag behöver inte se det igen.
+
+912
+00:41:20,061 --> 00:41:22,145
+- Hur går det där ute?
+- Bara ståplatser kvar.
+
+913
+00:41:22,146 --> 00:41:23,647
+Om jag ringer brandkåren
+
+914
+00:41:23,648 --> 00:41:26,149
+- kan de rensa väntrummet?
+- Vad händer?
+
+915
+00:41:26,150 --> 00:41:28,360
+Tolv patienter behöver medicinpåfyllning.
+
+916
+00:41:28,361 --> 00:41:29,778
+Borde de inte träffa sina läkare?
+
+917
+00:41:29,779 --> 00:41:31,571
+Med nedskärningarna är vi deras läkare.
+
+918
+00:41:31,572 --> 00:41:33,657
+Jag kan inte e-förskriva
+till deras apotek.
+
+919
+00:41:33,658 --> 00:41:36,327
+- Använd en penna, som förr.
+- På vad, Dana?
+
+920
+00:41:37,537 --> 00:41:41,164
+- Nordt, har du receptblocken?
+- Javisst.
+
+921
+00:41:41,165 --> 00:41:42,583
+Behöver bara en patientetikett.
+
+922
+00:41:43,167 --> 00:41:45,377
+- Fler frågor?
+- Ja.
+
+923
+00:41:45,378 --> 00:41:47,672
+Vad hade hänt om du inte var här i dag?
+
+924
+00:41:49,007 --> 00:41:52,176
+Ni hade legat hoprullade i fosterställning
+och gråtit som bebisar.
+
+925
+00:41:53,136 --> 00:41:54,928
+Hade du flip-flops på dig?
+
+926
+00:41:54,929 --> 00:41:56,722
+Ja. Vad är det?
+
+927
+00:41:56,723 --> 00:41:58,015
+Fytofotodermatit.
+
+928
+00:41:58,016 --> 00:42:00,225
+Kallas också margaritabränna.
+
+929
+00:42:00,226 --> 00:42:03,103
+För vissa kan lime och solljus
+ge fruktansvärda utslag.
+
+930
+00:42:03,104 --> 00:42:05,230
+Är det här på grund av lime?
+
+931
+00:42:05,231 --> 00:42:07,650
+Har du någon gång
+pressat lime ute i solen?
+
+932
+00:42:08,443 --> 00:42:09,651
+Jag tror inte det.
+
+933
+00:42:09,652 --> 00:42:12,195
+Du kommer att må bättre
+efter en dag på kortisontabletter.
+
+934
+00:42:12,196 --> 00:42:14,114
+När det har läkt
+måste du använda solskydd,
+
+935
+00:42:14,115 --> 00:42:17,410
+för blåsorna kan bli mörka ärr
+och bli kvar ett tag annars.
+
+936
+00:42:19,078 --> 00:42:21,247
+Jag är strax tillbaka
+med eftervårdsinstruktioner.
+
+937
+00:42:22,665 --> 00:42:23,583
+- Du, Robby.
+- Ja?
+
+938
+00:42:24,667 --> 00:42:27,962
+Min hospicepatient, Roxy,
+har fortfarande riktigt ont.
+
+939
+00:42:28,713 --> 00:42:31,090
+- Och morfinet?
+- Tio milligram per timme.
+
+940
+00:42:31,966 --> 00:42:34,301
+Ge henne två till och gå upp till tolv.
+
+941
+00:42:34,302 --> 00:42:37,054
+- Jag säger till Princess.
+- Tolv är mycket.
+
+942
+00:42:37,055 --> 00:42:39,849
+I kombination med MS Contin
+kan hon sluta andas.
+
+943
+00:42:41,642 --> 00:42:44,395
+Känner ni till principen om dubbel effekt?
+
+944
+00:42:45,021 --> 00:42:45,938
+- Inte direkt.
+- Nej.
+
+945
+00:42:47,065 --> 00:42:49,775
+Det är en etisk princip
+inom palliativ vård.
+
+946
+00:42:49,776 --> 00:42:50,692
+Vi behandlar smärta.
+
+947
+00:42:50,693 --> 00:42:52,986
+Om det uppstår en biverkning
+
+948
+00:42:52,987 --> 00:42:53,987
+så accepterar vi den.
+
+949
+00:42:53,988 --> 00:42:56,908
+Även om biverkningen är döden?
+
+950
+00:42:57,658 --> 00:43:00,078
+I vissa fall kan det vara
+det bästa utfallet.
+
+951
+00:43:10,213 --> 00:43:11,963
+Faxen kanske fick slut på papper?
+
+952
+00:43:11,964 --> 00:43:14,675
+Nej, det finns papper.
+Jag vet inte vad som är fel.
+
+953
+00:43:18,262 --> 00:43:19,930
+Hur tar vi oss igenom den här röran?
+
+954
+00:43:19,931 --> 00:43:21,099
+Tänkte precis fråga dig.
+
+955
+00:43:24,393 --> 00:43:25,936
+Hon kan inte lämna läkemedelsautomaten.
+
+956
+00:43:25,937 --> 00:43:27,480
+Det blir inget gjort här.
+
+957
+00:44:50,730 --> 00:44:52,732
+Sanna Greneby
+

@@ -18,7 +18,9 @@
   <LocalNetworkAddresses>
     <string>::</string>
   </LocalNetworkAddresses>
-  <KnownProxies />
+  <KnownProxies>
+    <string>100.80.202.68</string>
+  </KnownProxies>
   <IgnoreVirtualInterfaces>true</IgnoreVirtualInterfaces>
   <VirtualInterfaceNames>
     <string>veth</string>
@@ -26,7 +28,8 @@
   <EnablePublishedServerUriByRequest>false</EnablePublishedServerUriByRequest>
   <PublishedServerUriBySubnet />
   <RemoteIPFilter>
-    <string>172.60.0.22</string>
+    <string>172.60.0.1/22</string>
+    <string>100.120.170.98</string>
   </RemoteIPFilter>
   <IsRemoteIPFilterBlacklist>false</IsRemoteIPFilterBlacklist>
 </NetworkConfiguration>

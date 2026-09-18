@@ -1,0 +1,15 @@
+{
+  "category": "General",
+  "changelog": "Add support for 12.1",
+  "description": "Adds support for plugins to change jellyfin-web content without actually modifying the files directly but intercepts the requests for the served data.",
+  "guid": "5e87cc92-571a-4d8d-8d98-d2d4147f9f90",
+  "name": "File Transformation",
+  "owner": "IAmParadox27",
+  "targetAbi": "12.1.0.0",
+  "timestamp": "2026-09-08T09:02:53.0000000Z",
+  "version": "3.0.1.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/File Transformation_3.0.1.0/logo.png",
+  "assemblies": []
+}

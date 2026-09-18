@@ -1,0 +1,21 @@
+Moonfin diagnostic report
+Generated: 2026-09-15T23:14:12.163873
+App: Moonfin for Android 2.5.1
+Device: Google Pixel 9a (0c88bfb8-fa68-4780-921a-73241ca58100)
+Entries: 2
+Platform: android
+============================================================
+2026-09-15T23:14:12.162254 ERROR [general] Uncaught: MissingPluginException(No implementation found for method listen on channel com.moonfin/native_cast_events)
+    └─ MissingPluginException(No implementation found for method listen on channel com.moonfin/native_cast_events)
+#0      MethodChannel._invokeMethod (package:flutter/src/services/platform_channel.dart:364)
+<asynchronous suspension>
+#1      EventChannel.receiveBroadcastStream.<anonymous closure> (package:flutter/src/services/platform_channel.dart:711)
+<asynchronous suspension>
+
+2026-09-15T23:14:12.163852 ERROR [general] Uncaught: MissingPluginException(No implementation found for method listen on channel com.moonfin/native_dlna_events)
+    └─ MissingPluginException(No implementation found for method listen on channel com.moonfin/native_dlna_events)
+#0      MethodChannel._invokeMethod (package:flutter/src/services/platform_channel.dart:364)
+<asynchronous suspension>
+#1      EventChannel.receiveBroadcastStream.<anonymous closure> (package:flutter/src/services/platform_channel.dart:711)
+<asynchronous suspension>
+

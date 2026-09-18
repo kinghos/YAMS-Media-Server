@@ -157,6 +157,26 @@
       <Url>https://www.iamparadox.dev/jellyfin/plugins/manifest.json</Url>
       <Enabled>true</Enabled>
     </RepositoryInfo>
+    <RepositoryInfo>
+      <Name>Jellyfin Enhanced</Name>
+      <Url>https://raw.githubusercontent.com/n00bcodr/jellyfin-plugins/main/manifest.json</Url>
+      <Enabled>true</Enabled>
+    </RepositoryInfo>
+    <RepositoryInfo>
+      <Name>Custom Tabs</Name>
+      <Url>https://www.iamparadox.dev/jellyfin/plugins/manifest.json</Url>
+      <Enabled>true</Enabled>
+    </RepositoryInfo>
+    <RepositoryInfo>
+      <Name>Intro Skipper</Name>
+      <Url>https://intro-skipper.org/manifest.json</Url>
+      <Enabled>true</Enabled>
+    </RepositoryInfo>
+    <RepositoryInfo>
+      <Name>InPlayerEpisodePreview</Name>
+      <Url>https://raw.githubusercontent.com/Namo2/InPlayerEpisodePreview/master/manifest.json</Url>
+      <Enabled>true</Enabled>
+    </RepositoryInfo>
   </PluginRepositories>
   <EnableExternalContentInSuggestions>true</EnableExternalContentInSuggestions>
   <ImageExtractionTimeoutMs>0</ImageExtractionTimeoutMs>
